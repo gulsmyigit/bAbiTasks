@@ -1,0 +1,3000 @@
+1 Fareler kurttan korkar.
+2 Gertrude bir fare.
+3 Kediler koyundan korkar.
+4 Winona bir fare.
+5 Koyunlar kurttan korkar.
+6 Kurtlar kediden korkar.
+7 Emily bir fare.
+8 Jessica bir kurt.
+9 Gertrude neyden korkar?	kurt	2 1
+10 Gertrude neyden korkar?	kurt	2 1
+11 Jessica neyden korkar?	kedi	8 6
+12 Gertrude neyden korkar?	kurt	2 1
+1 Koyun farelerden korkar.
+2 Emily bir koyun.
+3 Fareler koyundan korkar.
+4 Kediler koyundan korkar.
+5 Winona bir koyun.
+6 Jessica bir fare.
+7 Gertrude bir koyun.
+8 Kurtlar koyundan korkar.
+9 Jessica neyden korkar?	koyun	6 3
+10 Emily neyden korkar?	fare	2 1
+11 Winona neyden korkar?	fare	5 1
+12 Emily neyden korkar?	fare	2 1
+1 Kediler koyundan korkar.
+2 Koyun farelerden korkar.
+3 Emily bir koyun.
+4 Gertrude bir koyun.
+5 Kurtlar farelerden korkar.
+6 Fareler kurttan korkar.
+7 Winona bir fare.
+8 Jessica bir kurt.
+9 Emily neyden korkar?	fare	3 2
+10 Gertrude neyden korkar?	fare	4 2
+11 Gertrude neyden korkar?	fare	4 2
+12 Winona neyden korkar?	kurt	7 6
+1 Fareler kedilerden korkar.
+2 Gertrude bir fare.
+3 Emily bir fare.
+4 Kurtlar koyundan korkar.
+5 Winona bir kurt.
+6 Jessica bir fare.
+7 Kediler koyundan korkar.
+8 Koyun kedilerden korkar.
+9 Jessica neyden korkar?	kedi	6 1
+10 Winona neyden korkar?	koyun	5 4
+11 Winona neyden korkar?	koyun	5 4
+12 Emily neyden korkar?	kedi	3 1
+1 Fareler kedilerden korkar.
+2 Kurtlar koyundan korkar.
+3 Emily bir kurt.
+4 Kediler koyundan korkar.
+5 Gertrude bir kurt.
+6 Koyun kedilerden korkar.
+7 Winona bir kurt.
+8 Jessica bir fare.
+9 Emily neyden korkar?	koyun	3 2
+10 Emily neyden korkar?	koyun	3 2
+11 Gertrude neyden korkar?	koyun	5 2
+12 Gertrude neyden korkar?	koyun	5 2
+1 Koyunlar kurttan korkar.
+2 Fareler kurttan korkar.
+3 Kurtlar kediden korkar.
+4 Emily bir kurt.
+5 Jessica bir kurt.
+6 Gertrude bir kurt.
+7 Kediler farelerden korkar.
+8 Winona bir kedi.
+9 Winona neyden korkar?	fare	8 7
+10 Winona neyden korkar?	fare	8 7
+11 Emily neyden korkar?	kedi	4 3
+12 Jessica neyden korkar?	kedi	5 3
+1 Kediler kurtlardan korkar.
+2 Fareler kedilerden korkar.
+3 Koyun kedilerden korkar.
+4 Jessica bir kedi.
+5 Gertrude bir koyun.
+6 Winona bir kedi.
+7 Emily bir koyun.
+8 Kurtlar koyundan korkar.
+9 Gertrude neyden korkar?	kedi	5 3
+10 Gertrude neyden korkar?	kedi	5 3
+11 Emily neyden korkar?	kedi	7 3
+12 Emily neyden korkar?	kedi	7 3
+1 Kurtlar kediden korkar.
+2 Fareler koyundan korkar.
+3 Emily bir fare.
+4 Kediler kurtlardan korkar.
+5 Gertrude bir kedi.
+6 Koyun farelerden korkar.
+7 Winona bir fare.
+8 Jessica bir kedi.
+9 Jessica neyden korkar?	kurt	8 4
+10 Winona neyden korkar?	koyun	7 2
+11 Gertrude neyden korkar?	kurt	5 4
+12 Winona neyden korkar?	koyun	7 2
+1 Fareler koyundan korkar.
+2 Koyun farelerden korkar.
+3 Winona bir fare.
+4 Kurtlar farelerden korkar.
+5 Jessica bir fare.
+6 Emily bir kurt.
+7 Gertrude bir fare.
+8 Kediler farelerden korkar.
+9 Gertrude neyden korkar?	koyun	7 1
+10 Winona neyden korkar?	koyun	3 1
+11 Winona neyden korkar?	koyun	3 1
+12 Gertrude neyden korkar?	koyun	7 1
+1 Fareler kedilerden korkar.
+2 Emily bir fare.
+3 Kurtlar farelerden korkar.
+4 Kediler koyundan korkar.
+5 Winona bir kedi.
+6 Koyunlar kurttan korkar.
+7 Jessica bir fare.
+8 Gertrude bir koyun.
+9 Jessica neyden korkar?	kedi	7 1
+10 Emily neyden korkar?	kedi	2 1
+11 Jessica neyden korkar?	kedi	7 1
+12 Winona neyden korkar?	koyun	5 4
+1 Fareler kurttan korkar.
+2 Koyunlar kurttan korkar.
+3 Kurtlar kediden korkar.
+4 Gertrude bir koyun.
+5 Winona bir fare.
+6 Emily bir kurt.
+7 Kediler koyundan korkar.
+8 Jessica bir koyun.
+9 Winona neyden korkar?	kurt	5 1
+10 Winona neyden korkar?	kurt	5 1
+11 Emily neyden korkar?	kedi	6 3
+12 Emily neyden korkar?	kedi	6 3
+1 Koyunlar kurttan korkar.
+2 Kediler kurtlardan korkar.
+3 Gertrude bir koyun.
+4 Kurtlar farelerden korkar.
+5 Emily bir kurt.
+6 Winona bir kedi.
+7 Fareler kurttan korkar.
+8 Jessica bir kurt.
+9 Jessica neyden korkar?	fare	8 4
+10 Gertrude neyden korkar?	kurt	3 1
+11 Winona neyden korkar?	kurt	6 2
+12 Jessica neyden korkar?	fare	8 4
+1 Fareler kurttan korkar.
+2 Koyunlar kurttan korkar.
+3 Jessica bir fare.
+4 Winona bir koyun.
+5 Gertrude bir fare.
+6 Kediler farelerden korkar.
+7 Emily bir kedi.
+8 Kurtlar koyundan korkar.
+9 Emily neyden korkar?	fare	7 6
+10 Gertrude neyden korkar?	kurt	5 1
+11 Gertrude neyden korkar?	kurt	5 1
+12 Emily neyden korkar?	fare	7 6
+1 Koyun kedilerden korkar.
+2 Fareler koyundan korkar.
+3 Kurtlar farelerden korkar.
+4 Winona bir koyun.
+5 Emily bir koyun.
+6 Jessica bir koyun.
+7 Kediler farelerden korkar.
+8 Gertrude bir kurt.
+9 Gertrude neyden korkar?	fare	8 3
+10 Emily neyden korkar?	kedi	5 1
+11 Winona neyden korkar?	kedi	4 1
+12 Gertrude neyden korkar?	fare	8 3
+1 Fareler kedilerden korkar.
+2 Emily bir fare.
+3 Winona bir fare.
+4 Koyun farelerden korkar.
+5 Gertrude bir koyun.
+6 Kurtlar kediden korkar.
+7 Kediler koyundan korkar.
+8 Jessica bir kurt.
+9 Winona neyden korkar?	kedi	3 1
+10 Gertrude neyden korkar?	fare	5 4
+11 Emily neyden korkar?	kedi	2 1
+12 Emily neyden korkar?	kedi	2 1
+1 Koyun farelerden korkar.
+2 Winona bir koyun.
+3 Fareler koyundan korkar.
+4 Emily bir koyun.
+5 Kurtlar kediden korkar.
+6 Jessica bir koyun.
+7 Gertrude bir fare.
+8 Kediler koyundan korkar.
+9 Gertrude neyden korkar?	koyun	7 3
+10 Emily neyden korkar?	fare	4 1
+11 Emily neyden korkar?	fare	4 1
+12 Jessica neyden korkar?	fare	6 1
+1 Kurtlar koyundan korkar.
+2 Kediler koyundan korkar.
+3 Koyun farelerden korkar.
+4 Gertrude bir koyun.
+5 Winona bir koyun.
+6 Emily bir koyun.
+7 Fareler koyundan korkar.
+8 Jessica bir kurt.
+9 Emily neyden korkar?	fare	6 3
+10 Emily neyden korkar?	fare	6 3
+11 Winona neyden korkar?	fare	5 3
+12 Winona neyden korkar?	fare	5 3
+1 Kurtlar farelerden korkar.
+2 Kediler kurtlardan korkar.
+3 Winona bir kurt.
+4 Emily bir kurt.
+5 Koyunlar kurttan korkar.
+6 Fareler kurttan korkar.
+7 Jessica bir fare.
+8 Gertrude bir kedi.
+9 Jessica neyden korkar?	kurt	7 6
+10 Gertrude neyden korkar?	kurt	8 2
+11 Emily neyden korkar?	fare	4 1
+12 Jessica neyden korkar?	kurt	7 6
+1 Kurtlar koyundan korkar.
+2 Koyun kedilerden korkar.
+3 Fareler kurttan korkar.
+4 Emily bir kurt.
+5 Kediler farelerden korkar.
+6 Jessica bir kurt.
+7 Gertrude bir kedi.
+8 Winona bir kurt.
+9 Winona neyden korkar?	koyun	8 1
+10 Emily neyden korkar?	koyun	4 1
+11 Emily neyden korkar?	koyun	4 1
+12 Winona neyden korkar?	koyun	8 1
+1 Kurtlar koyundan korkar.
+2 Fareler kurttan korkar.
+3 Kediler farelerden korkar.
+4 Emily bir kedi.
+5 Winona bir kurt.
+6 Koyun kedilerden korkar.
+7 Jessica bir kedi.
+8 Gertrude bir koyun.
+9 Gertrude neyden korkar?	kedi	8 6
+10 Gertrude neyden korkar?	kedi	8 6
+11 Winona neyden korkar?	koyun	5 1
+12 Emily neyden korkar?	fare	4 3
+1 Kurtlar koyundan korkar.
+2 Winona bir kurt.
+3 Kediler kurtlardan korkar.
+4 Fareler kurttan korkar.
+5 Emily bir kurt.
+6 Koyun farelerden korkar.
+7 Jessica bir fare.
+8 Gertrude bir koyun.
+9 Emily neyden korkar?	koyun	5 1
+10 Winona neyden korkar?	koyun	2 1
+11 Winona neyden korkar?	koyun	2 1
+12 Jessica neyden korkar?	kurt	7 4
+1 Kediler farelerden korkar.
+2 Fareler koyundan korkar.
+3 Kurtlar koyundan korkar.
+4 Jessica bir kedi.
+5 Koyun farelerden korkar.
+6 Gertrude bir koyun.
+7 Emily bir kurt.
+8 Winona bir kurt.
+9 Emily neyden korkar?	koyun	7 3
+10 Winona neyden korkar?	koyun	8 3
+11 Winona neyden korkar?	koyun	8 3
+12 Winona neyden korkar?	koyun	8 3
+1 Kediler farelerden korkar.
+2 Fareler koyundan korkar.
+3 Koyunlar kurttan korkar.
+4 Emily bir kedi.
+5 Kurtlar farelerden korkar.
+6 Jessica bir koyun.
+7 Gertrude bir kedi.
+8 Winona bir kurt.
+9 Winona neyden korkar?	fare	8 5
+10 Jessica neyden korkar?	kurt	6 3
+11 Jessica neyden korkar?	kurt	6 3
+12 Gertrude neyden korkar?	fare	7 1
+1 Kurtlar farelerden korkar.
+2 Fareler koyundan korkar.
+3 Koyunlar kurttan korkar.
+4 Emily bir kurt.
+5 Winona bir fare.
+6 Jessica bir fare.
+7 Gertrude bir kurt.
+8 Kediler farelerden korkar.
+9 Winona neyden korkar?	koyun	5 2
+10 Gertrude neyden korkar?	fare	7 1
+11 Emily neyden korkar?	fare	4 1
+12 Jessica neyden korkar?	koyun	6 2
+1 Kediler kurtlardan korkar.
+2 Koyunlar kurttan korkar.
+3 Fareler kedilerden korkar.
+4 Emily bir koyun.
+5 Winona bir kedi.
+6 Gertrude bir fare.
+7 Kurtlar farelerden korkar.
+8 Jessica bir kedi.
+9 Jessica neyden korkar?	kurt	8 1
+10 Jessica neyden korkar?	kurt	8 1
+11 Emily neyden korkar?	kurt	4 2
+12 Jessica neyden korkar?	kurt	8 1
+1 Fareler kedilerden korkar.
+2 Koyun farelerden korkar.
+3 Jessica bir koyun.
+4 Emily bir koyun.
+5 Gertrude bir fare.
+6 Kediler kurtlardan korkar.
+7 Kurtlar kediden korkar.
+8 Winona bir koyun.
+9 Jessica neyden korkar?	fare	3 2
+10 Winona neyden korkar?	fare	8 2
+11 Jessica neyden korkar?	fare	3 2
+12 Winona neyden korkar?	fare	8 2
+1 Fareler kurttan korkar.
+2 Kurtlar kediden korkar.
+3 Winona bir fare.
+4 Kediler kurtlardan korkar.
+5 Emily bir kedi.
+6 Jessica bir kedi.
+7 Koyunlar kurttan korkar.
+8 Gertrude bir fare.
+9 Gertrude neyden korkar?	kurt	8 1
+10 Winona neyden korkar?	kurt	3 1
+11 Gertrude neyden korkar?	kurt	8 1
+12 Emily neyden korkar?	kurt	5 4
+1 Kediler koyundan korkar.
+2 Koyunlar kurttan korkar.
+3 Emily bir koyun.
+4 Jessica bir kedi.
+5 Gertrude bir koyun.
+6 Kurtlar farelerden korkar.
+7 Winona bir kedi.
+8 Fareler kedilerden korkar.
+9 Gertrude neyden korkar?	kurt	5 2
+10 Emily neyden korkar?	kurt	3 2
+11 Emily neyden korkar?	kurt	3 2
+12 Winona neyden korkar?	koyun	7 1
+1 Fareler koyundan korkar.
+2 Kediler koyundan korkar.
+3 Winona bir kedi.
+4 Koyun farelerden korkar.
+5 Jessica bir koyun.
+6 Gertrude bir kedi.
+7 Emily bir koyun.
+8 Kurtlar farelerden korkar.
+9 Gertrude neyden korkar?	koyun	6 2
+10 Emily neyden korkar?	fare	7 4
+11 Winona neyden korkar?	koyun	3 2
+12 Winona neyden korkar?	koyun	3 2
+1 Kurtlar kediden korkar.
+2 Koyunlar kurttan korkar.
+3 Kediler koyundan korkar.
+4 Emily bir kurt.
+5 Jessica bir kedi.
+6 Gertrude bir kedi.
+7 Fareler kurttan korkar.
+8 Winona bir kurt.
+9 Winona neyden korkar?	kedi	8 1
+10 Gertrude neyden korkar?	koyun	6 3
+11 Gertrude neyden korkar?	koyun	6 3
+12 Emily neyden korkar?	kedi	4 1
+1 Kurtlar kediden korkar.
+2 Kediler kurtlardan korkar.
+3 Koyun farelerden korkar.
+4 Jessica bir koyun.
+5 Winona bir kurt.
+6 Gertrude bir kedi.
+7 Emily bir kedi.
+8 Fareler koyundan korkar.
+9 Jessica neyden korkar?	fare	4 3
+10 Emily neyden korkar?	kurt	7 2
+11 Emily neyden korkar?	kurt	7 2
+12 Winona neyden korkar?	kedi	5 1
+1 Fareler koyundan korkar.
+2 Gertrude bir fare.
+3 Emily bir fare.
+4 Koyun farelerden korkar.
+5 Kurtlar farelerden korkar.
+6 Kediler farelerden korkar.
+7 Winona bir kurt.
+8 Jessica bir kedi.
+9 Jessica neyden korkar?	fare	8 6
+10 Winona neyden korkar?	fare	7 5
+11 Emily neyden korkar?	koyun	3 1
+12 Gertrude neyden korkar?	koyun	2 1
+1 Koyun kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Kurtlar farelerden korkar.
+4 Winona bir koyun.
+5 Fareler koyundan korkar.
+6 Jessica bir koyun.
+7 Gertrude bir koyun.
+8 Emily bir kedi.
+9 Gertrude neyden korkar?	kedi	7 1
+10 Jessica neyden korkar?	kedi	6 1
+11 Emily neyden korkar?	koyun	8 2
+12 Winona neyden korkar?	kedi	4 1
+1 Kurtlar koyundan korkar.
+2 Fareler koyundan korkar.
+3 Kediler farelerden korkar.
+4 Gertrude bir kurt.
+5 Jessica bir fare.
+6 Koyun farelerden korkar.
+7 Winona bir kurt.
+8 Emily bir kedi.
+9 Winona neyden korkar?	koyun	7 1
+10 Gertrude neyden korkar?	koyun	4 1
+11 Jessica neyden korkar?	koyun	5 2
+12 Emily neyden korkar?	fare	8 3
+1 Kurtlar farelerden korkar.
+2 Kediler koyundan korkar.
+3 Koyun kedilerden korkar.
+4 Jessica bir koyun.
+5 Fareler kurttan korkar.
+6 Winona bir koyun.
+7 Emily bir koyun.
+8 Gertrude bir fare.
+9 Winona neyden korkar?	kedi	6 3
+10 Winona neyden korkar?	kedi	6 3
+11 Jessica neyden korkar?	kedi	4 3
+12 Jessica neyden korkar?	kedi	4 3
+1 Kurtlar koyundan korkar.
+2 Winona bir kurt.
+3 Kediler koyundan korkar.
+4 Jessica bir kurt.
+5 Koyun kedilerden korkar.
+6 Emily bir koyun.
+7 Fareler kurttan korkar.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	kedi	6 5
+10 Jessica neyden korkar?	koyun	4 1
+11 Gertrude neyden korkar?	kurt	8 7
+12 Gertrude neyden korkar?	kurt	8 7
+1 Koyun farelerden korkar.
+2 Winona bir koyun.
+3 Kediler farelerden korkar.
+4 Gertrude bir kedi.
+5 Emily bir koyun.
+6 Jessica bir kedi.
+7 Kurtlar kediden korkar.
+8 Fareler kedilerden korkar.
+9 Emily neyden korkar?	fare	5 1
+10 Jessica neyden korkar?	fare	6 3
+11 Jessica neyden korkar?	fare	6 3
+12 Jessica neyden korkar?	fare	6 3
+1 Kurtlar koyundan korkar.
+2 Jessica bir kurt.
+3 Fareler koyundan korkar.
+4 Koyun farelerden korkar.
+5 Emily bir kurt.
+6 Gertrude bir kurt.
+7 Winona bir kurt.
+8 Kediler kurtlardan korkar.
+9 Gertrude neyden korkar?	koyun	6 1
+10 Emily neyden korkar?	koyun	5 1
+11 Jessica neyden korkar?	koyun	2 1
+12 Emily neyden korkar?	koyun	5 1
+1 Fareler kurttan korkar.
+2 Koyunlar kurttan korkar.
+3 Emily bir fare.
+4 Winona bir koyun.
+5 Kurtlar koyundan korkar.
+6 Gertrude bir kurt.
+7 Kediler kurtlardan korkar.
+8 Jessica bir kurt.
+9 Emily neyden korkar?	kurt	3 1
+10 Gertrude neyden korkar?	koyun	6 5
+11 Winona neyden korkar?	kurt	4 2
+12 Jessica neyden korkar?	koyun	8 5
+1 Kediler kurtlardan korkar.
+2 Fareler kedilerden korkar.
+3 Koyun kedilerden korkar.
+4 Gertrude bir fare.
+5 Kurtlar farelerden korkar.
+6 Winona bir koyun.
+7 Jessica bir fare.
+8 Emily bir kedi.
+9 Gertrude neyden korkar?	kedi	4 2
+10 Gertrude neyden korkar?	kedi	4 2
+11 Winona neyden korkar?	kedi	6 3
+12 Gertrude neyden korkar?	kedi	4 2
+1 Fareler koyundan korkar.
+2 Kurtlar farelerden korkar.
+3 Jessica bir fare.
+4 Koyun kedilerden korkar.
+5 Kediler kurtlardan korkar.
+6 Emily bir kedi.
+7 Winona bir kedi.
+8 Gertrude bir koyun.
+9 Winona neyden korkar?	kurt	7 5
+10 Emily neyden korkar?	kurt	6 5
+11 Emily neyden korkar?	kurt	6 5
+12 Jessica neyden korkar?	koyun	3 1
+1 Fareler koyundan korkar.
+2 Jessica bir fare.
+3 Koyun farelerden korkar.
+4 Kurtlar kediden korkar.
+5 Winona bir kurt.
+6 Gertrude bir koyun.
+7 Emily bir fare.
+8 Kediler kurtlardan korkar.
+9 Emily neyden korkar?	koyun	7 1
+10 Gertrude neyden korkar?	fare	6 3
+11 Gertrude neyden korkar?	fare	6 3
+12 Emily neyden korkar?	koyun	7 1
+1 Kurtlar farelerden korkar.
+2 Koyunlar kurttan korkar.
+3 Winona bir kurt.
+4 Kediler koyundan korkar.
+5 Fareler koyundan korkar.
+6 Gertrude bir kedi.
+7 Jessica bir fare.
+8 Emily bir koyun.
+9 Winona neyden korkar?	fare	3 1
+10 Winona neyden korkar?	fare	3 1
+11 Winona neyden korkar?	fare	3 1
+12 Jessica neyden korkar?	koyun	7 5
+1 Kediler farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Koyun kedilerden korkar.
+4 Winona bir koyun.
+5 Fareler koyundan korkar.
+6 Gertrude bir kurt.
+7 Jessica bir kedi.
+8 Emily bir kurt.
+9 Jessica neyden korkar?	fare	7 1
+10 Jessica neyden korkar?	fare	7 1
+11 Winona neyden korkar?	kedi	4 3
+12 Gertrude neyden korkar?	koyun	6 2
+1 Fareler kurttan korkar.
+2 Koyun kedilerden korkar.
+3 Kediler koyundan korkar.
+4 Kurtlar kediden korkar.
+5 Gertrude bir kedi.
+6 Jessica bir koyun.
+7 Winona bir koyun.
+8 Emily bir fare.
+9 Winona neyden korkar?	kedi	7 2
+10 Gertrude neyden korkar?	koyun	5 3
+11 Gertrude neyden korkar?	koyun	5 3
+12 Jessica neyden korkar?	kedi	6 2
+1 Kediler kurtlardan korkar.
+2 Emily bir kedi.
+3 Kurtlar farelerden korkar.
+4 Koyunlar kurttan korkar.
+5 Fareler kurttan korkar.
+6 Gertrude bir koyun.
+7 Winona bir koyun.
+8 Jessica bir fare.
+9 Gertrude neyden korkar?	kurt	6 4
+10 Gertrude neyden korkar?	kurt	6 4
+11 Emily neyden korkar?	kurt	2 1
+12 Winona neyden korkar?	kurt	7 4
+1 Fareler kurttan korkar.
+2 Gertrude bir fare.
+3 Koyunlar kurttan korkar.
+4 Winona bir fare.
+5 Jessica bir koyun.
+6 Kurtlar kediden korkar.
+7 Kediler koyundan korkar.
+8 Emily bir fare.
+9 Gertrude neyden korkar?	kurt	2 1
+10 Winona neyden korkar?	kurt	4 1
+11 Emily neyden korkar?	kurt	8 1
+12 Emily neyden korkar?	kurt	8 1
+1 Koyun farelerden korkar.
+2 Emily bir koyun.
+3 Kediler farelerden korkar.
+4 Kurtlar kediden korkar.
+5 Fareler kurttan korkar.
+6 Winona bir fare.
+7 Gertrude bir kedi.
+8 Jessica bir kurt.
+9 Jessica neyden korkar?	kedi	8 4
+10 Jessica neyden korkar?	kedi	8 4
+11 Emily neyden korkar?	fare	2 1
+12 Emily neyden korkar?	fare	2 1
+1 Kediler kurtlardan korkar.
+2 Kurtlar kediden korkar.
+3 Winona bir kedi.
+4 Gertrude bir kurt.
+5 Koyunlar kurttan korkar.
+6 Emily bir koyun.
+7 Fareler kurttan korkar.
+8 Jessica bir kedi.
+9 Winona neyden korkar?	kurt	3 1
+10 Emily neyden korkar?	kurt	6 5
+11 Winona neyden korkar?	kurt	3 1
+12 Gertrude neyden korkar?	kedi	4 2
+1 Koyun farelerden korkar.
+2 Kediler koyundan korkar.
+3 Winona bir kedi.
+4 Jessica bir kedi.
+5 Gertrude bir koyun.
+6 Fareler kurttan korkar.
+7 Kurtlar farelerden korkar.
+8 Emily bir fare.
+9 Gertrude neyden korkar?	fare	5 1
+10 Jessica neyden korkar?	koyun	4 2
+11 Winona neyden korkar?	koyun	3 2
+12 Emily neyden korkar?	kurt	8 6
+1 Kediler farelerden korkar.
+2 Gertrude bir kedi.
+3 Koyunlar kurttan korkar.
+4 Jessica bir kedi.
+5 Fareler kurttan korkar.
+6 Kurtlar koyundan korkar.
+7 Emily bir kedi.
+8 Winona bir koyun.
+9 Winona neyden korkar?	kurt	8 3
+10 Emily neyden korkar?	fare	7 1
+11 Winona neyden korkar?	kurt	8 3
+12 Jessica neyden korkar?	fare	4 1
+1 Kediler kurtlardan korkar.
+2 Jessica bir kedi.
+3 Winona bir kedi.
+4 Koyun kedilerden korkar.
+5 Emily bir koyun.
+6 Gertrude bir kedi.
+7 Fareler koyundan korkar.
+8 Kurtlar koyundan korkar.
+9 Emily neyden korkar?	kedi	5 4
+10 Emily neyden korkar?	kedi	5 4
+11 Jessica neyden korkar?	kurt	2 1
+12 Emily neyden korkar?	kedi	5 4
+1 Kediler farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Fareler koyundan korkar.
+4 Jessica bir kedi.
+5 Winona bir koyun.
+6 Gertrude bir kedi.
+7 Emily bir koyun.
+8 Kurtlar kediden korkar.
+9 Winona neyden korkar?	kedi	5 2
+10 Gertrude neyden korkar?	fare	6 1
+11 Emily neyden korkar?	kedi	7 2
+12 Emily neyden korkar?	kedi	7 2
+1 Kediler farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Kurtlar koyundan korkar.
+4 Jessica bir kurt.
+5 Winona bir kurt.
+6 Emily bir kurt.
+7 Fareler koyundan korkar.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	koyun	6 3
+10 Gertrude neyden korkar?	koyun	8 7
+11 Winona neyden korkar?	koyun	5 3
+12 Winona neyden korkar?	koyun	5 3
+1 Kediler kurtlardan korkar.
+2 Fareler kurttan korkar.
+3 Kurtlar farelerden korkar.
+4 Jessica bir kedi.
+5 Winona bir kedi.
+6 Gertrude bir kedi.
+7 Emily bir kedi.
+8 Koyun kedilerden korkar.
+9 Winona neyden korkar?	kurt	5 1
+10 Gertrude neyden korkar?	kurt	6 1
+11 Gertrude neyden korkar?	kurt	6 1
+12 Gertrude neyden korkar?	kurt	6 1
+1 Kurtlar koyundan korkar.
+2 Koyun farelerden korkar.
+3 Fareler kedilerden korkar.
+4 Kediler farelerden korkar.
+5 Gertrude bir fare.
+6 Winona bir kedi.
+7 Emily bir fare.
+8 Jessica bir koyun.
+9 Gertrude neyden korkar?	kedi	5 3
+10 Jessica neyden korkar?	fare	8 2
+11 Emily neyden korkar?	kedi	7 3
+12 Emily neyden korkar?	kedi	7 3
+1 Fareler koyundan korkar.
+2 Winona bir fare.
+3 Emily bir fare.
+4 Kediler kurtlardan korkar.
+5 Kurtlar farelerden korkar.
+6 Koyunlar kurttan korkar.
+7 Jessica bir koyun.
+8 Gertrude bir kurt.
+9 Jessica neyden korkar?	kurt	7 6
+10 Emily neyden korkar?	koyun	3 1
+11 Gertrude neyden korkar?	fare	8 5
+12 Jessica neyden korkar?	kurt	7 6
+1 Koyunlar kurttan korkar.
+2 Winona bir koyun.
+3 Gertrude bir koyun.
+4 Kediler farelerden korkar.
+5 Fareler koyundan korkar.
+6 Kurtlar kediden korkar.
+7 Emily bir kedi.
+8 Jessica bir kedi.
+9 Jessica neyden korkar?	fare	8 4
+10 Winona neyden korkar?	kurt	2 1
+11 Jessica neyden korkar?	fare	8 4
+12 Jessica neyden korkar?	fare	8 4
+1 Kediler farelerden korkar.
+2 Jessica bir kedi.
+3 Koyun farelerden korkar.
+4 Fareler koyundan korkar.
+5 Kurtlar farelerden korkar.
+6 Emily bir kedi.
+7 Winona bir koyun.
+8 Gertrude bir kurt.
+9 Emily neyden korkar?	fare	6 1
+10 Gertrude neyden korkar?	fare	8 5
+11 Emily neyden korkar?	fare	6 1
+12 Jessica neyden korkar?	fare	2 1
+1 Kurtlar koyundan korkar.
+2 Emily bir kurt.
+3 Koyun farelerden korkar.
+4 Kediler kurtlardan korkar.
+5 Fareler koyundan korkar.
+6 Jessica bir fare.
+7 Gertrude bir kedi.
+8 Winona bir koyun.
+9 Winona neyden korkar?	fare	8 3
+10 Gertrude neyden korkar?	kurt	7 4
+11 Gertrude neyden korkar?	kurt	7 4
+12 Jessica neyden korkar?	koyun	6 5
+1 Fareler kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Kurtlar kediden korkar.
+4 Winona bir kedi.
+5 Gertrude bir fare.
+6 Koyunlar kurttan korkar.
+7 Emily bir fare.
+8 Jessica bir kurt.
+9 Gertrude neyden korkar?	kedi	5 1
+10 Jessica neyden korkar?	kedi	8 3
+11 Gertrude neyden korkar?	kedi	5 1
+12 Winona neyden korkar?	koyun	4 2
+1 Kurtlar koyundan korkar.
+2 Kediler kurtlardan korkar.
+3 Gertrude bir kurt.
+4 Koyun kedilerden korkar.
+5 Fareler kedilerden korkar.
+6 Emily bir kedi.
+7 Winona bir kedi.
+8 Jessica bir kedi.
+9 Emily neyden korkar?	kurt	6 2
+10 Winona neyden korkar?	kurt	7 2
+11 Gertrude neyden korkar?	koyun	3 1
+12 Jessica neyden korkar?	kurt	8 2
+1 Kediler koyundan korkar.
+2 Koyunlar kurttan korkar.
+3 Winona bir koyun.
+4 Jessica bir koyun.
+5 Gertrude bir kedi.
+6 Kurtlar farelerden korkar.
+7 Emily bir koyun.
+8 Fareler kedilerden korkar.
+9 Winona neyden korkar?	kurt	3 2
+10 Emily neyden korkar?	kurt	7 2
+11 Gertrude neyden korkar?	koyun	5 1
+12 Emily neyden korkar?	kurt	7 2
+1 Koyun farelerden korkar.
+2 Fareler kurttan korkar.
+3 Kurtlar farelerden korkar.
+4 Emily bir koyun.
+5 Kediler kurtlardan korkar.
+6 Jessica bir koyun.
+7 Winona bir kedi.
+8 Gertrude bir kurt.
+9 Winona neyden korkar?	kurt	7 5
+10 Emily neyden korkar?	fare	4 1
+11 Gertrude neyden korkar?	fare	8 3
+12 Jessica neyden korkar?	fare	6 1
+1 Kediler farelerden korkar.
+2 Fareler kedilerden korkar.
+3 Winona bir kedi.
+4 Emily bir fare.
+5 Kurtlar farelerden korkar.
+6 Jessica bir kurt.
+7 Koyun kedilerden korkar.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	kedi	4 2
+10 Winona neyden korkar?	fare	3 1
+11 Gertrude neyden korkar?	fare	8 1
+12 Winona neyden korkar?	fare	3 1
+1 Kurtlar koyundan korkar.
+2 Kediler kurtlardan korkar.
+3 Emily bir kurt.
+4 Koyun farelerden korkar.
+5 Jessica bir kedi.
+6 Fareler kurttan korkar.
+7 Gertrude bir kurt.
+8 Winona bir kedi.
+9 Gertrude neyden korkar?	koyun	7 1
+10 Winona neyden korkar?	kurt	8 2
+11 Jessica neyden korkar?	kurt	5 2
+12 Jessica neyden korkar?	kurt	5 2
+1 Koyun kedilerden korkar.
+2 Kurtlar farelerden korkar.
+3 Fareler kurttan korkar.
+4 Kediler kurtlardan korkar.
+5 Jessica bir kedi.
+6 Winona bir fare.
+7 Gertrude bir koyun.
+8 Emily bir fare.
+9 Gertrude neyden korkar?	kedi	7 1
+10 Winona neyden korkar?	kurt	6 3
+11 Gertrude neyden korkar?	kedi	7 1
+12 Emily neyden korkar?	kurt	8 3
+1 Kurtlar kediden korkar.
+2 Jessica bir kurt.
+3 Winona bir kurt.
+4 Kediler kurtlardan korkar.
+5 Koyunlar kurttan korkar.
+6 Fareler koyundan korkar.
+7 Emily bir koyun.
+8 Gertrude bir kedi.
+9 Winona neyden korkar?	kedi	3 1
+10 Jessica neyden korkar?	kedi	2 1
+11 Gertrude neyden korkar?	kurt	8 4
+12 Winona neyden korkar?	kedi	3 1
+1 Kurtlar farelerden korkar.
+2 Winona bir kurt.
+3 Jessica bir kurt.
+4 Koyun farelerden korkar.
+5 Fareler kedilerden korkar.
+6 Emily bir fare.
+7 Kediler koyundan korkar.
+8 Gertrude bir kurt.
+9 Emily neyden korkar?	kedi	6 5
+10 Jessica neyden korkar?	fare	3 1
+11 Emily neyden korkar?	kedi	6 5
+12 Emily neyden korkar?	kedi	6 5
+1 Kurtlar farelerden korkar.
+2 Fareler kedilerden korkar.
+3 Koyunlar kurttan korkar.
+4 Emily bir fare.
+5 Jessica bir fare.
+6 Gertrude bir fare.
+7 Kediler koyundan korkar.
+8 Winona bir fare.
+9 Winona neyden korkar?	kedi	8 2
+10 Winona neyden korkar?	kedi	8 2
+11 Winona neyden korkar?	kedi	8 2
+12 Jessica neyden korkar?	kedi	5 2
+1 Fareler kurttan korkar.
+2 Jessica bir fare.
+3 Kurtlar kediden korkar.
+4 Gertrude bir kurt.
+5 Koyun kedilerden korkar.
+6 Emily bir fare.
+7 Kediler farelerden korkar.
+8 Winona bir kedi.
+9 Winona neyden korkar?	fare	8 7
+10 Emily neyden korkar?	kurt	6 1
+11 Jessica neyden korkar?	kurt	2 1
+12 Jessica neyden korkar?	kurt	2 1
+1 Fareler koyundan korkar.
+2 Kediler farelerden korkar.
+3 Kurtlar farelerden korkar.
+4 Emily bir kedi.
+5 Jessica bir kedi.
+6 Winona bir kurt.
+7 Koyun kedilerden korkar.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	fare	4 2
+10 Jessica neyden korkar?	fare	5 2
+11 Gertrude neyden korkar?	koyun	8 1
+12 Gertrude neyden korkar?	koyun	8 1
+1 Fareler koyundan korkar.
+2 Gertrude bir fare.
+3 Kediler farelerden korkar.
+4 Kurtlar farelerden korkar.
+5 Jessica bir kedi.
+6 Emily bir fare.
+7 Winona bir kedi.
+8 Koyun kedilerden korkar.
+9 Emily neyden korkar?	koyun	6 1
+10 Winona neyden korkar?	fare	7 3
+11 Jessica neyden korkar?	fare	5 3
+12 Gertrude neyden korkar?	koyun	2 1
+1 Koyun farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Gertrude bir koyun.
+4 Kediler kurtlardan korkar.
+5 Jessica bir koyun.
+6 Emily bir kedi.
+7 Winona bir kurt.
+8 Fareler koyundan korkar.
+9 Gertrude neyden korkar?	fare	3 1
+10 Gertrude neyden korkar?	fare	3 1
+11 Emily neyden korkar?	kurt	6 4
+12 Jessica neyden korkar?	fare	5 1
+1 Kediler farelerden korkar.
+2 Fareler koyundan korkar.
+3 Kurtlar kediden korkar.
+4 Koyunlar kurttan korkar.
+5 Jessica bir fare.
+6 Gertrude bir fare.
+7 Winona bir kedi.
+8 Emily bir fare.
+9 Winona neyden korkar?	fare	7 1
+10 Jessica neyden korkar?	koyun	5 2
+11 Gertrude neyden korkar?	koyun	6 2
+12 Emily neyden korkar?	koyun	8 2
+1 Kediler farelerden korkar.
+2 Fareler kedilerden korkar.
+3 Koyunlar kurttan korkar.
+4 Winona bir kedi.
+5 Gertrude bir kedi.
+6 Jessica bir koyun.
+7 Emily bir fare.
+8 Kurtlar koyundan korkar.
+9 Jessica neyden korkar?	kurt	6 3
+10 Emily neyden korkar?	kedi	7 2
+11 Winona neyden korkar?	fare	4 1
+12 Winona neyden korkar?	fare	4 1
+1 Fareler koyundan korkar.
+2 Kediler farelerden korkar.
+3 Kurtlar farelerden korkar.
+4 Emily bir kurt.
+5 Winona bir kurt.
+6 Gertrude bir kedi.
+7 Koyun farelerden korkar.
+8 Jessica bir fare.
+9 Winona neyden korkar?	fare	5 3
+10 Emily neyden korkar?	fare	4 3
+11 Gertrude neyden korkar?	fare	6 2
+12 Gertrude neyden korkar?	fare	6 2
+1 Koyun farelerden korkar.
+2 Winona bir koyun.
+3 Fareler kurttan korkar.
+4 Jessica bir fare.
+5 Kediler farelerden korkar.
+6 Kurtlar koyundan korkar.
+7 Emily bir kedi.
+8 Gertrude bir kurt.
+9 Jessica neyden korkar?	kurt	4 3
+10 Emily neyden korkar?	fare	7 5
+11 Winona neyden korkar?	fare	2 1
+12 Winona neyden korkar?	fare	2 1
+1 Kediler koyundan korkar.
+2 Kurtlar kediden korkar.
+3 Fareler koyundan korkar.
+4 Koyun kedilerden korkar.
+5 Gertrude bir fare.
+6 Emily bir kurt.
+7 Winona bir fare.
+8 Jessica bir fare.
+9 Jessica neyden korkar?	koyun	8 3
+10 Winona neyden korkar?	koyun	7 3
+11 Gertrude neyden korkar?	koyun	5 3
+12 Gertrude neyden korkar?	koyun	5 3
+1 Kurtlar koyundan korkar.
+2 Fareler kedilerden korkar.
+3 Gertrude bir fare.
+4 Kediler koyundan korkar.
+5 Jessica bir kedi.
+6 Emily bir fare.
+7 Winona bir fare.
+8 Koyun kedilerden korkar.
+9 Jessica neyden korkar?	koyun	5 4
+10 Winona neyden korkar?	kedi	7 2
+11 Gertrude neyden korkar?	kedi	3 2
+12 Emily neyden korkar?	kedi	6 2
+1 Kurtlar farelerden korkar.
+2 Fareler kurttan korkar.
+3 Koyun kedilerden korkar.
+4 Kediler farelerden korkar.
+5 Emily bir kurt.
+6 Jessica bir kurt.
+7 Gertrude bir kedi.
+8 Winona bir koyun.
+9 Jessica neyden korkar?	fare	6 1
+10 Jessica neyden korkar?	fare	6 1
+11 Winona neyden korkar?	kedi	8 3
+12 Gertrude neyden korkar?	fare	7 4
+1 Kediler kurtlardan korkar.
+2 Jessica bir kedi.
+3 Fareler kedilerden korkar.
+4 Kurtlar kediden korkar.
+5 Koyunlar kurttan korkar.
+6 Winona bir koyun.
+7 Emily bir koyun.
+8 Gertrude bir kurt.
+9 Emily neyden korkar?	kurt	7 5
+10 Jessica neyden korkar?	kurt	2 1
+11 Gertrude neyden korkar?	kedi	8 4
+12 Jessica neyden korkar?	kurt	2 1
+1 Koyun farelerden korkar.
+2 Fareler koyundan korkar.
+3 Gertrude bir koyun.
+4 Kediler kurtlardan korkar.
+5 Winona bir koyun.
+6 Emily bir fare.
+7 Kurtlar kediden korkar.
+8 Jessica bir koyun.
+9 Emily neyden korkar?	koyun	6 2
+10 Winona neyden korkar?	fare	5 1
+11 Emily neyden korkar?	koyun	6 2
+12 Gertrude neyden korkar?	fare	3 1
+1 Kediler kurtlardan korkar.
+2 Fareler kedilerden korkar.
+3 Winona bir kedi.
+4 Kurtlar koyundan korkar.
+5 Koyun kedilerden korkar.
+6 Jessica bir kurt.
+7 Emily bir koyun.
+8 Gertrude bir kedi.
+9 Jessica neyden korkar?	koyun	6 4
+10 Winona neyden korkar?	kurt	3 1
+11 Jessica neyden korkar?	koyun	6 4
+12 Gertrude neyden korkar?	kurt	8 1
+1 Kediler koyundan korkar.
+2 Fareler kedilerden korkar.
+3 Kurtlar farelerden korkar.
+4 Gertrude bir fare.
+5 Winona bir fare.
+6 Koyun farelerden korkar.
+7 Jessica bir koyun.
+8 Emily bir kedi.
+9 Emily neyden korkar?	koyun	8 1
+10 Jessica neyden korkar?	fare	7 6
+11 Gertrude neyden korkar?	kedi	4 2
+12 Jessica neyden korkar?	fare	7 6
+1 Fareler koyundan korkar.
+2 Kediler koyundan korkar.
+3 Gertrude bir fare.
+4 Winona bir fare.
+5 Jessica bir kedi.
+6 Kurtlar kediden korkar.
+7 Emily bir kedi.
+8 Koyunlar kurttan korkar.
+9 Gertrude neyden korkar?	koyun	3 1
+10 Jessica neyden korkar?	koyun	5 2
+11 Gertrude neyden korkar?	koyun	3 1
+12 Jessica neyden korkar?	koyun	5 2
+1 Koyunlar kurttan korkar.
+2 Gertrude bir koyun.
+3 Fareler koyundan korkar.
+4 Emily bir fare.
+5 Jessica bir fare.
+6 Kurtlar koyundan korkar.
+7 Winona bir fare.
+8 Kediler kurtlardan korkar.
+9 Gertrude neyden korkar?	kurt	2 1
+10 Emily neyden korkar?	koyun	4 3
+11 Gertrude neyden korkar?	kurt	2 1
+12 Jessica neyden korkar?	koyun	5 3
+1 Fareler kedilerden korkar.
+2 Winona bir fare.
+3 Koyunlar kurttan korkar.
+4 Kurtlar kediden korkar.
+5 Gertrude bir fare.
+6 Emily bir fare.
+7 Kediler koyundan korkar.
+8 Jessica bir kedi.
+9 Emily neyden korkar?	kedi	6 1
+10 Winona neyden korkar?	kedi	2 1
+11 Jessica neyden korkar?	koyun	8 7
+12 Jessica neyden korkar?	koyun	8 7
+1 Fareler koyundan korkar.
+2 Kurtlar farelerden korkar.
+3 Kediler kurtlardan korkar.
+4 Jessica bir kedi.
+5 Koyun farelerden korkar.
+6 Winona bir kurt.
+7 Gertrude bir kedi.
+8 Emily bir koyun.
+9 Jessica neyden korkar?	kurt	4 3
+10 Gertrude neyden korkar?	kurt	7 3
+11 Winona neyden korkar?	fare	6 2
+12 Jessica neyden korkar?	kurt	4 3
+1 Kurtlar koyundan korkar.
+2 Winona bir kurt.
+3 Fareler kurttan korkar.
+4 Kediler kurtlardan korkar.
+5 Gertrude bir kurt.
+6 Emily bir kurt.
+7 Koyun farelerden korkar.
+8 Jessica bir kedi.
+9 Jessica neyden korkar?	kurt	8 4
+10 Jessica neyden korkar?	kurt	8 4
+11 Gertrude neyden korkar?	koyun	5 1
+12 Winona neyden korkar?	koyun	2 1
+1 Kediler farelerden korkar.
+2 Gertrude bir kedi.
+3 Koyun kedilerden korkar.
+4 Kurtlar koyundan korkar.
+5 Winona bir kedi.
+6 Fareler koyundan korkar.
+7 Jessica bir kurt.
+8 Emily bir koyun.
+9 Jessica neyden korkar?	koyun	7 4
+10 Emily neyden korkar?	kedi	8 3
+11 Emily neyden korkar?	kedi	8 3
+12 Emily neyden korkar?	kedi	8 3
+1 Koyun kedilerden korkar.
+2 Fareler kedilerden korkar.
+3 Emily bir koyun.
+4 Jessica bir fare.
+5 Kurtlar koyundan korkar.
+6 Gertrude bir koyun.
+7 Kediler kurtlardan korkar.
+8 Winona bir koyun.
+9 Winona neyden korkar?	kedi	8 1
+10 Emily neyden korkar?	kedi	3 1
+11 Jessica neyden korkar?	kedi	4 2
+12 Jessica neyden korkar?	kedi	4 2
+1 Kediler koyundan korkar.
+2 Kurtlar kediden korkar.
+3 Emily bir kurt.
+4 Gertrude bir kedi.
+5 Koyunlar kurttan korkar.
+6 Fareler kedilerden korkar.
+7 Winona bir fare.
+8 Jessica bir koyun.
+9 Emily neyden korkar?	kedi	3 2
+10 Gertrude neyden korkar?	koyun	4 1
+11 Jessica neyden korkar?	kurt	8 5
+12 Emily neyden korkar?	kedi	3 2
+1 Kediler kurtlardan korkar.
+2 Koyunlar kurttan korkar.
+3 Fareler koyundan korkar.
+4 Jessica bir koyun.
+5 Winona bir koyun.
+6 Kurtlar farelerden korkar.
+7 Emily bir kurt.
+8 Gertrude bir kurt.
+9 Gertrude neyden korkar?	fare	8 6
+10 Jessica neyden korkar?	kurt	4 2
+11 Emily neyden korkar?	fare	7 6
+12 Gertrude neyden korkar?	fare	8 6
+1 Kurtlar kediden korkar.
+2 Fareler kurttan korkar.
+3 Jessica bir fare.
+4 Koyunlar kurttan korkar.
+5 Gertrude bir fare.
+6 Winona bir kurt.
+7 Kediler farelerden korkar.
+8 Emily bir koyun.
+9 Jessica neyden korkar?	kurt	3 2
+10 Winona neyden korkar?	kedi	6 1
+11 Winona neyden korkar?	kedi	6 1
+12 Winona neyden korkar?	kedi	6 1
+1 Koyun kedilerden korkar.
+2 Kediler kurtlardan korkar.
+3 Emily bir kedi.
+4 Fareler koyundan korkar.
+5 Gertrude bir fare.
+6 Kurtlar koyundan korkar.
+7 Jessica bir fare.
+8 Winona bir kedi.
+9 Jessica neyden korkar?	koyun	7 4
+10 Emily neyden korkar?	kurt	3 2
+11 Emily neyden korkar?	kurt	3 2
+12 Jessica neyden korkar?	koyun	7 4
+1 Koyunlar kurttan korkar.
+2 Fareler koyundan korkar.
+3 Kediler koyundan korkar.
+4 Kurtlar koyundan korkar.
+5 Gertrude bir koyun.
+6 Winona bir fare.
+7 Jessica bir koyun.
+8 Emily bir kedi.
+9 Gertrude neyden korkar?	kurt	5 1
+10 Gertrude neyden korkar?	kurt	5 1
+11 Winona neyden korkar?	koyun	6 2
+12 Gertrude neyden korkar?	kurt	5 1
+1 Koyun kedilerden korkar.
+2 Emily bir koyun.
+3 Fareler koyundan korkar.
+4 Jessica bir fare.
+5 Winona bir fare.
+6 Kurtlar koyundan korkar.
+7 Kediler kurtlardan korkar.
+8 Gertrude bir koyun.
+9 Winona neyden korkar?	koyun	5 3
+10 Gertrude neyden korkar?	kedi	8 1
+11 Jessica neyden korkar?	koyun	4 3
+12 Gertrude neyden korkar?	kedi	8 1
+1 Kediler kurtlardan korkar.
+2 Koyun farelerden korkar.
+3 Kurtlar kediden korkar.
+4 Jessica bir koyun.
+5 Emily bir kurt.
+6 Winona bir koyun.
+7 Fareler kedilerden korkar.
+8 Gertrude bir fare.
+9 Winona neyden korkar?	fare	6 2
+10 Winona neyden korkar?	fare	6 2
+11 Emily neyden korkar?	kedi	5 3
+12 Winona neyden korkar?	fare	6 2
+1 Kurtlar farelerden korkar.
+2 Kediler farelerden korkar.
+3 Fareler kedilerden korkar.
+4 Winona bir fare.
+5 Gertrude bir kedi.
+6 Jessica bir kurt.
+7 Koyun kedilerden korkar.
+8 Emily bir koyun.
+9 Emily neyden korkar?	kedi	8 7
+10 Jessica neyden korkar?	fare	6 1
+11 Emily neyden korkar?	kedi	8 7
+12 Jessica neyden korkar?	fare	6 1
+1 Kediler kurtlardan korkar.
+2 Fareler kedilerden korkar.
+3 Jessica bir kedi.
+4 Kurtlar koyundan korkar.
+5 Emily bir kurt.
+6 Winona bir fare.
+7 Gertrude bir fare.
+8 Koyun kedilerden korkar.
+9 Winona neyden korkar?	kedi	6 2
+10 Jessica neyden korkar?	kurt	3 1
+11 Emily neyden korkar?	koyun	5 4
+12 Winona neyden korkar?	kedi	6 2
+1 Koyun kedilerden korkar.
+2 Fareler kedilerden korkar.
+3 Jessica bir fare.
+4 Winona bir fare.
+5 Kurtlar koyundan korkar.
+6 Gertrude bir kurt.
+7 Emily bir fare.
+8 Kediler kurtlardan korkar.
+9 Jessica neyden korkar?	kedi	3 2
+10 Emily neyden korkar?	kedi	7 2
+11 Gertrude neyden korkar?	koyun	6 5
+12 Jessica neyden korkar?	kedi	3 2
+1 Fareler kedilerden korkar.
+2 Gertrude bir fare.
+3 Kediler kurtlardan korkar.
+4 Koyun farelerden korkar.
+5 Jessica bir kedi.
+6 Emily bir kedi.
+7 Kurtlar koyundan korkar.
+8 Winona bir koyun.
+9 Jessica neyden korkar?	kurt	5 3
+10 Jessica neyden korkar?	kurt	5 3
+11 Jessica neyden korkar?	kurt	5 3
+12 Emily neyden korkar?	kurt	6 3
+1 Fareler koyundan korkar.
+2 Koyunlar kurttan korkar.
+3 Kediler koyundan korkar.
+4 Jessica bir koyun.
+5 Winona bir koyun.
+6 Gertrude bir fare.
+7 Emily bir koyun.
+8 Kurtlar farelerden korkar.
+9 Gertrude neyden korkar?	koyun	6 1
+10 Emily neyden korkar?	kurt	7 2
+11 Emily neyden korkar?	kurt	7 2
+12 Emily neyden korkar?	kurt	7 2
+1 Kediler koyundan korkar.
+2 Gertrude bir kedi.
+3 Jessica bir kedi.
+4 Fareler kurttan korkar.
+5 Koyunlar kurttan korkar.
+6 Emily bir koyun.
+7 Kurtlar kediden korkar.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	koyun	2 1
+10 Jessica neyden korkar?	koyun	3 1
+11 Winona neyden korkar?	kurt	8 4
+12 Winona neyden korkar?	kurt	8 4
+1 Kurtlar farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Winona bir koyun.
+4 Fareler kurttan korkar.
+5 Jessica bir koyun.
+6 Kediler koyundan korkar.
+7 Gertrude bir kurt.
+8 Emily bir kurt.
+9 Winona neyden korkar?	kedi	3 2
+10 Jessica neyden korkar?	kedi	5 2
+11 Jessica neyden korkar?	kedi	5 2
+12 Gertrude neyden korkar?	fare	7 1
+1 Kurtlar koyundan korkar.
+2 Koyun kedilerden korkar.
+3 Kediler kurtlardan korkar.
+4 Fareler kedilerden korkar.
+5 Winona bir kedi.
+6 Jessica bir koyun.
+7 Gertrude bir kedi.
+8 Emily bir koyun.
+9 Jessica neyden korkar?	kedi	6 2
+10 Gertrude neyden korkar?	kurt	7 3
+11 Jessica neyden korkar?	kedi	6 2
+12 Emily neyden korkar?	kedi	8 2
+1 Koyun farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Jessica bir koyun.
+4 Gertrude bir kurt.
+5 Winona bir kurt.
+6 Kediler koyundan korkar.
+7 Emily bir kurt.
+8 Fareler koyundan korkar.
+9 Emily neyden korkar?	koyun	7 2
+10 Emily neyden korkar?	koyun	7 2
+11 Emily neyden korkar?	koyun	7 2
+12 Winona neyden korkar?	koyun	5 2
+1 Kediler kurtlardan korkar.
+2 Kurtlar farelerden korkar.
+3 Koyun farelerden korkar.
+4 Fareler koyundan korkar.
+5 Jessica bir kurt.
+6 Gertrude bir fare.
+7 Emily bir kedi.
+8 Winona bir koyun.
+9 Winona neyden korkar?	fare	8 3
+10 Emily neyden korkar?	kurt	7 1
+11 Emily neyden korkar?	kurt	7 1
+12 Gertrude neyden korkar?	koyun	6 4
+1 Kediler farelerden korkar.
+2 Gertrude bir kedi.
+3 Fareler kurttan korkar.
+4 Jessica bir fare.
+5 Kurtlar koyundan korkar.
+6 Emily bir fare.
+7 Winona bir kurt.
+8 Koyun kedilerden korkar.
+9 Jessica neyden korkar?	kurt	4 3
+10 Winona neyden korkar?	koyun	7 5
+11 Jessica neyden korkar?	kurt	4 3
+12 Gertrude neyden korkar?	fare	2 1
+1 Koyun kedilerden korkar.
+2 Fareler koyundan korkar.
+3 Kediler farelerden korkar.
+4 Emily bir koyun.
+5 Kurtlar farelerden korkar.
+6 Jessica bir koyun.
+7 Winona bir kurt.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	kedi	4 1
+10 Jessica neyden korkar?	kedi	6 1
+11 Winona neyden korkar?	fare	7 5
+12 Jessica neyden korkar?	kedi	6 1
+1 Kurtlar farelerden korkar.
+2 Fareler kedilerden korkar.
+3 Kediler koyundan korkar.
+4 Koyun farelerden korkar.
+5 Jessica bir koyun.
+6 Emily bir kedi.
+7 Winona bir kurt.
+8 Gertrude bir kurt.
+9 Emily neyden korkar?	koyun	6 3
+10 Jessica neyden korkar?	fare	5 4
+11 Emily neyden korkar?	koyun	6 3
+12 Gertrude neyden korkar?	fare	8 1
+1 Kediler kurtlardan korkar.
+2 Kurtlar farelerden korkar.
+3 Emily bir kurt.
+4 Gertrude bir kedi.
+5 Fareler koyundan korkar.
+6 Jessica bir kedi.
+7 Koyunlar kurttan korkar.
+8 Winona bir kurt.
+9 Gertrude neyden korkar?	kurt	4 1
+10 Emily neyden korkar?	fare	3 2
+11 Jessica neyden korkar?	kurt	6 1
+12 Emily neyden korkar?	fare	3 2
+1 Kediler farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Fareler kurttan korkar.
+4 Emily bir koyun.
+5 Jessica bir kedi.
+6 Kurtlar farelerden korkar.
+7 Gertrude bir kurt.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	fare	7 6
+10 Emily neyden korkar?	kedi	4 2
+11 Gertrude neyden korkar?	fare	7 6
+12 Jessica neyden korkar?	fare	5 1
+1 Kediler kurtlardan korkar.
+2 Kurtlar farelerden korkar.
+3 Fareler kedilerden korkar.
+4 Gertrude bir fare.
+5 Jessica bir kedi.
+6 Koyun kedilerden korkar.
+7 Emily bir fare.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	kedi	4 3
+10 Winona neyden korkar?	kedi	8 3
+11 Winona neyden korkar?	kedi	8 3
+12 Winona neyden korkar?	kedi	8 3
+1 Kediler kurtlardan korkar.
+2 Winona bir kedi.
+3 Fareler kedilerden korkar.
+4 Kurtlar farelerden korkar.
+5 Gertrude bir kurt.
+6 Emily bir fare.
+7 Koyunlar kurttan korkar.
+8 Jessica bir fare.
+9 Emily neyden korkar?	kedi	6 3
+10 Jessica neyden korkar?	kedi	8 3
+11 Emily neyden korkar?	kedi	6 3
+12 Gertrude neyden korkar?	fare	5 4
+1 Fareler kurttan korkar.
+2 Koyun kedilerden korkar.
+3 Kurtlar koyundan korkar.
+4 Kediler kurtlardan korkar.
+5 Winona bir fare.
+6 Gertrude bir kurt.
+7 Emily bir fare.
+8 Jessica bir koyun.
+9 Gertrude neyden korkar?	koyun	6 3
+10 Gertrude neyden korkar?	koyun	6 3
+11 Jessica neyden korkar?	kedi	8 2
+12 Winona neyden korkar?	kurt	5 1
+1 Kurtlar farelerden korkar.
+2 Fareler koyundan korkar.
+3 Koyun kedilerden korkar.
+4 Kediler farelerden korkar.
+5 Emily bir kedi.
+6 Jessica bir koyun.
+7 Winona bir koyun.
+8 Gertrude bir fare.
+9 Winona neyden korkar?	kedi	7 3
+10 Gertrude neyden korkar?	koyun	8 2
+11 Jessica neyden korkar?	kedi	6 3
+12 Jessica neyden korkar?	kedi	6 3
+1 Fareler koyundan korkar.
+2 Gertrude bir fare.
+3 Koyun kedilerden korkar.
+4 Kurtlar koyundan korkar.
+5 Jessica bir koyun.
+6 Winona bir koyun.
+7 Emily bir fare.
+8 Kediler koyundan korkar.
+9 Jessica neyden korkar?	kedi	5 3
+10 Emily neyden korkar?	koyun	7 1
+11 Jessica neyden korkar?	kedi	5 3
+12 Emily neyden korkar?	koyun	7 1
+1 Kurtlar kediden korkar.
+2 Kediler koyundan korkar.
+3 Fareler kedilerden korkar.
+4 Gertrude bir kedi.
+5 Winona bir fare.
+6 Koyun kedilerden korkar.
+7 Jessica bir kurt.
+8 Emily bir kedi.
+9 Winona neyden korkar?	kedi	5 3
+10 Emily neyden korkar?	koyun	8 2
+11 Emily neyden korkar?	koyun	8 2
+12 Jessica neyden korkar?	kedi	7 1
+1 Koyun kedilerden korkar.
+2 Kediler kurtlardan korkar.
+3 Jessica bir kedi.
+4 Kurtlar kediden korkar.
+5 Emily bir kedi.
+6 Winona bir koyun.
+7 Fareler koyundan korkar.
+8 Gertrude bir fare.
+9 Jessica neyden korkar?	kurt	3 2
+10 Jessica neyden korkar?	kurt	3 2
+11 Gertrude neyden korkar?	koyun	8 7
+12 Gertrude neyden korkar?	koyun	8 7
+1 Kediler kurtlardan korkar.
+2 Koyunlar kurttan korkar.
+3 Emily bir kedi.
+4 Winona bir kedi.
+5 Fareler kurttan korkar.
+6 Jessica bir koyun.
+7 Kurtlar farelerden korkar.
+8 Gertrude bir kurt.
+9 Emily neyden korkar?	kurt	3 1
+10 Emily neyden korkar?	kurt	3 1
+11 Jessica neyden korkar?	kurt	6 2
+12 Gertrude neyden korkar?	fare	8 7
+1 Kediler kurtlardan korkar.
+2 Kurtlar koyundan korkar.
+3 Fareler koyundan korkar.
+4 Koyun kedilerden korkar.
+5 Emily bir fare.
+6 Jessica bir kurt.
+7 Gertrude bir koyun.
+8 Winona bir kedi.
+9 Jessica neyden korkar?	koyun	6 2
+10 Gertrude neyden korkar?	kedi	7 4
+11 Gertrude neyden korkar?	kedi	7 4
+12 Gertrude neyden korkar?	kedi	7 4
+1 Fareler kedilerden korkar.
+2 Koyun farelerden korkar.
+3 Gertrude bir fare.
+4 Winona bir fare.
+5 Emily bir koyun.
+6 Kediler kurtlardan korkar.
+7 Jessica bir koyun.
+8 Kurtlar koyundan korkar.
+9 Jessica neyden korkar?	fare	7 2
+10 Jessica neyden korkar?	fare	7 2
+11 Gertrude neyden korkar?	kedi	3 1
+12 Winona neyden korkar?	kedi	4 1
+1 Kediler farelerden korkar.
+2 Emily bir kedi.
+3 Kurtlar farelerden korkar.
+4 Gertrude bir kedi.
+5 Koyun farelerden korkar.
+6 Fareler kedilerden korkar.
+7 Winona bir kedi.
+8 Jessica bir kurt.
+9 Jessica neyden korkar?	fare	8 3
+10 Gertrude neyden korkar?	fare	4 1
+11 Emily neyden korkar?	fare	2 1
+12 Emily neyden korkar?	fare	2 1
+1 Koyunlar kurttan korkar.
+2 Fareler kedilerden korkar.
+3 Kediler koyundan korkar.
+4 Kurtlar kediden korkar.
+5 Jessica bir kedi.
+6 Gertrude bir kedi.
+7 Emily bir koyun.
+8 Winona bir kurt.
+9 Winona neyden korkar?	kedi	8 4
+10 Emily neyden korkar?	kurt	7 1
+11 Gertrude neyden korkar?	koyun	6 3
+12 Winona neyden korkar?	kedi	8 4
+1 Koyun farelerden korkar.
+2 Kurtlar farelerden korkar.
+3 Winona bir koyun.
+4 Fareler kedilerden korkar.
+5 Kediler koyundan korkar.
+6 Emily bir kurt.
+7 Gertrude bir kurt.
+8 Jessica bir kedi.
+9 Gertrude neyden korkar?	fare	7 2
+10 Gertrude neyden korkar?	fare	7 2
+11 Winona neyden korkar?	fare	3 1
+12 Gertrude neyden korkar?	fare	7 2
+1 Koyun farelerden korkar.
+2 Kurtlar kediden korkar.
+3 Kediler kurtlardan korkar.
+4 Winona bir koyun.
+5 Fareler kedilerden korkar.
+6 Jessica bir kurt.
+7 Emily bir kurt.
+8 Gertrude bir kurt.
+9 Gertrude neyden korkar?	kedi	8 2
+10 Jessica neyden korkar?	kedi	6 2
+11 Emily neyden korkar?	kedi	7 2
+12 Emily neyden korkar?	kedi	7 2
+1 Kurtlar koyundan korkar.
+2 Kediler farelerden korkar.
+3 Jessica bir kurt.
+4 Fareler kurttan korkar.
+5 Koyunlar kurttan korkar.
+6 Emily bir fare.
+7 Winona bir kedi.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	kurt	6 4
+10 Jessica neyden korkar?	koyun	3 1
+11 Winona neyden korkar?	fare	7 2
+12 Jessica neyden korkar?	koyun	3 1
+1 Kurtlar koyundan korkar.
+2 Kediler koyundan korkar.
+3 Jessica bir kedi.
+4 Emily bir kedi.
+5 Fareler kurttan korkar.
+6 Koyun farelerden korkar.
+7 Gertrude bir fare.
+8 Winona bir kurt.
+9 Winona neyden korkar?	koyun	8 1
+10 Emily neyden korkar?	koyun	4 2
+11 Gertrude neyden korkar?	kurt	7 5
+12 Jessica neyden korkar?	koyun	3 2
+1 Koyunlar kurttan korkar.
+2 Kurtlar farelerden korkar.
+3 Gertrude bir koyun.
+4 Jessica bir kurt.
+5 Kediler farelerden korkar.
+6 Fareler kedilerden korkar.
+7 Emily bir fare.
+8 Winona bir kurt.
+9 Gertrude neyden korkar?	kurt	3 1
+10 Jessica neyden korkar?	fare	4 2
+11 Winona neyden korkar?	fare	8 2
+12 Gertrude neyden korkar?	kurt	3 1
+1 Kediler koyundan korkar.
+2 Kurtlar koyundan korkar.
+3 Koyun farelerden korkar.
+4 Jessica bir kedi.
+5 Gertrude bir kurt.
+6 Emily bir kedi.
+7 Fareler kurttan korkar.
+8 Winona bir kedi.
+9 Jessica neyden korkar?	koyun	4 1
+10 Winona neyden korkar?	koyun	8 1
+11 Gertrude neyden korkar?	koyun	5 2
+12 Winona neyden korkar?	koyun	8 1
+1 Fareler kedilerden korkar.
+2 Koyunlar kurttan korkar.
+3 Kediler koyundan korkar.
+4 Kurtlar koyundan korkar.
+5 Jessica bir koyun.
+6 Gertrude bir koyun.
+7 Emily bir koyun.
+8 Winona bir fare.
+9 Emily neyden korkar?	kurt	7 2
+10 Jessica neyden korkar?	kurt	5 2
+11 Jessica neyden korkar?	kurt	5 2
+12 Gertrude neyden korkar?	kurt	6 2
+1 Koyun kedilerden korkar.
+2 Fareler koyundan korkar.
+3 Kediler kurtlardan korkar.
+4 Emily bir koyun.
+5 Gertrude bir kedi.
+6 Kurtlar koyundan korkar.
+7 Winona bir fare.
+8 Jessica bir fare.
+9 Jessica neyden korkar?	koyun	8 2
+10 Winona neyden korkar?	koyun	7 2
+11 Winona neyden korkar?	koyun	7 2
+12 Jessica neyden korkar?	koyun	8 2
+1 Koyunlar kurttan korkar.
+2 Fareler kurttan korkar.
+3 Winona bir fare.
+4 Jessica bir fare.
+5 Kediler koyundan korkar.
+6 Gertrude bir kedi.
+7 Emily bir kedi.
+8 Kurtlar koyundan korkar.
+9 Gertrude neyden korkar?	koyun	6 5
+10 Jessica neyden korkar?	kurt	4 2
+11 Winona neyden korkar?	kurt	3 2
+12 Jessica neyden korkar?	kurt	4 2
+1 Kurtlar koyundan korkar.
+2 Emily bir kurt.
+3 Kediler farelerden korkar.
+4 Fareler kedilerden korkar.
+5 Jessica bir fare.
+6 Koyun kedilerden korkar.
+7 Winona bir kurt.
+8 Gertrude bir koyun.
+9 Gertrude neyden korkar?	kedi	8 6
+10 Winona neyden korkar?	koyun	7 1
+11 Jessica neyden korkar?	kedi	5 4
+12 Jessica neyden korkar?	kedi	5 4
+1 Koyunlar kurttan korkar.
+2 Kediler farelerden korkar.
+3 Jessica bir kedi.
+4 Gertrude bir kedi.
+5 Kurtlar kediden korkar.
+6 Emily bir koyun.
+7 Fareler kedilerden korkar.
+8 Winona bir fare.
+9 Jessica neyden korkar?	fare	3 2
+10 Emily neyden korkar?	kurt	6 1
+11 Winona neyden korkar?	kedi	8 7
+12 Gertrude neyden korkar?	fare	4 2
+1 Kurtlar koyundan korkar.
+2 Winona bir kurt.
+3 Kediler kurtlardan korkar.
+4 Gertrude bir kedi.
+5 Fareler kurttan korkar.
+6 Jessica bir fare.
+7 Emily bir kurt.
+8 Koyun kedilerden korkar.
+9 Winona neyden korkar?	koyun	2 1
+10 Jessica neyden korkar?	kurt	6 5
+11 Jessica neyden korkar?	kurt	6 5
+12 Gertrude neyden korkar?	kurt	4 3
+1 Kediler farelerden korkar.
+2 Koyunlar kurttan korkar.
+3 Kurtlar farelerden korkar.
+4 Winona bir koyun.
+5 Gertrude bir kedi.
+6 Emily bir koyun.
+7 Jessica bir koyun.
+8 Fareler kurttan korkar.
+9 Emily neyden korkar?	kurt	6 2
+10 Gertrude neyden korkar?	fare	5 1
+11 Emily neyden korkar?	kurt	6 2
+12 Winona neyden korkar?	kurt	4 2
+1 Fareler kurttan korkar.
+2 Kediler kurtlardan korkar.
+3 Jessica bir kedi.
+4 Koyun kedilerden korkar.
+5 Gertrude bir kedi.
+6 Emily bir fare.
+7 Winona bir kedi.
+8 Kurtlar kediden korkar.
+9 Gertrude neyden korkar?	kurt	5 2
+10 Gertrude neyden korkar?	kurt	5 2
+11 Jessica neyden korkar?	kurt	3 2
+12 Gertrude neyden korkar?	kurt	5 2
+1 Fareler kurttan korkar.
+2 Kurtlar farelerden korkar.
+3 Kediler farelerden korkar.
+4 Winona bir kurt.
+5 Jessica bir fare.
+6 Koyun kedilerden korkar.
+7 Gertrude bir fare.
+8 Emily bir fare.
+9 Jessica neyden korkar?	kurt	5 1
+10 Winona neyden korkar?	fare	4 2
+11 Jessica neyden korkar?	kurt	5 1
+12 Jessica neyden korkar?	kurt	5 1
+1 Koyun farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Kediler farelerden korkar.
+4 Jessica bir kurt.
+5 Winona bir kurt.
+6 Gertrude bir kedi.
+7 Fareler koyundan korkar.
+8 Emily bir koyun.
+9 Gertrude neyden korkar?	fare	6 3
+10 Gertrude neyden korkar?	fare	6 3
+11 Emily neyden korkar?	fare	8 1
+12 Winona neyden korkar?	koyun	5 2
+1 Koyun farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Winona bir koyun.
+4 Fareler kurttan korkar.
+5 Gertrude bir koyun.
+6 Kediler koyundan korkar.
+7 Jessica bir fare.
+8 Emily bir kurt.
+9 Gertrude neyden korkar?	fare	5 1
+10 Winona neyden korkar?	fare	3 1
+11 Gertrude neyden korkar?	fare	5 1
+12 Jessica neyden korkar?	kurt	7 4
+1 Koyun kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Jessica bir kedi.
+4 Gertrude bir kedi.
+5 Fareler kurttan korkar.
+6 Winona bir fare.
+7 Kurtlar farelerden korkar.
+8 Emily bir koyun.
+9 Winona neyden korkar?	kurt	6 5
+10 Jessica neyden korkar?	koyun	3 2
+11 Emily neyden korkar?	kedi	8 1
+12 Emily neyden korkar?	kedi	8 1
+1 Fareler kedilerden korkar.
+2 Kurtlar farelerden korkar.
+3 Emily bir kurt.
+4 Gertrude bir fare.
+5 Kediler kurtlardan korkar.
+6 Winona bir fare.
+7 Koyun farelerden korkar.
+8 Jessica bir fare.
+9 Jessica neyden korkar?	kedi	8 1
+10 Winona neyden korkar?	kedi	6 1
+11 Gertrude neyden korkar?	kedi	4 1
+12 Winona neyden korkar?	kedi	6 1
+1 Kurtlar koyundan korkar.
+2 Koyunlar kurttan korkar.
+3 Fareler koyundan korkar.
+4 Emily bir fare.
+5 Kediler farelerden korkar.
+6 Gertrude bir kedi.
+7 Jessica bir kedi.
+8 Winona bir fare.
+9 Winona neyden korkar?	koyun	8 3
+10 Winona neyden korkar?	koyun	8 3
+11 Winona neyden korkar?	koyun	8 3
+12 Jessica neyden korkar?	fare	7 5
+1 Kediler farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Gertrude bir kurt.
+4 Koyun kedilerden korkar.
+5 Emily bir kurt.
+6 Jessica bir koyun.
+7 Fareler kedilerden korkar.
+8 Winona bir koyun.
+9 Gertrude neyden korkar?	koyun	3 2
+10 Emily neyden korkar?	koyun	5 2
+11 Winona neyden korkar?	kedi	8 4
+12 Winona neyden korkar?	kedi	8 4
+1 Fareler kurttan korkar.
+2 Kediler koyundan korkar.
+3 Kurtlar kediden korkar.
+4 Jessica bir kedi.
+5 Winona bir kurt.
+6 Koyun kedilerden korkar.
+7 Gertrude bir fare.
+8 Emily bir koyun.
+9 Winona neyden korkar?	kedi	5 3
+10 Jessica neyden korkar?	koyun	4 2
+11 Winona neyden korkar?	kedi	5 3
+12 Winona neyden korkar?	kedi	5 3
+1 Fareler kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Gertrude bir kedi.
+4 Kurtlar koyundan korkar.
+5 Koyun farelerden korkar.
+6 Jessica bir kedi.
+7 Emily bir fare.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	koyun	3 2
+10 Emily neyden korkar?	kedi	7 1
+11 Winona neyden korkar?	kedi	8 1
+12 Jessica neyden korkar?	koyun	6 2
+1 Koyunlar kurttan korkar.
+2 Fareler koyundan korkar.
+3 Kurtlar koyundan korkar.
+4 Winona bir fare.
+5 Kediler farelerden korkar.
+6 Emily bir koyun.
+7 Jessica bir kedi.
+8 Gertrude bir koyun.
+9 Winona neyden korkar?	koyun	4 2
+10 Winona neyden korkar?	koyun	4 2
+11 Jessica neyden korkar?	fare	7 5
+12 Winona neyden korkar?	koyun	4 2
+1 Kediler kurtlardan korkar.
+2 Fareler kedilerden korkar.
+3 Jessica bir kedi.
+4 Koyunlar kurttan korkar.
+5 Winona bir kedi.
+6 Kurtlar koyundan korkar.
+7 Emily bir fare.
+8 Gertrude bir fare.
+9 Gertrude neyden korkar?	kedi	8 2
+10 Gertrude neyden korkar?	kedi	8 2
+11 Winona neyden korkar?	kurt	5 1
+12 Gertrude neyden korkar?	kedi	8 2
+1 Koyun kedilerden korkar.
+2 Fareler kedilerden korkar.
+3 Kurtlar farelerden korkar.
+4 Kediler koyundan korkar.
+5 Emily bir koyun.
+6 Jessica bir kedi.
+7 Gertrude bir kurt.
+8 Winona bir kedi.
+9 Jessica neyden korkar?	koyun	6 4
+10 Gertrude neyden korkar?	fare	7 3
+11 Gertrude neyden korkar?	fare	7 3
+12 Gertrude neyden korkar?	fare	7 3
+1 Kediler koyundan korkar.
+2 Koyun kedilerden korkar.
+3 Gertrude bir koyun.
+4 Fareler kedilerden korkar.
+5 Jessica bir fare.
+6 Emily bir koyun.
+7 Kurtlar farelerden korkar.
+8 Winona bir kurt.
+9 Jessica neyden korkar?	kedi	5 4
+10 Winona neyden korkar?	fare	8 7
+11 Winona neyden korkar?	fare	8 7
+12 Jessica neyden korkar?	kedi	5 4
+1 Kurtlar kediden korkar.
+2 Koyun kedilerden korkar.
+3 Emily bir koyun.
+4 Kediler koyundan korkar.
+5 Jessica bir kedi.
+6 Fareler kurttan korkar.
+7 Gertrude bir kurt.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	kedi	7 1
+10 Jessica neyden korkar?	koyun	5 4
+11 Emily neyden korkar?	kedi	3 2
+12 Winona neyden korkar?	kurt	8 6
+1 Kediler koyundan korkar.
+2 Jessica bir kedi.
+3 Koyun farelerden korkar.
+4 Kurtlar farelerden korkar.
+5 Fareler kurttan korkar.
+6 Winona bir fare.
+7 Emily bir kurt.
+8 Gertrude bir fare.
+9 Jessica neyden korkar?	koyun	2 1
+10 Emily neyden korkar?	fare	7 4
+11 Gertrude neyden korkar?	kurt	8 5
+12 Gertrude neyden korkar?	kurt	8 5
+1 Kediler farelerden korkar.
+2 Kurtlar farelerden korkar.
+3 Gertrude bir kurt.
+4 Koyun kedilerden korkar.
+5 Winona bir koyun.
+6 Fareler kurttan korkar.
+7 Emily bir kurt.
+8 Jessica bir kedi.
+9 Gertrude neyden korkar?	fare	3 2
+10 Gertrude neyden korkar?	fare	3 2
+11 Jessica neyden korkar?	fare	8 1
+12 Emily neyden korkar?	fare	7 2
+1 Fareler kurttan korkar.
+2 Koyun kedilerden korkar.
+3 Kediler kurtlardan korkar.
+4 Kurtlar kediden korkar.
+5 Jessica bir koyun.
+6 Winona bir koyun.
+7 Gertrude bir kurt.
+8 Emily bir kedi.
+9 Winona neyden korkar?	kedi	6 2
+10 Emily neyden korkar?	kurt	8 3
+11 Jessica neyden korkar?	kedi	5 2
+12 Emily neyden korkar?	kurt	8 3
+1 Kurtlar koyundan korkar.
+2 Kediler koyundan korkar.
+3 Emily bir kurt.
+4 Koyun kedilerden korkar.
+5 Fareler kurttan korkar.
+6 Gertrude bir koyun.
+7 Winona bir koyun.
+8 Jessica bir kedi.
+9 Emily neyden korkar?	koyun	3 1
+10 Emily neyden korkar?	koyun	3 1
+11 Winona neyden korkar?	kedi	7 4
+12 Gertrude neyden korkar?	kedi	6 4
+1 Fareler kedilerden korkar.
+2 Jessica bir fare.
+3 Kediler farelerden korkar.
+4 Emily bir fare.
+5 Winona bir kedi.
+6 Gertrude bir fare.
+7 Koyun kedilerden korkar.
+8 Kurtlar farelerden korkar.
+9 Gertrude neyden korkar?	kedi	6 1
+10 Emily neyden korkar?	kedi	4 1
+11 Gertrude neyden korkar?	kedi	6 1
+12 Emily neyden korkar?	kedi	4 1
+1 Koyunlar kurttan korkar.
+2 Kediler farelerden korkar.
+3 Kurtlar koyundan korkar.
+4 Jessica bir koyun.
+5 Gertrude bir koyun.
+6 Fareler kedilerden korkar.
+7 Emily bir fare.
+8 Winona bir kedi.
+9 Emily neyden korkar?	kedi	7 6
+10 Jessica neyden korkar?	kurt	4 1
+11 Gertrude neyden korkar?	kurt	5 1
+12 Jessica neyden korkar?	kurt	4 1
+1 Fareler kedilerden korkar.
+2 Koyunlar kurttan korkar.
+3 Kediler farelerden korkar.
+4 Gertrude bir koyun.
+5 Emily bir kedi.
+6 Jessica bir kedi.
+7 Kurtlar kediden korkar.
+8 Winona bir koyun.
+9 Gertrude neyden korkar?	kurt	4 2
+10 Jessica neyden korkar?	fare	6 3
+11 Winona neyden korkar?	kurt	8 2
+12 Jessica neyden korkar?	fare	6 3
+1 Kurtlar koyundan korkar.
+2 Koyun kedilerden korkar.
+3 Emily bir kurt.
+4 Jessica bir koyun.
+5 Kediler farelerden korkar.
+6 Fareler koyundan korkar.
+7 Winona bir koyun.
+8 Gertrude bir koyun.
+9 Emily neyden korkar?	koyun	3 1
+10 Jessica neyden korkar?	kedi	4 2
+11 Winona neyden korkar?	kedi	7 2
+12 Gertrude neyden korkar?	kedi	8 2
+1 Fareler koyundan korkar.
+2 Kediler farelerden korkar.
+3 Jessica bir kedi.
+4 Kurtlar farelerden korkar.
+5 Winona bir kedi.
+6 Emily bir kedi.
+7 Koyun kedilerden korkar.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	fare	6 2
+10 Gertrude neyden korkar?	fare	8 2
+11 Winona neyden korkar?	fare	5 2
+12 Gertrude neyden korkar?	fare	8 2
+1 Kurtlar kediden korkar.
+2 Kediler farelerden korkar.
+3 Fareler kedilerden korkar.
+4 Gertrude bir kurt.
+5 Emily bir kedi.
+6 Koyun farelerden korkar.
+7 Jessica bir fare.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	kedi	4 1
+10 Gertrude neyden korkar?	kedi	4 1
+11 Emily neyden korkar?	fare	5 2
+12 Gertrude neyden korkar?	kedi	4 1
+1 Kurtlar koyundan korkar.
+2 Koyun farelerden korkar.
+3 Kediler farelerden korkar.
+4 Gertrude bir kurt.
+5 Fareler kurttan korkar.
+6 Winona bir fare.
+7 Jessica bir fare.
+8 Emily bir fare.
+9 Winona neyden korkar?	kurt	6 5
+10 Jessica neyden korkar?	kurt	7 5
+11 Emily neyden korkar?	kurt	8 5
+12 Jessica neyden korkar?	kurt	7 5
+1 Kediler koyundan korkar.
+2 Fareler koyundan korkar.
+3 Emily bir fare.
+4 Gertrude bir kedi.
+5 Kurtlar farelerden korkar.
+6 Winona bir fare.
+7 Koyun farelerden korkar.
+8 Jessica bir kedi.
+9 Gertrude neyden korkar?	koyun	4 1
+10 Winona neyden korkar?	koyun	6 2
+11 Emily neyden korkar?	koyun	3 2
+12 Gertrude neyden korkar?	koyun	4 1
+1 Kediler farelerden korkar.
+2 Emily bir kedi.
+3 Winona bir kedi.
+4 Fareler kedilerden korkar.
+5 Koyunlar kurttan korkar.
+6 Jessica bir kedi.
+7 Kurtlar farelerden korkar.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	fare	2 1
+10 Gertrude neyden korkar?	kedi	8 4
+11 Jessica neyden korkar?	fare	6 1
+12 Emily neyden korkar?	fare	2 1
+1 Fareler koyundan korkar.
+2 Koyunlar kurttan korkar.
+3 Kediler koyundan korkar.
+4 Kurtlar koyundan korkar.
+5 Jessica bir fare.
+6 Emily bir kedi.
+7 Gertrude bir fare.
+8 Winona bir koyun.
+9 Gertrude neyden korkar?	koyun	7 1
+10 Gertrude neyden korkar?	koyun	7 1
+11 Emily neyden korkar?	koyun	6 3
+12 Winona neyden korkar?	kurt	8 2
+1 Kurtlar farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Emily bir koyun.
+4 Winona bir koyun.
+5 Kediler kurtlardan korkar.
+6 Jessica bir kedi.
+7 Fareler kedilerden korkar.
+8 Gertrude bir kurt.
+9 Winona neyden korkar?	kedi	4 2
+10 Gertrude neyden korkar?	fare	8 1
+11 Jessica neyden korkar?	kurt	6 5
+12 Winona neyden korkar?	kedi	4 2
+1 Fareler kurttan korkar.
+2 Koyun kedilerden korkar.
+3 Kurtlar kediden korkar.
+4 Emily bir fare.
+5 Jessica bir fare.
+6 Winona bir kurt.
+7 Kediler kurtlardan korkar.
+8 Gertrude bir koyun.
+9 Jessica neyden korkar?	kurt	5 1
+10 Gertrude neyden korkar?	kedi	8 2
+11 Gertrude neyden korkar?	kedi	8 2
+12 Gertrude neyden korkar?	kedi	8 2
+1 Fareler kedilerden korkar.
+2 Kurtlar farelerden korkar.
+3 Koyun kedilerden korkar.
+4 Gertrude bir fare.
+5 Emily bir kurt.
+6 Jessica bir koyun.
+7 Kediler kurtlardan korkar.
+8 Winona bir kurt.
+9 Emily neyden korkar?	fare	5 2
+10 Jessica neyden korkar?	kedi	6 3
+11 Winona neyden korkar?	fare	8 2
+12 Jessica neyden korkar?	kedi	6 3
+1 Fareler kedilerden korkar.
+2 Koyun farelerden korkar.
+3 Winona bir koyun.
+4 Gertrude bir koyun.
+5 Jessica bir fare.
+6 Kediler koyundan korkar.
+7 Emily bir kedi.
+8 Kurtlar farelerden korkar.
+9 Gertrude neyden korkar?	fare	4 2
+10 Gertrude neyden korkar?	fare	4 2
+11 Gertrude neyden korkar?	fare	4 2
+12 Emily neyden korkar?	koyun	7 6
+1 Kurtlar kediden korkar.
+2 Kediler farelerden korkar.
+3 Koyun kedilerden korkar.
+4 Jessica bir kedi.
+5 Emily bir kedi.
+6 Gertrude bir kurt.
+7 Winona bir kedi.
+8 Fareler kurttan korkar.
+9 Emily neyden korkar?	fare	5 2
+10 Winona neyden korkar?	fare	7 2
+11 Winona neyden korkar?	fare	7 2
+12 Jessica neyden korkar?	fare	4 2
+1 Fareler kedilerden korkar.
+2 Winona bir fare.
+3 Kediler kurtlardan korkar.
+4 Koyun farelerden korkar.
+5 Kurtlar koyundan korkar.
+6 Emily bir koyun.
+7 Gertrude bir kedi.
+8 Jessica bir kedi.
+9 Emily neyden korkar?	fare	6 4
+10 Winona neyden korkar?	kedi	2 1
+11 Winona neyden korkar?	kedi	2 1
+12 Emily neyden korkar?	fare	6 4
+1 Kediler koyundan korkar.
+2 Emily bir kedi.
+3 Koyun farelerden korkar.
+4 Kurtlar koyundan korkar.
+5 Jessica bir kurt.
+6 Fareler koyundan korkar.
+7 Winona bir fare.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	koyun	2 1
+10 Jessica neyden korkar?	koyun	5 4
+11 Winona neyden korkar?	koyun	7 6
+12 Gertrude neyden korkar?	koyun	8 1
+1 Fareler kedilerden korkar.
+2 Gertrude bir fare.
+3 Kediler farelerden korkar.
+4 Koyun farelerden korkar.
+5 Kurtlar farelerden korkar.
+6 Jessica bir koyun.
+7 Emily bir fare.
+8 Winona bir fare.
+9 Jessica neyden korkar?	fare	6 4
+10 Emily neyden korkar?	kedi	7 1
+11 Jessica neyden korkar?	fare	6 4
+12 Winona neyden korkar?	kedi	8 1
+1 Fareler kurttan korkar.
+2 Kurtlar koyundan korkar.
+3 Koyun farelerden korkar.
+4 Kediler farelerden korkar.
+5 Emily bir kedi.
+6 Jessica bir koyun.
+7 Winona bir koyun.
+8 Gertrude bir kurt.
+9 Emily neyden korkar?	fare	5 4
+10 Winona neyden korkar?	fare	7 3
+11 Gertrude neyden korkar?	koyun	8 2
+12 Jessica neyden korkar?	fare	6 3
+1 Kediler kurtlardan korkar.
+2 Fareler kedilerden korkar.
+3 Koyun farelerden korkar.
+4 Gertrude bir koyun.
+5 Kurtlar koyundan korkar.
+6 Winona bir fare.
+7 Jessica bir koyun.
+8 Emily bir kurt.
+9 Winona neyden korkar?	kedi	6 2
+10 Winona neyden korkar?	kedi	6 2
+11 Jessica neyden korkar?	fare	7 3
+12 Emily neyden korkar?	koyun	8 5
+1 Fareler kedilerden korkar.
+2 Kediler kurtlardan korkar.
+3 Winona bir kedi.
+4 Jessica bir fare.
+5 Koyunlar kurttan korkar.
+6 Emily bir fare.
+7 Gertrude bir koyun.
+8 Kurtlar farelerden korkar.
+9 Winona neyden korkar?	kurt	3 2
+10 Gertrude neyden korkar?	kurt	7 5
+11 Jessica neyden korkar?	kedi	4 1
+12 Jessica neyden korkar?	kedi	4 1
+1 Kurtlar farelerden korkar.
+2 Fareler kurttan korkar.
+3 Kediler koyundan korkar.
+4 Gertrude bir kurt.
+5 Koyunlar kurttan korkar.
+6 Emily bir kurt.
+7 Winona bir kedi.
+8 Jessica bir fare.
+9 Winona neyden korkar?	koyun	7 3
+10 Winona neyden korkar?	koyun	7 3
+11 Emily neyden korkar?	fare	6 1
+12 Jessica neyden korkar?	kurt	8 2
+1 Koyunlar kurttan korkar.
+2 Jessica bir koyun.
+3 Kurtlar koyundan korkar.
+4 Kediler koyundan korkar.
+5 Emily bir kurt.
+6 Gertrude bir kedi.
+7 Winona bir kurt.
+8 Fareler kurttan korkar.
+9 Gertrude neyden korkar?	koyun	6 4
+10 Gertrude neyden korkar?	koyun	6 4
+11 Winona neyden korkar?	koyun	7 3
+12 Jessica neyden korkar?	kurt	2 1
+1 Fareler kurttan korkar.
+2 Kurtlar kediden korkar.
+3 Koyun kedilerden korkar.
+4 Emily bir koyun.
+5 Winona bir koyun.
+6 Kediler farelerden korkar.
+7 Gertrude bir kedi.
+8 Jessica bir kedi.
+9 Emily neyden korkar?	kedi	4 3
+10 Winona neyden korkar?	kedi	5 3
+11 Jessica neyden korkar?	fare	8 6
+12 Gertrude neyden korkar?	fare	7 6
+1 Kurtlar kediden korkar.
+2 Fareler kedilerden korkar.
+3 Kediler kurtlardan korkar.
+4 Jessica bir kurt.
+5 Gertrude bir kurt.
+6 Winona bir fare.
+7 Emily bir fare.
+8 Koyunlar kurttan korkar.
+9 Emily neyden korkar?	kedi	7 2
+10 Jessica neyden korkar?	kedi	4 1
+11 Emily neyden korkar?	kedi	7 2
+12 Jessica neyden korkar?	kedi	4 1
+1 Fareler kurttan korkar.
+2 Jessica bir fare.
+3 Kurtlar koyundan korkar.
+4 Emily bir kurt.
+5 Winona bir kurt.
+6 Kediler farelerden korkar.
+7 Koyun kedilerden korkar.
+8 Gertrude bir koyun.
+9 Gertrude neyden korkar?	kedi	8 7
+10 Emily neyden korkar?	koyun	4 3
+11 Emily neyden korkar?	koyun	4 3
+12 Emily neyden korkar?	koyun	4 3
+1 Fareler kedilerden korkar.
+2 Kurtlar farelerden korkar.
+3 Koyun farelerden korkar.
+4 Emily bir koyun.
+5 Winona bir fare.
+6 Kediler kurtlardan korkar.
+7 Jessica bir koyun.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	fare	4 3
+10 Emily neyden korkar?	fare	4 3
+11 Emily neyden korkar?	fare	4 3
+12 Emily neyden korkar?	fare	4 3
+1 Koyun kedilerden korkar.
+2 Kurtlar koyundan korkar.
+3 Kediler farelerden korkar.
+4 Emily bir koyun.
+5 Fareler kurttan korkar.
+6 Winona bir kurt.
+7 Jessica bir fare.
+8 Gertrude bir fare.
+9 Jessica neyden korkar?	kurt	7 5
+10 Gertrude neyden korkar?	kurt	8 5
+11 Gertrude neyden korkar?	kurt	8 5
+12 Emily neyden korkar?	kedi	4 1
+1 Kediler farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Kurtlar kediden korkar.
+4 Fareler koyundan korkar.
+5 Jessica bir kurt.
+6 Gertrude bir kedi.
+7 Winona bir koyun.
+8 Emily bir kedi.
+9 Emily neyden korkar?	fare	8 1
+10 Jessica neyden korkar?	kedi	5 3
+11 Gertrude neyden korkar?	fare	6 1
+12 Winona neyden korkar?	kedi	7 2
+1 Fareler kurttan korkar.
+2 Kediler farelerden korkar.
+3 Kurtlar koyundan korkar.
+4 Emily bir fare.
+5 Winona bir kedi.
+6 Jessica bir kedi.
+7 Koyun kedilerden korkar.
+8 Gertrude bir kedi.
+9 Gertrude neyden korkar?	fare	8 2
+10 Jessica neyden korkar?	fare	6 2
+11 Jessica neyden korkar?	fare	6 2
+12 Gertrude neyden korkar?	fare	8 2
+1 Fareler koyundan korkar.
+2 Gertrude bir fare.
+3 Koyun farelerden korkar.
+4 Kurtlar koyundan korkar.
+5 Emily bir fare.
+6 Jessica bir koyun.
+7 Winona bir kurt.
+8 Kediler kurtlardan korkar.
+9 Emily neyden korkar?	koyun	5 1
+10 Gertrude neyden korkar?	koyun	2 1
+11 Jessica neyden korkar?	fare	6 3
+12 Emily neyden korkar?	koyun	5 1
+1 Fareler kurttan korkar.
+2 Emily bir fare.
+3 Kediler koyundan korkar.
+4 Gertrude bir fare.
+5 Winona bir kedi.
+6 Kurtlar koyundan korkar.
+7 Jessica bir kedi.
+8 Koyunlar kurttan korkar.
+9 Jessica neyden korkar?	koyun	7 3
+10 Winona neyden korkar?	koyun	5 3
+11 Winona neyden korkar?	koyun	5 3
+12 Emily neyden korkar?	kurt	2 1
+1 Kediler farelerden korkar.
+2 Koyunlar kurttan korkar.
+3 Kurtlar koyundan korkar.
+4 Gertrude bir kurt.
+5 Emily bir koyun.
+6 Fareler kedilerden korkar.
+7 Jessica bir kurt.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	koyun	4 3
+10 Winona neyden korkar?	kedi	8 6
+11 Gertrude neyden korkar?	koyun	4 3
+12 Jessica neyden korkar?	koyun	7 3
+1 Kurtlar farelerden korkar.
+2 Kediler farelerden korkar.
+3 Koyun kedilerden korkar.
+4 Fareler kurttan korkar.
+5 Winona bir kedi.
+6 Jessica bir kedi.
+7 Emily bir kedi.
+8 Gertrude bir koyun.
+9 Winona neyden korkar?	fare	5 2
+10 Gertrude neyden korkar?	kedi	8 3
+11 Jessica neyden korkar?	fare	6 2
+12 Emily neyden korkar?	fare	7 2
+1 Kediler koyundan korkar.
+2 Kurtlar kediden korkar.
+3 Gertrude bir kedi.
+4 Fareler kurttan korkar.
+5 Winona bir kedi.
+6 Jessica bir kurt.
+7 Koyun farelerden korkar.
+8 Emily bir fare.
+9 Gertrude neyden korkar?	koyun	3 1
+10 Jessica neyden korkar?	kedi	6 2
+11 Jessica neyden korkar?	kedi	6 2
+12 Winona neyden korkar?	koyun	5 1
+1 Fareler kedilerden korkar.
+2 Kurtlar kediden korkar.
+3 Gertrude bir fare.
+4 Jessica bir kurt.
+5 Kediler koyundan korkar.
+6 Winona bir fare.
+7 Koyunlar kurttan korkar.
+8 Emily bir fare.
+9 Emily neyden korkar?	kedi	8 1
+10 Jessica neyden korkar?	kedi	4 2
+11 Emily neyden korkar?	kedi	8 1
+12 Jessica neyden korkar?	kedi	4 2
+1 Fareler kedilerden korkar.
+2 Jessica bir fare.
+3 Winona bir fare.
+4 Kurtlar kediden korkar.
+5 Gertrude bir fare.
+6 Emily bir kurt.
+7 Koyun kedilerden korkar.
+8 Kediler koyundan korkar.
+9 Jessica neyden korkar?	kedi	2 1
+10 Winona neyden korkar?	kedi	3 1
+11 Emily neyden korkar?	kedi	6 4
+12 Winona neyden korkar?	kedi	3 1
+1 Kediler farelerden korkar.
+2 Fareler kedilerden korkar.
+3 Jessica bir kedi.
+4 Winona bir kedi.
+5 Koyun farelerden korkar.
+6 Kurtlar kediden korkar.
+7 Emily bir fare.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	kedi	7 2
+10 Emily neyden korkar?	kedi	7 2
+11 Gertrude neyden korkar?	kedi	8 2
+12 Emily neyden korkar?	kedi	7 2
+1 Koyun farelerden korkar.
+2 Kurtlar kediden korkar.
+3 Gertrude bir kurt.
+4 Jessica bir kurt.
+5 Fareler koyundan korkar.
+6 Winona bir koyun.
+7 Kediler koyundan korkar.
+8 Emily bir fare.
+9 Emily neyden korkar?	koyun	8 5
+10 Emily neyden korkar?	koyun	8 5
+11 Emily neyden korkar?	koyun	8 5
+12 Emily neyden korkar?	koyun	8 5
+1 Kurtlar koyundan korkar.
+2 Koyun farelerden korkar.
+3 Winona bir kurt.
+4 Kediler farelerden korkar.
+5 Fareler koyundan korkar.
+6 Jessica bir koyun.
+7 Emily bir kedi.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	fare	7 4
+10 Jessica neyden korkar?	fare	6 2
+11 Gertrude neyden korkar?	fare	8 4
+12 Gertrude neyden korkar?	fare	8 4
+1 Kurtlar farelerden korkar.
+2 Fareler koyundan korkar.
+3 Winona bir kurt.
+4 Gertrude bir kurt.
+5 Jessica bir kurt.
+6 Kediler farelerden korkar.
+7 Emily bir fare.
+8 Koyun farelerden korkar.
+9 Gertrude neyden korkar?	fare	4 1
+10 Winona neyden korkar?	fare	3 1
+11 Gertrude neyden korkar?	fare	4 1
+12 Emily neyden korkar?	koyun	7 2
+1 Kurtlar kediden korkar.
+2 Winona bir kurt.
+3 Kediler koyundan korkar.
+4 Emily bir kedi.
+5 Gertrude bir kurt.
+6 Koyun farelerden korkar.
+7 Fareler kedilerden korkar.
+8 Jessica bir koyun.
+9 Winona neyden korkar?	kedi	2 1
+10 Emily neyden korkar?	koyun	4 3
+11 Winona neyden korkar?	kedi	2 1
+12 Jessica neyden korkar?	fare	8 6
+1 Kurtlar koyundan korkar.
+2 Winona bir kurt.
+3 Fareler kedilerden korkar.
+4 Emily bir fare.
+5 Jessica bir kurt.
+6 Gertrude bir kurt.
+7 Koyun farelerden korkar.
+8 Kediler farelerden korkar.
+9 Winona neyden korkar?	koyun	2 1
+10 Jessica neyden korkar?	koyun	5 1
+11 Emily neyden korkar?	kedi	4 3
+12 Winona neyden korkar?	koyun	2 1
+1 Koyunlar kurttan korkar.
+2 Kurtlar koyundan korkar.
+3 Winona bir koyun.
+4 Kediler farelerden korkar.
+5 Emily bir koyun.
+6 Fareler kurttan korkar.
+7 Gertrude bir kedi.
+8 Jessica bir fare.
+9 Gertrude neyden korkar?	fare	7 4
+10 Emily neyden korkar?	kurt	5 1
+11 Jessica neyden korkar?	kurt	8 6
+12 Gertrude neyden korkar?	fare	7 4
+1 Kurtlar farelerden korkar.
+2 Koyun farelerden korkar.
+3 Kediler koyundan korkar.
+4 Jessica bir koyun.
+5 Winona bir kedi.
+6 Gertrude bir kedi.
+7 Fareler kurttan korkar.
+8 Emily bir kedi.
+9 Winona neyden korkar?	koyun	5 3
+10 Winona neyden korkar?	koyun	5 3
+11 Winona neyden korkar?	koyun	5 3
+12 Jessica neyden korkar?	fare	4 2
+1 Kurtlar kediden korkar.
+2 Kediler kurtlardan korkar.
+3 Gertrude bir kurt.
+4 Winona bir kurt.
+5 Koyun farelerden korkar.
+6 Emily bir koyun.
+7 Jessica bir koyun.
+8 Fareler kedilerden korkar.
+9 Winona neyden korkar?	kedi	4 1
+10 Winona neyden korkar?	kedi	4 1
+11 Emily neyden korkar?	fare	6 5
+12 Gertrude neyden korkar?	kedi	3 1
+1 Kurtlar farelerden korkar.
+2 Koyunlar kurttan korkar.
+3 Fareler koyundan korkar.
+4 Jessica bir kurt.
+5 Gertrude bir fare.
+6 Kediler kurtlardan korkar.
+7 Emily bir koyun.
+8 Winona bir kurt.
+9 Gertrude neyden korkar?	koyun	5 3
+10 Gertrude neyden korkar?	koyun	5 3
+11 Winona neyden korkar?	fare	8 1
+12 Emily neyden korkar?	kurt	7 2
+1 Kediler farelerden korkar.
+2 Fareler kurttan korkar.
+3 Kurtlar kediden korkar.
+4 Emily bir fare.
+5 Koyun kedilerden korkar.
+6 Jessica bir kedi.
+7 Gertrude bir kurt.
+8 Winona bir kurt.
+9 Winona neyden korkar?	kedi	8 3
+10 Gertrude neyden korkar?	kedi	7 3
+11 Gertrude neyden korkar?	kedi	7 3
+12 Jessica neyden korkar?	fare	6 1
+1 Fareler kedilerden korkar.
+2 Koyun kedilerden korkar.
+3 Emily bir koyun.
+4 Winona bir fare.
+5 Kurtlar kediden korkar.
+6 Gertrude bir kurt.
+7 Jessica bir kurt.
+8 Kediler farelerden korkar.
+9 Winona neyden korkar?	kedi	4 1
+10 Jessica neyden korkar?	kedi	7 5
+11 Winona neyden korkar?	kedi	4 1
+12 Emily neyden korkar?	kedi	3 2
+1 Fareler kedilerden korkar.
+2 Gertrude bir fare.
+3 Jessica bir fare.
+4 Winona bir fare.
+5 Kurtlar kediden korkar.
+6 Kediler farelerden korkar.
+7 Koyunlar kurttan korkar.
+8 Emily bir kurt.
+9 Gertrude neyden korkar?	kedi	2 1
+10 Gertrude neyden korkar?	kedi	2 1
+11 Emily neyden korkar?	kedi	8 5
+12 Emily neyden korkar?	kedi	8 5
+1 Kediler farelerden korkar.
+2 Koyun farelerden korkar.
+3 Winona bir kedi.
+4 Emily bir koyun.
+5 Gertrude bir koyun.
+6 Fareler kedilerden korkar.
+7 Kurtlar farelerden korkar.
+8 Jessica bir fare.
+9 Winona neyden korkar?	fare	3 1
+10 Winona neyden korkar?	fare	3 1
+11 Winona neyden korkar?	fare	3 1
+12 Winona neyden korkar?	fare	3 1
+1 Kediler kurtlardan korkar.
+2 Koyun kedilerden korkar.
+3 Gertrude bir kedi.
+4 Jessica bir koyun.
+5 Kurtlar koyundan korkar.
+6 Emily bir koyun.
+7 Fareler koyundan korkar.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	kurt	3 1
+10 Winona neyden korkar?	koyun	8 7
+11 Jessica neyden korkar?	kedi	4 2
+12 Emily neyden korkar?	kedi	6 2
+1 Fareler kedilerden korkar.
+2 Kurtlar farelerden korkar.
+3 Emily bir fare.
+4 Winona bir kurt.
+5 Kediler farelerden korkar.
+6 Jessica bir fare.
+7 Koyunlar kurttan korkar.
+8 Gertrude bir kedi.
+9 Winona neyden korkar?	fare	4 2
+10 Winona neyden korkar?	fare	4 2
+11 Winona neyden korkar?	fare	4 2
+12 Jessica neyden korkar?	kedi	6 1
+1 Koyun farelerden korkar.
+2 Jessica bir koyun.
+3 Kediler farelerden korkar.
+4 Kurtlar kediden korkar.
+5 Emily bir kedi.
+6 Winona bir kurt.
+7 Gertrude bir koyun.
+8 Fareler kurttan korkar.
+9 Winona neyden korkar?	kedi	6 4
+10 Winona neyden korkar?	kedi	6 4
+11 Jessica neyden korkar?	fare	2 1
+12 Winona neyden korkar?	kedi	6 4
+1 Kediler farelerden korkar.
+2 Fareler kedilerden korkar.
+3 Jessica bir fare.
+4 Kurtlar kediden korkar.
+5 Emily bir kurt.
+6 Gertrude bir kurt.
+7 Koyun kedilerden korkar.
+8 Winona bir fare.
+9 Jessica neyden korkar?	kedi	3 2
+10 Jessica neyden korkar?	kedi	3 2
+11 Gertrude neyden korkar?	kedi	6 4
+12 Jessica neyden korkar?	kedi	3 2
+1 Koyun farelerden korkar.
+2 Fareler koyundan korkar.
+3 Kediler koyundan korkar.
+4 Winona bir kedi.
+5 Gertrude bir fare.
+6 Kurtlar farelerden korkar.
+7 Emily bir kurt.
+8 Jessica bir kedi.
+9 Emily neyden korkar?	fare	7 6
+10 Winona neyden korkar?	koyun	4 3
+11 Winona neyden korkar?	koyun	4 3
+12 Gertrude neyden korkar?	koyun	5 2
+1 Fareler kedilerden korkar.
+2 Gertrude bir fare.
+3 Koyunlar kurttan korkar.
+4 Kurtlar kediden korkar.
+5 Winona bir kurt.
+6 Jessica bir koyun.
+7 Kediler koyundan korkar.
+8 Emily bir fare.
+9 Emily neyden korkar?	kedi	8 1
+10 Gertrude neyden korkar?	kedi	2 1
+11 Gertrude neyden korkar?	kedi	2 1
+12 Gertrude neyden korkar?	kedi	2 1
+1 Fareler kedilerden korkar.
+2 Koyun farelerden korkar.
+3 Emily bir koyun.
+4 Kurtlar koyundan korkar.
+5 Jessica bir fare.
+6 Gertrude bir koyun.
+7 Kediler kurtlardan korkar.
+8 Winona bir kedi.
+9 Winona neyden korkar?	kurt	8 7
+10 Emily neyden korkar?	fare	3 2
+11 Winona neyden korkar?	kurt	8 7
+12 Emily neyden korkar?	fare	3 2
+1 Kurtlar kediden korkar.
+2 Kediler koyundan korkar.
+3 Fareler koyundan korkar.
+4 Koyunlar kurttan korkar.
+5 Winona bir koyun.
+6 Jessica bir koyun.
+7 Gertrude bir fare.
+8 Emily bir kedi.
+9 Winona neyden korkar?	kurt	5 4
+10 Gertrude neyden korkar?	koyun	7 3
+11 Gertrude neyden korkar?	koyun	7 3
+12 Gertrude neyden korkar?	koyun	7 3
+1 Kurtlar farelerden korkar.
+2 Koyun kedilerden korkar.
+3 Winona bir koyun.
+4 Gertrude bir koyun.
+5 Kediler farelerden korkar.
+6 Emily bir koyun.
+7 Jessica bir koyun.
+8 Fareler kurttan korkar.
+9 Jessica neyden korkar?	kedi	7 2
+10 Gertrude neyden korkar?	kedi	4 2
+11 Gertrude neyden korkar?	kedi	4 2
+12 Jessica neyden korkar?	kedi	7 2
+1 Koyunlar kurttan korkar.
+2 Kurtlar farelerden korkar.
+3 Fareler kurttan korkar.
+4 Gertrude bir fare.
+5 Kediler kurtlardan korkar.
+6 Emily bir koyun.
+7 Jessica bir kurt.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	kurt	4 3
+10 Emily neyden korkar?	kurt	6 1
+11 Gertrude neyden korkar?	kurt	4 3
+12 Emily neyden korkar?	kurt	6 1
+1 Fareler kurttan korkar.
+2 Kediler kurtlardan korkar.
+3 Jessica bir fare.
+4 Kurtlar koyundan korkar.
+5 Koyunlar kurttan korkar.
+6 Gertrude bir kedi.
+7 Winona bir fare.
+8 Emily bir kedi.
+9 Winona neyden korkar?	kurt	7 1
+10 Gertrude neyden korkar?	kurt	6 2
+11 Jessica neyden korkar?	kurt	3 1
+12 Winona neyden korkar?	kurt	7 1
+1 Kurtlar kediden korkar.
+2 Fareler koyundan korkar.
+3 Kediler farelerden korkar.
+4 Koyun kedilerden korkar.
+5 Gertrude bir koyun.
+6 Jessica bir kedi.
+7 Emily bir fare.
+8 Winona bir fare.
+9 Winona neyden korkar?	koyun	8 2
+10 Emily neyden korkar?	koyun	7 2
+11 Jessica neyden korkar?	fare	6 3
+12 Gertrude neyden korkar?	kedi	5 4
+1 Koyun kedilerden korkar.
+2 Kediler farelerden korkar.
+3 Kurtlar farelerden korkar.
+4 Jessica bir koyun.
+5 Gertrude bir koyun.
+6 Winona bir koyun.
+7 Emily bir kedi.
+8 Fareler kedilerden korkar.
+9 Winona neyden korkar?	kedi	6 1
+10 Gertrude neyden korkar?	kedi	5 1
+11 Jessica neyden korkar?	kedi	4 1
+12 Jessica neyden korkar?	kedi	4 1
+1 Kurtlar kediden korkar.
+2 Kediler koyundan korkar.
+3 Fareler koyundan korkar.
+4 Emily bir kurt.
+5 Jessica bir kurt.
+6 Koyun farelerden korkar.
+7 Gertrude bir kurt.
+8 Winona bir kurt.
+9 Jessica neyden korkar?	kedi	5 1
+10 Gertrude neyden korkar?	kedi	7 1
+11 Gertrude neyden korkar?	kedi	7 1
+12 Gertrude neyden korkar?	kedi	7 1
+1 Koyun farelerden korkar.
+2 Jessica bir koyun.
+3 Kediler kurtlardan korkar.
+4 Kurtlar farelerden korkar.
+5 Gertrude bir koyun.
+6 Emily bir kurt.
+7 Winona bir koyun.
+8 Fareler kedilerden korkar.
+9 Gertrude neyden korkar?	fare	5 1
+10 Gertrude neyden korkar?	fare	5 1
+11 Emily neyden korkar?	fare	6 4
+12 Emily neyden korkar?	fare	6 4
+1 Koyun kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Emily bir kedi.
+4 Winona bir kedi.
+5 Gertrude bir kedi.
+6 Fareler kedilerden korkar.
+7 Kurtlar farelerden korkar.
+8 Jessica bir kedi.
+9 Gertrude neyden korkar?	koyun	5 2
+10 Emily neyden korkar?	koyun	3 2
+11 Winona neyden korkar?	koyun	4 2
+12 Jessica neyden korkar?	koyun	8 2
+1 Fareler koyundan korkar.
+2 Koyun kedilerden korkar.
+3 Kurtlar kediden korkar.
+4 Emily bir koyun.
+5 Jessica bir koyun.
+6 Winona bir fare.
+7 Kediler koyundan korkar.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	kedi	4 2
+10 Emily neyden korkar?	kedi	4 2
+11 Gertrude neyden korkar?	koyun	8 1
+12 Jessica neyden korkar?	kedi	5 2
+1 Koyunlar kurttan korkar.
+2 Kurtlar farelerden korkar.
+3 Emily bir koyun.
+4 Kediler koyundan korkar.
+5 Jessica bir kurt.
+6 Winona bir koyun.
+7 Fareler koyundan korkar.
+8 Gertrude bir kurt.
+9 Gertrude neyden korkar?	fare	8 2
+10 Jessica neyden korkar?	fare	5 2
+11 Jessica neyden korkar?	fare	5 2
+12 Emily neyden korkar?	kurt	3 1
+1 Fareler kedilerden korkar.
+2 Koyun kedilerden korkar.
+3 Emily bir koyun.
+4 Kurtlar kediden korkar.
+5 Kediler koyundan korkar.
+6 Gertrude bir kedi.
+7 Jessica bir fare.
+8 Winona bir kedi.
+9 Winona neyden korkar?	koyun	8 5
+10 Gertrude neyden korkar?	koyun	6 5
+11 Gertrude neyden korkar?	koyun	6 5
+12 Emily neyden korkar?	kedi	3 2
+1 Kurtlar farelerden korkar.
+2 Fareler kurttan korkar.
+3 Kediler kurtlardan korkar.
+4 Emily bir kurt.
+5 Gertrude bir kedi.
+6 Jessica bir kedi.
+7 Koyun kedilerden korkar.
+8 Winona bir fare.
+9 Gertrude neyden korkar?	kurt	5 3
+10 Winona neyden korkar?	kurt	8 2
+11 Emily neyden korkar?	fare	4 1
+12 Winona neyden korkar?	kurt	8 2
+1 Kediler koyundan korkar.
+2 Koyun farelerden korkar.
+3 Kurtlar koyundan korkar.
+4 Jessica bir kurt.
+5 Winona bir koyun.
+6 Emily bir koyun.
+7 Gertrude bir kedi.
+8 Fareler kedilerden korkar.
+9 Emily neyden korkar?	fare	6 2
+10 Jessica neyden korkar?	koyun	4 3
+11 Jessica neyden korkar?	koyun	4 3
+12 Gertrude neyden korkar?	koyun	7 1
+1 Fareler kedilerden korkar.
+2 Kurtlar kediden korkar.
+3 Kediler kurtlardan korkar.
+4 Koyun farelerden korkar.
+5 Jessica bir kurt.
+6 Emily bir kedi.
+7 Winona bir kedi.
+8 Gertrude bir kedi.
+9 Gertrude neyden korkar?	kurt	8 3
+10 Gertrude neyden korkar?	kurt	8 3
+11 Emily neyden korkar?	kurt	6 3
+12 Jessica neyden korkar?	kedi	5 2
+1 Kurtlar farelerden korkar.
+2 Koyun farelerden korkar.
+3 Gertrude bir kurt.
+4 Winona bir kurt.
+5 Kediler kurtlardan korkar.
+6 Jessica bir koyun.
+7 Emily bir kedi.
+8 Fareler kedilerden korkar.
+9 Emily neyden korkar?	kurt	7 5
+10 Emily neyden korkar?	kurt	7 5
+11 Jessica neyden korkar?	fare	6 2
+12 Winona neyden korkar?	fare	4 1
+1 Koyun kedilerden korkar.
+2 Fareler koyundan korkar.
+3 Jessica bir fare.
+4 Kurtlar kediden korkar.
+5 Winona bir kurt.
+6 Kediler farelerden korkar.
+7 Emily bir kedi.
+8 Gertrude bir kurt.
+9 Winona neyden korkar?	kedi	5 4
+10 Emily neyden korkar?	fare	7 6
+11 Emily neyden korkar?	fare	7 6
+12 Gertrude neyden korkar?	kedi	8 4
+1 Kediler kurtlardan korkar.
+2 Gertrude bir kedi.
+3 Kurtlar farelerden korkar.
+4 Koyunlar kurttan korkar.
+5 Fareler koyundan korkar.
+6 Winona bir koyun.
+7 Emily bir koyun.
+8 Jessica bir koyun.
+9 Winona neyden korkar?	kurt	6 4
+10 Emily neyden korkar?	kurt	7 4
+11 Jessica neyden korkar?	kurt	8 4
+12 Emily neyden korkar?	kurt	7 4
+1 Fareler kurttan korkar.
+2 Kurtlar kediden korkar.
+3 Kediler farelerden korkar.
+4 Emily bir kurt.
+5 Koyun kedilerden korkar.
+6 Winona bir kedi.
+7 Jessica bir koyun.
+8 Gertrude bir kedi.
+9 Emily neyden korkar?	kedi	4 2
+10 Emily neyden korkar?	kedi	4 2
+11 Jessica neyden korkar?	kedi	7 5
+12 Emily neyden korkar?	kedi	4 2
+1 Kediler kurtlardan korkar.
+2 Gertrude bir kedi.
+3 Koyun kedilerden korkar.
+4 Jessica bir koyun.
+5 Emily bir koyun.
+6 Fareler kurttan korkar.
+7 Kurtlar farelerden korkar.
+8 Winona bir kedi.
+9 Gertrude neyden korkar?	kurt	2 1
+10 Jessica neyden korkar?	kedi	4 3
+11 Jessica neyden korkar?	kedi	4 3
+12 Gertrude neyden korkar?	kurt	2 1
+1 Kediler kurtlardan korkar.
+2 Jessica bir kedi.
+3 Kurtlar farelerden korkar.
+4 Fareler kurttan korkar.
+5 Koyun kedilerden korkar.
+6 Emily bir fare.
+7 Gertrude bir koyun.
+8 Winona bir fare.
+9 Emily neyden korkar?	kurt	6 4
+10 Winona neyden korkar?	kurt	8 4
+11 Emily neyden korkar?	kurt	6 4
+12 Winona neyden korkar?	kurt	8 4
+1 Fareler kurttan korkar.
+2 Koyun farelerden korkar.
+3 Gertrude bir fare.
+4 Winona bir koyun.
+5 Kediler farelerden korkar.
+6 Jessica bir koyun.
+7 Kurtlar kediden korkar.
+8 Emily bir kurt.
+9 Emily neyden korkar?	kedi	8 7
+10 Jessica neyden korkar?	fare	6 2
+11 Emily neyden korkar?	kedi	8 7
+12 Emily neyden korkar?	kedi	8 7
+1 Kurtlar kediden korkar.
+2 Jessica bir kurt.
+3 Emily bir kurt.
+4 Gertrude bir kurt.
+5 Koyun farelerden korkar.
+6 Winona bir kurt.
+7 Kediler farelerden korkar.
+8 Fareler koyundan korkar.
+9 Emily neyden korkar?	kedi	3 1
+10 Winona neyden korkar?	kedi	6 1
+11 Gertrude neyden korkar?	kedi	4 1
+12 Gertrude neyden korkar?	kedi	4 1
+1 Fareler kedilerden korkar.
+2 Jessica bir fare.
+3 Koyun kedilerden korkar.
+4 Winona bir koyun.
+5 Kurtlar farelerden korkar.
+6 Kediler koyundan korkar.
+7 Emily bir koyun.
+8 Gertrude bir fare.
+9 Gertrude neyden korkar?	kedi	8 1
+10 Winona neyden korkar?	kedi	4 3
+11 Emily neyden korkar?	kedi	7 3
+12 Gertrude neyden korkar?	kedi	8 1
+1 Koyun farelerden korkar.
+2 Winona bir koyun.
+3 Fareler kedilerden korkar.
+4 Emily bir fare.
+5 Kediler kurtlardan korkar.
+6 Kurtlar kediden korkar.
+7 Gertrude bir fare.
+8 Jessica bir kurt.
+9 Winona neyden korkar?	fare	2 1
+10 Gertrude neyden korkar?	kedi	7 3
+11 Emily neyden korkar?	kedi	4 3
+12 Jessica neyden korkar?	kedi	8 6
+1 Kurtlar koyundan korkar.
+2 Koyun kedilerden korkar.
+3 Jessica bir kurt.
+4 Emily bir kurt.
+5 Kediler farelerden korkar.
+6 Gertrude bir kurt.
+7 Winona bir kedi.
+8 Fareler kurttan korkar.
+9 Emily neyden korkar?	koyun	4 1
+10 Gertrude neyden korkar?	koyun	6 1
+11 Winona neyden korkar?	fare	7 5
+12 Winona neyden korkar?	fare	7 5
+1 Fareler koyundan korkar.
+2 Koyunlar kurttan korkar.
+3 Emily bir koyun.
+4 Kediler farelerden korkar.
+5 Jessica bir koyun.
+6 Gertrude bir fare.
+7 Kurtlar farelerden korkar.
+8 Winona bir kedi.
+9 Winona neyden korkar?	fare	8 4
+10 Gertrude neyden korkar?	koyun	6 1
+11 Winona neyden korkar?	fare	8 4
+12 Gertrude neyden korkar?	koyun	6 1
+1 Kurtlar farelerden korkar.
+2 Kediler koyundan korkar.
+3 Koyunlar kurttan korkar.
+4 Jessica bir kedi.
+5 Fareler kurttan korkar.
+6 Emily bir koyun.
+7 Winona bir kedi.
+8 Gertrude bir fare.
+9 Emily neyden korkar?	kurt	6 3
+10 Winona neyden korkar?	koyun	7 2
+11 Jessica neyden korkar?	koyun	4 2
+12 Emily neyden korkar?	kurt	6 3
+1 Koyun kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Jessica bir koyun.
+4 Gertrude bir koyun.
+5 Fareler kurttan korkar.
+6 Kurtlar koyundan korkar.
+7 Emily bir kurt.
+8 Winona bir kedi.
+9 Winona neyden korkar?	koyun	8 2
+10 Gertrude neyden korkar?	kedi	4 1
+11 Winona neyden korkar?	koyun	8 2
+12 Emily neyden korkar?	koyun	7 6
+1 Kediler farelerden korkar.
+2 Kurtlar koyundan korkar.
+3 Winona bir kurt.
+4 Koyunlar kurttan korkar.
+5 Jessica bir kedi.
+6 Fareler kedilerden korkar.
+7 Gertrude bir kedi.
+8 Emily bir fare.
+9 Gertrude neyden korkar?	fare	7 1
+10 Jessica neyden korkar?	fare	5 1
+11 Jessica neyden korkar?	fare	5 1
+12 Jessica neyden korkar?	fare	5 1
+1 Kediler koyundan korkar.
+2 Koyun farelerden korkar.
+3 Kurtlar koyundan korkar.
+4 Gertrude bir kedi.
+5 Winona bir kedi.
+6 Emily bir koyun.
+7 Jessica bir kedi.
+8 Fareler kedilerden korkar.
+9 Winona neyden korkar?	koyun	5 1
+10 Jessica neyden korkar?	koyun	7 1
+11 Gertrude neyden korkar?	koyun	4 1
+12 Emily neyden korkar?	fare	6 2
+1 Fareler kedilerden korkar.
+2 Kediler koyundan korkar.
+3 Koyunlar kurttan korkar.
+4 Winona bir koyun.
+5 Emily bir kedi.
+6 Jessica bir fare.
+7 Kurtlar koyundan korkar.
+8 Gertrude bir kurt.
+9 Gertrude neyden korkar?	koyun	8 7
+10 Gertrude neyden korkar?	koyun	8 7
+11 Emily neyden korkar?	koyun	5 2
+12 Jessica neyden korkar?	kedi	6 1
+1 Kediler koyundan korkar.
+2 Fareler kedilerden korkar.
+3 Gertrude bir kedi.
+4 Koyunlar kurttan korkar.
+5 Kurtlar farelerden korkar.
+6 Jessica bir kurt.
+7 Emily bir koyun.
+8 Winona bir fare.
+9 Jessica neyden korkar?	fare	6 5
+10 Jessica neyden korkar?	fare	6 5
+11 Emily neyden korkar?	kurt	7 4
+12 Emily neyden korkar?	kurt	7 4
+1 Kurtlar kediden korkar.
+2 Koyun farelerden korkar.
+3 Fareler kurttan korkar.
+4 Kediler kurtlardan korkar.
+5 Gertrude bir koyun.
+6 Emily bir kurt.
+7 Jessica bir fare.
+8 Winona bir kurt.
+9 Gertrude neyden korkar?	fare	5 2
+10 Gertrude neyden korkar?	fare	5 2
+11 Winona neyden korkar?	kedi	8 1
+12 Emily neyden korkar?	kedi	6 1

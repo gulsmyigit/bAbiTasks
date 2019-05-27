@@ -1,0 +1,2209 @@
+1 Çikolata kutusu sandığın içine sığar.
+2 Kutu sandıktan büyüktür.
+3 Kutu bavuldan daha büyüktür.
+4 Bavul kutunun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Kutu çikolata kutusunun içine sığar mı?	hayır	1 2
+7 Çikolata kutusu kutudan daha büyük mü?	hayır	1 2
+8 Kutu çikolata kutusundan büyük müdür?	evet	2 1
+9 Çikolata kutusu kutunun içine sığar mı?	evet	2 1
+10 Kutu çikolata kutusunun içine sığar mı?	hayır	1 2
+1 Konteyner bavulun içine sığar.
+2 Konteyner bavulun içine sığar.
+3 Çikolata sandığın içine sığar.
+4 Çikolata kutusu bavulun içine sığar.
+5 Çikolata kutunun içine sığar.
+6 Çikolata konteynerın içine sığar.
+7 Çikolata kutusu bavulun içine sığar.
+8 Konteyner bavulun içine sığar.
+9 Çikolata kutunun içine sığar.
+10 Bavul çikolatadan daha büyüktür.
+11 Çikolata bavuldan büyük mü?	hayır	6 1
+12 Bavul çikolatanın içine sığar mı?	hayır	6 1
+13 Bavul çikolatanın içine sığar mı?	hayır	6 1
+14 Bavul çikolatanın içine sığar mı?	hayır	6 1
+15 Çikolata sandığın içine sığar.
+16 Konteyner kutunun daha büyüktür.
+17 Çikolata kutusu sandığın içine sığar.
+18 sandık konteynerın içine sığar.
+19 Kutu konteynerın içine sığar.
+20 Konteyner çikolatadan büyük mü?	evet	19 5
+21 Çikolata konteynerın içine sığar mı?	evet	19 5
+22 Çikolata bavuldan büyük mü?	hayır	6 1
+23 Konteyner çikolatadan büyük mü?	evet	19 5
+24 sandık bavuldan büyük mü?		18 1
+1 Bavul Konteynerdan daha büyüktür.
+2 Konteyner kutunun içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Bavul kutunun içine sığar.
+5 sandık kutunun içine sığar.
+6 Çikolata kutunun içine sığar mı?	evet	5 3
+7 Çikolata kutunun içine sığar mı?	evet	5 3
+8 Kutu konteynerın içine sığar mı?	hayır	1 4
+9 Kutu çikolatadan daha büyük mü?	evet	5 3
+10 Kutu çikolatanın içine sığar mı?	hayır	3 5
+1 Bavul sandığın içine sığar.
+2 Çikolata bavulun içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Bavul kutunun içine sığar.
+6 sandık çikolataya sığar mı?	hayır	2 1
+7 Çikolata sandıktan büyük mü?	hayır	2 1
+8 Çikolata sandığın içine sığar mı?	evet	1 2
+9 Çikolata sandığın içine sığar mı?	evet	1 2
+10 Çikolata sandığın içine sığar mı?	evet	1 2
+1 Çikolata çikolata kutusunun içine sığar.
+2 Bavul kutunun içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 Kutu çikolatadan daha büyük mü?	evet	4 1
+7 Çikolata kutusu kutudan daha büyük mü?	hayır	5 2
+8 Çikolata kutudan büyük mü?	hayır	1 4
+9 Kutu çikolatanın içine sığar mı?	hayır	1 4
+10 Kutu çikolata kutusunun içine sığar mı?	hayır	5 2
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Konteyner sandığın içine sığar.
+3 Çikolata konteynerın içine sığar.
+4 Çikolata kutusu kutunun içine sığar.
+5 Çikolata kutunun içine sığar.
+6 sandık çikolataya sığar mı?	hayır	3 2
+7 sandık çikolataya sığar mı?	hayır	3 2
+8 Çikolata sandıktan büyük mü?	hayır	3 2
+9 sandık çikolataya sığar mı?	hayır	3 2
+10 sandık çikolatadan büyük mü?	evet	2 3
+1 Bavul çikolatadan daha büyüktür.
+2 Çikolata kutusu bavulun içine sığar.
+3 Bavul sandığın içine sığar.
+4 Çikolata kutusu kutunun içine sığar.
+5 sandık çikolatadan daha büyüktür.
+6 sandık çikolatadan büyük mü?	evet	3 1
+7 Çikolata sandığın içine sığar mı?	evet	3 1
+8 sandık çikolatadan büyük mü?	evet	3 1
+9 Çikolata sandığın içine sığar mı?	evet	3 1
+10 Çikolata sandığın içine sığar mı?	evet	3 1
+1 Çikolata kutusu bavulun içine sığar.
+2 Çikolata sandığın içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Çikolata kutunun içine sığar.
+6 Konteyner sandıktan daha büyüktür.
+7 Çikolata kutusu çikolatadan daha büyüktür.
+8 Çikolata bavulun içine sığar.
+9 sandık kutunun içine sığar.
+10 Kutu Konteynerdan daha büyüktür.
+11 Çikolata kutunun içine sığar mı?	evet	9 2
+12 Kutu çikolatadan daha büyük mü?	evet	9 2
+13 Çikolata kutusu kutunun içine sığar mı?	evet	10 4
+14 Çikolata bavuldan büyük mü?	hayır	7 1
+15 Çikolata bavuldan büyük mü?	hayır	7 1
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Bavul çikolatadan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Çikolata kutusu çikolatadan daha büyüktür.
+6 Kutu çikolatanın içine sığar mı?	hayır	2 1
+7 Çikolata kutudan büyük mü?	hayır	5 1
+8 Çikolata kutudan büyük mü?	hayır	2 1
+9 Kutu çikolatadan daha büyük mü?	evet	1 2
+10 Çikolata kutudan büyük mü?	hayır	5 1
+1 sandık çikolata kutusundan daha büyüktür.
+2 Kutu, çikolata kutusundan daha büyüktür.
+3 Çikolata kutusu çikolatadan daha büyüktür.
+4 Konteyner sandıktan daha büyüktür.
+5 Bavul kutudan daha büyüktür.
+6 Çikolata sandıktan büyük mü?	hayır	3 1
+7 Bavul çikolata kutusundan daha büyüktür.	yes	5 2
+8 Çikolata kutusu bavulun içine sığar mı?	evet	5 2
+9 Çikolata kutusu bavulun içine sığar mı?	evet	5 2
+10 Konteyner çikolata kutusunun içine sığar mı?	hayır	1 4
+1 sandık kutunun içine sığar.
+2 Konteyner bavulun içine sığar.
+3 Konteyner sandıktan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Bavul çikolata kutusunun içine sığar mı?	hayır	5 2
+7 sandık bavuldan büyük mü?	hayır	1 4
+8 Bavul çikolata kutusunun içine sığar mı?	hayır	5 2
+9 sandık bavulun içine sığar mı?	evet	4 1
+10 Bavul sandığın içine sığar mı?	evet	4 1
+1 Kutu bavulun içine sığar.
+2 Kutu konteynerın içine sığar.
+3 sandık kutunun içine sığar.
+4 Konteyner, çikolata kutusundan daha büyüktür.
+5 Çikolata kutusu çikolatadan daha büyüktür.
+6 Konteyner çikolatanın içine sığar mı?	hayır	5 4
+7 Konteyner çikolatadan büyük mü?	evet	4 5
+8 Konteyner çikolatadan büyük mü?	evet	4 5
+9 Çikolata konteynerın içine sığar mı?	evet	4 5
+10 Çikolata Konteynerdan büyük mü?	hayır	5 4
+1 Bavul çikolata kutusundan daha büyüktür.
+2 sandık kutunun içine sığar.
+3 Kutu konteynerın içine sığar.
+4 Bavul kutudan daha büyüktür.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 Göğüs Konteynerdan büyük mü?	hayır	2 3
+7 sandık konteynerın içine sığar mı?	evet	3 2
+8 sandık konteynerın içine sığar mı?	evet	3 2
+9 sandık konteynerın içine sığar mı?	evet	3 2
+10 Bavul sandığın içine sığar mı?	evet	4 2
+1 Kutu Konteynerdan daha büyüktür.
+2 Çikolata bavulun içine sığar.
+3 Kutu Konteynerdan daha büyüktür.
+4 Konteyner kutunun içine sığar.
+5 sandık Konteynerdan daha büyüktür.
+6 Konteyner, çikolata kutusundan daha büyüktür.
+7 Çikolata kutusu çikolatadan daha büyüktür.
+8 Çikolata kutusu kutunun içine sığar.
+9 Konteyner, bavuldan daha büyüktür.
+10 Kutu, çikolata kutusundan daha büyüktür.
+11 Konteyner çikolatadan büyük mü?	evet	6 7
+12 Konteyner çikolatanın içine sığar mı?	hayır	2 9
+13 Kutu bavulun içine sığar mı?	hayır	9 1
+14 Çikolata konteynerın içine sığar mı?	evet	9 2
+15 Çikolata Konteynerdan büyük mü?	hayır	7 6
+1 sandık konteynerın içine sığar.
+2 sandık çikolata kutusundan daha büyüktür.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Çikolata bavulun içine sığar.
+5 sandık konteynerın içine sığar.
+6 Konteyner çikolata kutusunun içine sığar mı?	hayır	3 1
+7 Çikolata kutusu konteynerdan büyük mü?	hayır	3 1
+8 Çikolata kutusu konteynerdan büyük mü?	hayır	2 1
+9 Konteyner çikolata kutusundan büyük mü?	evet	1 2
+10 Çikolata kutusu konteynerdan büyük mü?	hayır	3 1
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Kutu bavuldan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 Çikolata bavulun içine sığar.
+5 Çikolata kutusu sandığın içine sığar.
+6 Çikolata kutusu kutunun içine sığar mı?	evet	2 1
+7 Çikolata kutusu kutudan daha büyük mü?	hayır	1 2
+8 Kutu çikolata kutusundan büyük müdür?	evet	2 1
+9 Çikolata kutusu kutunun içine sığar mı?	evet	2 1
+10 Kutu çikolata kutusunun içine sığar mı?	hayır	1 2
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Çikolata konteynerın içine sığar.
+3 Konteyner sandıktan daha büyüktür.
+4 sandık bavulun içine sığar.
+5 Konteyner kutunun daha büyüktür.
+6 Konteyner, çikolata kutusundan daha büyüktür.
+7 Kutu bavulun içine sığar.
+8 Kutu sandığın içine sığar.
+9 Çikolata kutusu bavulun içine sığar.
+10 Çikolata çikolata kutusunun içine sığar.
+11 Konteyner kutunun içine sığar mı?	hayır	8 3
+12 Konteyner çikolatadan büyük mü?	evet	6 1
+13 Konteyner kutunun içine sığar mı?	hayır	8 3
+14 Konteyner kutunun içine sığar mı?	hayır	8 3
+15 Çikolata bavulun içine sığar mı?	evet	9 1
+1 Konteyner bavulun içine sığar.
+2 Çikolata kutusu sandığın içine sığar.
+3 Çikolata kutusu çikolatadan daha büyüktür.
+4 Bavul Konteynerdan daha büyüktür.
+5 Konteyner sandığın içine sığar.
+6 Çikolata sandıktan büyük mü?	hayır	3 2
+7 sandık çikolatadan büyük mü?	evet	2 3
+8 sandık çikolatadan büyük mü?	evet	2 3
+9 Çikolata sandığın içine sığar mı?	evet	2 3
+10 sandık çikolatadan büyük mü?	evet	2 3
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Çikolata kutusu bavulun içine sığar.
+3 Çikolata sandığın içine sığar.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 sandık çikolatadan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar.
+7 Kutu, çikolata kutusundan daha büyüktür.
+8 sandık Konteynerdan daha büyüktür.
+9 Bavul kutudan daha büyüktür.
+10 Çikolata konteynerın içine sığar.
+11 sandık çikolataya sığar mı?		10 8
+12 sandık çikolatadan büyük mü?	evet	8 10
+13 Çikolata kutusu bavulun içine sığar mı?	evet	9 4
+14 Çikolata sandıktan büyük mü?		10 8
+15 sandık çikolatadan büyük mü?	evet	8 10
+1 Çikolata kutusu bavulun içine sığar.
+2 Çikolata bavulun içine sığar.
+3 Bavul konteynerın içine sığar.
+4 Bavul çikolatadan daha büyüktür.
+5 Konteyner, bavuldan daha büyüktür.
+6 Çikolata kutusu konteynerın içine sığar mı?	evet	5 1
+7 Çikolata kutusu konteynerın içine sığar mı?	evet	5 1
+8 Çikolata kutusu konteynerın içine sığar mı?	evet	5 1
+9 Çikolata kutusu konteynerın içine sığar mı?	evet	5 1
+10 Konteyner çikolata kutusundan büyük mü?	evet	5 1
+1 Bavul çikolatadan daha büyüktür.
+2 sandık çikolatadan daha büyüktür.
+3 Konteyner sandığın içine sığar.
+4 Çikolata kutunun içine sığar.
+5 Kutu bavulun içine sığar.
+6 Çikolata bavuldan büyük mü?	hayır	4 5
+7 Çikolata bavulun içine sığar mı?	evet	5 4
+8 Bavul çikolatadan büyük mü?	evet	5 4
+9 Çikolata bavuldan büyük mü?	hayır	4 5
+10 Bavul çikolatadan büyük mü?	evet	5 4
+1 Çikolata kutusu sandığın içine sığar.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Kutu konteynerın içine sığar.
+4 Bavul sandığın içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Bavul çikolata kutusundan daha büyüktür.
+7 Çikolata kutusu sandığın içine sığar.
+8 sandık bavuldan daha büyüktür.
+9 Çikolata kutusu çikolatadan daha büyüktür.
+10 Kutu çikolatadan daha büyüktür.
+11 Çikolata sandıktan büyük mü?	hayır	9 1
+12 Çikolata Konteynerdan büyük mü?		10 3
+13 sandık çikolata kutusundan daha büyük mü?	evet	4 6
+14 Çikolata kutusu sandığın içine sığar mı?	evet	4 6
+15 sandık çikolataya sığar mı?	hayır	9 1
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Kutu Konteynerdan daha büyüktür.
+4 Çikolata konteynerın içine sığar.
+5 Bavul kutunun içine sığar.
+6 Çikolata kutudan büyük mü?	hayır	4 3
+7 Çikolata kutudan büyük mü?	hayır	4 3
+8 Çikolata kutunun içine sığar mı?	evet	3 4
+9 Kutu çikolatanın içine sığar mı?	hayır	4 3
+10 Kutu çikolatadan daha büyük mü?	evet	3 4
+1 sandık çikolatadan daha büyüktür.
+2 Konteyner bavulun içine sığar.
+3 Çikolata sandığın içine sığar.
+4 sandık Konteynerdan daha büyüktür.
+5 Çikolata kutusu sandığın içine sığar.
+6 sandık çikolatadan daha büyüktür.
+7 Konteyner kutunun daha büyüktür.
+8 Çükolata kutusu konteynerın içine sığar.
+9 Çikolata kutusu sandığın içine sığar.
+10 Kutu çikolatadan daha büyüktür.
+11 Çikolata kutusu bavuldan büyük mü?	hayır	8 2
+12 Kutu bavuldan büyük mü?	hayır	7 2
+13 Çikolata Konteynerdan büyük mü?		10 7
+14 Çikolata Konteynerdan büyük mü?		10 7
+15 Konteyner çikolatanın içine sığar mı?		10 7
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata kutusu bavulun içine sığar.
+3 sandık kutunun içine sığar.
+4 Bavul sandıktan büyüktür.
+5 Çikolata sandığın içine sığar.
+6 Çikolata bavulun içine sığar mı?	evet	4 1
+7 Bavul çikolatadan büyük mü?	evet	4 1
+8 Çikolata bavulun içine sığar mı?	evet	4 1
+9 Bavul çikolatadan büyük mü?	evet	4 1
+10 Bavul çikolatadan büyük mü?	evet	4 1
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Çikolata sandığın içine sığar.
+4 sandık çikolata kutusundan daha büyüktür.
+5 Konteyner kutunun içine sığar.
+6 Kutu çikolatadan daha büyük mü?	evet	5 2
+7 Çikolata kutudan büyük mü?	hayır	2 5
+8 Kutu çikolatadan daha büyük mü?	evet	5 2
+9 Kutu çikolatanın içine sığar mı?	hayır	2 5
+10 Kutu çikolatadan daha büyük mü?	evet	5 2
+1 Kutu konteynerın içine sığar.
+2 Çikolata kutusu sandığın içine sığar.
+3 Bavul kutudan daha büyüktür.
+4 sandık çikolata kutusundan daha büyüktür.
+5 sandık kutunun içine sığar.
+6 Çikolata konteynerın içine sığar.
+7 Konteyner, bavuldan daha büyüktür.
+8 sandık çikolata kutusundan daha büyüktür.
+9 Konteyner kutunun daha büyüktür.
+10 Kutu, çikolata kutusundan daha büyüktür.
+11 Konteyner kutudan büyük mü?	evet	7 3
+12 Konteyner kutudan büyük mü?	evet	7 3
+13 Kutu konteynerın içine sığar mı?	evet	7 3
+14 Kutu konteynerın içine sığar mı?	evet	7 3
+15 Konteyner çikolata kutusunun içine sığar mı?		10 1
+1 Kutu Konteynerdan daha büyüktür.
+2 sandık çikolata kutusundan daha büyüktür.
+3 Çikolata kutusu bavulun içine sığar.
+4 Çikolata konteynerın içine sığar.
+5 sandık konteynerın içine sığar.
+6 Çikolata kutudan büyük mü?	hayır	4 1
+7 Kutu sandığın içine sığar mı?	hayır	5 1
+8 Çikolata kutudan büyük mü?	hayır	4 1
+9 Çikolata kutusu konteynerın içine sığar mı?	evet	5 2
+10 Kutu sandığın içine sığar mı?	hayır	5 1
+1 Kutu sandıktan büyüktür.
+2 Çükolata kutusu konteynerın içine sığar.
+3 Konteyner, çikolata kutusundan daha büyüktür.
+4 Kutu Konteynerdan daha büyüktür.
+5 Konteyner sandığın içine sığar.
+6 Kutu konteynerdan büyük mü?	evet	1 5
+7 Kutu konteynerın içine sığar mı?	hayır	5 1
+8 sandık çikolata kutusundan daha büyük mü?	evet	5 2
+9 sandık çikolata kutusundan daha büyük mü?	evet	5 2
+10 sandık çikolata kutusundan daha büyük mü?	evet	5 2
+1 Çükolata kutusu konteynerın içine sığar.
+2 Kutu, çikolata kutusundan daha büyüktür.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Kutu çikolatadan daha büyüktür.
+5 Çükolata kutusu konteynerın içine sığar.
+6 Bavul Konteynerdan daha büyüktür.
+7 Kutu konteynerın içine sığar.
+8 Konteyner sandıktan daha büyüktür.
+9 sandık konteynerın içine sığar.
+10 Konteyner, çikolatadan daha büyüktür.
+11 Çikolata kutusu konteynerın içine sığar mı?	evet	7 2
+12 Bavul çikolata kutusundan daha büyüktür.	yes	6 1
+13 Konteyner çikolata kutusundan büyük mü?	evet	7 2
+14 Çikolata kutusu bavulun içine sığar mı?	evet	6 1
+15 Konteyner çikolata kutusundan büyük mü?	evet	7 2
+1 Kutu konteynerın içine sığar.
+2 sandık bavulun içine sığar.
+3 Bavul kutunun içine sığar.
+4 Konteyner, çikolata kutusundan daha büyüktür.
+5 Çikolata kutusu sandığın içine sığar.
+6 sandık kutudan büyük mü?	hayır	2 3
+7 Bavul çikolata kutusunun içine sığar mı?	hayır	5 2
+8 sandık kutudan büyük mü?	hayır	2 3
+9 Çikolata kutusu bavulun içine sığar mı?	evet	2 5
+10 Kutu sandıktan büyük mü?	evet	3 2
+1 Konteyner sandığın içine sığar.
+2 Kutu sandığın içine sığar.
+3 Konteyner, çikolata kutusundan daha büyüktür.
+4 Kutu sandığın içine sığar.
+5 sandık bavuldan daha büyüktür.
+6 sandık çikolata kutusunun içine sığar mı?	hayır	3 1
+7 sandık çikolata kutusunun içine sığar mı?	hayır	3 1
+8 Çikolata kutusu sandığın içine sığar mı?	evet	1 3
+9 sandık çikolata kutusunun içine sığar mı?	hayır	3 1
+10 Çikolata kutusu sandığın içine sığar mı?	evet	1 3
+1 Kutu bavulun içine sığar.
+2 Bavul sandıktan büyüktür.
+3 Çikolata kutunun içine sığar.
+4 Konteyner, çikolata kutusundan daha büyüktür.
+5 Çikolata kutunun içine sığar.
+6 Bavul çikolatanın içine sığar mı?	hayır	5 1
+7 Çikolata bavuldan büyük mü?	hayır	5 1
+8 Çikolata bavuldan büyük mü?	hayır	5 1
+9 Çikolata bavuldan büyük mü?	hayır	5 1
+10 Bavul çikolatadan büyük mü?	evet	1 3
+1 Konteyner, çikolatadan daha büyüktür.
+2 sandık Konteynerdan daha büyüktür.
+3 Çikolata bavulun içine sığar.
+4 Kutu çikolatadan daha büyüktür.
+5 Çikolata kutusu bavulun içine sığar.
+6 Çikolata sandığın içine sığar mı?	evet	2 1
+7 Çikolata sandığın içine sığar mı?	evet	2 1
+8 sandık çikolataya sığar mı?	hayır	1 2
+9 sandık çikolatadan büyük mü?	evet	2 1
+10 sandık çikolataya sığar mı?	hayır	1 2
+1 Kutu sandığın içine sığar.
+2 Bavul Konteynerdan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 sandık Konteynerdan daha büyüktür.
+5 Bavul sandıktan büyüktür.
+6 Kutu bavulun içine sığar mı?	evet	5 1
+7 Çikolata sandıktan büyük mü?	hayır	3 1
+8 Bavul kutudan büyük mü?	evet	5 1
+9 Çikolata sandığın içine sığar mı?	evet	1 3
+10 sandık çikolatadan büyük mü?	evet	1 3
+1 Kutu bavulun içine sığar.
+2 sandık çikolatadan daha büyüktür.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Çükolata kutusu konteynerın içine sığar.
+6 Bavul konteynerın içine sığar.
+7 sandık kutunun içine sığar.
+8 Çikolata çikolata kutusunun içine sığar.
+9 Çikolata kutusu sandığın içine sığar.
+10 Bavul çikolata kutusundan daha büyüktür.
+11 Kutu konteynerın içine sığar mı?	evet	6 1
+12 Konteyner çikolatanın içine sığar mı?	hayır	8 5
+13 Kutu konteynerın içine sığar mı?	evet	6 1
+14 Kutu çikolatanın içine sığar mı?	hayır	2 7
+15 Konteyner kutunun içine sığar mı?	hayır	1 6
+1 Çikolata sandığın içine sığar.
+2 Kutu Konteynerdan daha büyüktür.
+3 Çikolata bavulun içine sığar.
+4 Bavul kutunun içine sığar.
+5 Konteyner sandığın içine sığar.
+6 Kutu çikolatadan daha büyük mü?	evet	4 3
+7 Kutu çikolatanın içine sığar mı?	hayır	3 4
+8 Çikolata kutunun içine sığar mı?	evet	4 3
+9 Kutu çikolatanın içine sığar mı?	hayır	3 4
+10 Kutu çikolatadan daha büyük mü?	evet	4 3
+1 Kutu sandığın içine sığar.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Çikolata bavulun içine sığar.
+4 Konteyner kutunun daha büyüktür.
+5 Çikolata kutusu çikolatadan daha büyüktür.
+6 Çikolata kutusu çikolatadan daha büyüktür.
+7 Bavul çikolata kutusundan daha büyüktür.
+8 Kutu bavulun içine sığar.
+9 Çikolata kutunun içine sığar.
+10 Çikolata bavulun içine sığar.
+11 Çikolata sandıktan büyük mü?	hayır	9 1
+12 sandık çikolataya sığar mı?	hayır	9 1
+13 sandık çikolataya sığar mı?	hayır	9 1
+14 Bavul çikolatadan büyük mü?	evet	7 5
+15 sandık çikolataya sığar mı?	hayır	9 1
+1 sandık çikolatadan daha büyüktür.
+2 Konteyner, çikolatadan daha büyüktür.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Bavul sandığın içine sığar.
+5 Kutu çikolatadan daha büyüktür.
+6 Çikolata bavulun içine sığar.
+7 Bavul konteynerın içine sığar.
+8 Kutu sandıktan büyüktür.
+9 Konteyner sandıktan daha büyüktür.
+10 Bavul konteynerın içine sığar.
+11 Konteyner çikolatadan büyük mü?	evet	9 1
+12 sandık çikolataya sığar mı?	hayır	6 4
+13 Kutu çikolatadan daha büyük mü?	evet	8 1
+14 sandık çikolatadan büyük mü?	evet	4 6
+15 Kutu çikolatadan daha büyük mü?	evet	8 1
+1 Kutu sandığın içine sığar.
+2 Çikolata bavulun içine sığar.
+3 Kutu konteynerın içine sığar.
+4 Bavul konteynerın içine sığar.
+5 Çikolata sandığın içine sığar.
+6 Konteyner çikolatanın içine sığar mı?	hayır	2 4
+7 Çikolata konteynerın içine sığar mı?	evet	4 2
+8 Konteyner çikolatanın içine sığar mı?	hayır	2 4
+9 Çikolata Konteynerdan büyük mü?	hayır	2 4
+10 Konteyner çikolatanın içine sığar mı?	hayır	2 4
+1 sandık bavulun içine sığar.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Çikolata bavulun içine sığar.
+4 Çikolata bavulun içine sığar.
+5 Kutu konteynerın içine sığar.
+6 sandık kutunun içine sığar.
+7 Çikolata kutusu kutunun içine sığar.
+8 Çikolata kutusu kutunun içine sığar.
+9 Kutu, çikolata kutusundan daha büyüktür.
+10 Çikolata kutusu bavulun içine sığar.
+11 Kutu bavuldan büyük mü?	hayır	6 1
+12 Çikolata kutusu konteynerdan büyük mü?	hayır	9 5
+13 Konteyner çikolata kutusunun içine sığar mı?	hayır	8 5
+14 Bavul kutunun içine sığar mı?	hayır	6 1
+15 Konteyner çikolata kutusunun içine sığar mı?	hayır	8 5
+1 Çikolata kutusu bavulun içine sığar.
+2 Bavul çikolata kutusundan daha büyüktür.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Bavul çikolatadan daha büyüktür.
+5 sandık konteynerın içine sığar.
+6 Bavul sandıktan büyüktür.
+7 Çikolata kutusu sandığın içine sığar.
+8 Kutu bavulun içine sığar.
+9 Çikolata kutunun içine sığar.
+10 Çikolata kutusu bavulun içine sığar.
+11 Bavul çikolatadan büyük mü?	evet	8 9
+12 Bavul çikolatanın içine sığar mı?	hayır	9 8
+13 Çikolata kutusu konteynerdan büyük mü?	hayır	7 5
+14 Çikolata bavuldan büyük mü?	hayır	9 8
+15 Bavul çikolatadan büyük mü?	evet	8 9
+1 Çikolata sandığın içine sığar.
+2 Konteyner sandıktan daha büyüktür.
+3 Bavul sandıktan büyüktür.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Çikolata bavulun içine sığar.
+6 Çikolata bavulun içine sığar mı?	evet	3 1
+7 Konteyner çikolatadan büyük mü?	evet	2 1
+8 Bavul çikolatadan büyük mü?	evet	3 1
+9 Bavul çikolatadan büyük mü?	evet	3 1
+10 Konteyner çikolatadan büyük mü?	evet	2 1
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Kutu bavuldan daha büyüktür.
+3 Bavul çikolata kutusundan daha büyüktür.
+4 sandık çikolatadan daha büyüktür.
+5 Bavul çikolatadan daha büyüktür.
+6 Çikolata kutusu kutunun içine sığar mı?	evet	2 3
+7 Kutu çikolatanın içine sığar mı?	hayır	5 2
+8 Kutu çikolata kutusunun içine sığar mı?	hayır	3 2
+9 Çikolata kutusu kutudan daha büyük mü?	hayır	3 2
+10 Çikolata kutudan büyük mü?	hayır	5 2
+1 Çikolata kutusu bavulun içine sığar.
+2 Konteyner sandığın içine sığar.
+3 sandık bavulun içine sığar.
+4 Çikolata kutusu kutunun içine sığar.
+5 Bavul sandıktan büyüktür.
+6 Bavul Konteynerdan daha büyük mü?	evet	5 2
+7 Konteyner bavuldan daha büyük mü?	hayır	2 3
+8 Bavul Konteynerdan daha büyük mü?	evet	5 2
+9 Konteyner bavulun içine sığar mı?	evet	5 2
+10 Bavul Konteynerdan daha büyük mü?	evet	5 2
+1 Çikolata sandığın içine sığar.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 sandık konteynerın içine sığar.
+5 Kutu bavuldan daha büyüktür.
+6 Çikolata Konteynerdan büyük mü?	hayır	1 4
+7 Konteyner çikolatanın içine sığar mı?	hayır	1 4
+8 Konteyner çikolatanın içine sığar mı?	hayır	1 4
+9 Konteyner çikolatadan büyük mü?	evet	4 1
+10 Konteyner çikolatanın içine sığar mı?	hayır	1 4
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Bavul çikolata kutusundan daha büyüktür.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Çikolata kutunun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Konteyner, çikolata kutusundan daha büyüktür.
+7 Çikolata kutusu bavulun içine sığar.
+8 Bavul sandığın içine sığar.
+9 Kutu sandığın içine sığar.
+10 Konteyner sandığın içine sığar.
+11 sandık çikolata kutusundan daha büyük mü?	evet	10 5
+12 Çikolata kutusu sandığın içine sığar mı?	evet	8 2
+13 Çikolata kutusu sandığın içine sığar mı?	evet	8 2
+14 Çikolata kutusu sandığın içine sığar mı?	evet	9 1
+15 sandık çikolata kutusundan daha büyük mü?	evet	10 5
+1 sandık bavuldan daha büyüktür.
+2 Kutu bavuldan daha büyüktür.
+3 sandık kutunun içine sığar.
+4 Bavul çikolata kutusundan daha büyüktür.
+5 Konteyner kutunun içine sığar.
+6 Bavul kutunun içine sığar mı?	evet	3 1
+7 Bavul kutudan büyük mü?	hayır	1 3
+8 sandık çikolata kutusunun içine sığar mı?	hayır	4 1
+9 Kutu bavuldan büyük mü?	evet	3 1
+10 Kutu bavuldan büyük mü?	evet	3 1
+1 Konteyner kutunun içine sığar.
+2 Konteyner kutunun içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Çikolata kutusu sandığın içine sığar.
+5 Çikolata çikolata kutusunun içine sığar.
+6 Çikolata sandığın içine sığar mı?	evet	4 5
+7 Çikolata sandığın içine sığar mı?	evet	4 5
+8 Çikolata sandığın içine sığar mı?	evet	4 5
+9 sandık çikolatadan büyük mü?	evet	4 5
+10 Çikolata sandığın içine sığar mı?	evet	4 5
+1 Konteyner kutunun içine sığar.
+2 Konteyner kutunun içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Bavul sandığın içine sığar.
+5 Konteyner bavulun içine sığar.
+6 Konteyner sandıktan büyük mü?	hayır	5 4
+7 Göğüs Konteynerdan büyük mü?	evet	4 5
+8 sandık konteynerın içine sığar mı?	hayır	5 4
+9 sandık konteynerın içine sığar mı?	hayır	5 4
+10 sandık konteynerın içine sığar mı?	hayır	5 4
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Bavul çikolata kutusundan daha büyüktür.
+4 Çikolata konteynerın içine sığar.
+5 Konteyner bavulun içine sığar.
+6 Çikolata bavuldan büyük mü?	hayır	2 3
+7 Bavul çikolatadan büyük mü?	evet	5 4
+8 Bavul çikolatadan büyük mü?	evet	5 4
+9 Çikolata bavulun içine sığar mı?	evet	5 4
+10 Bavul çikolatanın içine sığar mı?	hayır	2 3
+1 Kutu Konteynerdan daha büyüktür.
+2 Çikolata kutusu kutunun içine sığar.
+3 Kutu sandığın içine sığar.
+4 Konteyner, çikolata kutusundan daha büyüktür.
+5 Çükolata kutusu konteynerın içine sığar.
+6 Kutu çikolata kutusunun içine sığar mı?	hayır	5 1
+7 Göğüs Konteynerdan büyük mü?	evet	3 1
+8 Göğüs Konteynerdan büyük mü?	evet	3 1
+9 Kutu çikolata kutusundan büyük müdür?	evet	1 4
+10 Konteyner sandığın içine sığar mı?	evet	3 1
+1 sandık çikolata kutusundan daha büyüktür.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 Kutu, çikolata kutusundan daha büyüktür.
+4 Bavul sandıktan büyüktür.
+5 Konteyner sandıktan daha büyüktür.
+6 Çikolata kutusu bavuldan büyük mü?	hayır	1 4
+7 Bavul çikolata kutusundan daha büyüktür.	yes	4 1
+8 Çikolata kutusu bavuldan büyük mü?	hayır	1 4
+9 Konteyner çikolata kutusundan büyük mü?	evet	5 1
+10 Çikolata kutusu konteynerın içine sığar mı?	evet	5 1
+1 Konteyner kutunun içine sığar.
+2 Kutu Konteynerdan daha büyüktür.
+3 Bavul çikolatadan daha büyüktür.
+4 Konteyner kutunun içine sığar.
+5 Kutu çikolatadan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar.
+7 Kutu, çikolata kutusundan daha büyüktür.
+8 Kutu çikolatadan daha büyüktür.
+9 Çikolata konteynerın içine sığar.
+10 Bavul çikolatadan daha büyüktür.
+11 Kutu çikolatanın içine sığar mı?	hayır	9 1
+12 Çikolata kutudan büyük mü?	hayır	9 1
+13 Çikolata kutudan büyük mü?	hayır	9 1
+14 Kutu çikolatanın içine sığar mı?	hayır	9 1
+15 Çikolata kutudan büyük mü?	hayır	9 1
+1 Konteyner, bavuldan daha büyüktür.
+2 Bavul sandığın içine sığar.
+3 Çikolata kutusu sandığın içine sığar.
+4 Kutu konteynerın içine sığar.
+5 Çikolata çikolata kutusunun içine sığar.
+6 Çikolata sandığın içine sığar mı?	evet	3 5
+7 sandık çikolatadan büyük mü?	evet	3 5
+8 Çikolata sandığın içine sığar mı?	evet	3 5
+9 sandık çikolatadan büyük mü?	evet	3 5
+10 Çikolata sandığın içine sığar mı?	evet	3 5
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 sandık konteynerın içine sığar.
+4 Konteyner bavulun içine sığar.
+5 Kutu, çikolata kutusundan daha büyüktür.
+6 Konteyner çikolatanın içine sığar mı?	hayır	1 3
+7 Bavul sandığın içine sığar mı?	hayır	3 4
+8 Çikolata Konteynerdan büyük mü?	hayır	1 3
+9 Bavul sandığın içine sığar mı?	evet	4 3
+10 sandık bavuldan büyük mü?	hayır	3 4
+1 Konteyner bavulun içine sığar.
+2 Çikolata bavulun içine sığar.
+3 Çikolata kutusu çikolatadan daha büyüktür.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Çikolata kutunun içine sığar.
+6 Çikolata bavuldan büyük mü?	hayır	4 1
+7 Bavul çikolatanın içine sığar mı?	hayır	4 1
+8 Çikolata bavuldan büyük mü?	hayır	4 1
+9 Bavul çikolatadan büyük mü?	evet	1 4
+10 Çikolata bavuldan büyük mü?	hayır	4 1
+1 Kutu bavuldan daha büyüktür.
+2 Bavul kutunun içine sığar.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Çikolata çikolata kutusunun içine sığar.
+6 Çikolata konteynerın içine sığar mı?	evet	4 5
+7 Çikolata Konteynerdan büyük mü?	hayır	5 4
+8 Çikolata konteynerın içine sığar mı?	evet	4 5
+9 Çikolata konteynerın içine sığar mı?	evet	4 5
+10 Konteyner çikolatadan büyük mü?	evet	4 5
+1 Bavul sandığın içine sığar.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Bavul çikolatadan daha büyüktür.
+4 sandık kutunun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Çikolata Konteynerdan büyük mü?	hayır	2 5
+7 Konteyner çikolatadan büyük mü?	evet	5 2
+8 Kutu bavuldan büyük mü?	evet	4 1
+9 Çikolata sandıktan büyük mü?	hayır	3 1
+10 Kutu bavulun içine sığar mı?	hayır	1 4
+1 Konteyner kutunun daha büyüktür.
+2 Çikolata kutusu sandığın içine sığar.
+3 Çikolata kutusu kutunun içine sığar.
+4 sandık konteynerın içine sığar.
+5 sandık çikolatadan daha büyüktür.
+6 Çikolata kutusu konteynerın içine sığar mı?	evet	1 3
+7 Konteyner çikolata kutusunun içine sığar mı?	hayır	3 1
+8 Çikolata kutusu konteynerdan büyük mü?	hayır	3 1
+9 Konteyner çikolata kutusundan büyük mü?	evet	4 2
+10 Konteyner çikolata kutusunun içine sığar mı?	hayır	2 4
+1 sandık bavuldan daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 sandık bavuldan daha büyüktür.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Bavul sandığın içine sığar.
+6 Çikolata kutusu sandığın içine sığar.
+7 Konteyner bavulun içine sığar.
+8 Çikolata kutusu çikolatadan daha büyüktür.
+9 Çikolata konteynerın içine sığar.
+10 Bavul kutudan daha büyüktür.
+11 Bavul çikolatadan büyük mü?	evet	10 2
+12 Çikolata kutudan büyük mü?	hayır	8 4
+13 Çikolata bavuldan büyük mü?	hayır	9 7
+14 Bavul çikolatanın içine sığar mı?	hayır	9 7
+15 Kutu çikolatanın içine sığar mı?	hayır	8 4
+1 Bavul kutudan daha büyüktür.
+2 Kutu sandığın içine sığar.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Çikolata bavulun içine sığar.
+5 Kutu Konteynerdan daha büyüktür.
+6 Çikolata kutudan büyük mü?	hayır	3 5
+7 Kutu çikolatadan daha büyük mü?	evet	5 3
+8 Çikolata kutudan büyük mü?	hayır	3 5
+9 Bavul konteynerın içine sığar mı?	hayır	5 1
+10 Konteyner bavuldan daha büyük mü?	hayır	5 1
+1 Konteyner, çikolatadan daha büyüktür.
+2 sandık çikolatadan daha büyüktür.
+3 Bavul sandığın içine sığar.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Çikolata kutunun içine sığar.
+6 Bavul Konteynerdan daha büyüktür.
+7 Çikolata çikolata kutusunun içine sığar.
+8 Çükolata kutusu konteynerın içine sığar.
+9 Bavul çikolata kutusundan daha büyüktür.
+10 Çikolata çikolata kutusunun içine sığar.
+11 Konteyner çikolatadan büyük mü?	evet	8 7
+12 Çikolata bavulun içine sığar mı?	evet	9 7
+13 Konteyner çikolatadan büyük mü?	evet	8 7
+14 Göğüs Konteynerdan büyük mü?	evet	3 6
+15 Konteyner sandığın içine sığar mı?	evet	3 6
+1 Çikolata konteynerın içine sığar.
+2 Bavul konteynerın içine sığar.
+3 Kutu sandığın içine sığar.
+4 Kutu konteynerın içine sığar.
+5 Kutu bavulun içine sığar.
+6 Kutu konteynerın içine sığar mı?	evet	2 5
+7 Konteyner kutunun içine sığar mı?	hayır	5 2
+8 Kutu konteynerın içine sığar mı?	evet	2 5
+9 Konteyner kutunun içine sığar mı?	hayır	5 2
+10 Kutu konteynerdan büyük mü?	hayır	5 2
+1 Çikolata sandığın içine sığar.
+2 sandık çikolata kutusundan daha büyüktür.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Çükolata kutusu konteynerın içine sığar.
+5 sandık bavulun içine sığar.
+6 sandık çikolataya sığar mı?	hayır	3 2
+7 Çikolata bavulun içine sığar mı?	evet	5 1
+8 Çikolata sandığın içine sığar mı?	evet	2 3
+9 Bavul çikolatadan büyük mü?	evet	5 1
+10 sandık çikolataya sığar mı?	hayır	3 2
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Çikolata kutusu kutunun içine sığar.
+3 Bavul çikolatadan daha büyüktür.
+4 Çikolata konteynerın içine sığar.
+5 Kutu bavulun içine sığar.
+6 Bavul çikolata kutusundan daha büyüktür.	yes	5 2
+7 Çikolata kutusu bavuldan büyük mü?	hayır	2 5
+8 Çikolata kutusu bavulun içine sığar mı?	evet	5 2
+9 Çikolata kutunun içine sığar mı?	evet	2 1
+10 Çikolata kutusu bavuldan büyük mü?	hayır	2 5
+1 Çikolata konteynerın içine sığar.
+2 Bavul sandıktan büyüktür.
+3 Çikolata kutusu çikolatadan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 Çikolata kutusu sandığın içine sığar.
+6 Çikolata sandıktan büyük mü?	hayır	3 5
+7 Bavul çikolata kutusundan daha büyüktür.	yes	2 5
+8 sandık çikolatadan büyük mü?	evet	5 3
+9 Çikolata sandıktan büyük mü?	hayır	3 5
+10 Bavul çikolata kutusunun içine sığar mı?	hayır	5 2
+1 Kutu sandıktan büyüktür.
+2 Konteyner, bavuldan daha büyüktür.
+3 Çikolata kutusu kutunun içine sığar.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 sandık bavuldan daha büyüktür.
+6 Kutu bavuldan büyük mü?	evet	1 5
+7 Kutu bavulun içine sığar mı?	hayır	5 1
+8 Bavul kutunun içine sığar mı?	evet	1 5
+9 Kutu bavuldan büyük mü?	evet	1 5
+10 Bavul kutudan büyük mü?	hayır	5 1
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Çikolata kutusu bavulun içine sığar.
+3 Kutu çikolatadan daha büyüktür.
+4 Konteyner sandığın içine sığar.
+5 sandık bavuldan daha büyüktür.
+6 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+7 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+8 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+9 sandık çikolata kutusundan daha büyük mü?	evet	5 1
+10 Çikolata sandığın içine sığar.
+11 Bavul çikolata kutusundan daha büyüktür.
+12 Çikolata kutusu çikolatadan daha büyüktür.
+13 Bavul kutudan daha büyüktür.
+14 Konteyner kutunun içine sığar.
+15 Çikolata bavulun içine sığar mı?	evet	13 3
+16 Çikolata bavuldan büyük mü?	hayır	3 13
+17 Bavul çikolatanın içine sığar mı?	hayır	3 13
+18 sandık çikolata kutusundan daha büyük mü?	evet	5 1
+19 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+1 Çikolata kutusu sandığın içine sığar.
+2 Kutu sandıktan büyüktür.
+3 Çikolata kutusu kutunun içine sığar.
+4 Konteyner sandıktan daha büyüktür.
+5 sandık çikolatadan daha büyüktür.
+6 Konteyner çikolata kutusundan büyük mü?	evet	4 1
+7 Çikolata kutusu kutudan daha büyük mü?	hayır	1 2
+8 Kutu çikolata kutusunun içine sığar mı?	hayır	1 2
+9 Kutu çikolata kutusunun içine sığar mı?	hayır	1 2
+10 Çikolata kutusu konteynerın içine sığar mı?	evet	4 1
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Kutu bavuldan daha büyüktür.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Bavul konteynerın içine sığar.
+5 Çikolata kutusu sandığın içine sığar.
+6 sandık çikolatadan büyük mü?	evet	5 1
+7 Çikolata sandığın içine sığar mı?	evet	5 1
+8 Çikolata sandığın içine sığar mı?	evet	5 1
+9 Çikolata sandığın içine sığar mı?	evet	5 1
+10 Çikolata sandığın içine sığar mı?	evet	5 1
+1 Çikolata kutunun içine sığar.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Kutu, çikolata kutusundan daha büyüktür.
+4 sandık kutunun içine sığar.
+5 Bavul Konteynerdan daha büyüktür.
+6 sandık çikolatadan büyük mü?	evet	4 1
+7 Çikolata sandığın içine sığar mı?	evet	4 1
+8 Bavul çikolatanın içine sığar mı?	hayır	2 5
+9 Bavul çikolatanın içine sığar mı?	hayır	2 5
+10 sandık çikolatadan büyük mü?	evet	4 1
+1 Konteyner, bavuldan daha büyüktür.
+2 Kutu bavuldan daha büyüktür.
+3 sandık konteynerın içine sığar.
+4 Konteyner, bavuldan daha büyüktür.
+5 Bavul konteynerın içine sığar.
+6 Kutu sandıktan büyüktür.
+7 Çikolata kutusu çikolatadan daha büyüktür.
+8 Kutu çikolatadan daha büyüktür.
+9 Kutu çikolatadan daha büyüktür.
+10 Bavul konteynerın içine sığar.
+11 Çükolata kutusu konteynerın içine sığar.
+12 Kutu konteynerın içine sığar.
+13 Kutu sandıktan büyüktür.
+14 Kutu bavuldan daha büyüktür.
+15 Konteyner, çikolata kutusundan daha büyüktür.
+16 Çikolata konteynerın içine sığar mı?	evet	11 7
+17 Konteyner çikolatadan büyük mü?	evet	15 7
+18 Çikolata Konteynerdan büyük mü?	hayır	7 11
+19 Çikolata konteynerın içine sığar mı?	evet	11 7
+20 Çikolata konteynerın içine sığar mı?	evet	15 7
+1 Çikolata kutusu kutunun içine sığar.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Kutu sandığın içine sığar.
+4 Kutu bavuldan daha büyüktür.
+5 Kutu konteynerın içine sığar.
+6 Çikolata kutusu konteynerın içine sığar mı?	evet	5 1
+7 sandık çikolata kutusunun içine sığar mı?	hayır	1 3
+8 Çikolata kutudan büyük mü?	hayır	2 1
+9 Çikolata kutusu sandıktan büyük mü?	hayır	1 3
+10 Çikolata kutusu sandıktan büyük mü?	hayır	1 3
+1 Bavul sandıktan büyüktür.
+2 Çikolata kutunun içine sığar.
+3 Çikolata kutusu bavulun içine sığar.
+4 sandık Konteynerdan daha büyüktür.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Çikolata kutusu bavuldan büyük mü?	hayır	5 1
+7 Konteyner bavulun içine sığar mı?	evet	1 4
+8 Bavul Konteynerdan daha büyük mü?	evet	1 4
+9 Bavul Konteynerdan daha büyük mü?	evet	1 4
+10 Çikolata kutusu bavuldan büyük mü?	hayır	5 1
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Çikolata kutusu kutunun içine sığar.
+3 sandık Konteynerdan daha büyüktür.
+4 sandık çikolatadan daha büyüktür.
+5 sandık bavuldan daha büyüktür.
+6 sandık çikolata kutusundan daha büyük mü?	evet	5 1
+7 sandık çikolata kutusunun içine sığar mı?	hayır	1 5
+8 sandık çikolata kutusundan daha büyük mü?	evet	5 1
+9 sandık çikolata kutusunun içine sığar mı?	hayır	1 5
+10 sandık çikolata kutusunun içine sığar mı?	hayır	1 5
+1 Çikolata bavulun içine sığar.
+2 Konteyner bavulun içine sığar.
+3 Çikolata bavulun içine sığar.
+4 Kutu çikolatadan daha büyüktür.
+5 Kutu bavulun içine sığar.
+6 Bavul çikolatadan büyük mü?	evet	5 4
+7 Bavul çikolatanın içine sığar mı?	hayır	4 5
+8 Bavul çikolatanın içine sığar mı?	hayır	4 5
+9 Bavul çikolatadan büyük mü?	evet	5 4
+10 Bavul çikolatanın içine sığar mı?	hayır	4 5
+1 Çikolata bavulun içine sığar.
+2 Çükolata kutusu konteynerın içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Kutu Konteynerdan daha büyüktür.
+6 Çikolata kutusu kutunun içine sığar mı?	evet	5 2
+7 Kutu çikolata kutusundan büyük müdür?	evet	5 2
+8 Kutu çikolata kutusundan büyük müdür?	evet	5 2
+9 sandık kutunun içine sığar.
+10 Kutu, çikolata kutusundan daha büyüktür.
+11 sandık çikolata kutusundan daha büyüktür.
+12 Bavul kutudan daha büyüktür.
+13 sandık çikolatadan daha büyüktür.
+14 Çikolata kutunun içine sığar mı?	evet	9 3
+15 Bavul Konteynerdan daha büyük mü?	evet	12 5
+16 Kutu çikolata kutusundan büyük müdür?	evet	5 2
+17 Çikolata kutunun içine sığar mı?	evet	9 3
+18 Çikolata kutunun içine sığar mı?	evet	9 3
+1 Bavul konteynerın içine sığar.
+2 Bavul çikolatadan daha büyüktür.
+3 Kutu, çikolata kutusundan daha büyüktür.
+4 Kutu bavuldan daha büyüktür.
+5 Kutu çikolatadan daha büyüktür.
+6 Konteyner çikolatadan büyük mü?	evet	1 2
+7 Konteyner çikolatanın içine sığar mı?	hayır	2 1
+8 Çikolata Konteynerdan büyük mü?	hayır	2 1
+9 Çikolata konteynerın içine sığar mı?	evet	1 2
+10 Çikolata konteynerın içine sığar mı?	evet	1 2
+1 Kutu bavulun içine sığar.
+2 Çikolata kutunun içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Konteyner sandığın içine sığar.
+5 Çikolata sandığın içine sığar.
+6 Bavul çikolatanın içine sığar mı?	hayır	2 1
+7 Bavul çikolatadan büyük mü?	evet	1 2
+8 Çikolata bavuldan büyük mü?	hayır	2 1
+9 Bavul çikolatadan büyük mü?	evet	1 2
+10 Çikolata bavulun içine sığar mı?	evet	1 2
+1 Çikolata bavulun içine sığar.
+2 Çikolata bavulun içine sığar.
+3 Bavul çikolata kutusundan daha büyüktür.
+4 sandık çikolatadan daha büyüktür.
+5 Çikolata bavulun içine sığar.
+6 Kutu, çikolata kutusundan daha büyüktür.
+7 sandık çikolatadan daha büyüktür.
+8 Kutu sandığın içine sığar.
+9 Bavul çikolata kutusundan daha büyüktür.
+10 Bavul kutudan daha büyüktür.
+11 Çikolata kutusu bavulun içine sığar mı?	evet	10 6
+12 Çikolata kutusu sandıktan büyük mü?	hayır	6 8
+13 Çikolata kutusu sandıktan büyük mü?	hayır	6 8
+14 Bavul çikolata kutusundan daha büyüktür.	yes	10 6
+15 Çikolata kutusu bavulun içine sığar mı?	evet	10 6
+1 Çikolata konteynerın içine sığar.
+2 Bavul sandıktan büyüktür.
+3 Bavul kutudan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 sandık Konteynerdan daha büyüktür.
+6 sandık çikolatadan büyük mü?	evet	5 1
+7 Çikolata sandığın içine sığar mı?	evet	5 1
+8 Çikolata sandıktan büyük mü?	hayır	1 5
+9 Konteyner bavuldan daha büyük mü?	hayır	5 2
+10 sandık çikolatadan büyük mü?	evet	5 1
+1 Çikolata bavulun içine sığar.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 sandık bavulun içine sığar.
+4 Bavul kutunun içine sığar.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Çikolata kutunun içine sığar mı?	evet	4 1
+7 Bavul çikolata kutusunun içine sığar mı?	hayır	5 3
+8 Bavul çikolata kutusundan daha büyüktür.	yes	3 5
+9 Çikolata kutusu bavuldan büyük mü?	hayır	5 3
+10 Bavul çikolata kutusundan daha büyüktür.	yes	3 5
+1 sandık bavuldan daha büyüktür.
+2 Bavul kutunun içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Çikolata kutusu kutunun içine sığar.
+5 Kutu Konteynerdan daha büyüktür.
+6 Konteyner kutunun içine sığar.
+7 Konteyner, çikolata kutusundan daha büyüktür.
+8 Çikolata sandığın içine sığar.
+9 Çikolata bavulun içine sığar.
+10 Bavul sandığın içine sığar.
+11 Çikolata sandıktan büyük mü?	hayır	9 1
+12 sandık çikolataya sığar mı?	hayır	9 1
+13 sandık çikolataya sığar mı?	hayır	9 1
+14 Çikolata sandıktan büyük mü?	hayır	9 1
+15 Kutu çikolata kutusunun içine sığar mı?	hayır	7 5
+1 Çükolata kutusu konteynerın içine sığar.
+2 Çikolata bavulun içine sığar.
+3 Bavul sandığın içine sığar.
+4 Bavul çikolatadan daha büyüktür.
+5 Konteyner kutunun daha büyüktür.
+6 sandık çikolatadan büyük mü?	evet	3 2
+7 sandık çikolatadan büyük mü?	evet	3 2
+8 sandık çikolatadan büyük mü?	evet	3 2
+9 sandık çikolatadan büyük mü?	evet	3 2
+10 sandık çikolatadan büyük mü?	evet	3 2
+1 Çikolata kutusu bavulun içine sığar.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Bavul çikolatadan daha büyüktür.
+4 Kutu bavuldan daha büyüktür.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 Bavul çikolatanın içine sığar mı?	hayır	2 1
+7 Bavul çikolatanın içine sığar mı?	hayır	2 1
+8 Bavul çikolatadan büyük mü?	evet	1 2
+9 Çikolata bavulun içine sığar mı?	evet	1 2
+10 Kutu çikolata kutusundan büyük müdür?	evet	4 1
+1 sandık çikolata kutusundan daha büyüktür.
+2 Konteyner kutunun daha büyüktür.
+3 Kutu konteynerın içine sığar.
+4 Kutu konteynerın içine sığar.
+5 Çikolata çikolata kutusunun içine sığar.
+6 Çikolata sandığın içine sığar mı?	evet	1 5
+7 sandık çikolataya sığar mı?	hayır	5 1
+8 Çikolata sandığın içine sığar mı?	evet	1 5
+9 Çikolata sandığın içine sığar mı?	evet	1 5
+10 sandık çikolatadan büyük mü?	evet	1 5
+1 Kutu sandığın içine sığar.
+2 Kutu Konteynerdan daha büyüktür.
+3 Kutu çikolatadan daha büyüktür.
+4 Konteyner bavulun içine sığar.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Göğüs Konteynerdan büyük mü?	evet	1 2
+7 Göğüs Konteynerdan büyük mü?	evet	1 2
+8 Konteyner sandıktan büyük mü?	hayır	2 1
+9 Konteyner sandığın içine sığar mı?	evet	1 2
+10 sandık konteynerın içine sığar mı?	hayır	2 1
+1 sandık konteynerın içine sığar.
+2 Bavul sandığın içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Çikolata sandığın içine sığar.
+5 Çükolata kutusu konteynerın içine sığar.
+6 Konteyner bavuldan daha büyük mü?	evet	1 2
+7 Konteyner bavulun içine sığar mı?	hayır	2 1
+8 Bavul Konteynerdan daha büyük mü?	hayır	2 1
+9 Bavul konteynerın içine sığar mı?	evet	1 2
+10 Konteyner bavulun içine sığar mı?	hayır	2 1
+1 Konteyner kutunun daha büyüktür.
+2 Çikolata kutusu sandığın içine sığar.
+3 Kutu bavulun içine sığar.
+4 Çikolata bavulun içine sığar.
+5 sandık bavulun içine sığar.
+6 Çikolata kutusu bavuldan büyük mü?	hayır	2 5
+7 Bavul çikolata kutusunun içine sığar mı?	hayır	2 5
+8 Çikolata kutusu bavulun içine sığar mı?	evet	5 2
+9 Çikolata kutusu bavuldan büyük mü?	hayır	2 5
+10 Çikolata kutusu bavulun içine sığar mı?	evet	5 2
+1 sandık bavulun içine sığar.
+2 Çikolata kutusu bavulun içine sığar.
+3 Bavul kutunun içine sığar.
+4 Çikolata kutunun içine sığar.
+5 sandık kutunun içine sığar.
+6 Kutu sandıktan büyük mü?	evet	3 1
+7 sandık kutunun içine sığar mı?	evet	3 1
+8 sandık kutunun içine sığar mı?	evet	3 1
+9 sandık kutunun içine sığar mı?	evet	3 1
+10 Kutu sandıktan büyük mü?	evet	3 1
+1 Konteyner, çikolatadan daha büyüktür.
+2 Çikolata sandığın içine sığar.
+3 Konteyner kutunun daha büyüktür.
+4 sandık konteynerın içine sığar.
+5 Kutu konteynerın içine sığar.
+6 Çikolata konteynerın içine sığar mı?	evet	4 2
+7 Çikolata Konteynerdan büyük mü?	hayır	2 4
+8 Konteyner çikolatadan büyük mü?	evet	4 2
+9 Konteyner çikolatanın içine sığar mı?	hayır	2 4
+10 Konteyner çikolatanın içine sığar mı?	hayır	2 4
+1 Konteyner bavulun içine sığar.
+2 Bavul sandıktan büyüktür.
+3 Konteyner sandığın içine sığar.
+4 Bavul sandıktan büyüktür.
+5 Çikolata kutusu kutunun içine sığar.
+6 Bavul Konteynerdan daha büyük mü?	evet	2 3
+7 Bavul Konteynerdan daha büyük mü?	evet	2 3
+8 Bavul Konteynerdan daha büyük mü?	evet	2 3
+9 Bavul Konteynerdan daha büyük mü?	evet	2 3
+10 Konteyner bavuldan daha büyük mü?	hayır	3 2
+1 Çikolata kutunun içine sığar.
+2 Çikolata kutunun içine sığar.
+3 Konteyner bavulun içine sığar.
+4 Çikolata bavulun içine sığar.
+5 Çikolata konteynerın içine sığar.
+6 Bavul çikolatanın içine sığar mı?	hayır	5 3
+7 Çikolata bavuldan büyük mü?	hayır	5 3
+8 Bavul çikolatanın içine sığar mı?	hayır	5 3
+9 Bavul çikolatanın içine sığar mı?	hayır	5 3
+10 Çikolata bavulun içine sığar mı?	evet	3 5
+1 Kutu Konteynerdan daha büyüktür.
+2 Çikolata çikolata kutusunun içine sığar.
+3 sandık kutunun içine sığar.
+4 Konteyner kutunun içine sığar.
+5 Konteyner sandığın içine sığar.
+6 Konteyner sandığın içine sığar mı?	evet	3 1
+7 Göğüs Konteynerdan büyük mü?	evet	3 1
+8 Konteyner sandığın içine sığar mı?	evet	3 1
+9 Göğüs Konteynerdan büyük mü?	evet	3 1
+10 Konteyner sandığın içine sığar mı?	evet	3 1
+1 Bavul çikolatadan daha büyüktür.
+2 Konteyner sandığın içine sığar.
+3 Çikolata kutusu çikolatadan daha büyüktür.
+4 Bavul sandıktan büyüktür.
+5 Kutu sandıktan büyüktür.
+6 Konteyner bavulun içine sığar mı?	evet	4 2
+7 Konteyner kutunun içine sığar mı?	evet	5 2
+8 Konteyner bavulun içine sığar mı?	evet	4 2
+9 Kutu konteynerdan büyük mü?	evet	5 2
+10 Konteyner kutunun içine sığar mı?	evet	5 2
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Çikolata kutusu çikolatadan daha büyüktür.
+5 sandık çikolatadan daha büyüktür.
+6 Bavul kutunun içine sığar.
+7 Çükolata kutusu konteynerın içine sığar.
+8 Konteyner kutunun içine sığar.
+9 Kutu çikolatadan daha büyüktür.
+10 Kutu sandıktan büyüktür.
+11 Çikolata konteynerın içine sığar mı?	evet	7 1
+12 Kutu çikolatadan daha büyük mü?	evet	10 5
+13 Kutu çikolata kutusundan büyük müdür?	evet	8 7
+14 Çikolata kutusu kutudan daha büyük mü?	hayır	7 8
+15 Kutu çikolatadan daha büyük mü?	evet	10 5
+1 Çikolata kutusu bavulun içine sığar.
+2 Çikolata kutusu sandığın içine sığar.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Konteyner, çikolatadan daha büyüktür.
+6 sandık bavuldan daha büyüktür.
+7 sandık çikolata kutusundan daha büyüktür.
+8 Çikolata kutusu sandığın içine sığar.
+9 Bavul Konteynerdan daha büyüktür.
+10 Konteyner, çikolata kutusundan daha büyüktür.
+11 sandık çikolata kutusunun içine sığar mı?	hayır	1 6
+12 Çikolata bavuldan büyük mü?	hayır	5 9
+13 Çikolata bavuldan büyük mü?	hayır	5 9
+14 sandık çikolata kutusundan daha büyük mü?	evet	6 1
+15 Çikolata kutusu sandıktan büyük mü?	hayır	1 6
+1 Bavul konteynerın içine sığar.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Çikolata konteynerın içine sığar.
+5 Konteyner kutunun daha büyüktür.
+6 Çikolata konteynerın içine sığar mı?	evet	2 3
+7 Çikolata Konteynerdan büyük mü?	hayır	3 2
+8 Çikolata Konteynerdan büyük mü?	hayır	3 2
+9 Konteyner çikolatadan büyük mü?	evet	2 3
+10 Konteyner çikolatadan büyük mü?	evet	2 3
+1 Bavul çikolatadan daha büyüktür.
+2 Konteyner bavulun içine sığar.
+3 Çikolata sandığın içine sığar.
+4 Kutu sandığın içine sığar.
+5 Konteyner, çikolatadan daha büyüktür.
+6 Çikolata bavulun içine sığar mı?	evet	2 5
+7 Çikolata bavuldan büyük mü?	hayır	5 2
+8 Bavul çikolatadan büyük mü?	evet	2 5
+9 Bavul çikolatadan büyük mü?	evet	2 5
+10 Çikolata bavulun içine sığar mı?	evet	2 5
+1 Çikolata kutusu sandığın içine sığar.
+2 Bavul çikolata kutusundan daha büyüktür.
+3 sandık kutunun içine sığar.
+4 Bavul sandığın içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Kutu çikolata kutusunun içine sığar mı?	hayır	1 3
+7 Çikolata kutusu sandıktan büyük mü?	hayır	2 4
+8 Çikolata kutusu sandığın içine sığar mı?	evet	4 2
+9 Kutu çikolata kutusundan büyük müdür?	evet	3 1
+10 Çikolata kutusu kutudan daha büyük mü?	hayır	1 3
+1 Konteyner sandıktan daha büyüktür.
+2 Çikolata sandığın içine sığar.
+3 Kutu, çikolata kutusundan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Çükolata kutusu konteynerın içine sığar.
+6 Çikolata konteynerın içine sığar mı?	evet	1 2
+7 Konteyner çikolatanın içine sığar mı?	hayır	2 1
+8 Konteyner çikolatadan büyük mü?	evet	1 2
+9 Konteyner çikolatanın içine sığar mı?	hayır	2 1
+10 Konteyner çikolatadan büyük mü?	evet	1 2
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata kutusu kutunun içine sığar.
+3 Çikolata kutusu bavulun içine sığar.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Çikolata çikolata kutusunun içine sığar.
+6 Çikolata kutudan büyük mü?	hayır	5 2
+7 Çikolata kutudan büyük mü?	hayır	5 2
+8 Çikolata kutudan büyük mü?	hayır	5 2
+9 Çikolata kutudan büyük mü?	hayır	5 2
+10 Kutu çikolatanın içine sığar mı?	hayır	5 2
+1 Kutu sandığın içine sığar.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Çikolata kutusu çikolatadan daha büyüktür.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Kutu, çikolata kutusundan daha büyüktür.
+6 Çikolata kutusu sandığın içine sığar mı?	evet	1 4
+7 Çikolata kutusu sandıktan büyük mü?	hayır	5 1
+8 sandık çikolata kutusunun içine sığar mı?	hayır	5 1
+9 Çikolata kutusu sandıktan büyük mü?	hayır	5 1
+10 Çikolata kutusu sandıktan büyük mü?	hayır	5 1
+1 Çikolata kutusu kutunun içine sığar.
+2 Kutu sandıktan büyüktür.
+3 Çikolata kutusu kutunun içine sığar.
+4 sandık konteynerın içine sığar.
+5 sandık kutunun içine sığar.
+6 Çikolata kutusu çikolatadan daha büyüktür.
+7 Kutu bavuldan daha büyüktür.
+8 sandık konteynerın içine sığar.
+9 Çikolata kutusu bavulun içine sığar.
+10 Konteyner, çikolatadan daha büyüktür.
+11 Çikolata kutusu kutudan daha büyük mü?	hayır	9 7
+12 Çikolata kutusu kutudan daha büyük mü?	hayır	9 7
+13 Kutu çikolata kutusunun içine sığar mı?	hayır	9 7
+14 Çikolata kutusu kutudan daha büyük mü?	hayır	9 7
+15 Kutu çikolata kutusunun içine sığar mı?	hayır	9 7
+1 Kutu konteynerın içine sığar.
+2 sandık çikolatadan daha büyüktür.
+3 Konteyner, çikolata kutusundan daha büyüktür.
+4 Konteyner, çikolatadan daha büyüktür.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Konteyner bavulun içine sığar.
+7 Konteyner sandıktan daha büyüktür.
+8 Çikolata kutusu kutunun içine sığar.
+9 Kutu konteynerın içine sığar.
+10 Çikolata sandığın içine sığar.
+11 Konteyner çikolatadan büyük mü?	evet	7 2
+12 Konteyner çikolatadan büyük mü?	evet	7 2
+13 Çikolata kutusu konteynerın içine sığar mı?	evet	1 8
+14 Kutu bavulun içine sığar mı?	evet	6 1
+15 Konteyner çikolatadan büyük mü?	evet	7 2
+1 Bavul kutunun içine sığar.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Kutu konteynerın içine sığar.
+4 Çikolata kutusu bavulun içine sığar.
+5 Çikolata kutusu kutunun içine sığar.
+6 Bavul çikolatadan büyük mü?	evet	4 2
+7 Bavul çikolatanın içine sığar mı?	hayır	2 4
+8 Çikolata kutusu kutudan daha büyük mü?	hayır	4 1
+9 Bavul çikolatadan büyük mü?	evet	4 2
+10 Konteyner bavuldan daha büyük mü?	evet	3 1
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Kutu sandığın içine sığar.
+3 Konteyner kutunun daha büyüktür.
+4 Konteyner, bavuldan daha büyüktür.
+5 Çikolata bavulun içine sığar.
+6 Konteyner çikolatanın içine sığar mı?	hayır	5 4
+7 Çikolata Konteynerdan büyük mü?	hayır	5 4
+8 Konteyner çikolata kutusundan büyük mü?	evet	3 1
+9 Çikolata konteynerın içine sığar mı?	evet	4 5
+10 Konteyner çikolatadan büyük mü?	evet	4 5
+1 Çikolata sandığın içine sığar.
+2 Çikolata konteynerın içine sığar.
+3 Çikolata sandığın içine sığar.
+4 Çikolata kutusu bavulun içine sığar.
+5 Çükolata kutusu konteynerın içine sığar.
+6 Bavul çikolatadan daha büyüktür.
+7 Konteyner, çikolata kutusundan daha büyüktür.
+8 Kutu çikolatadan daha büyüktür.
+9 Bavul sandığın içine sığar.
+10 sandık kutunun içine sığar.
+11 Çikolata kutusu sandığın içine sığar mı?	evet	9 4
+12 sandık çikolata kutusundan daha büyük mü?	evet	9 4
+13 Kutu çikolatadan daha büyük mü?	evet	10 1
+14 Çikolata kutunun içine sığar mı?	evet	10 1
+15 Çikolata kutusu sandığın içine sığar mı?	evet	9 4
+1 Çikolata sandığın içine sığar.
+2 Bavul sandığın içine sığar.
+3 Kutu konteynerın içine sığar.
+4 sandık kutunun içine sığar.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 sandık çikolata kutusundan daha büyük mü?	evet	2 5
+7 sandık çikolata kutusunun içine sığar mı?	hayır	5 2
+8 Çikolata kutusu sandıktan büyük mü?	hayır	5 2
+9 Çikolata kutusu sandıktan büyük mü?	hayır	5 2
+10 sandık çikolata kutusunun içine sığar mı?	hayır	5 2
+1 Çikolata kutusu kutunun içine sığar.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Bavul çikolatadan daha büyüktür.
+4 Konteyner, çikolata kutusundan daha büyüktür.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 Kutu çikolatanın içine sığar mı?	hayır	2 1
+7 Çikolata kutunun içine sığar mı?	evet	1 2
+8 Çikolata kutunun içine sığar mı?	evet	1 2
+9 Kutu çikolatanın içine sığar mı?	hayır	2 1
+10 Kutu çikolatanın içine sığar mı?	hayır	2 1
+1 Çikolata kutusu bavulun içine sığar.
+2 Çikolata kutusu bavulun içine sığar.
+3 Bavul kutudan daha büyüktür.
+4 Bavul çikolatadan daha büyüktür.
+5 Konteyner kutunun daha büyüktür.
+6 Kutu çikolatadan daha büyüktür.
+7 Kutu, çikolata kutusundan daha büyüktür.
+8 Çikolata kutusu çikolatadan daha büyüktür.
+9 Bavul kutudan daha büyüktür.
+10 Çikolata konteynerın içine sığar.
+11 Bavul çikolatanın içine sığar mı?	hayır	6 3
+12 Çikolata kutusu bavuldan büyük mü?	hayır	7 3
+13 Çikolata bavuldan büyük mü?	hayır	6 3
+14 Bavul çikolatanın içine sığar mı?	hayır	8 1
+15 Çikolata bavuldan büyük mü?	hayır	8 1
+1 Çikolata kutusu sandığın içine sığar.
+2 Kutu, çikolata kutusundan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 Bavul kutudan daha büyüktür.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Bavul çikolata kutusundan daha büyüktür.	yes	4 2
+7 Bavul çikolata kutusundan daha büyüktür.	yes	4 2
+8 Çikolata kutusu bavulun içine sığar mı?	evet	4 2
+9 Bavul çikolata kutusundan daha büyüktür.	yes	4 2
+10 Çikolata kutusu bavulun içine sığar mı?	evet	4 2
+1 Çikolata bavulun içine sığar.
+2 Çikolata bavulun içine sığar.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Bavul sandıktan büyüktür.
+6 Çikolata kutusu bavuldan büyük mü?	hayır	3 5
+7 Çikolata kutusu bavulun içine sığar mı?	evet	5 3
+8 Çikolata kutusu bavulun içine sığar mı?	evet	5 3
+9 Bavul çikolata kutusundan daha büyüktür.	yes	5 3
+10 Çikolata kutusu bavuldan büyük mü?	hayır	3 5
+1 Kutu bavuldan daha büyüktür.
+2 sandık çikolatadan daha büyüktür.
+3 Kutu Konteynerdan daha büyüktür.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Bavul kutunun içine sığar.
+6 Kutu çikolatadan daha büyük mü?	evet	3 4
+7 Kutu çikolatanın içine sığar mı?	hayır	4 3
+8 Kutu çikolatadan daha büyük mü?	evet	3 4
+9 Çikolata kutudan büyük mü?	hayır	4 3
+10 Çikolata kutudan büyük mü?	hayır	4 3
+1 Konteyner kutunun daha büyüktür.
+2 Bavul sandığın içine sığar.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Çikolata kutusu kutunun içine sığar.
+5 Bavul kutudan daha büyüktür.
+6 Kutu sandıktan büyük mü?	hayır	5 2
+7 Çikolata kutudan büyük mü?	hayır	3 4
+8 Konteyner çikolata kutusunun içine sığar mı?	hayır	4 1
+9 Kutu sandığın içine sığar mı?	evet	2 5
+10 sandık kutudan büyük mü?	evet	2 5
+1 Çikolata kutusu bavulun içine sığar.
+2 Kutu çikolatadan daha büyüktür.
+3 Bavul sandığın içine sığar.
+4 sandık çikolata kutusundan daha büyüktür.
+5 Kutu sandıktan büyüktür.
+6 Bavul kutunun içine sığar mı?	evet	5 3
+7 sandık çikolata kutusundan daha büyük mü?	evet	3 1
+8 sandık çikolata kutusundan daha büyük mü?	evet	3 1
+9 Kutu bavuldan büyük mü?	evet	5 3
+10 sandık çikolata kutusunun içine sığar mı?	hayır	1 3
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Bavul çikolatadan daha büyüktür.
+3 Bavul sandığın içine sığar.
+4 Konteyner kutunun içine sığar.
+5 Konteyner, çikolatadan daha büyüktür.
+6 Çikolata kutudan büyük mü?	hayır	5 4
+7 Çikolata kutudan büyük mü?	hayır	5 4
+8 Kutu çikolatanın içine sığar mı?	hayır	5 4
+9 Çikolata sandığın içine sığar mı?	evet	3 2
+10 Çikolata kutunun içine sığar mı?	evet	4 5
+1 Bavul sandığın içine sığar.
+2 sandık bavuldan daha büyüktür.
+3 Bavul konteynerın içine sığar.
+4 Kutu sandığın içine sığar.
+5 Kutu bavulun içine sığar.
+6 sandık kutunun içine sığar mı?	hayır	5 1
+7 Kutu sandıktan büyük mü?	hayır	5 1
+8 Kutu sandıktan büyük mü?	hayır	5 1
+9 sandık kutunun içine sığar mı?	hayır	5 1
+10 Kutu sandıktan büyük mü?	hayır	5 1
+1 Kutu konteynerın içine sığar.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Bavul çikolatadan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 sandık bavulun içine sığar.
+6 Kutu sandığın içine sığar.
+7 sandık bavulun içine sığar.
+8 Bavul Konteynerdan daha büyüktür.
+9 Kutu konteynerın içine sığar.
+10 Konteyner, çikolatadan daha büyüktür.
+11 Kutu bavulun içine sığar mı?	evet	5 6
+12 Kutu bavulun içine sığar mı?	evet	5 6
+13 Bavul kutudan büyük mü?	evet	5 6
+14 Kutu bavuldan büyük mü?	hayır	6 5
+15 Bavul kutunun içine sığar mı?	hayır	6 5
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Çikolata sandığın içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Bavul sandıktan büyüktür.
+5 Konteyner sandığın içine sığar.
+6 Çikolata bavulun içine sığar mı?	evet	4 2
+7 Bavul çikolatanın içine sığar mı?	hayır	2 4
+8 Çikolata bavuldan büyük mü?	hayır	2 4
+9 Çikolata bavuldan büyük mü?	hayır	2 4
+10 Çikolata bavulun içine sığar mı?	evet	4 2
+1 Konteyner kutunun daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Konteyner bavulun içine sığar.
+5 Çikolata kutunun içine sığar.
+6 Çikolata Konteynerdan büyük mü?	hayır	5 1
+7 Konteyner çikolatanın içine sığar mı?	hayır	5 1
+8 Bavul kutunun içine sığar mı?	hayır	1 4
+9 Kutu bavuldan büyük mü?	hayır	1 4
+10 Konteyner çikolatanın içine sığar mı?	hayır	2 1
+1 Kutu çikolatadan daha büyüktür.
+2 sandık çikolata kutusundan daha büyüktür.
+3 Kutu çikolatadan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 sandık çikolatadan daha büyüktür.
+6 Kutu Konteynerdan daha büyüktür.
+7 Çikolata kutusu kutunun içine sığar.
+8 Çikolata kutusu çikolatadan daha büyüktür.
+9 Çikolata kutunun içine sığar.
+10 Çikolata bavulun içine sığar.
+11 Kutu çikolata kutusunun içine sığar mı?	hayır	4 6
+12 Çikolata kutusu kutunun içine sığar mı?	evet	6 4
+13 Çikolata kutusu kutudan daha büyük mü?	hayır	4 6
+14 Kutu çikolata kutusundan büyük müdür?	evet	6 4
+15 Çikolata kutusu kutudan daha büyük mü?	hayır	4 6
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Çikolata bavulun içine sığar.
+3 Çikolata bavulun içine sığar.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Kutu, çikolata kutusundan daha büyüktür.
+6 Çikolata kutunun içine sığar mı?	evet	5 1
+7 Çikolata kutunun içine sığar mı?	evet	5 1
+8 Kutu çikolatadan daha büyük mü?	evet	5 1
+9 Çikolata kutudan büyük mü?	hayır	1 5
+10 Kutu çikolatanın içine sığar mı?	hayır	1 5
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata konteynerın içine sığar.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Konteyner, çikolatadan daha büyüktür.
+5 Konteyner, bavuldan daha büyüktür.
+6 Çikolata kutunun içine sığar.
+7 Çikolata çikolata kutusunun içine sığar.
+8 Çikolata çikolata kutusunun içine sığar.
+9 Çikolata bavulun içine sığar.
+10 Çükolata kutusu konteynerın içine sığar.
+11 Çikolata konteynerın içine sığar mı?	evet	5 9
+12 Konteyner çikolatadan büyük mü?	evet	10 3
+13 Çikolata konteynerın içine sığar mı?	evet	5 9
+14 Çikolata Konteynerdan büyük mü?	hayır	9 5
+15 Çikolata Konteynerdan büyük mü?	hayır	9 5
+1 Kutu çikolatadan daha büyüktür.
+2 Çükolata kutusu konteynerın içine sığar.
+3 Çikolata sandığın içine sığar.
+4 Çikolata kutusu bavulun içine sığar.
+5 sandık bavulun içine sığar.
+6 Çikolata bavuldan büyük mü?	hayır	3 5
+7 Çikolata bavulun içine sığar mı?	evet	5 3
+8 Bavul çikolatanın içine sığar mı?	hayır	3 5
+9 Çikolata bavulun içine sığar mı?	evet	5 3
+10 Çikolata bavuldan büyük mü?	hayır	3 5
+1 sandık kutunun içine sığar.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 Bavul çikolatadan daha büyüktür.
+5 Kutu, çikolata kutusundan daha büyüktür.
+6 sandık çikolata kutusunun içine sığar mı?	hayır	5 1
+7 sandık çikolataya sığar mı?	hayır	3 1
+8 sandık çikolatadan büyük mü?	evet	1 3
+9 sandık çikolatadan büyük mü?	evet	1 3
+10 Çikolata kutusu sandıktan büyük mü?	hayır	5 1
+1 Kutu Konteynerdan daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 Bavul konteynerın içine sığar.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Kutu Konteynerdan daha büyüktür.
+6 Kutu bavuldan büyük mü?	evet	1 3
+7 Bavul kutudan büyük mü?	hayır	3 1
+8 Kutu bavulun içine sığar mı?	hayır	3 1
+9 Kutu bavulun içine sığar mı?	hayır	3 1
+10 Kutu bavulun içine sığar mı?	hayır	3 1
+1 sandık kutunun içine sığar.
+2 Kutu Konteynerdan daha büyüktür.
+3 sandık çikolatadan daha büyüktür.
+4 Çikolata kutusu bavulun içine sığar.
+5 Bavul Konteynerdan daha büyüktür.
+6 Konteyner sandığın içine sığar mı?	evet	1 2
+7 Konteyner sandığın içine sığar mı?	evet	1 2
+8 Konteyner sandıktan büyük mü?	hayır	2 1
+9 Konteyner sandıktan büyük mü?	hayır	2 1
+10 Konteyner sandığın içine sığar mı?	evet	1 2
+1 Kutu bavuldan daha büyüktür.
+2 Çikolata kutusu sandığın içine sığar.
+3 Konteyner, bavuldan daha büyüktür.
+4 Bavul çikolatadan daha büyüktür.
+5 Kutu çikolatadan daha büyüktür.
+6 Çikolata kutudan büyük mü?	hayır	4 1
+7 Çikolata kutudan büyük mü?	hayır	4 1
+8 Kutu çikolatanın içine sığar mı?	hayır	4 1
+9 Çikolata kutudan büyük mü?	hayır	4 1
+10 Kutu çikolatanın içine sığar mı?	hayır	4 1
+1 Çikolata konteynerın içine sığar.
+2 Konteyner sandıktan daha büyüktür.
+3 Konteyner sandıktan daha büyüktür.
+4 Bavul çikolatadan daha büyüktür.
+5 Çikolata kutusu bavulun içine sığar.
+6 sandık kutunun içine sığar.
+7 Çikolata bavulun içine sığar.
+8 sandık çikolatadan daha büyüktür.
+9 Çikolata kutusu çikolatadan daha büyüktür.
+10 Kutu bavulun içine sığar.
+11 Bavul çikolatadan büyük mü?	evet	5 9
+12 Bavul sandığın içine sığar mı?	evet	10 6
+13 sandık bavuldan büyük mü?	hayır	6 10
+14 Bavul sandığın içine sığar mı?	hayır	6 10
+15 Bavul çikolatadan büyük mü?	evet	5 9
+1 Kutu bavuldan daha büyüktür.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Çikolata kutusu kutunun içine sığar.
+4 Çikolata sandığın içine sığar.
+5 Çikolata kutusu kutunun içine sığar.
+6 Kutu sandıktan büyüktür.
+7 Çikolata kutunun içine sığar.
+8 Kutu sandıktan büyüktür.
+9 Çikolata kutusu sandığın içine sığar.
+10 Bavul çikolatadan daha büyüktür.
+11 Kutu çikolatanın içine sığar mı?		10 1
+12 Kutu çikolatadan daha büyük mü?	evet	1 10
+13 Kutu çikolatanın içine sığar mı?		10 1
+14 Çikolata kutunun içine sığar mı?	evet	1 10
+15 Çikolata kutunun içine sığar mı?	evet	8 4
+1 sandık konteynerın içine sığar.
+2 Bavul çikolata kutusundan daha büyüktür.
+3 Konteyner sandıktan daha büyüktür.
+4 Çikolata kutusu sandığın içine sığar.
+5 Çikolata kutusu kutunun içine sığar.
+6 Konteyner çikolata kutusunun içine sığar mı?	hayır	4 1
+7 Konteyner çikolata kutusunun içine sığar mı?	hayır	4 1
+8 Konteyner çikolata kutusunun içine sığar mı?	hayır	4 1
+9 Konteyner çikolata kutusunun içine sığar mı?	hayır	4 1
+10 Çikolata kutusu konteynerdan büyük mü?	hayır	4 1
+1 sandık bavuldan daha büyüktür.
+2 Kutu Konteynerdan daha büyüktür.
+3 sandık Konteynerdan daha büyüktür.
+4 Çikolata kutusu sandığın içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 Çikolata kutusu kutudan daha büyük mü?	hayır	5 2
+7 Kutu çikolata kutusunun içine sığar mı?	hayır	5 2
+8 Kutu çikolata kutusunun içine sığar mı?	hayır	5 2
+9 Çikolata kutusu kutudan daha büyük mü?	hayır	5 2
+10 Çikolata kutusu kutudan daha büyük mü?	hayır	5 2
+1 sandık çikolata kutusundan daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 sandık çikolatadan daha büyüktür.
+4 Bavul çikolata kutusundan daha büyüktür.
+5 Çikolata konteynerın içine sığar.
+6 Çikolata kutusu bavulun içine sığar.
+7 Çikolata kutusu çikolatadan daha büyüktür.
+8 Kutu sandığın içine sığar.
+9 Bavul kutudan daha büyüktür.
+10 Çikolata sandığın içine sığar.
+11 Çikolata sandığın içine sığar mı?	evet	8 2
+12 sandık çikolataya sığar mı?	hayır	7 1
+13 Çikolata sandıktan büyük mü?	hayır	2 8
+14 sandık çikolataya sığar mı?	hayır	7 1
+15 Çikolata sandığın içine sığar mı?	evet	8 2
+1 sandık kutunun içine sığar.
+2 Çikolata konteynerın içine sığar.
+3 Bavul konteynerın içine sığar.
+4 Kutu bavuldan daha büyüktür.
+5 Konteyner sandığın içine sığar.
+6 sandık çikolatadan büyük mü?	evet	5 2
+7 sandık çikolatadan büyük mü?	evet	5 2
+8 sandık bavuldan büyük mü?	evet	1 4
+9 sandık bavuldan büyük mü?	evet	1 4
+10 sandık çikolatadan büyük mü?	evet	5 2
+1 Konteyner, çikolatadan daha büyüktür.
+2 Bavul çikolatadan daha büyüktür.
+3 Çükolata kutusu konteynerın içine sığar.
+4 Çikolata konteynerın içine sığar.
+5 Konteyner bavulun içine sığar.
+6 Çikolata bavulun içine sığar mı?	evet	5 1
+7 Çikolata bavulun içine sığar mı?	evet	5 1
+8 Bavul çikolatadan büyük mü?	evet	5 1
+9 Çikolata bavulun içine sığar mı?	evet	5 1
+10 Çikolata bavulun içine sığar mı?	evet	5 1
+1 Bavul kutudan daha büyüktür.
+2 sandık bavulun içine sığar.
+3 Konteyner, bavuldan daha büyüktür.
+4 sandık bavulun içine sığar.
+5 Çikolata kutusu kutunun içine sığar.
+6 Bavul çikolata kutusunun içine sığar mı?	hayır	5 1
+7 Çikolata kutusu bavulun içine sığar mı?	evet	1 5
+8 Çikolata kutusu bavulun içine sığar mı?	evet	1 5
+9 Çikolata kutusu bavuldan büyük mü?	hayır	5 1
+10 Konteyner kutudan büyük mü?	evet	3 1
+1 sandık bavulun içine sığar.
+2 sandık çikolatadan daha büyüktür.
+3 Çikolata kutusu kutunun içine sığar.
+4 Konteyner, çikolatadan daha büyüktür.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Bavul çikolatadan büyük mü?	evet	1 2
+7 Bavul çikolatanın içine sığar mı?	hayır	2 1
+8 Çikolata bavulun içine sığar mı?	evet	1 2
+9 Çikolata kutusu bavuldan büyük mü?	hayır	5 1
+10 Bavul çikolata kutusunun içine sığar mı?	hayır	5 1
+1 Konteyner, çikolatadan daha büyüktür.
+2 Konteyner sandığın içine sığar.
+3 sandık bavuldan daha büyüktür.
+4 sandık kutunun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 sandık çikolataya sığar mı?	hayır	1 2
+7 sandık çikolatadan büyük mü?	evet	2 1
+8 Çikolata sandıktan büyük mü?	hayır	1 2
+9 sandık çikolataya sığar mı?	hayır	1 2
+10 sandık çikolataya sığar mı?	hayır	1 2
+1 Çikolata sandığın içine sığar.
+2 Çikolata bavulun içine sığar.
+3 Konteyner kutunun daha büyüktür.
+4 Çikolata kutusu sandığın içine sığar.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Konteyner, çikolatadan daha büyüktür.
+7 Kutu, çikolata kutusundan daha büyüktür.
+8 Konteyner, çikolatadan daha büyüktür.
+9 Bavul konteynerın içine sığar.
+10 Konteyner sandığın içine sığar.
+11 sandık kutudan büyük mü?	evet	10 3
+12 Çikolata kutusu konteynerın içine sığar mı?	evet	3 7
+13 Konteyner çikolata kutusundan büyük mü?	evet	3 7
+14 Çikolata Konteynerdan büyük mü?	hayır	2 9
+15 Konteyner çikolatadan büyük mü?	evet	9 2
+1 sandık konteynerın içine sığar.
+2 Bavul çikolatadan daha büyüktür.
+3 Konteyner kutunun daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Kutu konteynerın içine sığar.
+6 Konteyner sandıktan daha büyüktür.
+7 Çikolata konteynerın içine sığar.
+8 Bavul konteynerın içine sığar.
+9 Bavul konteynerın içine sığar.
+10 Konteyner, bavuldan daha büyüktür.
+11 Konteyner çikolatadan büyük mü?	evet	10 2
+12 Konteyner çikolatadan büyük mü?	evet	10 2
+13 Çikolata konteynerın içine sığar mı?	evet	10 2
+14 Çikolata konteynerın içine sığar mı?	evet	8 2
+15 Çikolata konteynerın içine sığar mı?	evet	10 2
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Kutu bavulun içine sığar.
+3 Kutu sandığın içine sığar.
+4 Çikolata çikolata kutusunun içine sığar.
+5 Bavul çikolatadan daha büyüktür.
+6 Çikolata bavulun içine sığar mı?	evet	1 4
+7 Çikolata bavuldan büyük mü?	hayır	4 1
+8 Bavul çikolatadan büyük mü?	evet	1 4
+9 Çikolata bavuldan büyük mü?	hayır	4 1
+10 Çikolata bavulun içine sığar mı?	evet	1 4
+1 Bavul çikolatadan daha büyüktür.
+2 Bavul sandığın içine sığar.
+3 Çikolata kutunun içine sığar.
+4 Bavul çikolata kutusundan daha büyüktür.
+5 Çikolata kutusu kutunun içine sığar.
+6 Çikolata sandığın içine sığar mı?	evet	2 1
+7 Çikolata sandığın içine sığar mı?	evet	2 1
+8 sandık çikolatadan büyük mü?	evet	2 1
+9 sandık çikolataya sığar mı?	hayır	1 2
+10 Çikolata sandığın içine sığar mı?	evet	2 1
+1 sandık kutunun içine sığar.
+2 sandık bavuldan daha büyüktür.
+3 Kutu sandıktan büyüktür.
+4 Kutu Konteynerdan daha büyüktür.
+5 Bavul konteynerın içine sığar.
+6 Bavul kutudan büyük mü?	hayır	5 4
+7 Kutu bavulun içine sığar mı?	hayır	2 1
+8 Kutu bavulun içine sığar mı?	hayır	2 1
+9 Kutu bavulun içine sığar mı?	hayır	2 1
+10 Kutu bavulun içine sığar mı?	hayır	2 1
+1 Çikolata çikolata kutusunun içine sığar.
+2 Konteyner kutunun içine sığar.
+3 Çikolata sandığın içine sığar.
+4 Bavul çikolatadan daha büyüktür.
+5 Kutu sandığın içine sığar.
+6 Göğüs Konteynerdan büyük mü?	evet	5 2
+7 Göğüs Konteynerdan büyük mü?	evet	5 2
+8 sandık konteynerın içine sığar mı?	hayır	2 5
+9 Konteyner sandıktan büyük mü?	hayır	2 5
+10 sandık konteynerın içine sığar mı?	hayır	2 5
+1 sandık çikolata kutusundan daha büyüktür.
+2 sandık konteynerın içine sığar.
+3 Çikolata kutusu kutunun içine sığar.
+4 Bavul Konteynerdan daha büyüktür.
+5 Çikolata kutusu çikolatadan daha büyüktür.
+6 Çikolata sandıktan büyük mü?	hayır	5 1
+7 Çikolata kutusu konteynerdan büyük mü?	hayır	1 2
+8 Bavul sandığın içine sığar mı?	hayır	2 4
+9 Konteyner çikolata kutusunun içine sığar mı?	hayır	1 2
+10 Çikolata kutusu konteynerdan büyük mü?	hayır	1 2
+1 sandık çikolata kutusundan daha büyüktür.
+2 Bavul kutudan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 Bavul kutudan daha büyüktür.
+5 Çikolata kutunun içine sığar.
+6 Çikolata bavuldan büyük mü?	hayır	5 2
+7 Çikolata bavuldan büyük mü?	hayır	5 2
+8 Çikolata bavuldan büyük mü?	hayır	5 2
+9 Bavul çikolatanın içine sığar mı?	hayır	5 2
+10 Çikolata bavuldan büyük mü?	hayır	5 2
+1 Konteyner bavulun içine sığar.
+2 Bavul çikolatadan daha büyüktür.
+3 sandık kutunun içine sığar.
+4 Konteyner, çikolatadan daha büyüktür.
+5 sandık bavulun içine sığar.
+6 Çikolata bavuldan büyük mü?	hayır	4 1
+7 Çikolata bavulun içine sığar mı?	evet	1 4
+8 Çikolata bavuldan büyük mü?	hayır	4 1
+9 Bavul çikolatadan büyük mü?	evet	1 4
+10 Çikolata bavulun içine sığar mı?	evet	1 4
+1 Kutu çikolatadan daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 Bavul konteynerın içine sığar.
+4 Kutu sandıktan büyüktür.
+5 Çikolata çikolata kutusunun içine sığar.
+6 Çükolata kutusu konteynerın içine sığar.
+7 Kutu çikolatadan daha büyüktür.
+8 Kutu, çikolata kutusundan daha büyüktür.
+9 sandık çikolatadan daha büyüktür.
+10 Kutu bavulun içine sığar.
+11 Konteyner kutunun içine sığar mı?		10 3
+12 Konteyner çikolatanın içine sığar mı?	hayır	5 6
+13 Bavul çikolatadan büyük mü?	evet	10 1
+14 Konteyner kutudan büyük mü?	evet	3 10
+15 Kutu çikolatadan daha büyük mü?	evet	8 5
+1 Bavul sandıktan büyüktür.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 sandık çikolatadan daha büyüktür.
+4 Kutu konteynerın içine sığar.
+5 Kutu çikolatadan daha büyüktür.
+6 Konteyner çikolatadan büyük mü?	evet	4 5
+7 Bavul çikolatadan büyük mü?	evet	1 3
+8 Çikolata konteynerın içine sığar mı?	evet	4 5
+9 Çikolata bavulun içine sığar mı?	evet	1 3
+10 Bavul çikolatadan büyük mü?	evet	1 3
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Konteyner kutunun içine sığar.
+3 Çikolata konteynerın içine sığar.
+4 Konteyner sandığın içine sığar.
+5 Konteyner kutunun içine sığar.
+6 Çikolata kutudan büyük mü?	hayır	3 2
+7 Çikolata kutudan büyük mü?	hayır	3 2
+8 Çikolata kutudan büyük mü?	hayır	3 2
+9 Kutu çikolatanın içine sığar mı?	hayır	3 2
+10 Kutu çikolatanın içine sığar mı?	hayır	3 2
+1 Konteyner, çikolata kutusundan daha büyüktür.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 Kutu sandığın içine sığar.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Bavul konteynerın içine sığar.
+6 Bavul çikolatadan daha büyüktür.
+7 Konteyner, bavuldan daha büyüktür.
+8 Çikolata bavulun içine sığar.
+9 Kutu sandığın içine sığar.
+10 Çikolata kutunun içine sığar.
+11 Konteyner çikolatadan büyük mü?	evet	5 6
+12 Konteyner çikolatadan büyük mü?	evet	5 6
+13 Çikolata sandıktan büyük mü?		10 3
+14 Konteyner çikolatanın içine sığar mı?	hayır	8 5
+15 Çikolata konteynerın içine sığar mı?	evet	5 6
+1 Konteyner sandığın içine sığar.
+2 sandık kutunun içine sığar.
+3 Kutu bavulun içine sığar.
+4 Çikolata kutusu bavulun içine sığar.
+5 Kutu çikolatadan daha büyüktür.
+6 sandık çikolataya sığar mı?	hayır	5 2
+7 Çikolata sandıktan büyük mü?	hayır	5 2
+8 Çikolata sandıktan büyük mü?	hayır	5 2
+9 sandık çikolataya sığar mı?	hayır	5 2
+10 sandık çikolataya sığar mı?	hayır	5 2
+1 Konteyner sandıktan daha büyüktür.
+2 Bavul konteynerın içine sığar.
+3 Konteyner sandıktan daha büyüktür.
+4 Kutu konteynerın içine sığar.
+5 Bavul sandıktan büyüktür.
+6 sandık konteynerın içine sığar mı?	evet	2 5
+7 Konteyner sandığın içine sığar mı?	hayır	5 2
+8 Konteyner sandıktan büyük mü?	evet	2 5
+9 Konteyner sandığın içine sığar mı?	hayır	5 2
+10 Konteyner sandıktan büyük mü?	evet	2 5
+1 Çükolata kutusu konteynerın içine sığar.
+2 sandık çikolata kutusundan daha büyüktür.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Konteyner sandığın içine sığar.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 sandık çikolata kutusunun içine sığar mı?	hayır	1 4
+7 sandık çikolata kutusunun içine sığar mı?	hayır	1 4
+8 Çikolata kutusu sandıktan büyük mü?	hayır	1 4
+9 sandık çikolata kutusunun içine sığar mı?	hayır	1 4
+10 sandık çikolata kutusunun içine sığar mı?	hayır	1 4
+1 Konteyner bavulun içine sığar.
+2 Konteyner, çikolata kutusundan daha büyüktür.
+3 sandık kutunun içine sığar.
+4 Bavul Konteynerdan daha büyüktür.
+5 Konteyner, çikolatadan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar mı?	evet	1 2
+7 Bavul çikolatanın içine sığar mı?	hayır	5 1
+8 Çikolata kutusu bavulun içine sığar mı?	evet	1 2
+9 Çikolata kutusu bavuldan büyük mü?	hayır	2 1
+10 Bavul çikolatanın içine sığar mı?	hayır	5 1
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Konteyner kutunun içine sığar.
+4 Bavul kutunun içine sığar.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 Çikolata kutusu kutudan daha büyük mü?	hayır	5 4
+7 Çikolata kutusu kutunun içine sığar mı?	evet	4 5
+8 Bavul çikolatadan büyük mü?	evet	5 2
+9 Kutu çikolata kutusundan büyük müdür?	evet	4 5
+10 Kutu çikolata kutusundan büyük müdür?	evet	4 5
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Konteyner sandıktan daha büyüktür.
+3 sandık çikolatadan daha büyüktür.
+4 sandık konteynerın içine sığar.
+5 sandık çikolata kutusundan daha büyüktür.
+6 Konteyner çikolatanın içine sığar mı?	hayır	3 2
+7 Konteyner çikolata kutusunun içine sığar mı?	hayır	5 2
+8 Çikolata kutusu konteynerdan büyük mü?	hayır	5 2
+9 Çikolata Konteynerdan büyük mü?	hayır	3 2
+10 sandık çikolataya sığar mı?	hayır	1 5
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Çikolata kutunun içine sığar.
+3 Konteyner, bavuldan daha büyüktür.
+4 sandık çikolata kutusundan daha büyüktür.
+5 Kutu sandığın içine sığar.
+6 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+7 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+8 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+9 Çikolata kutusu sandığın içine sığar mı?	evet	5 1
+10 sandık çikolata kutusundan daha büyük mü?	evet	5 1
+1 Bavul çikolatadan daha büyüktür.
+2 Çükolata kutusu konteynerın içine sığar.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Çikolata kutusu çikolatadan daha büyüktür.
+5 Bavul kutudan daha büyüktür.
+6 Konteyner çikolatanın içine sığar mı?	hayır	4 2
+7 Konteyner çikolatanın içine sığar mı?	hayır	4 2
+8 Çikolata Konteynerdan büyük mü?	hayır	4 2
+9 Konteyner çikolatanın içine sığar mı?	hayır	4 2
+10 Çikolata Konteynerdan büyük mü?	hayır	4 2
+1 Çikolata bavulun içine sığar.
+2 Konteyner, bavuldan daha büyüktür.
+3 sandık konteynerın içine sığar.
+4 sandık bavuldan daha büyüktür.
+5 Kutu sandıktan büyüktür.
+6 Bavul Konteynerdan daha büyük mü?	hayır	4 3
+7 sandık çikolatadan büyük mü?	evet	4 1
+8 Konteyner bavuldan daha büyük mü?	evet	3 4
+9 Çikolata sandığın içine sığar mı?	evet	4 1
+10 Konteyner bavuldan daha büyük mü?	evet	3 4
+1 sandık çikolata kutusundan daha büyüktür.
+2 Bavul sandıktan büyüktür.
+3 Çikolata kutusu sandığın içine sığar.
+4 Kutu, çikolata kutusundan daha büyüktür.
+5 Bavul Konteynerdan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar mı?	evet	2 1
+7 Bavul çikolata kutusundan daha büyüktür.	yes	2 1
+8 Çikolata kutusu bavulun içine sığar mı?	evet	2 1
+9 Çikolata kutusu bavulun içine sığar mı?	evet	2 1
+10 Çikolata kutusu bavulun içine sığar mı?	evet	2 1
+1 sandık çikolata kutusundan daha büyüktür.
+2 Konteyner, çikolatadan daha büyüktür.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Çükolata kutusu konteynerın içine sığar.
+5 Kutu sandığın içine sığar.
+6 Çükolata kutusu konteynerın içine sığar.
+7 Kutu konteynerın içine sığar.
+8 sandık çikolatadan daha büyüktür.
+9 Çikolata kutunun içine sığar.
+10 sandık konteynerın içine sığar.
+11 sandık çikolataya sığar mı?	hayır	9 5
+12 Konteyner çikolata kutusundan büyük mü?	evet	10 1
+13 Konteyner çikolata kutusundan büyük mü?	evet	10 1
+14 sandık çikolataya sığar mı?	hayır	9 5
+15 Çikolata kutusu konteynerın içine sığar mı?	evet	10 1
+1 Konteyner sandığın içine sığar.
+2 Konteyner sandığın içine sığar.
+3 Çikolata kutusu bavulun içine sığar.
+4 Konteyner kutunun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 sandık çikolata kutusunun içine sığar mı?	hayır	5 1
+7 sandık çikolata kutusunun içine sığar mı?	hayır	5 1
+8 Çikolata kutusu sandıktan büyük mü?	hayır	5 1
+9 sandık çikolata kutusunun içine sığar mı?	hayır	5 1
+10 Çikolata kutusu sandıktan büyük mü?	hayır	5 1
+1 Bavul çikolatadan daha büyüktür.
+2 Çikolata kutusu bavulun içine sığar.
+3 Konteyner kutunun daha büyüktür.
+4 Konteyner sandıktan daha büyüktür.
+5 Konteyner kutunun daha büyüktür.
+6 Konteyner, çikolata kutusundan daha büyüktür.
+7 sandık kutunun içine sığar.
+8 Kutu sandıktan büyüktür.
+9 Bavul sandıktan büyüktür.
+10 Bavul çikolata kutusundan daha büyüktür.
+11 Göğüs Konteynerdan büyük mü?	hayır	8 3
+12 Göğüs Konteynerdan büyük mü?	hayır	8 3
+13 Göğüs Konteynerdan büyük mü?	hayır	8 3
+14 Göğüs Konteynerdan büyük mü?	hayır	7 3
+15 Konteyner sandığın içine sığar mı?	hayır	8 3
+1 Çikolata kutusu kutunun içine sığar.
+2 Çikolata kutusu bavulun içine sığar.
+3 sandık bavuldan daha büyüktür.
+4 Kutu bavuldan daha büyüktür.
+5 Bavul konteynerın içine sığar.
+6 Çikolata kutusu kutunun içine sığar mı?	evet	4 2
+7 Kutu çikolata kutusundan büyük müdür?	evet	4 2
+8 sandık çikolata kutusundan daha büyük mü?	evet	3 2
+9 Çikolata kutusu kutunun içine sığar mı?	evet	4 2
+10 Çikolata kutusu sandığın içine sığar mı?	evet	3 2
+1 Kutu bavulun içine sığar.
+2 Kutu çikolatadan daha büyüktür.
+3 Konteyner bavulun içine sığar.
+4 Kutu sandığın içine sığar.
+5 Bavul kutudan daha büyüktür.
+6 Bavul çikolatanın içine sığar mı?	hayır	2 1
+7 Çikolata bavuldan büyük mü?	hayır	2 1
+8 Çikolata bavuldan büyük mü?	hayır	2 1
+9 Bavul çikolatanın içine sığar mı?	hayır	2 1
+10 Çikolata bavuldan büyük mü?	hayır	2 1
+1 Kutu bavuldan daha büyüktür.
+2 Kutu, çikolata kutusundan daha büyüktür.
+3 sandık Konteynerdan daha büyüktür.
+4 Çikolata kutusu sandığın içine sığar.
+5 sandık çikolatadan daha büyüktür.
+6 Bavul sandığın içine sığar.
+7 Çikolata konteynerın içine sığar.
+8 Kutu Konteynerdan daha büyüktür.
+9 Kutu bavuldan daha büyüktür.
+10 Kutu bavuldan daha büyüktür.
+11 Çikolata sandığın içine sığar mı?	evet	3 7
+12 Çikolata sandıktan büyük mü?	hayır	7 3
+13 Çikolata sandıktan büyük mü?	hayır	7 3
+14 Çikolata sandığın içine sığar.
+15 Kutu bavuldan daha büyüktür.
+16 Bavul sandığın içine sığar.
+17 sandık kutunun içine sığar.
+18 Konteyner bavulun içine sığar.
+19 Kutu konteynerdan büyük mü?	evet	17 3
+20 sandık çikolataya sığar mı?	hayır	7 3
+21 Konteyner kutudan büyük mü?		18 1
+22 sandık çikolataya sığar mı?	hayır	7 3
+23 Çikolata sandıktan büyük mü?	hayır	7 3
+1 sandık bavulun içine sığar.
+2 sandık çikolata kutusundan daha büyüktür.
+3 Çikolata kutusu kutunun içine sığar.
+4 Konteyner, çikolata kutusundan daha büyüktür.
+5 Kutu, çikolata kutusundan daha büyüktür.
+6 Bavul çikolata kutusunun içine sığar mı?	hayır	2 1
+7 Bavul çikolata kutusunun içine sığar mı?	hayır	2 1
+8 Çikolata kutusu bavulun içine sığar mı?	evet	1 2
+9 Çikolata kutusu bavuldan büyük mü?	hayır	2 1
+10 Çikolata kutusu bavulun içine sığar mı?	evet	1 2
+1 Çikolata çikolata kutusunun içine sığar.
+2 Kutu, çikolata kutusundan daha büyüktür.
+3 Çikolata konteynerın içine sığar.
+4 sandık çikolata kutusundan daha büyüktür.
+5 Çikolata kutusu sandığın içine sığar.
+6 sandık çikolatadan büyük mü?	evet	5 1
+7 Çikolata kutudan büyük mü?	hayır	1 2
+8 Çikolata sandığın içine sığar mı?	evet	5 1
+9 Çikolata kutunun içine sığar mı?	evet	2 1
+10 sandık çikolatadan büyük mü?	evet	5 1
+1 Çikolata kutunun içine sığar.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Kutu çikolatadan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 Çikolata sandığın içine sığar.
+6 Çikolata bavulun içine sığar mı?	evet	4 1
+7 Bavul çikolatadan büyük mü?	evet	4 1
+8 Bavul çikolatadan büyük mü?	evet	4 1
+9 Çikolata bavulun içine sığar mı?	evet	4 1
+10 Bavul çikolatadan büyük mü?	evet	4 1
+1 Konteyner, bavuldan daha büyüktür.
+2 Bavul sandığın içine sığar.
+3 Bavul kutunun içine sığar.
+4 sandık bavuldan daha büyüktür.
+5 Kutu çikolatadan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar.
+7 Kutu sandığın içine sığar.
+8 sandık bavuldan daha büyüktür.
+9 sandık Konteynerdan daha büyüktür.
+10 Konteyner sandığın içine sığar.
+11 sandık bavuldan büyük mü?	evet	10 1
+12 sandık bavuldan büyük mü?	evet	7 3
+13 Konteyner çikolata kutusunun içine sığar mı?	hayır	6 1
+14 Çikolata kutusu konteynerdan büyük mü?	hayır	6 1
+15 Çikolata kutusu konteynerdan büyük mü?	hayır	6 1
+1 Bavul çikolatadan daha büyüktür.
+2 Bavul sandığın içine sığar.
+3 Konteyner kutunun daha büyüktür.
+4 Konteyner, çikolatadan daha büyüktür.
+5 sandık çikolata kutusundan daha büyüktür.
+6 sandık çikolataya sığar mı?	hayır	1 2
+7 Çikolata sandıktan büyük mü?	hayır	1 2
+8 sandık çikolatadan büyük mü?	evet	2 1
+9 Çikolata sandıktan büyük mü?	hayır	1 2
+10 Çikolata sandığın içine sığar mı?	evet	2 1
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Bavul kutudan daha büyüktür.
+3 sandık çikolatadan daha büyüktür.
+4 Çikolata kutusu çikolatadan daha büyüktür.
+5 Kutu sandığın içine sığar.
+6 Bavul çikolatadan büyük mü?	evet	1 4
+7 Bavul çikolatanın içine sığar mı?	hayır	4 1
+8 Bavul çikolatadan büyük mü?	evet	1 4
+9 Çikolata bavuldan büyük mü?	hayır	4 1
+10 Bavul çikolatanın içine sığar mı?	hayır	4 1
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 sandık Konteynerdan daha büyüktür.
+3 Bavul sandığın içine sığar.
+4 Konteyner bavulun içine sığar.
+5 Konteyner, çikolata kutusundan daha büyüktür.
+6 sandık çikolata kutusunun içine sığar mı?	hayır	5 2
+7 Çikolata kutusu sandıktan büyük mü?	hayır	5 2
+8 sandık konteynerın içine sığar mı?	hayır	4 3
+9 Çikolata kutusu sandıktan büyük mü?	hayır	5 2
+10 Göğüs Konteynerdan büyük mü?	evet	3 4
+1 Kutu bavulun içine sığar.
+2 Bavul kutudan daha büyüktür.
+3 Bavul sandıktan büyüktür.
+4 Çikolata konteynerın içine sığar.
+5 Bavul kutudan daha büyüktür.
+6 Konteyner kutunun daha büyüktür.
+7 Konteyner, çikolatadan daha büyüktür.
+8 Konteyner, çikolatadan daha büyüktür.
+9 Çikolata kutusu kutunun içine sığar.
+10 Bavul çikolatadan daha büyüktür.
+11 Çikolata kutusu bavuldan büyük mü?	hayır	9 1
+12 Çikolata kutusu bavuldan büyük mü?	hayır	9 1
+13 Çikolata kutusu bavuldan büyük mü?	hayır	9 1
+14 Çikolata kutusu bavuldan büyük mü?	hayır	9 1
+15 Çikolata kutusu bavuldan büyük mü?	hayır	9 1
+1 Konteyner sandığın içine sığar.
+2 Çikolata kutusu kutunun içine sığar.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Çikolata kutunun içine sığar.
+5 Çikolata kutunun içine sığar.
+6 Çikolata kutunun içine sığar mı?	evet	2 3
+7 Çikolata kutunun içine sığar mı?	evet	2 3
+8 Çikolata kutunun içine sığar mı?	evet	2 3
+9 Çikolata kutunun içine sığar mı?	evet	2 3
+10 Çikolata kutudan büyük mü?	hayır	3 2
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Kutu çikolatadan daha büyüktür.
+3 Çikolata çikolata kutusunun içine sığar.
+4 Bavul çikolatadan daha büyüktür.
+5 sandık konteynerın içine sığar.
+6 Çikolata kutunun içine sığar mı?	evet	1 3
+7 Çikolata kutudan büyük mü?	hayır	3 1
+8 Kutu çikolatanın içine sığar mı?	hayır	3 1
+9 Kutu çikolatanın içine sığar mı?	hayır	3 1
+10 Kutu çikolatanın içine sığar mı?	hayır	3 1
+1 Kutu bavuldan daha büyüktür.
+2 Çikolata kutusu bavulun içine sığar.
+3 Konteyner, çikolatadan daha büyüktür.
+4 Çikolata kutusu bavulun içine sığar.
+5 sandık konteynerın içine sığar.
+6 Kutu çikolata kutusunun içine sığar mı?	hayır	2 1
+7 Kutu çikolata kutusunun içine sığar mı?	hayır	4 1
+8 Kutu çikolata kutusunun içine sığar mı?	hayır	4 1
+9 Kutu çikolata kutusundan büyük müdür?	evet	1 2
+10 Çikolata kutusu kutudan daha büyük mü?	hayır	4 1
+1 Kutu çikolatadan daha büyüktür.
+2 Konteyner sandığın içine sığar.
+3 Bavul çikolata kutusundan daha büyüktür.
+4 sandık kutunun içine sığar.
+5 sandık Konteynerdan daha büyüktür.
+6 sandık çikolatadan büyük mü?	evet	4 1
+7 Çikolata sandıktan büyük mü?	hayır	1 4
+8 sandık çikolataya sığar mı?	hayır	1 4
+9 sandık çikolataya sığar mı?	hayır	1 4
+10 sandık çikolataya sığar mı?	hayır	1 4
+1 Konteyner, bavuldan daha büyüktür.
+2 Çükolata kutusu konteynerın içine sığar.
+3 Kutu konteynerın içine sığar.
+4 Çikolata kutusu sandığın içine sığar.
+5 Kutu çikolatadan daha büyüktür.
+6 Çikolata Konteynerdan büyük mü?	hayır	5 3
+7 Çikolata konteynerın içine sığar mı?	evet	3 5
+8 Konteyner çikolatanın içine sığar mı?	hayır	5 3
+9 Konteyner çikolatadan büyük mü?	evet	3 5
+10 Çikolata konteynerın içine sığar mı?	evet	3 5
+1 Çikolata çikolata kutusunun içine sığar.
+2 Kutu Konteynerdan daha büyüktür.
+3 Çikolata kutunun içine sığar.
+4 Çikolata konteynerın içine sığar.
+5 sandık Konteynerdan daha büyüktür.
+6 Kutu çikolatanın içine sığar mı?	hayır	4 2
+7 Kutu çikolatadan daha büyük mü?	evet	2 4
+8 Kutu çikolatadan daha büyük mü?	evet	2 4
+9 Çikolata kutunun içine sığar mı?	evet	2 4
+10 Çikolata kutunun içine sığar mı?	evet	2 4
+1 Bavul çikolata kutusundan daha büyüktür.
+2 Konteyner bavulun içine sığar.
+3 sandık bavulun içine sığar.
+4 sandık Konteynerdan daha büyüktür.
+5 Bavul sandıktan büyüktür.
+6 Bavul konteynerın içine sığar mı?	hayır	4 3
+7 Konteyner bavuldan daha büyük mü?	hayır	4 3
+8 Bavul konteynerın içine sığar mı?	hayır	4 3
+9 Konteyner bavuldan daha büyük mü?	hayır	4 3
+10 Bavul konteynerın içine sığar mı?	hayır	4 3
+1 Kutu çikolatadan daha büyüktür.
+2 Çikolata sandığın içine sığar.
+3 Bavul konteynerın içine sığar.
+4 Kutu konteynerın içine sığar.
+5 Konteyner, bavuldan daha büyüktür.
+6 Çikolata Konteynerdan büyük mü?	hayır	1 4
+7 Konteyner çikolatadan büyük mü?	evet	4 1
+8 Çikolata Konteynerdan büyük mü?	hayır	1 4
+9 Çikolata konteynerın içine sığar mı?	evet	4 1
+10 Konteyner çikolatadan büyük mü?	evet	4 1
+1 Çikolata sandığın içine sığar.
+2 Çikolata sandığın içine sığar.
+3 Kutu, çikolata kutusundan daha büyüktür.
+4 Bavul kutudan daha büyüktür.
+5 Çikolata kutusu çikolatadan daha büyüktür.
+6 Bavul çikolata kutusundan daha büyüktür.	yes	4 3
+7 Çikolata kutusu bavuldan büyük mü?	hayır	3 4
+8 Çikolata kutudan büyük mü?	hayır	5 3
+9 Çikolata kutusu bavuldan büyük mü?	hayır	3 4
+10 Çikolata kutudan büyük mü?	hayır	5 3
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 Kutu, çikolata kutusundan daha büyüktür.
+3 sandık çikolata kutusundan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 Konteyner, çikolatadan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar mı?	evet	4 1
+7 Bavul çikolata kutusundan daha büyüktür.	yes	4 1
+8 Bavul çikolata kutusundan daha büyüktür.	yes	4 1
+9 Çikolata kutusu bavulun içine sığar mı?	evet	4 1
+10 Çikolata kutusu bavulun içine sığar mı?	evet	4 1
+1 Bavul sandığın içine sığar.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Çikolata kutusu bavulun içine sığar.
+4 Çikolata kutusu kutunun içine sığar.
+5 sandık çikolata kutusundan daha büyüktür.
+6 sandık çikolatadan büyük mü?	evet	5 2
+7 Çikolata kutusu sandığın içine sığar mı?	evet	1 3
+8 Çikolata bavulun içine sığar mı?	evet	3 2
+9 sandık çikolata kutusundan daha büyük mü?	evet	1 3
+10 sandık çikolatadan büyük mü?	evet	5 2
+1 Çikolata bavulun içine sığar.
+2 Konteyner kutunun daha büyüktür.
+3 Bavul konteynerın içine sığar.
+4 Kutu sandıktan büyüktür.
+5 Bavul sandığın içine sığar.
+6 Çikolata sandığın içine sığar mı?	evet	5 1
+7 Konteyner sandıktan büyük mü?	evet	2 4
+8 Kutu bavulun içine sığar mı?	hayır	5 4
+9 Çikolata konteynerın içine sığar mı?	evet	3 1
+10 Kutu bavulun içine sığar mı?	hayır	5 4
+1 Kutu Konteynerdan daha büyüktür.
+2 sandık bavulun içine sığar.
+3 Bavul çikolata kutusundan daha büyüktür.
+4 Çikolata kutunun içine sığar.
+5 sandık çikolatadan daha büyüktür.
+6 Çikolata bavuldan büyük mü?	hayır	5 2
+7 Bavul çikolatadan büyük mü?	evet	2 5
+8 Bavul çikolatanın içine sığar mı?	hayır	5 2
+9 Bavul çikolatadan büyük mü?	evet	2 5
+10 Çikolata bavulun içine sığar mı?	evet	2 5
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata çikolata kutusunun içine sığar.
+3 Çikolata konteynerın içine sığar.
+4 Kutu bavuldan daha büyüktür.
+5 Bavul çikolata kutusundan daha büyüktür.
+6 Kutu çikolata kutusundan büyük müdür?	evet	4 5
+7 Çikolata bavuldan büyük mü?	hayır	2 5
+8 Bavul çikolatanın içine sığar mı?	hayır	2 5
+9 Çikolata kutusu kutunun içine sığar mı?	evet	4 5
+10 Çikolata kutusu kutunun içine sığar mı?	evet	4 5
+1 Kutu sandıktan büyüktür.
+2 sandık kutunun içine sığar.
+3 Çikolata sandığın içine sığar.
+4 sandık konteynerın içine sığar.
+5 Kutu konteynerın içine sığar.
+6 Çikolata kutudan büyük mü?	hayır	3 1
+7 Konteyner sandıktan büyük mü?	evet	5 1
+8 Çikolata kutudan büyük mü?	hayır	3 1
+9 sandık konteynerın içine sığar mı?	evet	5 1
+10 sandık konteynerın içine sığar mı?	evet	5 1
+1 Bavul sandıktan büyüktür.
+2 Kutu bavulun içine sığar.
+3 Konteyner kutunun daha büyüktür.
+4 Çikolata kutusu kutunun içine sığar.
+5 sandık bavulun içine sığar.
+6 Çikolata kutusu bavuldan büyük mü?	hayır	4 2
+7 Çikolata kutusu bavuldan büyük mü?	hayır	4 2
+8 Çikolata kutusu bavuldan büyük mü?	hayır	4 2
+9 Bavul çikolata kutusunun içine sığar mı?	hayır	4 2
+10 Çikolata kutusu bavuldan büyük mü?	hayır	4 2
+1 sandık çikolatadan daha büyüktür.
+2 Çikolata kutusu çikolatadan daha büyüktür.
+3 Bavul çikolatadan daha büyüktür.
+4 Çikolata bavulun içine sığar.
+5 Çikolata kutusu bavulun içine sığar.
+6 Bavul çikolatadan büyük mü?	evet	5 2
+7 Çikolata bavuldan büyük mü?	hayır	2 5
+8 Çikolata bavulun içine sığar mı?	evet	5 2
+9 Çikolata bavulun içine sığar mı?	evet	5 2
+10 Çikolata bavuldan büyük mü?	hayır	2 5
+1 Kutu, çikolata kutusundan daha büyüktür.
+2 sandık çikolatadan daha büyüktür.
+3 Bavul Konteynerdan daha büyüktür.
+4 Kutu bavulun içine sığar.
+5 sandık çikolatadan daha büyüktür.
+6 Çikolata kutusu bavulun içine sığar mı?	evet	4 1
+7 Çikolata kutusu bavulun içine sığar mı?	evet	4 1
+8 Çikolata kutusu bavuldan büyük mü?	hayır	1 4
+9 Bavul çikolata kutusundan daha büyüktür.	yes	4 1
+10 Bavul çikolata kutusundan daha büyüktür.	yes	4 1
+1 Çikolata kutusu çikolatadan daha büyüktür.
+2 Kutu bavuldan daha büyüktür.
+3 Konteyner, çikolata kutusundan daha büyüktür.
+4 Çikolata konteynerın içine sığar.
+5 Çikolata kutusu sandığın içine sığar.
+6 Konteyner çikolatanın içine sığar mı?	hayır	1 3
+7 sandık çikolatadan büyük mü?	evet	5 1
+8 Çikolata sandığın içine sığar mı?	evet	5 1
+9 Çikolata Konteynerdan büyük mü?	hayır	1 3
+10 Çikolata konteynerın içine sığar mı?	evet	3 1

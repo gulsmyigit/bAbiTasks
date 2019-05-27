@@ -1,0 +1,5398 @@
+1 Mary oradaki sütü aldı.
+2 John salona gitti.
+3 Sandra mutfağa geri döndü.
+4 Mary koridora gitti.
+5 Süt nerede? 	koridor	1 4
+6 John oradaki topu aldı.
+7 John koridora gitti.
+8 Top nerede? 	koridor	6 7
+9 John topu bıraktı.
+10 Mary bahçeye gitti.
+11 Top nerede? 	koridor	9 7
+12 John mutfağa gitti.
+13 Sandra koridora gitti.
+14 Top nerede? 	koridor	9 7
+15 Daniel koridora gitti.
+16 Mary sütü bıraktı.
+17 Süt nerede? 	bahçe	16 10
+1 Mary banyoya gitti.
+2 Sandra bahçeye gitti.
+3 Daniel salona geri döndü.
+4 Daniel ofise gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra sütü oraya bıraktı.
+7 Süt nerede? 	bahçe	6 2
+8 Daniel koridora gitti.
+9 Sandra oradaki sütü aldı.
+10 Daniel bahçeye gitti.
+11 Daniel mutfağa gitti.
+12 Daniel salona gitti.
+13 Mary bahçeye gitti.
+14 Daniel topu oraya aldı.
+15 Mary ofise gitti.
+16 Sandra salona gitti.
+17 Daniel topu bıraktı.
+18 Top nerede? 	salon	17 12
+19 Sandra sütü oraya bıraktı.
+20 Daniel topu oradan aldı.
+21 Süt nerede? 	salon	19 16
+22 Sandra oradaki sütü aldı.
+23 Daniel mutfağa gitti.
+24 Top nerede? 	mutfak	20 23
+25 John mutfağa gitti.
+26 Mary koridora gitti.
+27 Top nerede? 	mutfak	20 23
+1 Mary oradaki elmayı aldı.
+2 Mary elmayı bıraktı.
+3 Daniel salona geri döndü.
+4 Mary ofise gitti.
+5 John oradaki topu aldı.
+6 Mary mutfağa geri döndü.
+7 Daniel oradaki sütü aldı.
+8 John salona gitti.
+9 Top nerede? 	salon	5 8
+10 John koridora gitti.
+11 John topu bıraktı.
+12 Top nerede? 	koridor	11 10
+13 Daniel sütü bıraktı.
+14 John oradaki topu aldı.
+15 Süt nerede? 	bahçe	13 3
+16 Mary bahçeye gitti.
+17 Daniel banyoya gitti.
+18 Süt nerede? 	bahçe	13 3
+19 Sandra banyoya gitti.
+20 Mary banyoya gitti.
+21 Mary oradaki elmayı aldı.
+22 Mary elmayı bıraktı.
+23 Elma nerede? 	banyo	22 20
+1 Daniel ofise gitti.
+2 John topu oraya aldı.
+3 John topu bıraktı.
+4 John bahçeye gitti.
+5 Daniel bahçeye gitti.
+6 Sandra bahçeye gitti.
+7 Daniel mutfağa gitti.
+8 Daniel ofise gitti.
+9 Mary oradaki sütü aldı.
+10 Daniel salona gitti.
+11 John ofise gitti.
+12 Daniel banyoya gitti.
+13 John mutfağa gitti.
+14 Mary bahçeye gitti.
+15 Mary sütü bıraktı.
+16 John salona geri döndü.
+17 Süt nerede? 	bahçe	15 14
+18 Sandra oradaki sütü aldı.
+19 Sandra sütü bıraktı.
+20 Süt nerede? 	bahçe	19 6
+21 Mary banyoya geri döndü.
+22 Mary salona gitti.
+23 Süt nerede? 	bahçe	19 6
+24 John oradaki sütü aldı.
+25 Daniel ofise geri döndü.
+26 Daniel mutfağa gitti.
+27 Daniel elmayı oraya aldı.
+28 John sütü bıraktı.
+29 Daniel elmayı bıraktı.
+30 Elma nerede? 	mutfak	29 26
+31 John oradaki sütü aldı.
+32 Daniel koridora gitti.
+33 Elma nerede? 	mutfak	29 26
+1 Mary mutfağa gitti.
+2 Mary ofise gitti.
+3 Daniel topu oradan aldı.
+4 Mary koridora gitti.
+5 Sandra salona gitti.
+6 Mary salona geri döndü.
+7 John oradaki sütü aldı.
+8 John sütü bıraktı.
+9 Daniel banyoya gitti.
+10 Sandra banyoya gitti.
+11 John oradaki sütü aldı.
+12 Mary oradaki elmayı aldı.
+13 Mary elmayı bıraktı.
+14 John salona gitti.
+15 Elma nerede? 	salon	13 6
+16 Mary ofise gitti.
+17 Daniel topu bıraktı.
+18 Elma nerede? 	salon	13 6
+19 John mutfağa geri döndü.
+20 Sandra oradaki topu aldı.
+21 John koridora gitti.
+22 Sandra topu bıraktı.
+23 Top nerede? 	banyo	22 10
+24 John sütü bıraktı.
+25 John oradaki sütü aldı.
+26 Top nerede? 	banyo	22 10
+27 Mary koridora gitti.
+28 John salona gitti.
+29 Süt nerede? 	salon	25 28
+1 Daniel mutfağa gitti.
+2 John topu oradan aldı.
+3 John topu oraya bıraktı.
+4 Mary koridora gitti.
+5 John oradaki sütü aldı.
+6 John mutfağa gitti.
+7 Süt nerede? 	mutfak	5 6
+8 Mary mutfağa gitti.
+9 Sandra ofise gitti.
+10 Süt nerede? 	mutfak	5 6
+11 Daniel banyoya gitti.
+12 Daniel oradaki elmayı aldı.
+13 Sandra bahçeye gitti.
+14 Daniel elmayı bıraktı.
+15 Elma nerede? 	banyo	14 11
+16 Sandra ofise geri döndü.
+17 Daniel mutfağa gitti.
+18 Elma nerede? 	banyo	14 11
+19 John sütü bıraktı.
+20 Daniel salona gitti.
+21 Süt nerede? 	mutfak	19 6
+1 Daniel ofise gitti.
+2 Daniel salona geri döndü.
+3 Mary mutfağa geri döndü.
+4 Mary oradaki topu aldı.
+5 Daniel koridora gitti.
+6 John salona gitti.
+7 Daniel oradaki elmayı aldı.
+8 Sandra bahçeye gitti.
+9 Daniel bahçeye gitti.
+10 Daniel elmayı bıraktı.
+11 Elma nerede? 	bahçe	10 9
+12 Mary topu bıraktı.
+13 Mary salona gitti.
+14 Elma nerede? 	bahçe	10 9
+15 John koridora gitti.
+16 John salona geri döndü.
+17 Top nerede? 	mutfak	12 3
+18 Sandra oradaki elmayı aldı.
+19 John mutfağa gitti.
+20 Mary banyoya gitti.
+21 Mary bahçeye gitti.
+22 Sandra mutfağa geri döndü.
+23 Sandra elmayı oraya bıraktı.
+24 Elma nerede? 	mutfak	23 22
+25 Mary salona geri döndü.
+26 Mary mutfağa geri döndü.
+27 Elma nerede? 	mutfak	23 22
+1 John ofise geri döndü.
+2 Mary koridora geri döndü.
+3 Daniel salona gitti.
+4 Mary banyoya geri döndü.
+5 Sandra koridora geri döndü.
+6 Sandra oradaki sütü aldı.
+7 Mary ofise gitti.
+8 Mary koridora gitti.
+9 Daniel banyoya gitti.
+10 Sandra ofise gitti.
+11 Süt nerede? 	ofis	6 10
+12 John bahçeye gitti.
+13 Sandra koridora gitti.
+14 Daniel ofise gitti.
+15 Mary ofise geri döndü.
+16 John mutfağa gitti.
+17 Sandra salona gitti.
+18 Sandra ofise geri döndü.
+19 Daniel mutfağa gitti.
+20 John topu oraya aldı.
+21 John topu bıraktı.
+22 Top nerede? 	mutfak	21 16
+23 Sandra salona geri döndü.
+24 Sandra koridora geri döndü.
+25 Top nerede? 	mutfak	21 16
+26 John topu oradan aldı.
+27 Daniel banyoya gitti.
+28 John topu bıraktı.
+29 Sandra salona geri döndü.
+30 Top nerede? 	mutfak	28 16
+31 Mary mutfağa gitti.
+32 John topu oradan aldı.
+33 Sandra sütü oraya bıraktı.
+34 John bahçeye gitti.
+35 Süt nerede? 	salon	33 29
+1 Daniel koridora gitti.
+2 Mary mutfağa geri döndü.
+3 John oradaki sütü aldı.
+4 John sütü bıraktı.
+5 John oradaki sütü aldı.
+6 Mary salona geri döndü.
+7 John salona geri döndü.
+8 Mary oradaki topu aldı.
+9 Süt nerede? 	salon	5 7
+10 John ofise gitti.
+11 John sütü bıraktı.
+12 Süt nerede? 	ofis	11 10
+13 Mary salona gitti.
+14 John salona gitti.
+15 Süt nerede? 	ofis	11 10
+16 John banyoya gitti.
+17 Mary banyoya gitti.
+18 Süt nerede? 	ofis	11 10
+19 Mary mutfağa gitti.
+20 Mary ofise gitti.
+21 Sandra mutfağa gitti.
+22 Daniel oradaki elmayı aldı.
+23 Sandra bahçeye gitti.
+24 Mary salona gitti.
+25 Daniel mutfağa gitti.
+26 Mary topu bıraktı.
+27 Elma nerede? 	mutfak	22 25
+1 John banyoya gitti.
+2 John koridora gitti.
+3 Mary oradaki sütü aldı.
+4 Mary salona geri döndü.
+5 Süt nerede? 	salon	3 4
+6 Sandra topu oraya aldı.
+7 Sandra ofise gitti.
+8 Top nerede? 	ofis	6 7
+9 Sandra banyoya geri döndü.
+10 John salona gitti.
+11 Top nerede? 	banyo	6 9
+12 John banyoya geri döndü.
+13 Sandra topu bıraktı.
+14 Top nerede? 	banyo	13 9
+15 Mary sütü bıraktı.
+16 Sandra mutfağa gitti.
+17 Süt nerede? 	salon	15 4
+1 Daniel oradaki sütü aldı.
+2 John bahçeye gitti.
+3 Daniel koridora geri döndü.
+4 Daniel banyoya gitti.
+5 Süt nerede? 	banyo	1 4
+6 Daniel sütü bıraktı.
+7 Daniel oradaki sütü aldı.
+8 John elmayı oraya aldı.
+9 Sandra mutfağa gitti.
+10 John koridora gitti.
+11 Sandra salona geri döndü.
+12 Elma nerede? 	koridor	8 10
+13 Daniel mutfağa gitti.
+14 Sandra salona gitti.
+15 Daniel koridora geri döndü.
+16 Sandra mutfağa geri döndü.
+17 Sandra banyoya geri döndü.
+18 John mutfağa gitti.
+19 Sandra oradaki topu aldı.
+20 Sandra mutfağa gitti.
+21 Top nerede? 	mutfak	19 20
+22 Daniel sütü bıraktı.
+23 Sandra topu bıraktı.
+24 Top nerede? 	mutfak	23 20
+25 Sandra oradaki topu aldı.
+26 Sandra topu bıraktı.
+27 Top nerede? 	mutfak	26 20
+1 John banyoya gitti.
+2 Daniel mutfağa gitti.
+3 John mutfağa gitti.
+4 Daniel koridora gitti.
+5 Sandra mutfağa gitti.
+6 Mary ofise gitti.
+7 Daniel ofise geri döndü.
+8 Sandra banyoya geri döndü.
+9 John oradaki sütü aldı.
+10 John elmayı oraya aldı.
+11 Sandra ofise gitti.
+12 Mary koridora gitti.
+13 John banyoya gitti.
+14 John elmayı bıraktı.
+15 Elma nerede? 	banyo	14 13
+16 John sütü bıraktı.
+17 John oradaki elmayı aldı.
+18 Süt nerede? 	banyo	16 13
+19 Daniel banyoya geri döndü.
+20 John oradaki sütü aldı.
+21 Daniel bahçeye gitti.
+22 Sandra banyoya gitti.
+23 John mutfağa gitti.
+24 Mary ofise geri döndü.
+25 Süt nerede? 	mutfak	20 23
+26 Mary koridora gitti.
+27 John sütü bıraktı.
+28 Süt nerede? 	mutfak	27 23
+29 John salona geri döndü.
+30 John elmayı oraya bıraktı.
+31 Elma nerede? 	salon	30 29
+1 Daniel ofise gitti.
+2 Daniel salona gitti.
+3 John oradaki sütü aldı.
+4 John bahçeye gitti.
+5 Süt nerede? 	bahçe	3 4
+6 Sandra ofise gitti.
+7 Daniel ofise geri döndü.
+8 Süt nerede? 	bahçe	3 4
+9 John mutfağa gitti.
+10 Mary bahçeye gitti.
+11 John oradaki topu aldı.
+12 John topu bıraktı.
+13 Top nerede? 	mutfak	12 9
+14 John sütü bıraktı.
+15 Daniel mutfağa gitti.
+16 Top nerede? 	mutfak	12 9
+17 Mary banyoya gitti.
+18 Daniel ofise gitti.
+19 Top nerede? 	mutfak	12 9
+1 Daniel koridora gitti.
+2 Daniel bahçeye gitti.
+3 Mary mutfağa geri döndü.
+4 Daniel ofise geri döndü.
+5 Mary banyoya gitti.
+6 John koridora gitti.
+7 Daniel topu oradan aldı.
+8 Daniel mutfağa gitti.
+9 Top nerede? 	mutfak	7 8
+10 Daniel topu bıraktı.
+11 John banyoya gitti.
+12 Top nerede? 	mutfak	10 8
+13 Daniel topu oraya aldı.
+14 John mutfağa gitti.
+15 Mary ofise gitti.
+16 John koridora gitti.
+17 John ofise geri döndü.
+18 Daniel salona gitti.
+19 Daniel oradaki sütü aldı.
+20 Daniel sütü bıraktı.
+21 Süt nerede? 	salon	20 18
+22 Sandra banyoya gitti.
+23 Mary salona geri döndü.
+24 Süt nerede? 	salon	20 18
+25 Daniel oradaki elmayı aldı.
+26 Daniel topu bıraktı.
+27 Top nerede? 	salon	26 18
+1 Sandra bahçeye gitti.
+2 Daniel oradaki elmayı aldı.
+3 Daniel elmayı bıraktı.
+4 Sandra ofise gitti.
+5 John mutfağa gitti.
+6 Sandra bahçeye gitti.
+7 Daniel banyoya geri döndü.
+8 Mary koridora gitti.
+9 Sandra banyoya gitti.
+10 John salona geri döndü.
+11 Mary bahçeye gitti.
+12 John oradaki elmayı aldı.
+13 John mutfağa geri döndü.
+14 John salona geri döndü.
+15 Elma nerede? 	bahçe	12 14
+16 Mary ofise gitti.
+17 Daniel salona gitti.
+18 Elma nerede? 	bahçe	12 14
+19 John banyoya gitti.
+20 John elmayı bıraktı.
+21 Elma nerede? 	banyo	20 19
+22 Mary salona gitti.
+23 Sandra elmayı oraya aldı.
+24 Daniel mutfağa gitti.
+25 Sandra elmayı bıraktı.
+26 Elma nerede? 	banyo	25 9
+27 John elmayı oraya aldı.
+28 Sandra mutfağa gitti.
+29 Sandra banyoya gitti.
+30 Daniel ofise gitti.
+31 John elmayı bıraktı.
+32 Mary mutfağa gitti.
+33 Elma nerede? 	banyo	31 19
+1 Sandra bahçeye gitti.
+2 Sandra banyoya gitti.
+3 Daniel salona geri döndü.
+4 Sandra oradaki elmayı aldı.
+5 Mary salona gitti.
+6 John koridora gitti.
+7 Sandra ofise gitti.
+8 Mary oradaki sütü aldı.
+9 Elma nerede? 	ofis	4 7
+10 John mutfağa gitti.
+11 Mary koridora gitti.
+12 Süt nerede? 	koridor	8 11
+13 Sandra elmayı bıraktı.
+14 Mary sütü bıraktı.
+15 Süt nerede? 	koridor	14 11
+16 Mary oradaki sütü aldı.
+17 Mary sütü bıraktı.
+18 Süt nerede? 	koridor	17 11
+19 John oradaki topu aldı.
+20 John koridora gitti.
+21 Süt nerede? 	koridor	17 11
+1 Daniel salona gitti.
+2 Daniel banyoya gitti.
+3 John bahçeye gitti.
+4 Mary salona gitti.
+5 Sandra bahçeye gitti.
+6 Daniel bahçeye gitti.
+7 Sandra koridora gitti.
+8 John oradaki topu aldı.
+9 John banyoya gitti.
+10 Sandra banyoya gitti.
+11 Top nerede? 	banyo	8 9
+12 Daniel salona gitti.
+13 Daniel mutfağa gitti.
+14 Top nerede? 	banyo	8 9
+15 Mary koridora gitti.
+16 Sandra ofise gitti.
+17 Daniel koridora gitti.
+18 Daniel mutfağa geri döndü.
+19 John koridora geri döndü.
+20 Daniel koridora geri döndü.
+21 Daniel salona gitti.
+22 John mutfağa gitti.
+23 Mary ofise gitti.
+24 John salona geri döndü.
+25 Sandra oradaki elmayı aldı.
+26 Daniel ofise gitti.
+27 Mary mutfağa geri döndü.
+28 Mary salona gitti.
+29 John banyoya gitti.
+30 Sandra koridora geri döndü.
+31 Sandra salona gitti.
+32 Daniel bahçeye gitti.
+33 John salona geri döndü.
+34 Mary ofise geri döndü.
+35 John mutfağa gitti.
+36 John oradaki sütü aldı.
+37 Daniel salona gitti.
+38 John topu bıraktı.
+39 Top nerede? 	mutfak	38 35
+40 John sütü bıraktı.
+41 John oradaki sütü aldı.
+42 Top nerede? 	mutfak	38 35
+43 John oradaki topu aldı.
+44 John topu bıraktı.
+45 Top nerede? 	mutfak	44 35
+1 John koridora gitti.
+2 John banyoya geri döndü.
+3 John oradaki sütü aldı.
+4 Sandra ofise geri döndü.
+5 Sandra mutfağa gitti.
+6 Sandra oradaki elmayı aldı.
+7 Sandra elmayı bıraktı.
+8 John sütü bıraktı.
+9 Süt nerede? 	banyo	8 2
+10 Mary salona geri döndü.
+11 Sandra koridora gitti.
+12 Elma nerede? 	mutfak	7 5
+13 Sandra oradaki topu aldı.
+14 Mary mutfağa gitti.
+15 Süt nerede? 	banyo	8 2
+16 Sandra salona gitti.
+17 Mary elmayı oraya aldı.
+18 Top nerede? 	salon	13 16
+19 Sandra ofise geri döndü.
+20 Mary elmayı bıraktı.
+21 Elma nerede? 	mutfak	20 14
+1 Daniel banyoya gitti.
+2 Sandra mutfağa geri döndü.
+3 John banyoya gitti.
+4 Mary oradaki sütü aldı.
+5 John bahçeye gitti.
+6 Mary sütü oraya bıraktı.
+7 Sandra salona gitti.
+8 John banyoya gitti.
+9 Daniel ofise geri döndü.
+10 John koridora gitti.
+11 Mary oradaki sütü aldı.
+12 Daniel oradaki elmayı aldı.
+13 John oradaki topu aldı.
+14 Mary mutfağa gitti.
+15 Süt nerede? 	mutfak	11 14
+16 Mary sütü bıraktı.
+17 Daniel salona gitti.
+18 Süt nerede? 	mutfak	16 14
+19 John ofise gitti.
+20 Daniel bahçeye gitti.
+21 Süt nerede? 	mutfak	16 14
+22 Mary oradaki sütü aldı.
+23 Mary sütü bıraktı.
+24 Süt nerede? 	mutfak	23 14
+25 John bahçeye gitti.
+26 Mary ofise gitti.
+27 Süt nerede? 	mutfak	23 14
+1 Mary bahçeye gitti.
+2 John oradaki sütü aldı.
+3 Mary salona gitti.
+4 Sandra koridora geri döndü.
+5 John sütü bıraktı.
+6 John salona gitti.
+7 John oradaki topu aldı.
+8 John banyoya gitti.
+9 Top nerede? 	banyo	7 8
+10 Sandra ofise gitti.
+11 Daniel koridora geri döndü.
+12 Top nerede? 	banyo	7 8
+13 John topu bıraktı.
+14 Mary mutfağa gitti.
+15 Top nerede? 	banyo	13 8
+16 Mary oradaki sütü aldı.
+17 Mary koridora gitti.
+18 Top nerede? 	banyo	13 8
+19 John bahçeye gitti.
+20 Mary sütü bıraktı.
+21 Süt nerede? 	koridor	20 17
+1 Mary banyoya gitti.
+2 Sandra mutfağa gitti.
+3 John salona gitti.
+4 Mary mutfağa gitti.
+5 Mary ofise gitti.
+6 Sandra banyoya gitti.
+7 John banyoya gitti.
+8 John ofise gitti.
+9 John oradaki sütü aldı.
+10 Daniel bahçeye gitti.
+11 Mary mutfağa gitti.
+12 Daniel banyoya gitti.
+13 John sütü bıraktı.
+14 Sandra mutfağa geri döndü.
+15 Süt nerede? 	ofis	13 8
+16 Daniel ofise gitti.
+17 Sandra ofise geri döndü.
+18 Süt nerede? 	ofis	13 8
+19 Daniel oradaki sütü aldı.
+20 Sandra salona geri döndü.
+21 John bahçeye gitti.
+22 Daniel mutfağa gitti.
+23 Süt nerede? 	mutfak	19 22
+24 John salona gitti.
+25 Sandra bahçeye gitti.
+26 Sandra mutfağa gitti.
+27 Daniel sütü bıraktı.
+28 Süt nerede? 	mutfak	27 22
+29 John oradaki topu aldı.
+30 Daniel oradaki sütü aldı.
+31 John topu bıraktı.
+32 Mary salona gitti.
+33 Top nerede? 	salon	31 24
+1 Sandra topu oraya aldı.
+2 Mary mutfağa gitti.
+3 John ofise gitti.
+4 Daniel salona gitti.
+5 Daniel banyoya gitti.
+6 Mary salona geri döndü.
+7 Sandra mutfağa gitti.
+8 Mary banyoya gitti.
+9 Sandra banyoya geri döndü.
+10 Sandra topu bıraktı.
+11 Top nerede? 	banyo	10 9
+12 Mary salona gitti.
+13 Sandra oradaki topu aldı.
+14 Mary oradaki sütü aldı.
+15 Mary sütü bıraktı.
+16 Süt nerede? 	salon	15 12
+17 Daniel salona gitti.
+18 Mary oradaki sütü aldı.
+19 Mary oradaki elmayı aldı.
+20 Sandra mutfağa geri döndü.
+21 Mary elmayı oraya bıraktı.
+22 Daniel oradaki elmayı aldı.
+23 Mary sütü oraya bıraktı.
+24 Daniel banyoya gitti.
+25 Elma nerede? 	banyo	22 24
+26 Mary koridora gitti.
+27 Daniel mutfağa gitti.
+28 Süt nerede? 	salon	23 12
+29 Daniel banyoya geri döndü.
+30 Daniel elmayı bıraktı.
+31 Elma nerede? 	banyo	30 29
+1 Mary mutfağa geri döndü.
+2 Mary koridora gitti.
+3 John salona gitti.
+4 John bahçeye gitti.
+5 Daniel koridora gitti.
+6 John koridora gitti.
+7 Daniel banyoya gitti.
+8 Mary bahçeye gitti.
+9 Daniel koridora gitti.
+10 John ofise gitti.
+11 John salona gitti.
+12 Mary salona gitti.
+13 John oradaki topu aldı.
+14 John topu bıraktı.
+15 Top nerede? 	salon	14 11
+16 Sandra ofise gitti.
+17 Mary koridora gitti.
+18 Top nerede? 	salon	14 11
+19 Sandra elmayı oraya aldı.
+20 John topu oradan aldı.
+21 Mary banyoya geri döndü.
+22 John topu bıraktı.
+23 Top nerede? 	salon	22 11
+24 John oradaki topu aldı.
+25 Daniel ofise gitti.
+26 Sandra elmayı bıraktı.
+27 Sandra elmayı oraya aldı.
+28 John topu bıraktı.
+29 Daniel bahçeye gitti.
+30 Top nerede? 	salon	28 11
+31 Sandra elmayı bıraktı.
+32 John bahçeye gitti.
+33 Elma nerede? 	ofis	31 16
+1 John topu oradan aldı.
+2 John ofise gitti.
+3 Top nerede? 	ofis	1 2
+4 John salona geri döndü.
+5 John koridora gitti.
+6 Top nerede? 	koridor	1 5
+7 John topu bıraktı.
+8 John topu oradan aldı.
+9 Sandra banyoya gitti.
+10 Sandra oradaki sütü aldı.
+11 Sandra ofise gitti.
+12 John banyoya gitti.
+13 Süt nerede? 	ofis	10 11
+14 John elmayı oraya aldı.
+15 Sandra salona gitti.
+16 Süt nerede? 	salon	10 15
+17 John elmayı bıraktı.
+18 Mary koridora geri döndü.
+19 Elma nerede? 	banyo	17 12
+1 Sandra topu oradan aldı.
+2 Sandra topu bıraktı.
+3 John elmayı oraya aldı.
+4 Sandra koridora gitti.
+5 John koridora gitti.
+6 Mary oradaki sütü aldı.
+7 Elma nerede? 	koridor	3 5
+8 John bahçeye gitti.
+9 Sandra banyoya gitti.
+10 Mary salona gitti.
+11 John oradaki topu aldı.
+12 Süt nerede? 	salon	6 10
+13 John topu bıraktı.
+14 John elmayı bıraktı.
+15 Elma nerede? 	bahçe	14 8
+16 John oradaki elmayı aldı.
+17 John oradaki topu aldı.
+18 Daniel bahçeye gitti.
+19 Sandra mutfağa gitti.
+20 John topu bıraktı.
+21 Daniel salona gitti.
+22 Top nerede? 	bahçe	20 8
+23 John topu oradan aldı.
+24 Daniel koridora geri döndü.
+25 Mary koridora gitti.
+26 Mary mutfağa geri döndü.
+27 John topu bıraktı.
+28 Daniel mutfağa gitti.
+29 Top nerede? 	bahçe	27 8
+1 Daniel oradaki elmayı aldı.
+2 Daniel elmayı bıraktı.
+3 Mary salona gitti.
+4 Daniel koridora gitti.
+5 Mary koridora gitti.
+6 Sandra salona gitti.
+7 Mary banyoya geri döndü.
+8 Daniel mutfağa gitti.
+9 Mary mutfağa gitti.
+10 Daniel ofise gitti.
+11 Mary oradaki topu aldı.
+12 Mary topu bıraktı.
+13 Top nerede? 	mutfak	12 9
+14 John ofise gitti.
+15 Daniel banyoya gitti.
+16 Top nerede? 	mutfak	12 9
+17 Mary oradaki topu aldı.
+18 Mary topu bıraktı.
+19 Top nerede? 	mutfak	18 9
+20 Daniel mutfağa geri döndü.
+21 Daniel oradaki topu aldı.
+22 John salona gitti.
+23 Daniel salona gitti.
+24 Top nerede? 	salon	21 23
+25 Mary banyoya gitti.
+26 Mary mutfağa geri döndü.
+27 Top nerede? 	salon	21 23
+1 Daniel koridora gitti.
+2 Mary mutfağa gitti.
+3 John topu oradan aldı.
+4 John topu bıraktı.
+5 Sandra mutfağa gitti.
+6 Sandra oradaki sütü aldı.
+7 Daniel ofise gitti.
+8 John topu oraya aldı.
+9 John mutfağa gitti.
+10 Mary ofise gitti.
+11 Top nerede? 	mutfak	8 9
+12 Sandra sütü bıraktı.
+13 John topu bıraktı.
+14 Top nerede? 	mutfak	13 9
+15 John koridora gitti.
+16 Sandra oradaki topu aldı.
+17 Süt nerede? 	mutfak	12 5
+18 Daniel bahçeye gitti.
+19 Daniel banyoya gitti.
+20 Mary salona gitti.
+21 Mary oradaki elmayı aldı.
+22 Sandra koridora geri döndü.
+23 Sandra topu bıraktı.
+24 Top nerede? 	koridor	23 22
+25 Sandra topu oradan aldı.
+26 Daniel bahçeye gitti.
+27 Daniel salona gitti.
+28 Daniel bahçeye gitti.
+29 Sandra topu bıraktı.
+30 John ofise gitti.
+31 Top nerede? 	koridor	29 22
+1 Sandra koridora geri döndü.
+2 Mary koridora gitti.
+3 Mary oradaki topu aldı.
+4 John banyoya gitti.
+5 Daniel salona gitti.
+6 Sandra salona gitti.
+7 Sandra koridora gitti.
+8 Sandra ofise gitti.
+9 Mary ofise gitti.
+10 Mary topu bıraktı.
+11 Top nerede? 	ofis	10 9
+12 Sandra oradaki sütü aldı.
+13 Sandra sütü bıraktı.
+14 Süt nerede? 	ofis	13 8
+15 Mary topu oraya aldı.
+16 Sandra oradaki sütü aldı.
+17 Mary topu bıraktı.
+18 Mary salona gitti.
+19 Top nerede? 	ofis	17 9
+20 John koridora gitti.
+21 Sandra topu oraya aldı.
+22 Mary koridora geri döndü.
+23 Sandra mutfağa gitti.
+24 Top nerede? 	mutfak	21 23
+25 John bahçeye gitti.
+26 Sandra banyoya gitti.
+27 Top nerede? 	banyo	21 26
+1 Daniel koridora gitti.
+2 Daniel oradaki topu aldı.
+3 Daniel salona gitti.
+4 Daniel topu bıraktı.
+5 Top nerede? 	salon	4 3
+6 Sandra salona gitti.
+7 Daniel mutfağa gitti.
+8 Top nerede? 	salon	4 3
+9 Sandra topu oradan aldı.
+10 John ofise gitti.
+11 Sandra topu bıraktı.
+12 Mary koridora geri döndü.
+13 Top nerede? 	salon	11 6
+14 Daniel koridora gitti.
+15 Daniel salona gitti.
+16 Top nerede? 	salon	11 6
+17 Mary ofise gitti.
+18 John mutfağa gitti.
+19 Sandra ofise geri döndü.
+20 Daniel topu oraya aldı.
+21 Daniel bahçeye gitti.
+22 Mary salona gitti.
+23 Top nerede? 	bahçe	20 21
+1 John oradaki topu aldı.
+2 John topu bıraktı.
+3 Daniel banyoya geri döndü.
+4 Mary banyoya geri döndü.
+5 Sandra ofise gitti.
+6 Daniel oradaki elmayı aldı.
+7 John oradaki topu aldı.
+8 John topu bıraktı.
+9 Daniel mutfağa gitti.
+10 John banyoya gitti.
+11 Elma nerede? 	mutfak	6 9
+12 John ofise gitti.
+13 Mary oradaki sütü aldı.
+14 John bahçeye gitti.
+15 Sandra bahçeye gitti.
+16 Daniel topu oradan aldı.
+17 Mary sütü bıraktı.
+18 Süt nerede? 	banyo	17 4
+19 Sandra ofise gitti.
+20 Mary oradaki sütü aldı.
+21 Mary bahçeye gitti.
+22 Mary sütü bıraktı.
+23 Süt nerede? 	bahçe	22 21
+24 Daniel elmayı bıraktı.
+25 Sandra banyoya geri döndü.
+26 Elma nerede? 	mutfak	24 9
+27 John koridora geri döndü.
+28 Mary oradaki sütü aldı.
+29 Elma nerede? 	mutfak	24 9
+1 Daniel bahçeye gitti.
+2 Sandra salona geri döndü.
+3 John salona gitti.
+4 Sandra elmayı oraya aldı.
+5 Daniel mutfağa gitti.
+6 Sandra elmayı bıraktı.
+7 Elma nerede? 	salon	6 2
+8 Sandra ofise gitti.
+9 Sandra banyoya geri döndü.
+10 Elma nerede? 	salon	6 2
+11 John banyoya gitti.
+12 Daniel koridora geri döndü.
+13 Elma nerede? 	salon	6 2
+14 Sandra salona gitti.
+15 Sandra koridora gitti.
+16 Sandra mutfağa geri döndü.
+17 Mary ofise gitti.
+18 Sandra koridora gitti.
+19 Mary koridora geri döndü.
+20 Mary bahçeye gitti.
+21 Mary topu oraya aldı.
+22 Mary mutfağa gitti.
+23 Mary oradaki sütü aldı.
+24 Top nerede? 	mutfak	21 22
+25 John bahçeye gitti.
+26 John mutfağa gitti.
+27 Top nerede? 	mutfak	21 22
+1 Mary banyoya gitti.
+2 John oradaki sütü aldı.
+3 Sandra koridora gitti.
+4 Sandra topu oradan aldı.
+5 Daniel salona geri döndü.
+6 Daniel mutfağa gitti.
+7 Sandra topu bıraktı.
+8 John salona gitti.
+9 Top nerede? 	koridor	7 3
+10 Mary koridora gitti.
+11 John sütü bıraktı.
+12 Top nerede? 	koridor	7 3
+13 Mary banyoya gitti.
+14 Mary mutfağa gitti.
+15 Süt nerede? 	salon	11 8
+16 Daniel salona gitti.
+17 Daniel banyoya gitti.
+18 Süt nerede? 	salon	11 8
+19 Sandra topu oradan aldı.
+20 Sandra topu bıraktı.
+21 Top nerede? 	koridor	20 3
+1 John salona gitti.
+2 Sandra ofise gitti.
+3 Sandra mutfağa gitti.
+4 Daniel salona gitti.
+5 John ofise geri döndü.
+6 Mary bahçeye gitti.
+7 Sandra koridora gitti.
+8 Sandra bahçeye gitti.
+9 John mutfağa geri döndü.
+10 Daniel ofise gitti.
+11 Sandra koridora gitti.
+12 Daniel oradaki elmayı aldı.
+13 Mary salona gitti.
+14 Daniel salona geri döndü.
+15 Elma nerede? 	bahçe	12 14
+16 Daniel elmayı bıraktı.
+17 Daniel elmayı oraya aldı.
+18 Sandra topu oraya aldı.
+19 Daniel elmayı bıraktı.
+20 Elma nerede? 	bahçe	19 14
+21 Mary mutfağa gitti.
+22 Sandra mutfağa gitti.
+23 Elma nerede? 	bahçe	19 14
+24 Daniel salona gitti.
+25 Sandra salona gitti.
+26 Elma nerede? 	bahçe	19 14
+27 Daniel koridora geri döndü.
+28 John koridora gitti.
+29 John ofise gitti.
+30 John mutfağa gitti.
+31 Sandra topu bıraktı.
+32 Daniel bahçeye gitti.
+33 Top nerede? 	salon	31 25
+1 John salona geri döndü.
+2 Daniel banyoya gitti.
+3 Daniel koridora gitti.
+4 Daniel topu oradan aldı.
+5 Daniel banyoya gitti.
+6 Daniel bahçeye gitti.
+7 Top nerede? 	bahçe	4 6
+8 John mutfağa geri döndü.
+9 Daniel topu bıraktı.
+10 Top nerede? 	bahçe	9 6
+11 Sandra oradaki topu aldı.
+12 Mary ofise geri döndü.
+13 John oradaki elmayı aldı.
+14 John koridora gitti.
+15 Elma nerede? 	koridor	13 14
+16 Mary salona gitti.
+17 Daniel banyoya geri döndü.
+18 Elma nerede? 	koridor	13 14
+19 Sandra ofise geri döndü.
+20 Sandra topu bıraktı.
+21 Top nerede? 	ofis	20 19
+1 John salona geri döndü.
+2 John mutfağa gitti.
+3 John oradaki sütü aldı.
+4 Sandra topu oraya aldı.
+5 Daniel koridora gitti.
+6 Daniel oradaki elmayı aldı.
+7 Mary salona gitti.
+8 Daniel salona gitti.
+9 Elma nerede? 	salon	6 8
+10 John koridora geri döndü.
+11 Daniel banyoya geri döndü.
+12 Elma nerede? 	banyo	6 11
+13 John sütü oraya bıraktı.
+14 Sandra salona geri döndü.
+15 Süt nerede? 	koridor	13 10
+16 John mutfağa geri döndü.
+17 Mary ofise gitti.
+18 Süt nerede? 	koridor	13 10
+19 Sandra koridora gitti.
+20 Sandra oradaki sütü aldı.
+21 Daniel elmayı bıraktı.
+22 John koridora geri döndü.
+23 Elma nerede? 	banyo	21 11
+1 Mary banyoya geri döndü.
+2 Daniel banyoya geri döndü.
+3 Mary oradaki sütü aldı.
+4 Mary mutfağa gitti.
+5 Süt nerede? 	mutfak	3 4
+6 Mary oradaki elmayı aldı.
+7 Mary koridora gitti.
+8 Elma nerede? 	koridor	6 7
+9 Mary salona geri döndü.
+10 Mary mutfağa gitti.
+11 Elma nerede? 	mutfak	6 10
+12 John banyoya gitti.
+13 John koridora geri döndü.
+14 John salona gitti.
+15 Mary bahçeye gitti.
+16 Daniel ofise gitti.
+17 Daniel oradaki topu aldı.
+18 Mary ofise gitti.
+19 John banyoya gitti.
+20 Daniel topu bıraktı.
+21 Mary sütü bıraktı.
+22 Süt nerede? 	ofis	21 18
+23 Mary topu oradan aldı.
+24 Sandra banyoya geri döndü.
+25 Süt nerede? 	ofis	21 18
+1 Sandra oradaki sütü aldı.
+2 Sandra bahçeye gitti.
+3 Süt nerede? 	bahçe	1 2
+4 Sandra sütü oraya bıraktı.
+5 Sandra banyoya gitti.
+6 Süt nerede? 	bahçe	4 2
+7 John bahçeye gitti.
+8 John mutfağa gitti.
+9 Süt nerede? 	bahçe	4 2
+10 John oradaki elmayı aldı.
+11 Daniel banyoya gitti.
+12 John elmayı bıraktı.
+13 Daniel koridora gitti.
+14 Elma nerede? 	mutfak	12 8
+15 John oradaki elmayı aldı.
+16 Mary ofise geri döndü.
+17 Mary mutfağa gitti.
+18 John elmayı bıraktı.
+19 Elma nerede? 	mutfak	18 8
+1 Sandra banyoya gitti.
+2 Mary oradaki elmayı aldı.
+3 Sandra mutfağa geri döndü.
+4 Mary ofise geri döndü.
+5 Elma nerede? 	ofis	2 4
+6 Sandra oradaki sütü aldı.
+7 Mary elmayı bıraktı.
+8 Elma nerede? 	ofis	7 4
+9 Mary oradaki elmayı aldı.
+10 Daniel salona gitti.
+11 John salona gitti.
+12 Sandra sütü oraya bıraktı.
+13 Süt nerede? 	mutfak	12 3
+14 Mary elmayı bıraktı.
+15 Daniel koridora geri döndü.
+16 Elma nerede? 	ofis	14 4
+17 Daniel salona geri döndü.
+18 John ofise gitti.
+19 Süt nerede? 	mutfak	12 3
+1 Mary salona gitti.
+2 Daniel elmayı oraya aldı.
+3 Daniel bahçeye gitti.
+4 John ofise gitti.
+5 Elma nerede? 	bahçe	2 3
+6 Daniel elmayı bıraktı.
+7 John koridora gitti.
+8 Elma nerede? 	bahçe	6 3
+9 Sandra ofise gitti.
+10 Daniel koridora gitti.
+11 Elma nerede? 	bahçe	6 3
+12 Daniel mutfağa gitti.
+13 John mutfağa gitti.
+14 Mary ofise gitti.
+15 Mary salona geri döndü.
+16 Mary ofise gitti.
+17 John banyoya geri döndü.
+18 John ofise gitti.
+19 Daniel salona geri döndü.
+20 John mutfağa gitti.
+21 Mary salona gitti.
+22 Daniel banyoya gitti.
+23 Daniel oradaki topu aldı.
+24 Sandra koridora gitti.
+25 Daniel oradaki sütü aldı.
+26 Daniel sütü bıraktı.
+27 Daniel oradaki sütü aldı.
+28 Daniel salona gitti.
+29 Sandra bahçeye gitti.
+30 Süt nerede? 	salon	27 28
+31 Sandra mutfağa gitti.
+32 Sandra ofise gitti.
+33 Süt nerede? 	salon	27 28
+1 Sandra oradaki sütü aldı.
+2 John elmayı oraya aldı.
+3 John banyoya gitti.
+4 John elmayı bıraktı.
+5 Elma nerede? 	banyo	4 3
+6 John bahçeye gitti.
+7 Sandra salona gitti.
+8 Elma nerede? 	banyo	4 3
+9 Sandra salona geri döndü.
+10 Sandra sütü oraya bıraktı.
+11 Süt nerede? 	bahçe	10 9
+12 John oradaki sütü aldı.
+13 John mutfağa geri döndü.
+14 Süt nerede? 	mutfak	12 13
+15 Daniel bahçeye gitti.
+16 Sandra mutfağa gitti.
+17 Süt nerede? 	mutfak	12 13
+1 Mary koridora gitti.
+2 Mary mutfağa gitti.
+3 Sandra ofise gitti.
+4 Daniel ofise gitti.
+5 Mary salona gitti.
+6 Mary salona geri döndü.
+7 Sandra mutfağa gitti.
+8 Daniel salona geri döndü.
+9 Mary ofise gitti.
+10 Mary bahçeye gitti.
+11 John koridora gitti.
+12 John salona gitti.
+13 John ofise gitti.
+14 Daniel banyoya gitti.
+15 Sandra oradaki sütü aldı.
+16 Sandra ofise gitti.
+17 Süt nerede? 	ofis	15 16
+18 John salona gitti.
+19 John banyoya gitti.
+20 Süt nerede? 	ofis	15 16
+21 Sandra salona geri döndü.
+22 John koridora gitti.
+23 Sandra sütü bıraktı.
+24 Mary oradaki sütü aldı.
+25 John mutfağa geri döndü.
+26 John bahçeye gitti.
+27 Mary sütü bıraktı.
+28 Sandra oradaki sütü aldı.
+29 Sandra koridora geri döndü.
+30 John koridora gitti.
+31 Süt nerede? 	koridor	28 29
+32 John salona gitti.
+33 Sandra salona geri döndü.
+34 Süt nerede? 	bahçe	28 33
+35 John koridora gitti.
+36 Sandra sütü oraya bıraktı.
+37 Süt nerede? 	bahçe	36 33
+1 Sandra bahçeye gitti.
+2 Daniel oradaki topu aldı.
+3 Mary mutfağa geri döndü.
+4 Sandra koridora geri döndü.
+5 Daniel topu oraya bıraktı.
+6 Daniel mutfağa gitti.
+7 Sandra bahçeye gitti.
+8 Mary ofise geri döndü.
+9 Mary mutfağa gitti.
+10 John banyoya gitti.
+11 Mary ofise gitti.
+12 Mary oradaki elmayı aldı.
+13 Daniel ofise gitti.
+14 Daniel oradaki sütü aldı.
+15 Mary salona geri döndü.
+16 Daniel sütü bıraktı.
+17 Süt nerede? 	ofis	16 13
+18 John ofise gitti.
+19 Mary elmayı bıraktı.
+20 Süt nerede? 	ofis	16 13
+21 Daniel banyoya gitti.
+22 John oradaki sütü aldı.
+23 Elma nerede? 	bahçe	19 15
+24 John banyoya gitti.
+25 John sütü oraya bıraktı.
+26 Süt nerede? 	banyo	25 24
+27 Sandra oradaki elmayı aldı.
+28 Daniel ofise gitti.
+29 Süt nerede? 	banyo	25 24
+1 Daniel ofise gitti.
+2 Sandra banyoya gitti.
+3 Mary mutfağa gitti.
+4 Mary oradaki topu aldı.
+5 Mary topu bıraktı.
+6 John koridora gitti.
+7 Top nerede? 	mutfak	5 3
+8 John salona gitti.
+9 Mary banyoya gitti.
+10 Top nerede? 	mutfak	5 3
+11 Sandra ofise gitti.
+12 Daniel salona gitti.
+13 Daniel mutfağa gitti.
+14 Daniel oradaki topu aldı.
+15 Daniel topu bıraktı.
+16 Sandra banyoya gitti.
+17 Top nerede? 	mutfak	15 13
+18 Mary ofise gitti.
+19 Daniel topu oradan aldı.
+20 Sandra koridora gitti.
+21 Mary salona gitti.
+22 Mary koridora geri döndü.
+23 John ofise gitti.
+24 Sandra mutfağa geri döndü.
+25 Daniel koridora geri döndü.
+26 John mutfağa gitti.
+27 Mary bahçeye gitti.
+28 Mary oradaki sütü aldı.
+29 Daniel salona geri döndü.
+30 Mary ofise gitti.
+31 Mary mutfağa gitti.
+32 Süt nerede? 	mutfak	28 31
+33 Daniel topu bıraktı.
+34 Mary sütü bıraktı.
+35 Top nerede? 	bahçe	33 29
+1 Daniel ofise gitti.
+2 Mary topu oraya aldı.
+3 Sandra bahçeye gitti.
+4 Sandra salona gitti.
+5 John oradaki elmayı aldı.
+6 John elmayı bıraktı.
+7 Mary topu bıraktı.
+8 John oradaki elmayı aldı.
+9 Mary salona geri döndü.
+10 John elmayı bıraktı.
+11 Mary mutfağa gitti.
+12 Daniel bahçeye gitti.
+13 Sandra mutfağa gitti.
+14 Daniel oradaki sütü aldı.
+15 John koridora gitti.
+16 John salona gitti.
+17 Sandra oradaki elmayı aldı.
+18 Mary salona gitti.
+19 Mary banyoya geri döndü.
+20 Sandra ofise gitti.
+21 Elma nerede? 	ofis	17 20
+22 John mutfağa geri döndü.
+23 John bahçeye gitti.
+24 Sandra elmayı bıraktı.
+25 Sandra oradaki elmayı aldı.
+26 Sandra elmayı bıraktı.
+27 John banyoya geri döndü.
+28 Elma nerede? 	ofis	26 20
+29 Sandra bahçeye gitti.
+30 Daniel banyoya gitti.
+31 Elma nerede? 	ofis	26 20
+32 Daniel sütü bıraktı.
+33 Mary oradaki sütü aldı.
+34 Mary sütü bıraktı.
+35 Mary mutfağa gitti.
+36 Süt nerede? 	banyo	34 19
+37 Mary salona gitti.
+38 John bahçeye gitti.
+39 Süt nerede? 	banyo	34 19
+1 John oradaki elmayı aldı.
+2 John ofise gitti.
+3 Elma nerede? 	ofis	1 2
+4 Mary ofise gitti.
+5 John elmayı bıraktı.
+6 Elma nerede? 	ofis	5 2
+7 John mutfağa gitti.
+8 Mary koridora geri döndü.
+9 Elma nerede? 	ofis	5 2
+10 Daniel elmayı oraya aldı.
+11 Daniel elmayı bıraktı.
+12 Mary oradaki sütü aldı.
+13 Daniel mutfağa gitti.
+14 Sandra oradaki elmayı aldı.
+15 Mary salona gitti.
+16 Süt nerede? 	salon	12 15
+17 Sandra salona gitti.
+18 John koridora gitti.
+19 Elma nerede? 	salon	14 17
+1 Mary topu oradan aldı.
+2 Sandra ofise gitti.
+3 Sandra oradaki elmayı aldı.
+4 Sandra salona gitti.
+5 Elma nerede? 	salon	3 4
+6 Sandra mutfağa gitti.
+7 Mary bahçeye gitti.
+8 Elma nerede? 	mutfak	3 6
+9 John banyoya gitti.
+10 Daniel banyoya gitti.
+11 Mary topu bıraktı.
+12 Daniel oradaki sütü aldı.
+13 Top nerede? 	bahçe	11 7
+14 Mary oradaki topu aldı.
+15 John bahçeye gitti.
+16 Mary topu oraya bıraktı.
+17 Daniel sütü oraya bıraktı.
+18 Süt nerede? 	banyo	17 10
+19 Daniel oradaki sütü aldı.
+20 Daniel mutfağa gitti.
+21 Top nerede? 	bahçe	16 7
+1 Daniel oradaki elmayı aldı.
+2 John ofise gitti.
+3 John salona gitti.
+4 Sandra banyoya gitti.
+5 Sandra bahçeye gitti.
+6 Mary oradaki sütü aldı.
+7 Mary sütü bıraktı.
+8 Mary bahçeye gitti.
+9 Sandra topu oradan aldı.
+10 John bahçeye gitti.
+11 Sandra koridora gitti.
+12 Sandra banyoya geri döndü.
+13 Top nerede? 	banyo	9 12
+14 Sandra topu bıraktı.
+15 Daniel mutfağa gitti.
+16 Top nerede? 	banyo	14 12
+17 John ofise gitti.
+18 Daniel bahçeye gitti.
+19 Top nerede? 	banyo	14 12
+20 Daniel elmayı bıraktı.
+21 Daniel oradaki elmayı aldı.
+22 Daniel elmayı oraya bıraktı.
+23 Sandra topu oradan aldı.
+24 Elma nerede? 	bahçe	22 18
+25 Mary oradaki elmayı aldı.
+26 Sandra oraya topu bıraktı.
+27 Top nerede? 	banyo	26 12
+1 Daniel oradaki elmayı aldı.
+2 Daniel elmayı bıraktı.
+3 John salona gitti.
+4 John elmayı oraya aldı.
+5 Daniel koridora gitti.
+6 Sandra topu oradan aldı.
+7 Sandra mutfağa geri döndü.
+8 John elmayı bıraktı.
+9 Elma nerede? 	salon	8 3
+10 Sandra topu bıraktı.
+11 Mary salona gitti.
+12 Elma nerede? 	salon	8 3
+13 Mary koridora geri döndü.
+14 Sandra salona gitti.
+15 Top nerede? 	mutfak	10 7
+16 Sandra mutfağa gitti.
+17 Sandra bahçeye gitti.
+18 Mary salona gitti.
+19 Sandra oradaki sütü aldı.
+20 Daniel salona geri döndü.
+21 Daniel oradaki elmayı aldı.
+22 Daniel ofise gitti.
+23 Daniel elmayı bıraktı.
+24 Elma nerede? 	ofis	23 22
+25 Sandra sütü bıraktı.
+26 Daniel elmayı oraya aldı.
+27 Süt nerede? 	bahçe	25 17
+1 Sandra koridora gitti.
+2 Mary oradaki elmayı aldı.
+3 John bahçeye gitti.
+4 John salona gitti.
+5 Daniel mutfağa gitti.
+6 John bahçeye gitti.
+7 Mary elmayı oraya bıraktı.
+8 Mary oradaki elmayı aldı.
+9 Mary koridora gitti.
+10 Daniel ofise gitti.
+11 Elma nerede? 	koridor	8 9
+12 John salona gitti.
+13 John mutfağa gitti.
+14 Elma nerede? 	koridor	8 9
+15 Mary elmayı oraya bıraktı.
+16 Mary oradaki elmayı aldı.
+17 Sandra banyoya gitti.
+18 Mary mutfağa geri döndü.
+19 Elma nerede? 	mutfak	16 18
+20 Daniel mutfağa gitti.
+21 Mary banyoya gitti.
+22 Elma nerede? 	banyo	16 21
+23 Mary elmayı bıraktı.
+24 John salona gitti.
+25 Elma nerede? 	banyo	23 21
+1 Mary ofise gitti.
+2 John elmayı oraya aldı.
+3 John elmayı bıraktı.
+4 Mary banyoya geri döndü.
+5 John elmayı oraya aldı.
+6 Mary salona geri döndü.
+7 John elmayı bıraktı.
+8 Daniel oradaki sütü aldı.
+9 Daniel koridora geri döndü.
+10 John ofise gitti.
+11 Süt nerede? 	koridor	8 9
+12 Daniel salona geri döndü.
+13 Mary oradaki elmayı aldı.
+14 Süt nerede? 	bahçe	8 12
+15 Daniel sütü bıraktı.
+16 Daniel oradaki topu aldı.
+17 Süt nerede? 	bahçe	15 12
+18 Daniel oradaki sütü aldı.
+19 Daniel topu bıraktı.
+20 Top nerede? 	bahçe	19 12
+21 Daniel sütü bıraktı.
+22 Daniel oradaki sütü aldı.
+23 Top nerede? 	bahçe	19 12
+1 Daniel elmayı oraya aldı.
+2 Daniel banyoya geri döndü.
+3 Elma nerede? 	banyo	1 2
+4 John bahçeye gitti.
+5 Daniel koridora geri döndü.
+6 Elma nerede? 	koridor	1 5
+7 Mary salona gitti.
+8 Daniel elmayı bıraktı.
+9 Elma nerede? 	koridor	8 5
+10 Sandra topu oraya aldı.
+11 Sandra topu bıraktı.
+12 Elma nerede? 	koridor	8 5
+13 Sandra topu oraya aldı.
+14 John mutfağa gitti.
+15 Elma nerede? 	koridor	8 5
+1 Sandra mutfağa gitti.
+2 John banyoya gitti.
+3 Mary bahçeye gitti.
+4 Sandra ofise gitti.
+5 Mary koridora gitti.
+6 Daniel oradaki sütü aldı.
+7 Daniel banyoya gitti.
+8 Sandra oradaki elmayı aldı.
+9 Süt nerede? 	banyo	6 7
+10 Daniel sütü bıraktı.
+11 John oradaki sütü aldı.
+12 Sandra mutfağa geri döndü.
+13 Mary ofise gitti.
+14 Elma nerede? 	mutfak	8 12
+15 Sandra koridora gitti.
+16 Sandra elmayı bıraktı.
+17 Elma nerede? 	koridor	16 15
+18 Sandra mutfağa gitti.
+19 Sandra oradaki topu aldı.
+20 Elma nerede? 	koridor	16 15
+21 Sandra topu bıraktı.
+22 Sandra topu oraya aldı.
+23 Elma nerede? 	koridor	16 15
+1 Sandra mutfağa geri döndü.
+2 John oradaki sütü aldı.
+3 John sütü bıraktı.
+4 Sandra bahçeye gitti.
+5 Mary banyoya gitti.
+6 Daniel bahçeye gitti.
+7 Sandra topu oraya aldı.
+8 Daniel mutfağa gitti.
+9 John oradaki sütü aldı.
+10 John sütü oraya bıraktı.
+11 John banyoya gitti.
+12 Sandra topu bıraktı.
+13 Top nerede? 	bahçe	12 4
+14 Daniel salona gitti.
+15 Sandra banyoya gitti.
+16 Top nerede? 	bahçe	12 4
+17 John ofise gitti.
+18 John elmayı oraya aldı.
+19 Top nerede? 	bahçe	12 4
+20 John banyoya gitti.
+21 John elmayı oraya bıraktı.
+22 Elma nerede? 	banyo	21 20
+23 Daniel banyoya gitti.
+24 Daniel elmayı oraya aldı.
+25 Sandra koridora gitti.
+26 Daniel koridora gitti.
+27 Elma nerede? 	koridor	24 26
+1 Daniel elmayı oraya aldı.
+2 Daniel elmayı bıraktı.
+3 John koridora gitti.
+4 Daniel oradaki elmayı aldı.
+5 Daniel elmayı bıraktı.
+6 Daniel banyoya geri döndü.
+7 John bahçeye gitti.
+8 Daniel mutfağa gitti.
+9 Daniel koridora geri döndü.
+10 John oradaki elmayı aldı.
+11 John oradaki topu aldı.
+12 Mary bahçeye gitti.
+13 John elmayı bıraktı.
+14 Mary banyoya gitti.
+15 Elma nerede? 	bahçe	13 7
+16 Mary ofise gitti.
+17 Daniel banyoya gitti.
+18 Elma nerede? 	bahçe	13 7
+19 Mary bahçeye gitti.
+20 Mary ofise gitti.
+21 John oradaki elmayı aldı.
+22 Sandra mutfağa gitti.
+23 John banyoya gitti.
+24 Daniel koridora gitti.
+25 Elma nerede? 	banyo	21 23
+26 Sandra ofise gitti.
+27 John ofise gitti.
+28 Sandra banyoya gitti.
+29 Sandra koridora gitti.
+30 Mary banyoya gitti.
+31 John banyoya gitti.
+32 Mary koridora gitti.
+33 Sandra ofise gitti.
+34 John elmayı oraya bıraktı.
+35 Daniel mutfağa gitti.
+36 Elma nerede? 	banyo	34 31
+37 John elmayı oraya aldı.
+38 Mary ofise geri döndü.
+39 Mary mutfağa gitti.
+40 John salona geri döndü.
+41 Elma nerede? 	bahçe	37 40
+1 John ofise gitti.
+2 Daniel salona geri döndü.
+3 John mutfağa geri döndü.
+4 Daniel koridora geri döndü.
+5 Sandra salona gitti.
+6 Daniel salona gitti.
+7 John topu oradan aldı.
+8 Daniel bahçeye gitti.
+9 John topu bıraktı.
+10 John oradaki elmayı aldı.
+11 Top nerede? 	mutfak	9 3
+12 John ofise gitti.
+13 Mary koridora gitti.
+14 Elma nerede? 	ofis	10 12
+15 Mary mutfağa gitti.
+16 John oradaki sütü aldı.
+17 Elma nerede? 	ofis	10 12
+18 Mary oradaki topu aldı.
+19 Sandra koridora gitti.
+20 Mary topu bıraktı.
+21 John elmayı bıraktı.
+22 Top nerede? 	mutfak	20 15
+23 Mary salona gitti.
+24 John sütü bıraktı.
+25 Elma nerede? 	ofis	21 12
+1 Sandra koridora gitti.
+2 John ofise gitti.
+3 Sandra oradaki sütü aldı.
+4 Sandra sütü bıraktı.
+5 Süt nerede? 	koridor	4 1
+6 Mary salona gitti.
+7 Sandra mutfağa geri döndü.
+8 Süt nerede? 	koridor	4 1
+9 Mary mutfağa gitti.
+10 Sandra oradaki elmayı aldı.
+11 Süt nerede? 	koridor	4 1
+12 Sandra elmayı bıraktı.
+13 Daniel ofise geri döndü.
+14 Elma nerede? 	mutfak	12 7
+15 Mary elmayı oraya aldı.
+16 Daniel koridora gitti.
+17 Daniel mutfağa gitti.
+18 Daniel ofise gitti.
+19 Sandra banyoya gitti.
+20 Mary elmayı bıraktı.
+21 Elma nerede? 	mutfak	20 9
+1 Daniel banyoya gitti.
+2 Sandra banyoya gitti.
+3 Mary oradaki elmayı aldı.
+4 Sandra topu oraya aldı.
+5 Daniel salona gitti.
+6 John banyoya geri döndü.
+7 John salona geri döndü.
+8 Daniel koridora gitti.
+9 Sandra topu bıraktı.
+10 Sandra ofise gitti.
+11 Top nerede? 	banyo	9 2
+12 Sandra banyoya geri döndü.
+13 Mary elmayı bıraktı.
+14 Top nerede? 	banyo	9 2
+15 Mary mutfağa geri döndü.
+16 Sandra mutfağa gitti.
+17 Daniel oradaki sütü aldı.
+18 Daniel ofise gitti.
+19 Süt nerede? 	ofis	17 18
+20 Daniel sütü bıraktı.
+21 Daniel bahçeye gitti.
+22 Süt nerede? 	ofis	20 18
+23 Daniel mutfağa geri döndü.
+24 Daniel koridora gitti.
+25 Süt nerede? 	ofis	20 18
+1 John salona geri döndü.
+2 Sandra oradaki elmayı aldı.
+3 Mary salona gitti.
+4 Sandra elmayı bıraktı.
+5 John salona geri döndü.
+6 Mary koridora geri döndü.
+7 Sandra elmayı oraya aldı.
+8 Daniel ofise geri döndü.
+9 Sandra elmayı oraya bıraktı.
+10 Sandra oradaki elmayı aldı.
+11 Sandra elmayı bıraktı.
+12 Daniel bahçeye gitti.
+13 Sandra salona geri döndü.
+14 John salona geri döndü.
+15 Sandra topu oradan aldı.
+16 Sandra salona geri döndü.
+17 Top nerede? 	salon	15 16
+18 John bahçeye gitti.
+19 Sandra topu bıraktı.
+20 Top nerede? 	salon	19 16
+21 Sandra oradaki topu aldı.
+22 Sandra topu bıraktı.
+23 Top nerede? 	salon	22 16
+24 Daniel salona gitti.
+25 Daniel topu oradan aldı.
+26 Mary ofise geri döndü.
+27 Daniel topu bıraktı.
+28 Top nerede? 	salon	27 24
+29 Mary oradaki sütü aldı.
+30 Sandra koridora gitti.
+31 Top nerede? 	salon	27 24
+1 Sandra topu oraya aldı.
+2 Sandra topu bıraktı.
+3 Sandra banyoya gitti.
+4 Daniel mutfağa geri döndü.
+5 Daniel koridora gitti.
+6 John koridora gitti.
+7 John salona gitti.
+8 John oradaki sütü aldı.
+9 Daniel oradaki elmayı aldı.
+10 Mary ofise geri döndü.
+11 Daniel ofise gitti.
+12 Sandra koridora geri döndü.
+13 Elma nerede? 	ofis	9 11
+14 Mary oradaki topu aldı.
+15 Daniel elmayı bıraktı.
+16 Elma nerede? 	ofis	15 11
+17 Daniel mutfağa gitti.
+18 Sandra mutfağa gitti.
+19 Elma nerede? 	ofis	15 11
+20 Daniel salona gitti.
+21 Sandra banyoya geri döndü.
+22 Elma nerede? 	ofis	15 11
+23 Daniel banyoya gitti.
+24 John sütü bıraktı.
+25 Süt nerede? 	salon	24 7
+1 Sandra oradaki topu aldı.
+2 John koridora gitti.
+3 John ofise gitti.
+4 Daniel salona gitti.
+5 John salona gitti.
+6 Mary mutfağa geri döndü.
+7 John banyoya gitti.
+8 Sandra salona gitti.
+9 Sandra topu bıraktı.
+10 Sandra oradaki topu aldı.
+11 John koridora geri döndü.
+12 Daniel banyoya gitti.
+13 John oradaki sütü aldı.
+14 Mary bahçeye gitti.
+15 Sandra koridora gitti.
+16 Daniel ofise geri döndü.
+17 Sandra topu oraya bıraktı.
+18 John topu oradan aldı.
+19 John topu bıraktı.
+20 John sütü oraya bıraktı.
+21 Süt nerede? 	koridor	20 11
+22 Mary ofise gitti.
+23 Mary bahçeye gitti.
+24 Top nerede? 	koridor	19 11
+25 Sandra banyoya gitti.
+26 Sandra mutfağa gitti.
+27 Süt nerede? 	koridor	20 11
+28 Mary banyoya gitti.
+29 Sandra ofise gitti.
+30 John salona gitti.
+31 Mary elmayı oraya aldı.
+32 Mary elmayı bıraktı.
+33 Mary koridora gitti.
+34 Elma nerede? 	banyo	32 28
+35 Mary oradaki sütü aldı.
+36 John bahçeye gitti.
+37 Elma nerede? 	banyo	32 28
+1 John banyoya gitti.
+2 Daniel salona gitti.
+3 Mary salona geri döndü.
+4 Mary ofise gitti.
+5 Sandra bahçeye gitti.
+6 John bahçeye gitti.
+7 Sandra koridora geri döndü.
+8 Mary topu oraya aldı.
+9 Sandra mutfağa gitti.
+10 Mary salona gitti.
+11 Top nerede? 	salon	8 10
+12 Daniel bahçeye gitti.
+13 John ofise gitti.
+14 Top nerede? 	salon	8 10
+15 Mary ofise gitti.
+16 Mary topu bıraktı.
+17 Top nerede? 	ofis	16 15
+18 Sandra bahçeye gitti.
+19 John topu oraya aldı.
+20 Mary mutfağa gitti.
+21 Daniel banyoya gitti.
+22 Daniel salona gitti.
+23 Mary ofise geri döndü.
+24 Sandra ofise gitti.
+25 John salona geri döndü.
+26 Mary bahçeye gitti.
+27 John topu bıraktı.
+28 Top nerede? 	salon	27 25
+29 Sandra salona geri döndü.
+30 Sandra koridora gitti.
+31 Top nerede? 	salon	27 25
+1 Mary oradaki sütü aldı.
+2 John oradaki elmayı aldı.
+3 Mary banyoya gitti.
+4 Daniel bahçeye gitti.
+5 Süt nerede? 	banyo	1 3
+6 John elmayı bıraktı.
+7 Mary sütü bıraktı.
+8 Süt nerede? 	banyo	7 3
+9 John banyoya gitti.
+10 Daniel mutfağa geri döndü.
+11 Süt nerede? 	banyo	7 3
+12 Mary oradaki sütü aldı.
+13 Sandra salona gitti.
+14 Mary sütü bıraktı.
+15 Mary salona geri döndü.
+16 Süt nerede? 	banyo	14 3
+17 Daniel salona geri döndü.
+18 Daniel bahçeye gitti.
+19 Süt nerede? 	banyo	14 3
+1 Sandra banyoya gitti.
+2 Mary oradaki sütü aldı.
+3 Mary oradaki elmayı aldı.
+4 Mary mutfağa gitti.
+5 Süt nerede? 	mutfak	2 4
+6 Sandra koridora gitti.
+7 Mary elmayı bıraktı.
+8 Süt nerede? 	mutfak	2 4
+9 Mary sütü bıraktı.
+10 Daniel salona gitti.
+11 Süt nerede? 	mutfak	9 4
+12 Daniel ofise gitti.
+13 John ofise geri döndü.
+14 Süt nerede? 	mutfak	9 4
+15 Daniel koridora gitti.
+16 Mary koridora gitti.
+17 John koridora gitti.
+18 John bahçeye gitti.
+19 Mary bahçeye gitti.
+20 Sandra bahçeye gitti.
+21 John banyoya gitti.
+22 Mary ofise gitti.
+23 Mary salona geri döndü.
+24 Sandra koridora gitti.
+25 Daniel bahçeye gitti.
+26 Mary ofise gitti.
+27 Sandra salona geri döndü.
+28 Mary banyoya gitti.
+29 Mary salona gitti.
+30 Daniel ofise gitti.
+31 Mary bahçeye gitti.
+32 Daniel salona gitti.
+33 Daniel mutfağa gitti.
+34 John salona gitti.
+35 Mary koridora gitti.
+36 Sandra banyoya gitti.
+37 John banyoya gitti.
+38 Daniel koridora gitti.
+39 John mutfağa gitti.
+40 John banyoya gitti.
+41 Sandra ofise gitti.
+42 Sandra mutfağa gitti.
+43 Mary salona gitti.
+44 Daniel salona gitti.
+45 Mary banyoya gitti.
+46 Mary bahçeye gitti.
+47 Daniel banyoya gitti.
+48 Daniel bahçeye gitti.
+49 Sandra ofise geri döndü.
+50 John ofise gitti.
+51 John banyoya gitti.
+52 Mary salona gitti.
+53 Mary koridora gitti.
+54 Daniel mutfağa gitti.
+55 John mutfağa gitti.
+56 Sandra mutfağa gitti.
+57 Daniel oradaki topu aldı.
+58 John oradaki sütü aldı.
+59 John bahçeye gitti.
+60 John mutfağa gitti.
+61 Süt nerede? 	mutfak	58 60
+1 Daniel mutfağa gitti.
+2 Daniel salona gitti.
+3 Daniel ofise gitti.
+4 Mary banyoya gitti.
+5 Daniel mutfağa gitti.
+6 John mutfağa geri döndü.
+7 Daniel ofise geri döndü.
+8 John salona gitti.
+9 Sandra bahçeye gitti.
+10 Sandra ofise geri döndü.
+11 Sandra oradaki sütü aldı.
+12 Daniel oradaki topu aldı.
+13 Mary salona geri döndü.
+14 Mary oradaki elmayı aldı.
+15 Daniel banyoya gitti.
+16 Daniel topu bıraktı.
+17 Top nerede? 	banyo	16 15
+18 Mary ofise gitti.
+19 Mary salona geri döndü.
+20 Top nerede? 	banyo	16 15
+21 Mary mutfağa gitti.
+22 Mary salona gitti.
+23 Top nerede? 	banyo	16 15
+24 Sandra sütü bıraktı.
+25 Mary mutfağa gitti.
+26 Süt nerede? 	ofis	24 10
+27 Sandra oradaki sütü aldı.
+28 John ofise gitti.
+29 Daniel oradaki topu aldı.
+30 Daniel mutfağa geri döndü.
+31 Top nerede? 	mutfak	29 30
+1 Daniel topu oradan aldı.
+2 Sandra oradaki elmayı aldı.
+3 Daniel topu bıraktı.
+4 Sandra elmayı bıraktı.
+5 John oradaki topu aldı.
+6 Sandra oradaki elmayı aldı.
+7 John banyoya gitti.
+8 Mary bahçeye gitti.
+9 Top nerede? 	banyo	5 7
+10 Sandra elmayı bıraktı.
+11 Daniel salona geri döndü.
+12 Sandra oradaki elmayı aldı.
+13 Daniel bahçeye gitti.
+14 Daniel salona gitti.
+15 John topu bıraktı.
+16 Top nerede? 	banyo	15 7
+17 Sandra elmayı bıraktı.
+18 John topu oradan aldı.
+19 Daniel oradaki elmayı aldı.
+20 John topu bıraktı.
+21 Top nerede? 	banyo	20 7
+22 Daniel elmayı bıraktı.
+23 Sandra banyoya geri döndü.
+24 Top nerede? 	banyo	20 7
+25 Sandra mutfağa gitti.
+26 Daniel koridora gitti.
+27 Top nerede? 	banyo	20 7
+1 Sandra salona geri döndü.
+2 Daniel topu oraya aldı.
+3 John mutfağa geri döndü.
+4 Sandra koridora gitti.
+5 Sandra banyoya gitti.
+6 Sandra salona gitti.
+7 Sandra mutfağa gitti.
+8 John banyoya gitti.
+9 Daniel bahçeye gitti.
+10 Mary bahçeye gitti.
+11 Mary elmayı oraya aldı.
+12 Mary banyoya gitti.
+13 Elma nerede? 	banyo	11 12
+14 John koridora gitti.
+15 John ofise gitti.
+16 Elma nerede? 	banyo	11 12
+17 Sandra salona geri döndü.
+18 Daniel topu bıraktı.
+19 Top nerede? 	bahçe	18 9
+20 John salona geri döndü.
+21 Daniel salona gitti.
+22 Top nerede? 	bahçe	18 9
+23 Mary elmayı oraya bıraktı.
+24 Sandra bahçeye gitti.
+25 Top nerede? 	bahçe	18 9
+1 Sandra bahçeye gitti.
+2 John mutfağa gitti.
+3 John elmayı oraya aldı.
+4 Sandra banyoya gitti.
+5 Daniel mutfağa gitti.
+6 Mary topu oraya aldı.
+7 John banyoya gitti.
+8 Sandra ofise gitti.
+9 Daniel ofise gitti.
+10 Mary bahçeye gitti.
+11 Top nerede? 	bahçe	6 10
+12 Daniel bahçeye gitti.
+13 John elmayı bıraktı.
+14 Elma nerede? 	banyo	13 7
+15 John salona gitti.
+16 Mary koridora gitti.
+17 Elma nerede? 	banyo	13 7
+18 Daniel mutfağa gitti.
+19 Mary topu oraya bıraktı.
+20 Top nerede? 	koridor	19 16
+21 Sandra salona gitti.
+22 John oradaki sütü aldı.
+23 Top nerede? 	koridor	19 16
+1 John ofise geri döndü.
+2 Daniel bahçeye gitti.
+3 Mary oradaki elmayı aldı.
+4 John koridora geri döndü.
+5 Mary oradaki sütü aldı.
+6 Daniel salona gitti.
+7 Mary elmayı bıraktı.
+8 Sandra topu oradan aldı.
+9 Mary bahçeye gitti.
+10 Mary koridora geri döndü.
+11 Sandra mutfağa geri döndü.
+12 Sandra koridora geri döndü.
+13 Top nerede? 	koridor	8 12
+14 Sandra topu bıraktı.
+15 Sandra bahçeye gitti.
+16 Top nerede? 	koridor	14 12
+17 Mary oradaki topu aldı.
+18 Sandra koridora gitti.
+19 Sandra mutfağa gitti.
+20 Daniel banyoya gitti.
+21 Sandra ofise gitti.
+22 Sandra banyoya gitti.
+23 Mary banyoya gitti.
+24 Mary salona gitti.
+25 Mary koridora gitti.
+26 Daniel ofise gitti.
+27 Daniel banyoya gitti.
+28 Daniel salona geri döndü.
+29 Mary topu bıraktı.
+30 Daniel banyoya gitti.
+31 Top nerede? 	koridor	29 25
+32 Mary salona gitti.
+33 John ofise gitti.
+34 Top nerede? 	koridor	29 25
+35 John salona gitti.
+36 Daniel ofise geri döndü.
+37 Daniel mutfağa gitti.
+38 Daniel salona gitti.
+39 John koridora geri döndü.
+40 Mary sütü bıraktı.
+41 Süt nerede? 	salon	40 32
+1 John ofise gitti.
+2 John bahçeye gitti.
+3 Mary oradaki topu aldı.
+4 Mary topu oraya bıraktı.
+5 Daniel oradaki topu aldı.
+6 Sandra oradaki sütü aldı.
+7 John ofise gitti.
+8 Mary bahçeye gitti.
+9 Sandra bahçeye gitti.
+10 John salona gitti.
+11 Süt nerede? 	bahçe	6 9
+12 Daniel koridora gitti.
+13 Sandra sütü bıraktı.
+14 Süt nerede? 	bahçe	13 9
+15 Mary oradaki sütü aldı.
+16 Daniel salona gitti.
+17 John koridora gitti.
+18 John ofise geri döndü.
+19 Sandra ofise geri döndü.
+20 John salona gitti.
+21 John banyoya gitti.
+22 John mutfağa gitti.
+23 Daniel koridora gitti.
+24 John salona gitti.
+25 Daniel topu bıraktı.
+26 Mary mutfağa gitti.
+27 Top nerede? 	koridor	25 23
+28 Daniel bahçeye gitti.
+29 Mary koridora gitti.
+30 Top nerede? 	koridor	25 23
+31 Sandra salona geri döndü.
+32 John ofise gitti.
+33 Daniel koridora gitti.
+34 Mary sütü bıraktı.
+35 Süt nerede? 	koridor	34 29
+1 Mary ofise gitti.
+2 Sandra oradaki sütü aldı.
+3 John mutfağa geri döndü.
+4 Sandra oradaki elmayı aldı.
+5 Mary oradaki topu aldı.
+6 Mary salona geri döndü.
+7 Top nerede? 	bahçe	5 6
+8 Daniel banyoya gitti.
+9 John banyoya gitti.
+10 Top nerede? 	bahçe	5 6
+11 Sandra salona geri döndü.
+12 Sandra elmayı bıraktı.
+13 Elma nerede? 	bahçe	12 11
+14 Daniel salona geri döndü.
+15 Sandra banyoya geri döndü.
+16 Elma nerede? 	bahçe	12 11
+17 Mary banyoya geri döndü.
+18 Mary topu bıraktı.
+19 Elma nerede? 	bahçe	12 11
+1 Mary oradaki topu aldı.
+2 Sandra oradaki sütü aldı.
+3 Sandra salona geri döndü.
+4 Daniel salona geri döndü.
+5 Süt nerede? 	salon	2 3
+6 Daniel ofise gitti.
+7 Sandra ofise gitti.
+8 Süt nerede? 	ofis	2 7
+9 John oradaki elmayı aldı.
+10 Mary mutfağa gitti.
+11 Sandra sütü oraya bıraktı.
+12 Daniel mutfağa gitti.
+13 Süt nerede? 	ofis	11 7
+14 Sandra mutfağa gitti.
+15 Daniel salona gitti.
+16 Süt nerede? 	ofis	11 7
+17 John elmayı bıraktı.
+18 Mary topu bıraktı.
+19 Top nerede? 	mutfak	18 10
+1 John salona gitti.
+2 John bahçeye gitti.
+3 Daniel banyoya gitti.
+4 Sandra koridora gitti.
+5 Sandra oradaki topu aldı.
+6 Sandra topu bıraktı.
+7 Top nerede? 	koridor	6 4
+8 Daniel koridora gitti.
+9 Mary oradaki sütü aldı.
+10 Top nerede? 	koridor	6 4
+11 Mary ofise gitti.
+12 Sandra bahçeye gitti.
+13 Süt nerede? 	ofis	9 11
+14 Daniel ofise gitti.
+15 Mary koridora gitti.
+16 Süt nerede? 	koridor	9 15
+17 John koridora gitti.
+18 Mary sütü bıraktı.
+19 Süt nerede? 	koridor	18 15
+1 Mary mutfağa geri döndü.
+2 Daniel ofise gitti.
+3 Mary koridora gitti.
+4 John mutfağa gitti.
+5 Daniel banyoya geri döndü.
+6 John banyoya gitti.
+7 Daniel mutfağa gitti.
+8 Sandra mutfağa gitti.
+9 John topu oradan aldı.
+10 Sandra banyoya gitti.
+11 John topu bıraktı.
+12 John topu oradan aldı.
+13 John salona geri döndü.
+14 Sandra ofise gitti.
+15 Top nerede? 	salon	12 13
+16 Mary bahçeye gitti.
+17 Daniel banyoya gitti.
+18 Top nerede? 	salon	12 13
+19 John ofise gitti.
+20 Mary oradaki sütü aldı.
+21 Sandra oradaki elmayı aldı.
+22 Sandra salona gitti.
+23 Elma nerede? 	salon	21 22
+24 Daniel ofise gitti.
+25 Sandra elmayı bıraktı.
+26 Elma nerede? 	salon	25 22
+27 John salona gitti.
+28 John topu bıraktı.
+29 Top nerede? 	salon	28 27
+1 John koridora gitti.
+2 Daniel mutfağa gitti.
+3 Sandra bahçeye gitti.
+4 Daniel elmayı oraya aldı.
+5 Sandra oradaki sütü aldı.
+6 Daniel elmayı bıraktı.
+7 Elma nerede? 	mutfak	6 2
+8 Sandra sütü oraya bıraktı.
+9 Sandra koridora gitti.
+10 Elma nerede? 	mutfak	6 2
+11 John mutfağa gitti.
+12 Mary koridora gitti.
+13 Süt nerede? 	bahçe	8 3
+14 John ofise gitti.
+15 Daniel oradaki elmayı aldı.
+16 Daniel elmayı bıraktı.
+17 Daniel oradaki elmayı aldı.
+18 John koridora gitti.
+19 Daniel salona gitti.
+20 Elma nerede? 	salon	17 19
+21 Daniel elmayı bıraktı.
+22 Sandra ofise gitti.
+23 Elma nerede? 	salon	21 19
+1 Sandra ofise gitti.
+2 Daniel mutfağa gitti.
+3 Mary banyoya gitti.
+4 Sandra topu oraya aldı.
+5 Daniel oradaki elmayı aldı.
+6 Sandra mutfağa geri döndü.
+7 Top nerede? 	mutfak	4 6
+8 Sandra topu oraya bıraktı.
+9 Daniel elmayı bıraktı.
+10 Elma nerede? 	mutfak	9 2
+11 Mary ofise gitti.
+12 Daniel koridora gitti.
+13 Elma nerede? 	mutfak	9 2
+14 Daniel oradaki sütü aldı.
+15 Sandra koridora gitti.
+16 Elma nerede? 	mutfak	9 2
+17 Sandra banyoya gitti.
+18 Mary koridora geri döndü.
+19 Mary banyoya gitti.
+20 Daniel sütü bıraktı.
+21 Süt nerede? 	koridor	20 12
+1 John oradaki sütü aldı.
+2 John sütü bıraktı.
+3 Sandra oradaki sütü aldı.
+4 Sandra mutfağa gitti.
+5 Süt nerede? 	mutfak	3 4
+6 Sandra sütü bıraktı.
+7 John ofise gitti.
+8 Süt nerede? 	mutfak	6 4
+9 Daniel salona gitti.
+10 John mutfağa geri döndü.
+11 Süt nerede? 	mutfak	6 4
+12 Daniel salona geri döndü.
+13 John elmayı oraya aldı.
+14 Sandra oradaki sütü aldı.
+15 Daniel banyoya gitti.
+16 John koridora gitti.
+17 John ofise gitti.
+18 Elma nerede? 	ofis	13 17
+19 Sandra sütü oraya bıraktı.
+20 Sandra oradaki sütü aldı.
+21 John mutfağa geri döndü.
+22 Daniel oradaki topu aldı.
+23 John ofise gitti.
+24 John koridora gitti.
+25 John ofise gitti.
+26 John elmayı bıraktı.
+27 Elma nerede? 	ofis	26 25
+1 Sandra topu oradan aldı.
+2 Sandra topu bıraktı.
+3 Daniel ofise gitti.
+4 Sandra topu oradan aldı.
+5 Mary mutfağa gitti.
+6 Sandra banyoya gitti.
+7 Top nerede? 	banyo	4 6
+8 Sandra topu bıraktı.
+9 Sandra topu oraya aldı.
+10 Daniel mutfağa gitti.
+11 Sandra topu bıraktı.
+12 Top nerede? 	banyo	11 6
+13 Sandra oradaki topu aldı.
+14 Daniel koridora gitti.
+15 John mutfağa gitti.
+16 Sandra topu bıraktı.
+17 Top nerede? 	banyo	16 6
+18 Mary ofise gitti.
+19 Sandra oradaki topu aldı.
+20 Mary salona geri döndü.
+21 John banyoya gitti.
+22 Mary oradaki sütü aldı.
+23 John koridora geri döndü.
+24 Daniel mutfağa gitti.
+25 John ofise gitti.
+26 Mary sütü bıraktı.
+27 Sandra salona gitti.
+28 Süt nerede? 	salon	26 20
+29 Mary banyoya gitti.
+30 Sandra ofise gitti.
+31 Süt nerede? 	salon	26 20
+1 Sandra banyoya gitti.
+2 Mary salona gitti.
+3 John banyoya gitti.
+4 John oradaki topu aldı.
+5 Sandra oradaki sütü aldı.
+6 Sandra sütü bıraktı.
+7 Süt nerede? 	banyo	6 1
+8 John topu bıraktı.
+9 Sandra bahçeye gitti.
+10 Top nerede? 	banyo	8 3
+11 John bahçeye gitti.
+12 Sandra ofise gitti.
+13 Top nerede? 	banyo	8 3
+14 John salona gitti.
+15 Mary ofise gitti.
+16 John ofise gitti.
+17 Mary banyoya gitti.
+18 John salona gitti.
+19 Mary koridora gitti.
+20 Mary oradaki elmayı aldı.
+21 Sandra salona geri döndü.
+22 Sandra mutfağa gitti.
+23 Mary elmayı bıraktı.
+24 Elma nerede? 	koridor	23 19
+25 John koridora gitti.
+26 Sandra banyoya gitti.
+27 Elma nerede? 	koridor	23 19
+1 John bahçeye gitti.
+2 Sandra ofise gitti.
+3 Sandra koridora gitti.
+4 Mary ofise gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra sütü oraya bıraktı.
+7 Süt nerede? 	koridor	6 3
+8 Mary salona gitti.
+9 Sandra oradaki sütü aldı.
+10 John ofise gitti.
+11 Sandra bahçeye gitti.
+12 Süt nerede? 	bahçe	9 11
+13 Mary mutfağa gitti.
+14 Mary topu oraya aldı.
+15 Süt nerede? 	bahçe	9 11
+16 Sandra sütü bıraktı.
+17 Daniel koridora gitti.
+18 Süt nerede? 	bahçe	16 11
+19 Mary topu bıraktı.
+20 Mary bahçeye gitti.
+21 Top nerede? 	mutfak	19 13
+1 Sandra ofise gitti.
+2 Mary mutfağa geri döndü.
+3 John oradaki topu aldı.
+4 Sandra salona gitti.
+5 John topu bıraktı.
+6 Sandra oradaki elmayı aldı.
+7 John ofise gitti.
+8 John salona geri döndü.
+9 John banyoya gitti.
+10 Sandra elmayı bıraktı.
+11 Elma nerede? 	salon	10 4
+12 Daniel ofise gitti.
+13 John salona geri döndü.
+14 Elma nerede? 	salon	10 4
+15 John ofise gitti.
+16 John bahçeye gitti.
+17 Elma nerede? 	salon	10 4
+18 Mary ofise geri döndü.
+19 John topu oradan aldı.
+20 John topu bıraktı.
+21 John mutfağa gitti.
+22 Top nerede? 	bahçe	20 16
+23 Daniel mutfağa gitti.
+24 Sandra koridora gitti.
+25 Top nerede? 	bahçe	20 16
+1 Sandra koridora gitti.
+2 John banyoya gitti.
+3 Sandra topu oradan aldı.
+4 Daniel salona gitti.
+5 John oradaki sütü aldı.
+6 John sütü bıraktı.
+7 Süt nerede? 	banyo	6 2
+8 Sandra bahçeye gitti.
+9 Daniel koridora geri döndü.
+10 Süt nerede? 	banyo	6 2
+11 Sandra topu bıraktı.
+12 John koridora gitti.
+13 Top nerede? 	bahçe	11 8
+14 John salona geri döndü.
+15 Sandra mutfağa gitti.
+16 Top nerede? 	bahçe	11 8
+17 Daniel salona gitti.
+18 Sandra koridora gitti.
+19 Sandra mutfağa gitti.
+20 John ofise gitti.
+21 Sandra bahçeye gitti.
+22 Sandra topu oradan aldı.
+23 Sandra topu oraya bıraktı.
+24 Daniel mutfağa geri döndü.
+25 Top nerede? 	bahçe	23 21
+1 Daniel topu oradan aldı.
+2 Daniel topu bıraktı.
+3 John oradaki topu aldı.
+4 Mary koridora geri döndü.
+5 Daniel banyoya gitti.
+6 John oraya topu bıraktı.
+7 Sandra oradaki elmayı aldı.
+8 Daniel ofise gitti.
+9 Mary topu oraya aldı.
+10 Mary oraya topu bıraktı.
+11 Top nerede? 	koridor	10 4
+12 Mary salona gitti.
+13 John topu oradan aldı.
+14 John banyoya gitti.
+15 Mary mutfağa gitti.
+16 Top nerede? 	banyo	13 14
+17 Daniel banyoya gitti.
+18 Mary ofise gitti.
+19 Top nerede? 	banyo	13 14
+20 Daniel ofise geri döndü.
+21 Sandra elmayı bıraktı.
+22 John topu bıraktı.
+23 Mary bahçeye gitti.
+24 Top nerede? 	banyo	22 14
+25 John salona geri döndü.
+26 Sandra elmayı oraya aldı.
+27 Top nerede? 	banyo	22 14
+1 Mary ofise gitti.
+2 Daniel banyoya gitti.
+3 John salona geri döndü.
+4 John koridora gitti.
+5 Mary banyoya gitti.
+6 Sandra oradaki elmayı aldı.
+7 John banyoya gitti.
+8 John oradaki sütü aldı.
+9 Daniel salona gitti.
+10 John bahçeye gitti.
+11 Süt nerede? 	bahçe	8 10
+12 Sandra elmayı bıraktı.
+13 John oradaki topu aldı.
+14 Süt nerede? 	bahçe	8 10
+15 Sandra ofise gitti.
+16 Daniel oradaki elmayı aldı.
+17 Mary mutfağa gitti.
+18 Daniel elmayı oraya bıraktı.
+19 Elma nerede? 	salon	18 9
+20 Daniel oradaki elmayı aldı.
+21 John banyoya geri döndü.
+22 Daniel elmayı bıraktı.
+23 John bahçeye gitti.
+24 Elma nerede? 	salon	22 9
+25 Sandra banyoya gitti.
+26 Sandra mutfağa gitti.
+27 Elma nerede? 	salon	22 9
+1 Sandra salona gitti.
+2 Sandra oradaki topu aldı.
+3 Sandra topu bıraktı.
+4 Mary ofise gitti.
+5 Top nerede? 	salon	3 1
+6 Mary koridora geri döndü.
+7 Sandra bahçeye gitti.
+8 Top nerede? 	salon	3 1
+9 Mary oradaki elmayı aldı.
+10 John salona geri döndü.
+11 Mary elmayı bıraktı.
+12 Sandra koridora gitti.
+13 Elma nerede? 	koridor	11 6
+14 Daniel salona geri döndü.
+15 Mary salona gitti.
+16 Elma nerede? 	koridor	11 6
+17 Sandra oradaki elmayı aldı.
+18 Daniel mutfağa geri döndü.
+19 John ofise gitti.
+20 John salona geri döndü.
+21 Daniel salona gitti.
+22 Sandra banyoya geri döndü.
+23 Daniel banyoya geri döndü.
+24 Mary mutfağa gitti.
+25 John mutfağa gitti.
+26 Mary salona geri döndü.
+27 Mary topu oraya aldı.
+28 Daniel salona geri döndü.
+29 Mary ofise gitti.
+30 Sandra salona geri döndü.
+31 Top nerede? 	ofis	27 29
+1 Sandra banyoya gitti.
+2 John ofise gitti.
+3 John elmayı oraya aldı.
+4 Sandra topu oraya aldı.
+5 Sandra oraya topu bıraktı.
+6 Sandra topu oraya aldı.
+7 Daniel banyoya gitti.
+8 John mutfağa gitti.
+9 Sandra bahçeye gitti.
+10 John elmayı bıraktı.
+11 Elma nerede? 	mutfak	10 8
+12 Sandra koridora gitti.
+13 Sandra salona geri döndü.
+14 Elma nerede? 	mutfak	10 8
+15 John oradaki elmayı aldı.
+16 Sandra mutfağa gitti.
+17 Sandra salona geri döndü.
+18 Sandra salona gitti.
+19 John elmayı bıraktı.
+20 John elmayı oraya aldı.
+21 John elmayı oraya bıraktı.
+22 Sandra topu oraya bıraktı.
+23 Elma nerede? 	mutfak	21 8
+24 John banyoya gitti.
+25 Mary bahçeye gitti.
+26 Elma nerede? 	mutfak	21 8
+27 Sandra topu oraya aldı.
+28 John bahçeye gitti.
+29 John oradaki sütü aldı.
+30 Mary salona gitti.
+31 John mutfağa gitti.
+32 Daniel koridora gitti.
+33 Süt nerede? 	mutfak	29 31
+1 Daniel koridora geri döndü.
+2 Mary salona geri döndü.
+3 Sandra mutfağa gitti.
+4 Mary salona gitti.
+5 Sandra banyoya gitti.
+6 Mary bahçeye gitti.
+7 Daniel ofise geri döndü.
+8 John salona geri döndü.
+9 John ofise gitti.
+10 Sandra oradaki sütü aldı.
+11 John mutfağa geri döndü.
+12 Sandra sütü bıraktı.
+13 Süt nerede? 	banyo	12 5
+14 Sandra oradaki sütü aldı.
+15 Mary salona gitti.
+16 Sandra sütü oraya bıraktı.
+17 John bahçeye gitti.
+18 Süt nerede? 	banyo	16 5
+19 Sandra oradaki sütü aldı.
+20 Sandra mutfağa geri döndü.
+21 Süt nerede? 	mutfak	19 20
+22 Daniel koridora gitti.
+23 Mary mutfağa gitti.
+24 Süt nerede? 	mutfak	19 20
+25 Daniel salona gitti.
+26 Daniel ofise gitti.
+27 John mutfağa gitti.
+28 John banyoya gitti.
+29 Sandra koridora gitti.
+30 Mary ofise gitti.
+31 John mutfağa gitti.
+32 Sandra bahçeye gitti.
+33 John bahçeye gitti.
+34 Sandra mutfağa gitti.
+35 Daniel koridora gitti.
+36 Sandra sütü bıraktı.
+37 Süt nerede? 	mutfak	36 34
+1 Mary ofise gitti.
+2 John topu oraya aldı.
+3 John salona gitti.
+4 Sandra salona gitti.
+5 Top nerede? 	salon	2 3
+6 Daniel banyoya gitti.
+7 Sandra banyoya geri döndü.
+8 Top nerede? 	salon	2 3
+9 Sandra oradaki elmayı aldı.
+10 Sandra ofise gitti.
+11 Elma nerede? 	ofis	9 10
+12 Daniel salona geri döndü.
+13 Sandra koridora gitti.
+14 Elma nerede? 	koridor	9 13
+15 John banyoya gitti.
+16 Daniel koridora gitti.
+17 Sandra salona gitti.
+18 Sandra elmayı oraya bıraktı.
+19 Elma nerede? 	salon	18 17
+1 Mary bahçeye gitti.
+2 Mary oradaki sütü aldı.
+3 Sandra salona gitti.
+4 Sandra mutfağa gitti.
+5 John banyoya gitti.
+6 Daniel mutfağa geri döndü.
+7 Sandra oradaki elmayı aldı.
+8 Sandra elmayı bıraktı.
+9 Elma nerede? 	mutfak	8 4
+10 Sandra oradaki elmayı aldı.
+11 Sandra topu oraya aldı.
+12 Mary koridora geri döndü.
+13 Sandra topu bıraktı.
+14 Top nerede? 	mutfak	13 4
+15 Mary sütü bıraktı.
+16 Mary oradaki sütü aldı.
+17 Top nerede? 	mutfak	13 4
+18 Mary sütü bıraktı.
+19 Sandra oradaki topu aldı.
+20 Süt nerede? 	koridor	18 12
+21 Mary salona geri döndü.
+22 Sandra topu bıraktı.
+23 Süt nerede? 	koridor	18 12
+1 Daniel koridora gitti.
+2 John banyoya gitti.
+3 Sandra oradaki elmayı aldı.
+4 John oradaki sütü aldı.
+5 John sütü oraya bıraktı.
+6 Sandra banyoya gitti.
+7 Süt nerede? 	banyo	5 2
+8 Sandra oradaki sütü aldı.
+9 John ofise gitti.
+10 Sandra koridora gitti.
+11 Sandra sütü bıraktı.
+12 Süt nerede? 	koridor	11 10
+13 Daniel banyoya gitti.
+14 Sandra bahçeye gitti.
+15 Süt nerede? 	koridor	11 10
+16 Sandra elmayı bıraktı.
+17 Daniel mutfağa gitti.
+18 Elma nerede? 	bahçe	16 14
+19 Daniel salona geri döndü.
+20 John bahçeye gitti.
+21 Elma nerede? 	bahçe	16 14
+1 Daniel koridora gitti.
+2 Sandra ofise gitti.
+3 Sandra koridora gitti.
+4 Daniel oradaki topu aldı.
+5 John ofise gitti.
+6 Mary banyoya gitti.
+7 Daniel topu oraya bıraktı.
+8 Mary ofise geri döndü.
+9 Top nerede? 	koridor	7 1
+10 Sandra oradaki topu aldı.
+11 Daniel salona gitti.
+12 Sandra topu bıraktı.
+13 Daniel oradaki sütü aldı.
+14 Top nerede? 	koridor	12 3
+15 John mutfağa gitti.
+16 Sandra bahçeye gitti.
+17 Top nerede? 	koridor	12 3
+18 John koridora gitti.
+19 John banyoya gitti.
+20 Daniel banyoya geri döndü.
+21 Mary salona gitti.
+22 Sandra salona geri döndü.
+23 Mary mutfağa gitti.
+24 Sandra banyoya gitti.
+25 Daniel sütü bıraktı.
+26 Süt nerede? 	banyo	25 20
+27 Daniel oradaki sütü aldı.
+28 Mary elmayı oraya aldı.
+29 Mary elmayı bıraktı.
+30 Sandra bahçeye gitti.
+31 Elma nerede? 	mutfak	29 23
+1 Mary koridora gitti.
+2 Sandra mutfağa gitti.
+3 Sandra ofise gitti.
+4 Daniel ofise gitti.
+5 Sandra mutfağa gitti.
+6 Sandra oradaki elmayı aldı.
+7 John bahçeye gitti.
+8 John oradaki sütü aldı.
+9 Mary topu oraya aldı.
+10 John sütü bıraktı.
+11 Süt nerede? 	bahçe	10 7
+12 Daniel mutfağa gitti.
+13 John oradaki sütü aldı.
+14 John sütü bıraktı.
+15 Mary topu bıraktı.
+16 Top nerede? 	koridor	15 1
+17 Sandra salona gitti.
+18 Sandra koridora gitti.
+19 Top nerede? 	koridor	15 1
+20 Sandra topu oraya aldı.
+21 Daniel banyoya geri döndü.
+22 Mary ofise gitti.
+23 John oradaki sütü aldı.
+24 Sandra elmayı bıraktı.
+25 John sütü bıraktı.
+26 Süt nerede? 	bahçe	25 7
+27 John oradaki sütü aldı.
+28 John sütü bıraktı.
+29 Süt nerede? 	bahçe	28 7
+1 Daniel salona gitti.
+2 Daniel oradaki sütü aldı.
+3 Daniel sütü bıraktı.
+4 John salona gitti.
+5 Süt nerede? 	salon	3 1
+6 John elmayı oraya aldı.
+7 Sandra salona geri döndü.
+8 Süt nerede? 	salon	3 1
+9 Mary bahçeye gitti.
+10 John oradaki sütü aldı.
+11 John koridora gitti.
+12 Daniel mutfağa gitti.
+13 Süt nerede? 	koridor	10 11
+14 John ofise gitti.
+15 Mary salona gitti.
+16 Süt nerede? 	ofis	10 14
+17 Mary ofise gitti.
+18 John sütü oraya bıraktı.
+19 Süt nerede? 	ofis	18 14
+1 Mary bahçeye gitti.
+2 John koridora gitti.
+3 John mutfağa gitti.
+4 Daniel elmayı oraya aldı.
+5 Daniel elmayı bıraktı.
+6 John bahçeye gitti.
+7 Mary banyoya gitti.
+8 John salona gitti.
+9 Sandra mutfağa gitti.
+10 Daniel banyoya geri döndü.
+11 Sandra koridora geri döndü.
+12 Mary oradaki sütü aldı.
+13 John elmayı oraya aldı.
+14 John banyoya gitti.
+15 Elma nerede? 	banyo	13 14
+16 Mary sütü bıraktı.
+17 John oradaki sütü aldı.
+18 Elma nerede? 	banyo	13 14
+19 Daniel bahçeye gitti.
+20 Sandra ofise gitti.
+21 Mary topu oraya aldı.
+22 Daniel koridora gitti.
+23 Daniel salona geri döndü.
+24 Mary topu oraya bıraktı.
+25 Top nerede? 	banyo	24 7
+26 Mary oradaki topu aldı.
+27 Daniel koridora gitti.
+28 Daniel bahçeye gitti.
+29 John mutfağa gitti.
+30 John ofise geri döndü.
+31 John koridora gitti.
+32 Mary salona gitti.
+33 Mary topu bıraktı.
+34 Top nerede? 	salon	33 32
+35 John sütü bıraktı.
+36 Mary bahçeye gitti.
+37 Süt nerede? 	koridor	35 31
+1 Mary ofise gitti.
+2 Daniel topu oradan aldı.
+3 Mary bahçeye gitti.
+4 Daniel topu bıraktı.
+5 Sandra ofise gitti.
+6 Mary oradaki sütü aldı.
+7 Sandra salona gitti.
+8 Sandra banyoya gitti.
+9 Daniel bahçeye gitti.
+10 Sandra mutfağa gitti.
+11 Mary sütü bıraktı.
+12 Mary banyoya gitti.
+13 Süt nerede? 	bahçe	11 3
+14 Daniel koridora gitti.
+15 Mary koridora gitti.
+16 Süt nerede? 	bahçe	11 3
+17 Daniel topu oradan aldı.
+18 Mary ofise gitti.
+19 Mary koridora gitti.
+20 Daniel topu bıraktı.
+21 Top nerede? 	koridor	20 14
+22 John ofise gitti.
+23 Sandra salona gitti.
+24 Top nerede? 	koridor	20 14
+25 Sandra mutfağa gitti.
+26 Sandra ofise gitti.
+27 Top nerede? 	koridor	20 14
+1 John koridora gitti.
+2 Sandra banyoya gitti.
+3 Sandra topu oradan aldı.
+4 Sandra bahçeye gitti.
+5 Top nerede? 	bahçe	3 4
+6 Mary banyoya geri döndü.
+7 Sandra oradaki sütü aldı.
+8 Top nerede? 	bahçe	3 4
+9 Sandra topu bıraktı.
+10 Daniel banyoya geri döndü.
+11 Top nerede? 	bahçe	9 4
+12 Daniel ofise gitti.
+13 Sandra sütü bıraktı.
+14 Süt nerede? 	bahçe	13 4
+15 Mary salona gitti.
+16 Sandra salona gitti.
+17 Süt nerede? 	bahçe	13 4
+1 Mary topu oradan aldı.
+2 John koridora gitti.
+3 Mary koridora geri döndü.
+4 John salona gitti.
+5 Top nerede? 	koridor	1 3
+6 Daniel mutfağa gitti.
+7 Mary topu bıraktı.
+8 Top nerede? 	koridor	7 3
+9 Mary salona gitti.
+10 Sandra koridora geri döndü.
+11 Top nerede? 	koridor	7 3
+12 Mary bahçeye gitti.
+13 Mary oradaki sütü aldı.
+14 Top nerede? 	koridor	7 3
+15 John mutfağa gitti.
+16 Mary mutfağa gitti.
+17 Süt nerede? 	mutfak	13 16
+1 Mary koridora gitti.
+2 Mary mutfağa gitti.
+3 Mary oradaki sütü aldı.
+4 John banyoya geri döndü.
+5 Mary oradaki topu aldı.
+6 John oradaki elmayı aldı.
+7 Mary ofise gitti.
+8 Daniel mutfağa gitti.
+9 Top nerede? 	ofis	5 7
+10 John elmayı bıraktı.
+11 Mary topu oraya bıraktı.
+12 Top nerede? 	ofis	11 7
+13 Mary topu oradan aldı.
+14 John oradaki elmayı aldı.
+15 John koridora geri döndü.
+16 Mary mutfağa gitti.
+17 Top nerede? 	mutfak	13 16
+18 John mutfağa gitti.
+19 Mary sütü bıraktı.
+20 Elma nerede? 	mutfak	14 18
+21 Mary koridora gitti.
+22 Daniel oradaki sütü aldı.
+23 Sandra mutfağa gitti.
+24 John elmayı bıraktı.
+25 Elma nerede? 	mutfak	24 18
+1 Sandra mutfağa gitti.
+2 Sandra salona geri döndü.
+3 Daniel salona geri döndü.
+4 Daniel banyoya gitti.
+5 John banyoya gitti.
+6 Mary salona gitti.
+7 Mary ofise gitti.
+8 Mary koridora gitti.
+9 John salona gitti.
+10 Daniel bahçeye gitti.
+11 Daniel elmayı oraya aldı.
+12 John mutfağa gitti.
+13 Daniel salona gitti.
+14 John oradaki sütü aldı.
+15 Elma nerede? 	salon	11 13
+16 Mary banyoya gitti.
+17 John topu oradan aldı.
+18 Sandra koridora gitti.
+19 Sandra mutfağa gitti.
+20 Daniel koridora gitti.
+21 Daniel mutfağa gitti.
+22 John banyoya gitti.
+23 John topu bıraktı.
+24 Top nerede? 	banyo	23 22
+25 John sütü bıraktı.
+26 Mary topu oradan aldı.
+27 Süt nerede? 	banyo	25 22
+28 Sandra banyoya gitti.
+29 John oradaki sütü aldı.
+30 John sütü bıraktı.
+31 John ofise geri döndü.
+32 Süt nerede? 	banyo	30 22
+33 Sandra oradaki sütü aldı.
+34 Mary topu bıraktı.
+35 Top nerede? 	banyo	34 16
+1 Mary banyoya gitti.
+2 Mary salona geri döndü.
+3 Sandra ofise gitti.
+4 John salona gitti.
+5 Mary koridora gitti.
+6 Sandra salona gitti.
+7 Mary bahçeye gitti.
+8 John banyoya gitti.
+9 Daniel koridora gitti.
+10 Mary banyoya gitti.
+11 Daniel mutfağa gitti.
+12 Mary koridora gitti.
+13 John oradaki sütü aldı.
+14 Mary ofise gitti.
+15 Daniel banyoya gitti.
+16 Daniel elmayı oraya aldı.
+17 John sütü bıraktı.
+18 Daniel elmayı bıraktı.
+19 Elma nerede? 	banyo	18 15
+20 Daniel mutfağa geri döndü.
+21 Mary mutfağa gitti.
+22 Elma nerede? 	banyo	18 15
+23 John oradaki elmayı aldı.
+24 John ofise geri döndü.
+25 Elma nerede? 	ofis	23 24
+26 John salona geri döndü.
+27 Daniel bahçeye gitti.
+28 Elma nerede? 	salon	23 26
+29 John elmayı bıraktı.
+30 Sandra mutfağa geri döndü.
+31 Elma nerede? 	salon	29 26
+1 Daniel bahçeye gitti.
+2 Mary banyoya gitti.
+3 John mutfağa geri döndü.
+4 John koridora geri döndü.
+5 John mutfağa gitti.
+6 Mary ofise gitti.
+7 Mary oradaki topu aldı.
+8 Sandra ofise gitti.
+9 Mary topu bıraktı.
+10 John ofise gitti.
+11 Top nerede? 	ofis	9 6
+12 Sandra topu oradan aldı.
+13 Daniel salona gitti.
+14 John banyoya gitti.
+15 Mary banyoya gitti.
+16 Daniel ofise gitti.
+17 Sandra koridora gitti.
+18 John ofise gitti.
+19 Daniel salona gitti.
+20 Sandra oradaki sütü aldı.
+21 Sandra oradaki elmayı aldı.
+22 Mary salona gitti.
+23 Daniel salona geri döndü.
+24 Mary ofise gitti.
+25 John bahçeye gitti.
+26 Mary mutfağa gitti.
+27 Sandra elmayı bıraktı.
+28 Elma nerede? 	koridor	27 17
+29 Mary koridora gitti.
+30 Mary elmayı oraya aldı.
+31 John banyoya gitti.
+32 Daniel koridora gitti.
+33 Sandra topu bıraktı.
+34 Daniel oradaki topu aldı.
+35 Daniel salona gitti.
+36 Mary elmayı bıraktı.
+37 Top nerede? 	salon	34 35
+38 Sandra sütü bıraktı.
+39 Daniel topu bıraktı.
+40 Süt nerede? 	koridor	38 17
+41 Daniel salona geri döndü.
+42 John ofise gitti.
+43 Süt nerede? 	koridor	38 17
+1 Mary ofise gitti.
+2 Mary salona gitti.
+3 Daniel salona gitti.
+4 Daniel bahçeye gitti.
+5 Daniel mutfağa gitti.
+6 John ofise gitti.
+7 Mary ofise gitti.
+8 Mary salona gitti.
+9 John elmayı oraya aldı.
+10 Mary bahçeye gitti.
+11 Daniel koridora gitti.
+12 Sandra salona geri döndü.
+13 John elmayı bıraktı.
+14 John banyoya geri döndü.
+15 Elma nerede? 	ofis	13 6
+16 Mary oradaki sütü aldı.
+17 Sandra banyoya gitti.
+18 Elma nerede? 	ofis	13 6
+19 Mary sütü bıraktı.
+20 Mary mutfağa gitti.
+21 Süt nerede? 	bahçe	19 10
+22 Sandra bahçeye gitti.
+23 Daniel mutfağa gitti.
+24 Süt nerede? 	bahçe	19 10
+25 John koridora gitti.
+26 Daniel bahçeye gitti.
+27 Daniel banyoya gitti.
+28 Mary bahçeye gitti.
+29 Mary salona gitti.
+30 Mary bahçeye gitti.
+31 Daniel mutfağa gitti.
+32 John mutfağa geri döndü.
+33 John koridora gitti.
+34 Sandra oradaki sütü aldı.
+35 Sandra salona gitti.
+36 Daniel salona gitti.
+37 Süt nerede? 	salon	34 35
+1 John ofise gitti.
+2 Mary banyoya gitti.
+3 Sandra mutfağa gitti.
+4 John banyoya gitti.
+5 Daniel koridora geri döndü.
+6 Daniel oradaki sütü aldı.
+7 Sandra topu oradan aldı.
+8 John bahçeye gitti.
+9 Daniel salona gitti.
+10 Mary oradaki elmayı aldı.
+11 Süt nerede? 	salon	6 9
+12 John mutfağa gitti.
+13 Mary salona gitti.
+14 Elma nerede? 	salon	10 13
+15 Sandra oraya topu bıraktı.
+16 John koridora gitti.
+17 Top nerede? 	mutfak	15 3
+18 Daniel mutfağa gitti.
+19 Daniel sütü bıraktı.
+20 Süt nerede? 	mutfak	19 18
+21 Sandra topu oraya aldı.
+22 Daniel banyoya gitti.
+23 Süt nerede? 	mutfak	19 18
+1 John mutfağa gitti.
+2 Mary mutfağa gitti.
+3 John salona gitti.
+4 Mary koridora gitti.
+5 Mary ofise gitti.
+6 Mary koridora gitti.
+7 John oradaki topu aldı.
+8 John ofise gitti.
+9 Top nerede? 	ofis	7 8
+10 Sandra salona gitti.
+11 John oradaki sütü aldı.
+12 Top nerede? 	ofis	7 8
+13 Sandra koridora geri döndü.
+14 Sandra bahçeye gitti.
+15 Mary salona gitti.
+16 Mary banyoya gitti.
+17 Sandra mutfağa gitti.
+18 John topu bıraktı.
+19 Top nerede? 	ofis	18 8
+20 Mary bahçeye gitti.
+21 John sütü oraya bıraktı.
+22 Süt nerede? 	ofis	21 8
+23 John bahçeye gitti.
+24 Sandra salona gitti.
+25 Top nerede? 	ofis	18 8
+1 Daniel salona geri döndü.
+2 Mary bahçeye gitti.
+3 Sandra bahçeye gitti.
+4 Daniel salona gitti.
+5 Sandra oradaki sütü aldı.
+6 Mary ofise gitti.
+7 Mary oradaki elmayı aldı.
+8 Mary elmayı bıraktı.
+9 Elma nerede? 	ofis	8 6
+10 Sandra sütü oraya bıraktı.
+11 Sandra banyoya gitti.
+12 Elma nerede? 	ofis	8 6
+13 John mutfağa geri döndü.
+14 Sandra ofise gitti.
+15 Elma nerede? 	ofis	8 6
+16 John bahçeye gitti.
+17 Mary oradaki elmayı aldı.
+18 John oradaki sütü aldı.
+19 Sandra mutfağa geri döndü.
+20 John banyoya geri döndü.
+21 Mary koridora geri döndü.
+22 Elma nerede? 	koridor	17 21
+23 Mary banyoya gitti.
+24 Daniel koridora gitti.
+25 Mary elmayı bıraktı.
+26 Mary salona geri döndü.
+27 Elma nerede? 	banyo	25 23
+1 Daniel oradaki elmayı aldı.
+2 Sandra koridora gitti.
+3 Daniel elmayı oraya bıraktı.
+4 Mary banyoya geri döndü.
+5 John banyoya gitti.
+6 John bahçeye gitti.
+7 Daniel koridora gitti.
+8 Mary salona geri döndü.
+9 Daniel mutfağa gitti.
+10 Daniel salona gitti.
+11 Mary koridora gitti.
+12 Daniel mutfağa geri döndü.
+13 Daniel bahçeye gitti.
+14 John koridora geri döndü.
+15 Mary ofise gitti.
+16 Mary oradaki elmayı aldı.
+17 Sandra banyoya gitti.
+18 Mary elmayı bıraktı.
+19 Elma nerede? 	ofis	18 15
+20 Mary banyoya gitti.
+21 Mary ofise geri döndü.
+22 Elma nerede? 	ofis	18 15
+23 Sandra bahçeye gitti.
+24 Daniel salona gitti.
+25 Elma nerede? 	ofis	18 15
+26 Daniel oradaki topu aldı.
+27 Daniel koridora gitti.
+28 Top nerede? 	koridor	26 27
+29 John mutfağa geri döndü.
+30 Daniel bahçeye gitti.
+31 Top nerede? 	bahçe	26 30
+1 Mary banyoya geri döndü.
+2 Sandra bahçeye gitti.
+3 Mary ofise geri döndü.
+4 Daniel topu oradan aldı.
+5 Daniel koridora gitti.
+6 John oradaki sütü aldı.
+7 Top nerede? 	koridor	4 5
+8 Mary oradaki elmayı aldı.
+9 John koridora gitti.
+10 Süt nerede? 	koridor	6 9
+11 Sandra ofise gitti.
+12 John bahçeye gitti.
+13 Süt nerede? 	bahçe	6 12
+14 Mary elmayı bıraktı.
+15 Sandra mutfağa geri döndü.
+16 Elma nerede? 	ofis	14 3
+17 Daniel mutfağa gitti.
+18 John sütü bıraktı.
+19 Elma nerede? 	ofis	14 3
+1 Mary koridora gitti.
+2 Daniel salona geri döndü.
+3 Sandra salona geri döndü.
+4 Mary ofise gitti.
+5 Mary mutfağa gitti.
+6 Sandra ofise gitti.
+7 Sandra koridora gitti.
+8 Daniel bahçeye gitti.
+9 Mary banyoya gitti.
+10 John banyoya geri döndü.
+11 Sandra bahçeye gitti.
+12 John ofise gitti.
+13 Daniel mutfağa geri döndü.
+14 Mary mutfağa gitti.
+15 Mary koridora gitti.
+16 Mary mutfağa gitti.
+17 Sandra salona geri döndü.
+18 Sandra koridora gitti.
+19 Sandra mutfağa gitti.
+20 Sandra bahçeye gitti.
+21 Daniel bahçeye gitti.
+22 Sandra banyoya geri döndü.
+23 John bahçeye gitti.
+24 Mary banyoya gitti.
+25 Daniel mutfağa gitti.
+26 John koridora geri döndü.
+27 Sandra koridora geri döndü.
+28 Mary koridora gitti.
+29 Daniel salona geri döndü.
+30 Sandra ofise geri döndü.
+31 Sandra mutfağa gitti.
+32 Mary bahçeye gitti.
+33 Sandra bahçeye gitti.
+34 Daniel koridora gitti.
+35 Mary koridora geri döndü.
+36 Daniel bahçeye gitti.
+37 John banyoya gitti.
+38 Daniel koridora gitti.
+39 Daniel salona gitti.
+40 Mary mutfağa geri döndü.
+41 Daniel ofise gitti.
+42 John koridora gitti.
+43 John mutfağa gitti.
+44 Daniel koridora gitti.
+45 Sandra mutfağa geri döndü.
+46 Mary ofise gitti.
+47 Sandra salona geri döndü.
+48 Sandra mutfağa geri döndü.
+49 Sandra bahçeye gitti.
+50 Sandra ofise gitti.
+51 John koridora geri döndü.
+52 Daniel bahçeye gitti.
+53 Sandra mutfağa gitti.
+54 Sandra banyoya gitti.
+55 John bahçeye gitti.
+56 Mary koridora gitti.
+57 John ofise geri döndü.
+58 Mary ofise geri döndü.
+59 Daniel banyoya gitti.
+60 Sandra koridora gitti.
+61 Sandra banyoya gitti.
+62 Sandra salona gitti.
+63 Mary koridora geri döndü.
+64 Sandra mutfağa gitti.
+65 Daniel bahçeye gitti.
+66 Daniel salona gitti.
+67 Mary ofise gitti.
+68 Sandra ofise geri döndü.
+69 John koridora gitti.
+70 Daniel oradaki sütü aldı.
+71 Daniel oradaki elmayı aldı.
+72 Sandra koridora gitti.
+73 John salona gitti.
+74 John salona geri döndü.
+75 Sandra ofise gitti.
+76 Sandra salona gitti.
+77 Mary mutfağa gitti.
+78 Mary ofise gitti.
+79 Sandra topu oradan aldı.
+80 Sandra topu bıraktı.
+81 Top nerede? 	salon	80 76
+82 Daniel topu oraya aldı.
+83 Daniel elmayı oraya bıraktı.
+84 Elma nerede? 	salon	83 66
+85 Daniel oradaki elmayı aldı.
+86 Daniel koridora gitti.
+87 Top nerede? 	koridor	82 86
+88 Sandra banyoya gitti.
+89 Daniel sütü oraya bıraktı.
+90 Süt nerede? 	koridor	89 86
+91 Daniel mutfağa gitti.
+92 Daniel banyoya geri döndü.
+93 Süt nerede? 	koridor	89 86
+1 Daniel ofise gitti.
+2 John mutfağa gitti.
+3 Mary salona gitti.
+4 John oradaki elmayı aldı.
+5 John elmayı bıraktı.
+6 Sandra ofise gitti.
+7 Elma nerede? 	mutfak	5 2
+8 Sandra banyoya gitti.
+9 Daniel oradaki sütü aldı.
+10 Elma nerede? 	mutfak	5 2
+11 John ofise gitti.
+12 John salona gitti.
+13 Daniel sütü bıraktı.
+14 Daniel oradaki sütü aldı.
+15 John bahçeye gitti.
+16 Daniel mutfağa gitti.
+17 Süt nerede? 	mutfak	14 16
+18 Daniel sütü bıraktı.
+19 Mary koridora gitti.
+20 Süt nerede? 	mutfak	18 16
+21 Sandra ofise geri döndü.
+22 Daniel oradaki sütü aldı.
+23 John topu oraya aldı.
+24 John topu bıraktı.
+25 Top nerede? 	bahçe	24 15
+1 John salona gitti.
+2 Sandra banyoya geri döndü.
+3 Sandra topu oradan aldı.
+4 Sandra ofise gitti.
+5 Top nerede? 	ofis	3 4
+6 Daniel mutfağa gitti.
+7 Mary bahçeye gitti.
+8 Top nerede? 	ofis	3 4
+9 Mary ofise gitti.
+10 Mary mutfağa gitti.
+11 Daniel bahçeye gitti.
+12 Daniel oradaki sütü aldı.
+13 Daniel sütü oraya bıraktı.
+14 Sandra salona geri döndü.
+15 Süt nerede? 	bahçe	13 11
+16 Daniel oradaki sütü aldı.
+17 Sandra koridora gitti.
+18 Sandra oradaki elmayı aldı.
+19 Sandra banyoya gitti.
+20 Elma nerede? 	banyo	18 19
+21 Mary salona gitti.
+22 Sandra salona geri döndü.
+23 Elma nerede? 	salon	18 22
+1 Sandra oradaki elmayı aldı.
+2 Sandra elmayı bıraktı.
+3 Sandra banyoya gitti.
+4 Daniel mutfağa gitti.
+5 Sandra salona gitti.
+6 John mutfağa gitti.
+7 Daniel koridora gitti.
+8 Sandra banyoya gitti.
+9 Sandra oradaki sütü aldı.
+10 Sandra ofise gitti.
+11 Süt nerede? 	ofis	9 10
+12 Sandra banyoya gitti.
+13 Sandra sütü bıraktı.
+14 Süt nerede? 	banyo	13 12
+15 John banyoya gitti.
+16 John salona gitti.
+17 Süt nerede? 	banyo	13 12
+18 Mary banyoya gitti.
+19 John oradaki elmayı aldı.
+20 Süt nerede? 	banyo	13 12
+21 Mary oradaki topu aldı.
+22 Mary koridora gitti.
+23 Top nerede? 	koridor	21 22
+1 Daniel mutfağa gitti.
+2 John mutfağa gitti.
+3 Mary banyoya geri döndü.
+4 Sandra oradaki topu aldı.
+5 Sandra oradaki sütü aldı.
+6 John ofise gitti.
+7 Mary oradaki elmayı aldı.
+8 Mary elmayı bıraktı.
+9 Elma nerede? 	banyo	8 3
+10 Sandra ofise gitti.
+11 Mary elmayı oraya aldı.
+12 Sandra salona gitti.
+13 Daniel banyoya gitti.
+14 Sandra topu oraya bıraktı.
+15 Sandra topu oraya aldı.
+16 Sandra banyoya gitti.
+17 Mary koridora gitti.
+18 Top nerede? 	banyo	15 16
+19 Mary elmayı bıraktı.
+20 John salona gitti.
+21 Elma nerede? 	koridor	19 17
+22 Mary elmayı oraya aldı.
+23 Mary elmayı bıraktı.
+24 Elma nerede? 	koridor	23 17
+25 Sandra sütü bıraktı.
+26 Mary oradaki elmayı aldı.
+27 Süt nerede? 	banyo	25 16
+1 Daniel elmayı oraya aldı.
+2 Mary oradaki sütü aldı.
+3 Mary mutfağa geri döndü.
+4 Mary bahçeye gitti.
+5 Süt nerede? 	bahçe	2 4
+6 Sandra salona geri döndü.
+7 Mary ofise gitti.
+8 Süt nerede? 	ofis	2 7
+9 Sandra banyoya geri döndü.
+10 Mary sütü bıraktı.
+11 Süt nerede? 	ofis	10 7
+12 Mary oradaki sütü aldı.
+13 Sandra mutfağa geri döndü.
+14 Sandra banyoya geri döndü.
+15 Daniel banyoya gitti.
+16 Mary banyoya gitti.
+17 Daniel ofise gitti.
+18 Daniel elmayı bıraktı.
+19 Mary sütü bıraktı.
+20 Süt nerede? 	banyo	19 16
+21 John oradaki sütü aldı.
+22 Sandra ofise gitti.
+23 Elma nerede? 	ofis	18 17
+1 Sandra oradaki elmayı aldı.
+2 Daniel salona geri döndü.
+3 Daniel banyoya gitti.
+4 John banyoya gitti.
+5 Mary salona gitti.
+6 Daniel salona gitti.
+7 Sandra salona gitti.
+8 Daniel oradaki sütü aldı.
+9 Daniel sütü bıraktı.
+10 Sandra oradaki sütü aldı.
+11 Sandra elmayı oraya bıraktı.
+12 Mary oradaki elmayı aldı.
+13 Mary banyoya gitti.
+14 Sandra sütü bıraktı.
+15 Süt nerede? 	salon	14 7
+16 Daniel oradaki sütü aldı.
+17 John mutfağa gitti.
+18 Elma nerede? 	banyo	12 13
+19 Mary elmayı bıraktı.
+20 Mary ofise gitti.
+21 Elma nerede? 	banyo	19 13
+22 Mary topu oradan aldı.
+23 Daniel mutfağa geri döndü.
+24 Elma nerede? 	banyo	19 13
+25 Mary salona geri döndü.
+26 John banyoya gitti.
+27 Top nerede? 	bahçe	22 25
+1 John ofise geri döndü.
+2 Daniel bahçeye gitti.
+3 Daniel topu oradan aldı.
+4 John bahçeye gitti.
+5 Mary bahçeye gitti.
+6 Sandra banyoya gitti.
+7 Sandra oradaki sütü aldı.
+8 Daniel ofise gitti.
+9 John ofise gitti.
+10 Daniel oradaki elmayı aldı.
+11 Mary banyoya geri döndü.
+12 Sandra ofise gitti.
+13 Sandra salona geri döndü.
+14 John bahçeye gitti.
+15 Sandra sütü oraya bıraktı.
+16 Daniel topu bıraktı.
+17 Top nerede? 	ofis	16 8
+18 Daniel mutfağa gitti.
+19 Daniel koridora gitti.
+20 Süt nerede? 	salon	15 13
+21 Daniel elmayı bıraktı.
+22 Sandra oradaki sütü aldı.
+23 Elma nerede? 	koridor	21 19
+24 Daniel oradaki elmayı aldı.
+25 Daniel ofise gitti.
+26 Elma nerede? 	ofis	24 25
+27 Daniel topu oraya aldı.
+28 Sandra sütü bıraktı.
+29 Süt nerede? 	salon	28 13
+1 Sandra banyoya geri döndü.
+2 Sandra ofise gitti.
+3 John salona gitti.
+4 Mary banyoya gitti.
+5 Mary salona gitti.
+6 John banyoya gitti.
+7 Mary oradaki sütü aldı.
+8 John salona gitti.
+9 John banyoya geri döndü.
+10 Sandra bahçeye gitti.
+11 Mary sütü bıraktı.
+12 Daniel koridora gitti.
+13 Süt nerede? 	salon	11 5
+14 Sandra mutfağa gitti.
+15 Daniel mutfağa gitti.
+16 Süt nerede? 	salon	11 5
+17 Sandra salona geri döndü.
+18 Mary bahçeye gitti.
+19 Daniel oradaki elmayı aldı.
+20 Mary banyoya gitti.
+21 Mary bahçeye gitti.
+22 Daniel banyoya gitti.
+23 Elma nerede? 	banyo	19 22
+24 Sandra oradaki sütü aldı.
+25 Sandra ofise geri döndü.
+26 Süt nerede? 	ofis	24 25
+27 Daniel ofise gitti.
+28 John mutfağa gitti.
+29 Süt nerede? 	ofis	24 25
+1 John oradaki sütü aldı.
+2 Sandra koridora gitti.
+3 Daniel salona geri döndü.
+4 John sütü bıraktı.
+5 Daniel oradaki elmayı aldı.
+6 Sandra oradaki sütü aldı.
+7 Sandra banyoya gitti.
+8 John banyoya gitti.
+9 Süt nerede? 	banyo	6 7
+10 Sandra salona gitti.
+11 John ofise gitti.
+12 Süt nerede? 	salon	6 10
+13 Mary mutfağa gitti.
+14 Sandra banyoya gitti.
+15 Mary koridora geri döndü.
+16 Sandra sütü bıraktı.
+17 Süt nerede? 	banyo	16 14
+18 Sandra bahçeye gitti.
+19 John bahçeye gitti.
+20 Süt nerede? 	banyo	16 14
+21 Mary salona gitti.
+22 John mutfağa gitti.
+23 Süt nerede? 	banyo	16 14
+1 Daniel bahçeye gitti.
+2 John oradaki sütü aldı.
+3 Mary bahçeye gitti.
+4 Mary banyoya gitti.
+5 Mary salona gitti.
+6 Daniel koridora gitti.
+7 John koridora gitti.
+8 Daniel oradaki topu aldı.
+9 Daniel topu bıraktı.
+10 Mary koridora gitti.
+11 Top nerede? 	koridor	9 6
+12 Mary bahçeye gitti.
+13 Daniel topu oraya aldı.
+14 Daniel banyoya gitti.
+15 Daniel ofise gitti.
+16 Top nerede? 	ofis	13 15
+17 John bahçeye gitti.
+18 John sütü bıraktı.
+19 Top nerede? 	ofis	13 15
+20 John mutfağa gitti.
+21 Mary salona gitti.
+22 Süt nerede? 	bahçe	18 17
+23 Daniel bahçeye gitti.
+24 Mary mutfağa gitti.
+25 Süt nerede? 	bahçe	18 17
+1 John koridora geri döndü.
+2 Daniel salona geri döndü.
+3 John salona gitti.
+4 Daniel mutfağa gitti.
+5 Sandra bahçeye gitti.
+6 Daniel oradaki topu aldı.
+7 Sandra oradaki sütü aldı.
+8 Sandra sütü bıraktı.
+9 Süt nerede? 	bahçe	8 5
+10 Mary ofise gitti.
+11 Sandra oradaki sütü aldı.
+12 Daniel bahçeye gitti.
+13 Sandra sütü bıraktı.
+14 Süt nerede? 	bahçe	13 5
+15 Sandra salona gitti.
+16 Mary mutfağa gitti.
+17 Süt nerede? 	bahçe	13 5
+18 Mary bahçeye gitti.
+19 Daniel banyoya geri döndü.
+20 Süt nerede? 	bahçe	13 5
+21 John koridora gitti.
+22 Mary oradaki sütü aldı.
+23 Sandra mutfağa gitti.
+24 Mary sütü bıraktı.
+25 Süt nerede? 	bahçe	24 18
+1 Sandra salona gitti.
+2 Daniel koridora gitti.
+3 John mutfağa gitti.
+4 John oradaki sütü aldı.
+5 Mary mutfağa gitti.
+6 Daniel banyoya gitti.
+7 Mary bahçeye gitti.
+8 Sandra banyoya gitti.
+9 Daniel oradaki elmayı aldı.
+10 Mary banyoya gitti.
+11 John sütü bıraktı.
+12 Daniel salona gitti.
+13 Elma nerede? 	salon	9 12
+14 John koridora gitti.
+15 John ofise gitti.
+16 Süt nerede? 	mutfak	11 3
+17 John salona gitti.
+18 Mary salona geri döndü.
+19 Daniel elmayı bıraktı.
+20 Mary banyoya gitti.
+21 Elma nerede? 	salon	19 12
+22 Sandra salona gitti.
+23 Daniel oradaki elmayı aldı.
+24 Sandra bahçeye gitti.
+25 Daniel elmayı bıraktı.
+26 Elma nerede? 	salon	25 12
+27 Daniel ofise gitti.
+28 Mary koridora geri döndü.
+29 Elma nerede? 	salon	25 12
+1 John mutfağa gitti.
+2 Daniel ofise gitti.
+3 Sandra mutfağa gitti.
+4 Sandra oradaki sütü aldı.
+5 John salona gitti.
+6 Mary mutfağa geri döndü.
+7 Sandra sütü bıraktı.
+8 Mary oradaki sütü aldı.
+9 John banyoya gitti.
+10 John koridora geri döndü.
+11 Daniel mutfağa geri döndü.
+12 John mutfağa gitti.
+13 Mary koridora geri döndü.
+14 Mary sütü oraya bıraktı.
+15 Süt nerede? 	koridor	14 13
+16 John bahçeye gitti.
+17 Daniel salona gitti.
+18 Süt nerede? 	koridor	14 13
+19 Daniel banyoya gitti.
+20 Mary topu oraya aldı.
+21 Süt nerede? 	koridor	14 13
+22 John banyoya geri döndü.
+23 John salona gitti.
+24 Mary mutfağa geri döndü.
+25 Sandra salona geri döndü.
+26 Top nerede? 	mutfak	20 24
+27 Daniel salona gitti.
+28 John ofise gitti.
+29 Daniel mutfağa geri döndü.
+30 John oradaki elmayı aldı.
+31 John bahçeye gitti.
+32 Mary ofise gitti.
+33 Elma nerede? 	bahçe	30 31
+1 Daniel bahçeye gitti.
+2 Daniel salona geri döndü.
+3 Mary ofise gitti.
+4 Mary salona gitti.
+5 Mary bahçeye gitti.
+6 John koridora gitti.
+7 Daniel mutfağa geri döndü.
+8 Sandra topu oradan aldı.
+9 Daniel salona gitti.
+10 John banyoya gitti.
+11 Daniel koridora gitti.
+12 Sandra topu bıraktı.
+13 Daniel oradaki sütü aldı.
+14 John ofise gitti.
+15 Daniel oradaki elmayı aldı.
+16 Sandra oradaki topu aldı.
+17 Sandra salona gitti.
+18 Daniel mutfağa gitti.
+19 Elma nerede? 	mutfak	15 18
+20 Daniel elmayı bıraktı.
+21 John mutfağa gitti.
+22 Elma nerede? 	mutfak	20 18
+23 John elmayı oraya aldı.
+24 Sandra bahçeye gitti.
+25 John elmayı bıraktı.
+26 Daniel elmayı oraya aldı.
+27 Sandra koridora gitti.
+28 Sandra topu bıraktı.
+29 Top nerede? 	koridor	28 27
+30 Daniel bahçeye gitti.
+31 Sandra oradaki topu aldı.
+32 Elma nerede? 	bahçe	26 30
+33 John salona geri döndü.
+34 Sandra topu bıraktı.
+35 Top nerede? 	koridor	34 27
+1 John topu oraya aldı.
+2 John topu bıraktı.
+3 Daniel banyoya gitti.
+4 Mary salona geri döndü.
+5 Daniel ofise gitti.
+6 Mary koridora gitti.
+7 John banyoya gitti.
+8 John salona gitti.
+9 John oradaki topu aldı.
+10 Sandra ofise gitti.
+11 John oradaki sütü aldı.
+12 John topu bıraktı.
+13 Top nerede? 	salon	12 8
+14 John sütü bıraktı.
+15 Mary salona geri döndü.
+16 Süt nerede? 	salon	14 8
+17 Sandra salona gitti.
+18 John oradaki topu aldı.
+19 Süt nerede? 	salon	14 8
+20 Sandra mutfağa gitti.
+21 Daniel salona geri döndü.
+22 John oradaki sütü aldı.
+23 Sandra bahçeye gitti.
+24 John banyoya gitti.
+25 Mary bahçeye gitti.
+26 Süt nerede? 	banyo	22 24
+27 John mutfağa gitti.
+28 John oradaki elmayı aldı.
+29 John salona gitti.
+30 John koridora gitti.
+31 Elma nerede? 	koridor	28 30
+1 Daniel ofise gitti.
+2 Mary oradaki elmayı aldı.
+3 Mary salona geri döndü.
+4 Mary elmayı bıraktı.
+5 Elma nerede? 	bahçe	4 3
+6 Sandra banyoya gitti.
+7 John koridora gitti.
+8 Elma nerede? 	bahçe	4 3
+9 Mary oradaki sütü aldı.
+10 Sandra salona geri döndü.
+11 Elma nerede? 	bahçe	4 3
+12 Mary oradaki elmayı aldı.
+13 Mary elmayı bıraktı.
+14 Elma nerede? 	bahçe	13 3
+15 Mary banyoya gitti.
+16 Sandra ofise gitti.
+17 Elma nerede? 	bahçe	13 3
+1 Sandra banyoya gitti.
+2 Daniel koridora gitti.
+3 Mary mutfağa gitti.
+4 Daniel oradaki elmayı aldı.
+5 Daniel elmayı oraya bıraktı.
+6 Daniel elmayı oraya aldı.
+7 Daniel bahçeye gitti.
+8 Mary salona geri döndü.
+9 Elma nerede? 	bahçe	6 7
+10 Daniel koridora geri döndü.
+11 Daniel elmayı bıraktı.
+12 Elma nerede? 	koridor	11 10
+13 Mary mutfağa geri döndü.
+14 John bahçeye gitti.
+15 Elma nerede? 	koridor	11 10
+16 Daniel oradaki elmayı aldı.
+17 John oradaki topu aldı.
+18 John topu bıraktı.
+19 John oradaki topu aldı.
+20 Sandra ofise geri döndü.
+21 Daniel mutfağa gitti.
+22 John topu bıraktı.
+23 Mary oradaki sütü aldı.
+24 Top nerede? 	bahçe	22 14
+25 Mary sütü bıraktı.
+26 John topu oraya aldı.
+27 Süt nerede? 	mutfak	25 13
+1 John koridora gitti.
+2 Mary banyoya gitti.
+3 John topu oraya aldı.
+4 Mary salona gitti.
+5 Daniel oradaki elmayı aldı.
+6 Sandra koridora geri döndü.
+7 Mary mutfağa gitti.
+8 Mary koridora gitti.
+9 John salona gitti.
+10 John topu bıraktı.
+11 Top nerede? 	salon	10 9
+12 Daniel banyoya gitti.
+13 John ofise gitti.
+14 Top nerede? 	salon	10 9
+15 John salona geri döndü.
+16 John koridora gitti.
+17 Top nerede? 	salon	10 9
+18 Daniel elmayı bıraktı.
+19 Mary banyoya gitti.
+20 Elma nerede? 	banyo	18 12
+21 Daniel oradaki elmayı aldı.
+22 Daniel bahçeye gitti.
+23 Elma nerede? 	bahçe	21 22
+1 Sandra ofise gitti.
+2 John koridora gitti.
+3 Mary mutfağa gitti.
+4 Sandra salona gitti.
+5 Mary banyoya gitti.
+6 John mutfağa gitti.
+7 Mary oradaki topu aldı.
+8 Mary mutfağa gitti.
+9 Top nerede? 	mutfak	7 8
+10 Daniel oradaki sütü aldı.
+11 Sandra banyoya geri döndü.
+12 Top nerede? 	mutfak	7 8
+13 Daniel mutfağa gitti.
+14 John bahçeye gitti.
+15 Süt nerede? 	mutfak	10 13
+16 Daniel banyoya gitti.
+17 Sandra ofise gitti.
+18 Daniel sütü bıraktı.
+19 Sandra mutfağa gitti.
+20 Süt nerede? 	banyo	18 16
+21 Sandra salona geri döndü.
+22 Sandra koridora gitti.
+23 Süt nerede? 	banyo	18 16
+1 Sandra mutfağa gitti.
+2 Sandra banyoya gitti.
+3 John salona gitti.
+4 John oradaki elmayı aldı.
+5 Daniel bahçeye gitti.
+6 Sandra oradaki topu aldı.
+7 John elmayı bıraktı.
+8 John oradaki elmayı aldı.
+9 John mutfağa gitti.
+10 Sandra topu bıraktı.
+11 Top nerede? 	banyo	10 2
+12 Daniel koridora geri döndü.
+13 Sandra oradaki topu aldı.
+14 Elma nerede? 	mutfak	8 9
+15 Sandra topu bıraktı.
+16 Sandra topu oraya aldı.
+17 John elmayı bıraktı.
+18 Daniel ofise gitti.
+19 Elma nerede? 	mutfak	17 9
+20 Daniel oradaki sütü aldı.
+21 John ofise geri döndü.
+22 Elma nerede? 	mutfak	17 9
+23 Daniel sütü bıraktı.
+24 Sandra topu bıraktı.
+25 Süt nerede? 	ofis	23 18
+1 Mary ofise gitti.
+2 Daniel bahçeye gitti.
+3 Sandra koridora geri döndü.
+4 Mary banyoya gitti.
+5 Mary salona geri döndü.
+6 Mary koridora gitti.
+7 John bahçeye gitti.
+8 Sandra bahçeye gitti.
+9 Daniel ofise gitti.
+10 Daniel salona gitti.
+11 John topu oraya aldı.
+12 Daniel oradaki sütü aldı.
+13 John topu bıraktı.
+14 Sandra mutfağa gitti.
+15 Top nerede? 	bahçe	13 7
+16 John ofise gitti.
+17 Sandra salona gitti.
+18 Top nerede? 	bahçe	13 7
+19 Sandra banyoya gitti.
+20 Mary banyoya gitti.
+21 Daniel bahçeye gitti.
+22 Daniel sütü bıraktı.
+23 Süt nerede? 	bahçe	22 21
+24 Mary koridora gitti.
+25 Daniel salona gitti.
+26 Süt nerede? 	bahçe	22 21
+27 Mary salona geri döndü.
+28 John banyoya gitti.
+29 Süt nerede? 	bahçe	22 21
+1 Sandra koridora gitti.
+2 Mary elmayı oraya aldı.
+3 Mary elmayı bıraktı.
+4 Sandra ofise gitti.
+5 Daniel mutfağa geri döndü.
+6 John oradaki elmayı aldı.
+7 John elmayı oraya bıraktı.
+8 Sandra oradaki sütü aldı.
+9 Sandra sütü oraya bıraktı.
+10 John elmayı oraya aldı.
+11 Süt nerede? 	ofis	9 4
+12 John ofise gitti.
+13 Sandra oradaki sütü aldı.
+14 Elma nerede? 	ofis	10 12
+15 Daniel bahçeye gitti.
+16 Sandra banyoya gitti.
+17 Süt nerede? 	banyo	13 16
+18 Sandra sütü bıraktı.
+19 John elmayı bıraktı.
+20 Süt nerede? 	banyo	18 16
+21 John koridora gitti.
+22 Sandra koridora gitti.
+23 Elma nerede? 	ofis	19 12
+1 Mary mutfağa gitti.
+2 Mary salona gitti.
+3 Sandra ofise gitti.
+4 John koridora geri döndü.
+5 Daniel topu oradan aldı.
+6 Daniel topu bıraktı.
+7 Daniel oradaki topu aldı.
+8 Sandra koridora gitti.
+9 John oradaki elmayı aldı.
+10 Daniel topu bıraktı.
+11 Mary oradaki topu aldı.
+12 Daniel bahçeye gitti.
+13 Mary salona geri döndü.
+14 John oradaki sütü aldı.
+15 Top nerede? 	bahçe	11 13
+16 Daniel mutfağa geri döndü.
+17 John ofise gitti.
+18 Süt nerede? 	ofis	14 17
+19 Sandra salona gitti.
+20 Sandra banyoya geri döndü.
+21 Süt nerede? 	ofis	14 17
+22 Sandra koridora gitti.
+23 Mary topu bıraktı.
+24 Top nerede? 	bahçe	23 13
+25 John salona gitti.
+26 Sandra mutfağa gitti.
+27 Top nerede? 	bahçe	23 13
+1 Sandra ofise geri döndü.
+2 John salona gitti.
+3 Daniel topu oraya aldı.
+4 Mary koridora gitti.
+5 Mary mutfağa gitti.
+6 Daniel topu oraya bıraktı.
+7 Daniel oradaki topu aldı.
+8 Mary koridora gitti.
+9 Sandra banyoya gitti.
+10 John mutfağa geri döndü.
+11 Mary salona gitti.
+12 Daniel koridora gitti.
+13 Sandra mutfağa geri döndü.
+14 Daniel ofise gitti.
+15 Sandra ofise gitti.
+16 Daniel elmayı oraya aldı.
+17 Sandra banyoya gitti.
+18 Daniel oradaki sütü aldı.
+19 Daniel elmayı bıraktı.
+20 John salona gitti.
+21 Elma nerede? 	ofis	19 14
+22 Daniel salona geri döndü.
+23 John banyoya gitti.
+24 Elma nerede? 	ofis	19 14
+25 Sandra ofise gitti.
+26 Sandra banyoya geri döndü.
+27 John koridora gitti.
+28 Daniel topu bıraktı.
+29 Top nerede? 	bahçe	28 22
+30 John banyoya gitti.
+31 Daniel mutfağa gitti.
+32 Top nerede? 	bahçe	28 22
+33 Daniel salona gitti.
+34 Daniel bahçeye gitti.
+35 Top nerede? 	bahçe	28 22
+1 Daniel koridora gitti.
+2 Sandra banyoya gitti.
+3 Mary salona gitti.
+4 Sandra topu oraya aldı.
+5 Daniel salona geri döndü.
+6 Daniel mutfağa gitti.
+7 Daniel oradaki elmayı aldı.
+8 Sandra bahçeye gitti.
+9 Top nerede? 	bahçe	4 8
+10 Sandra mutfağa geri döndü.
+11 Daniel bahçeye gitti.
+12 Elma nerede? 	bahçe	7 11
+13 Sandra banyoya geri döndü.
+14 Sandra topu bıraktı.
+15 Top nerede? 	banyo	14 13
+16 Sandra topu oradan aldı.
+17 Daniel elmayı bıraktı.
+18 Elma nerede? 	bahçe	17 11
+19 John banyoya gitti.
+20 Daniel banyoya gitti.
+21 Elma nerede? 	bahçe	17 11
+1 Daniel ofise gitti.
+2 Sandra ofise geri döndü.
+3 Sandra bahçeye gitti.
+4 Sandra koridora gitti.
+5 John ofise gitti.
+6 Mary koridora geri döndü.
+7 Mary banyoya gitti.
+8 John banyoya gitti.
+9 Daniel oradaki topu aldı.
+10 Daniel topu bıraktı.
+11 Top nerede? 	ofis	10 1
+12 Daniel banyoya gitti.
+13 Sandra oradaki elmayı aldı.
+14 Top nerede? 	ofis	10 1
+15 Mary salona gitti.
+16 Sandra elmayı bıraktı.
+17 Elma nerede? 	koridor	16 4
+18 Sandra ofise geri döndü.
+19 Daniel ofise gitti.
+20 Elma nerede? 	koridor	16 4
+21 Daniel oradaki topu aldı.
+22 John koridora gitti.
+23 Elma nerede? 	koridor	16 4
+1 Mary salona geri döndü.
+2 Mary oradaki sütü aldı.
+3 Sandra koridora gitti.
+4 Mary oradaki topu aldı.
+5 John oradaki elmayı aldı.
+6 Daniel mutfağa geri döndü.
+7 John mutfağa gitti.
+8 Mary sütü bıraktı.
+9 Elma nerede? 	mutfak	5 7
+10 Mary topu bıraktı.
+11 Mary ofise gitti.
+12 Top nerede? 	bahçe	10 1
+13 Daniel koridora gitti.
+14 Mary mutfağa gitti.
+15 Süt nerede? 	bahçe	8 1
+16 John elmayı bıraktı.
+17 John elmayı oraya aldı.
+18 John koridora gitti.
+19 Mary ofise gitti.
+20 Elma nerede? 	koridor	17 18
+21 John elmayı bıraktı.
+22 John oradaki elmayı aldı.
+23 Daniel banyoya gitti.
+24 John elmayı bıraktı.
+25 Elma nerede? 	koridor	24 18
+1 Daniel mutfağa gitti.
+2 Sandra banyoya geri döndü.
+3 Sandra ofise gitti.
+4 Daniel ofise gitti.
+5 Mary banyoya gitti.
+6 Daniel salona gitti.
+7 Daniel elmayı oraya aldı.
+8 John bahçeye gitti.
+9 Mary oradaki topu aldı.
+10 Mary topu bıraktı.
+11 Top nerede? 	banyo	10 5
+12 Sandra banyoya geri döndü.
+13 Daniel mutfağa gitti.
+14 Top nerede? 	banyo	10 5
+15 John banyoya geri döndü.
+16 John oradaki sütü aldı.
+17 Top nerede? 	banyo	10 5
+18 Sandra ofise geri döndü.
+19 John sütü bıraktı.
+20 Süt nerede? 	banyo	19 15
+21 Daniel ofise gitti.
+22 Mary ofise gitti.
+23 Süt nerede? 	banyo	19 15
+1 Daniel banyoya gitti.
+2 Mary oradaki sütü aldı.
+3 Sandra bahçeye gitti.
+4 John bahçeye gitti.
+5 John topu oradan aldı.
+6 John topu oraya bıraktı.
+7 Top nerede? 	bahçe	6 4
+8 Sandra ofise gitti.
+9 Sandra koridora gitti.
+10 Top nerede? 	bahçe	6 4
+11 Sandra mutfağa gitti.
+12 John ofise gitti.
+13 Top nerede? 	bahçe	6 4
+14 Mary salona geri döndü.
+15 Mary ofise gitti.
+16 John koridora geri döndü.
+17 Daniel salona gitti.
+18 Sandra koridora gitti.
+19 Daniel banyoya gitti.
+20 Daniel ofise gitti.
+21 Daniel banyoya gitti.
+22 Daniel mutfağa geri döndü.
+23 Daniel koridora geri döndü.
+24 Mary sütü bıraktı.
+25 Mary oradaki sütü aldı.
+26 Mary banyoya gitti.
+27 Sandra bahçeye gitti.
+28 Süt nerede? 	banyo	25 26
+29 Daniel salona gitti.
+30 John mutfağa gitti.
+31 Süt nerede? 	banyo	25 26
+1 John bahçeye gitti.
+2 John salona gitti.
+3 John oradaki sütü aldı.
+4 Daniel bahçeye gitti.
+5 Sandra koridora gitti.
+6 John topu oradan aldı.
+7 John topu bıraktı.
+8 John sütü bıraktı.
+9 Süt nerede? 	salon	8 2
+10 Sandra oradaki elmayı aldı.
+11 Mary koridora gitti.
+12 Top nerede? 	salon	7 2
+13 Sandra salona gitti.
+14 Sandra oradaki topu aldı.
+15 Süt nerede? 	salon	8 2
+16 Mary salona gitti.
+17 Sandra banyoya gitti.
+18 Top nerede? 	banyo	14 17
+19 Sandra ofise gitti.
+20 John ofise gitti.
+21 Top nerede? 	ofis	14 19
+1 Sandra bahçeye gitti.
+2 Sandra salona gitti.
+3 John ofise gitti.
+4 Mary ofise gitti.
+5 Mary oradaki sütü aldı.
+6 Mary oradaki elmayı aldı.
+7 John salona geri döndü.
+8 Daniel topu oraya aldı.
+9 Mary mutfağa geri döndü.
+10 Daniel topu oraya bıraktı.
+11 Elma nerede? 	mutfak	6 9
+12 John oradaki topu aldı.
+13 Mary ofise gitti.
+14 Mary salona gitti.
+15 John topu bıraktı.
+16 Top nerede? 	bahçe	15 7
+17 Daniel ofise gitti.
+18 John oradaki topu aldı.
+19 Mary ofise gitti.
+20 John topu oraya bıraktı.
+21 Top nerede? 	bahçe	20 7
+22 Sandra koridora gitti.
+23 John topu oradan aldı.
+24 Daniel salona geri döndü.
+25 John banyoya geri döndü.
+26 Top nerede? 	banyo	23 25
+27 John topu bıraktı.
+28 Sandra ofise gitti.
+29 Top nerede? 	banyo	27 25
+1 John mutfağa gitti.
+2 Mary oradaki elmayı aldı.
+3 Mary salona geri döndü.
+4 Daniel ofise gitti.
+5 Elma nerede? 	salon	2 3
+6 Daniel oradaki sütü aldı.
+7 John banyoya gitti.
+8 Elma nerede? 	salon	2 3
+9 Mary elmayı bıraktı.
+10 Sandra mutfağa gitti.
+11 Elma nerede? 	salon	9 3
+12 John ofise gitti.
+13 Daniel sütü bıraktı.
+14 Süt nerede? 	ofis	13 4
+15 Mary topu oradan aldı.
+16 Daniel banyoya gitti.
+17 Süt nerede? 	ofis	13 4
+1 Mary salona gitti.
+2 Daniel ofise gitti.
+3 Sandra oradaki elmayı aldı.
+4 Sandra banyoya gitti.
+5 Elma nerede? 	banyo	3 4
+6 Sandra elmayı bıraktı.
+7 Mary topu oradan aldı.
+8 Elma nerede? 	banyo	6 4
+9 Sandra salona gitti.
+10 Mary mutfağa gitti.
+11 Top nerede? 	mutfak	7 10
+12 Daniel banyoya gitti.
+13 Daniel koridora gitti.
+14 Top nerede? 	mutfak	7 10
+15 Sandra banyoya gitti.
+16 Mary salona gitti.
+17 John elmayı oraya aldı.
+18 Daniel ofise gitti.
+19 Mary banyoya gitti.
+20 Mary salona geri döndü.
+21 Sandra koridora gitti.
+22 Mary bahçeye gitti.
+23 John salona gitti.
+24 Sandra ofise gitti.
+25 Mary topu bıraktı.
+26 Mary mutfağa gitti.
+27 Top nerede? 	bahçe	25 22
+1 Mary koridora gitti.
+2 Daniel oradaki sütü aldı.
+3 Sandra elmayı oraya aldı.
+4 Daniel banyoya gitti.
+5 Süt nerede? 	banyo	2 4
+6 Sandra elmayı bıraktı.
+7 Daniel sütü oraya bıraktı.
+8 Süt nerede? 	banyo	7 4
+9 Daniel oradaki sütü aldı.
+10 Daniel sütü bıraktı.
+11 Süt nerede? 	banyo	10 4
+12 Daniel mutfağa geri döndü.
+13 Daniel salona gitti.
+14 Süt nerede? 	banyo	10 4
+15 Mary banyoya gitti.
+16 Mary oradaki sütü aldı.
+17 Sandra koridora gitti.
+18 John oradaki elmayı aldı.
+19 Daniel ofise geri döndü.
+20 Daniel salona gitti.
+21 John ofise geri döndü.
+22 Daniel ofise gitti.
+23 Elma nerede? 	ofis	18 21
+1 Mary topu oradan aldı.
+2 Sandra bahçeye gitti.
+3 Mary topu bıraktı.
+4 Daniel oradaki topu aldı.
+5 Daniel salona gitti.
+6 Mary banyoya gitti.
+7 Top nerede? 	salon	4 5
+8 John banyoya gitti.
+9 Daniel topu bıraktı.
+10 Top nerede? 	salon	9 5
+11 Daniel mutfağa gitti.
+12 John ofise gitti.
+13 Top nerede? 	salon	9 5
+14 Mary ofise gitti.
+15 Sandra ofise gitti.
+16 Top nerede? 	salon	9 5
+17 John bahçeye gitti.
+18 Mary mutfağa gitti.
+19 Sandra bahçeye gitti.
+20 Mary salona gitti.
+21 Mary oradaki topu aldı.
+22 Mary topu bıraktı.
+23 Top nerede? 	salon	22 20
+1 Sandra bahçeye gitti.
+2 Sandra oradaki elmayı aldı.
+3 John ofise gitti.
+4 Daniel koridora gitti.
+5 Mary topu oraya aldı.
+6 Mary topu bıraktı.
+7 Mary topu oradan aldı.
+8 John oradaki sütü aldı.
+9 Mary topu oraya bıraktı.
+10 Daniel salona gitti.
+11 John bahçeye gitti.
+12 Daniel koridora gitti.
+13 Süt nerede? 	bahçe	8 11
+14 Mary oradaki topu aldı.
+15 Sandra elmayı bıraktı.
+16 Elma nerede? 	bahçe	15 1
+17 Mary topu oraya bıraktı.
+18 Mary topu oraya aldı.
+19 Elma nerede? 	bahçe	15 1
+20 Daniel mutfağa gitti.
+21 John oradaki elmayı aldı.
+22 Mary topu bıraktı.
+23 Sandra banyoya gitti.
+24 Mary oradaki topu aldı.
+25 Sandra salona gitti.
+26 Mary topu bıraktı.
+27 John ofise geri döndü.
+28 Sandra koridora gitti.
+29 John bahçeye gitti.
+30 John elmayı bıraktı.
+31 Mary oradaki topu aldı.
+32 Elma nerede? 	bahçe	30 29
+33 John oradaki elmayı aldı.
+34 John sütü oraya bıraktı.
+35 Süt nerede? 	bahçe	34 29
+1 John oradaki elmayı aldı.
+2 John elmayı bıraktı.
+3 Daniel banyoya geri döndü.
+4 John elmayı oraya aldı.
+5 Mary mutfağa gitti.
+6 Sandra salona geri döndü.
+7 John elmayı bıraktı.
+8 John oradaki elmayı aldı.
+9 John elmayı bıraktı.
+10 Daniel ofise gitti.
+11 Sandra koridora gitti.
+12 John oradaki elmayı aldı.
+13 Sandra banyoya gitti.
+14 Daniel oradaki sütü aldı.
+15 John elmayı bıraktı.
+16 John mutfağa gitti.
+17 Daniel sütü oraya bıraktı.
+18 Daniel banyoya geri döndü.
+19 Süt nerede? 	ofis	17 10
+20 Sandra bahçeye gitti.
+21 Mary oradaki topu aldı.
+22 Süt nerede? 	ofis	17 10
+23 Mary topu bıraktı.
+24 John banyoya gitti.
+25 Top nerede? 	mutfak	23 5
+26 Daniel ofise gitti.
+27 Daniel banyoya gitti.
+28 Top nerede? 	mutfak	23 5
+29 John bahçeye gitti.
+30 Mary ofise geri döndü.
+31 Daniel ofise gitti.
+32 Daniel oradaki sütü aldı.
+33 Daniel sütü bıraktı.
+34 John salona gitti.
+35 Süt nerede? 	ofis	33 31
+1 Daniel topu oradan aldı.
+2 John ofise gitti.
+3 Mary bahçeye gitti.
+4 Mary oradaki elmayı aldı.
+5 John koridora gitti.
+6 Mary elmayı bıraktı.
+7 Elma nerede? 	bahçe	6 3
+8 Daniel topu bıraktı.
+9 Mary salona gitti.
+10 Elma nerede? 	bahçe	6 3
+11 Daniel topu oradan aldı.
+12 Daniel salona gitti.
+13 Top nerede? 	salon	11 12
+14 Sandra koridora gitti.
+15 Daniel koridora gitti.
+16 Top nerede? 	koridor	11 15
+17 Daniel ofise gitti.
+18 Daniel topu oraya bıraktı.
+19 Top nerede? 	ofis	18 17
+1 Sandra mutfağa gitti.
+2 Daniel koridora gitti.
+3 Mary mutfağa gitti.
+4 Mary salona gitti.
+5 Daniel salona gitti.
+6 Sandra salona gitti.
+7 Daniel mutfağa gitti.
+8 Daniel ofise gitti.
+9 John ofise gitti.
+10 John bahçeye gitti.
+11 Daniel oradaki sütü aldı.
+12 John mutfağa gitti.
+13 John bahçeye gitti.
+14 Daniel topu oraya aldı.
+15 Mary mutfağa geri döndü.
+16 Mary ofise geri döndü.
+17 Daniel topu bıraktı.
+18 Mary oradaki elmayı aldı.
+19 Top nerede? 	ofis	17 8
+20 John salona gitti.
+21 John koridora gitti.
+22 Top nerede? 	ofis	17 8
+23 Mary topu oradan aldı.
+24 Sandra bahçeye gitti.
+25 Daniel sütü bıraktı.
+26 Mary mutfağa gitti.
+27 Top nerede? 	mutfak	23 26
+28 Sandra mutfağa geri döndü.
+29 Mary elmayı bıraktı.
+30 Elma nerede? 	mutfak	29 26
+31 Sandra elmayı oraya aldı.
+32 Mary topu bıraktı.
+33 Top nerede? 	mutfak	32 26
+1 Mary oradaki elmayı aldı.
+2 Mary elmayı bıraktı.
+3 Sandra topu oradan aldı.
+4 Sandra oradaki sütü aldı.
+5 John bahçeye gitti.
+6 Mary oradaki elmayı aldı.
+7 John banyoya gitti.
+8 Sandra salona gitti.
+9 Süt nerede? 	salon	4 8
+10 Mary elmayı oraya bıraktı.
+11 Sandra mutfağa geri döndü.
+12 Mary bahçeye gitti.
+13 Mary salona gitti.
+14 John ofise gitti.
+15 Sandra oradaki elmayı aldı.
+16 Sandra banyoya geri döndü.
+17 John mutfağa gitti.
+18 Elma nerede? 	banyo	15 16
+19 Mary mutfağa gitti.
+20 Sandra topu bıraktı.
+21 Top nerede? 	banyo	20 16
+22 Sandra sütü bıraktı.
+23 Sandra elmayı bıraktı.
+24 Süt nerede? 	banyo	22 16
+25 Sandra oradaki sütü aldı.
+26 Sandra sütü bıraktı.
+27 Top nerede? 	banyo	20 16
+1 John oradaki elmayı aldı.
+2 Sandra banyoya gitti.
+3 Mary oradaki sütü aldı.
+4 Sandra mutfağa gitti.
+5 Mary koridora gitti.
+6 Mary banyoya gitti.
+7 Süt nerede? 	banyo	3 6
+8 Sandra salona gitti.
+9 John topu oradan aldı.
+10 John elmayı bıraktı.
+11 Sandra mutfağa geri döndü.
+12 Sandra ofise gitti.
+13 John banyoya gitti.
+14 Top nerede? 	banyo	9 13
+15 John topu bıraktı.
+16 Mary sütü bıraktı.
+17 Süt nerede? 	banyo	16 6
+18 John oradaki topu aldı.
+19 Daniel ofise gitti.
+20 Süt nerede? 	banyo	16 6
+21 Mary oradaki sütü aldı.
+22 Mary sütü bıraktı.
+23 Süt nerede? 	banyo	22 6
+1 Sandra koridora gitti.
+2 Daniel banyoya gitti.
+3 Daniel salona geri döndü.
+4 Sandra mutfağa gitti.
+5 John mutfağa gitti.
+6 Sandra elmayı oraya aldı.
+7 Sandra koridora gitti.
+8 Sandra bahçeye gitti.
+9 Elma nerede? 	bahçe	6 8
+10 John oradaki topu aldı.
+11 Mary koridora gitti.
+12 Elma nerede? 	bahçe	6 8
+13 Mary mutfağa gitti.
+14 John salona gitti.
+15 Top nerede? 	salon	10 14
+16 Mary bahçeye gitti.
+17 Daniel banyoya gitti.
+18 Mary salona gitti.
+19 John koridora gitti.
+20 John banyoya geri döndü.
+21 Sandra koridora gitti.
+22 Sandra oradaki sütü aldı.
+23 Daniel mutfağa gitti.
+24 Sandra bahçeye gitti.
+25 John topu bıraktı.
+26 Top nerede? 	banyo	25 20
+27 John oradaki topu aldı.
+28 Sandra koridora gitti.
+29 John topu bıraktı.
+30 John oradaki topu aldı.
+31 Daniel banyoya gitti.
+32 Sandra salona gitti.
+33 Sandra mutfağa gitti.
+34 John topu bıraktı.
+35 Top nerede? 	banyo	34 20
+1 Daniel topu oradan aldı.
+2 Mary oradaki sütü aldı.
+3 Mary sütü bıraktı.
+4 Mary oradaki sütü aldı.
+5 Mary koridora gitti.
+6 Sandra banyoya gitti.
+7 Süt nerede? 	koridor	4 5
+8 John elmayı oraya aldı.
+9 Sandra koridora geri döndü.
+10 Süt nerede? 	koridor	4 5
+11 Daniel mutfağa gitti.
+12 Mary sütü bıraktı.
+13 Süt nerede? 	koridor	12 5
+14 Mary oradaki sütü aldı.
+15 Sandra bahçeye gitti.
+16 John elmayı bıraktı.
+17 Daniel topu oraya bıraktı.
+18 Top nerede? 	mutfak	17 11
+19 Mary sütü bıraktı.
+20 Mary bahçeye gitti.
+21 Süt nerede? 	koridor	19 5
+1 Daniel oradaki topu aldı.
+2 Mary bahçeye gitti.
+3 Mary salona gitti.
+4 Daniel ofise gitti.
+5 Top nerede? 	ofis	1 4
+6 Daniel koridora gitti.
+7 Daniel topu bıraktı.
+8 Top nerede? 	koridor	7 6
+9 Mary banyoya gitti.
+10 Daniel oradaki topu aldı.
+11 Sandra koridora geri döndü.
+12 Daniel oradaki sütü aldı.
+13 Mary mutfağa gitti.
+14 Daniel bahçeye gitti.
+15 Top nerede? 	bahçe	10 14
+16 Mary koridora gitti.
+17 Daniel topu bıraktı.
+18 Top nerede? 	bahçe	17 14
+19 John salona geri döndü.
+20 Daniel salona gitti.
+21 Top nerede? 	bahçe	17 14
+1 John mutfağa geri döndü.
+2 Mary koridora gitti.
+3 Daniel oradaki elmayı aldı.
+4 Sandra mutfağa gitti.
+5 Daniel elmayı bıraktı.
+6 Mary ofise gitti.
+7 Sandra bahçeye gitti.
+8 Daniel bahçeye gitti.
+9 Sandra salona gitti.
+10 Daniel banyoya gitti.
+11 John oradaki elmayı aldı.
+12 Sandra salona geri döndü.
+13 John elmayı bıraktı.
+14 Mary bahçeye gitti.
+15 Elma nerede? 	mutfak	13 1
+16 John banyoya gitti.
+17 John koridora gitti.
+18 Elma nerede? 	mutfak	13 1
+19 Sandra mutfağa gitti.
+20 John banyoya gitti.
+21 Sandra banyoya gitti.
+22 Mary banyoya geri döndü.
+23 Mary salona geri döndü.
+24 Daniel mutfağa geri döndü.
+25 John mutfağa geri döndü.
+26 Sandra mutfağa gitti.
+27 John oradaki elmayı aldı.
+28 Sandra ofise gitti.
+29 Sandra salona gitti.
+30 Daniel salona gitti.
+31 Daniel oradaki sütü aldı.
+32 Sandra topu oradan aldı.
+33 Mary ofise gitti.
+34 Sandra topu bıraktı.
+35 Top nerede? 	salon	34 29
+36 Mary salona geri döndü.
+37 Sandra mutfağa geri döndü.
+38 Top nerede? 	salon	34 29
+39 John elmayı bıraktı.
+40 John salona gitti.
+41 Top nerede? 	salon	34 29
+1 Sandra bahçeye gitti.
+2 Mary topu oraya aldı.
+3 Sandra oradaki elmayı aldı.
+4 Daniel ofise gitti.
+5 Mary topu bıraktı.
+6 Sandra mutfağa gitti.
+7 Elma nerede? 	mutfak	3 6
+8 Daniel oradaki sütü aldı.
+9 Mary bahçeye gitti.
+10 Sandra bahçeye gitti.
+11 Daniel sütü bıraktı.
+12 Süt nerede? 	ofis	11 4
+13 Daniel banyoya gitti.
+14 Sandra mutfağa geri döndü.
+15 Süt nerede? 	ofis	11 4
+16 Sandra elmayı oraya bıraktı.
+17 John ofise gitti.
+18 Elma nerede? 	mutfak	16 14
+19 Sandra oradaki elmayı aldı.
+20 Mary banyoya gitti.
+21 Sandra banyoya geri döndü.
+22 Mary ofise gitti.
+23 Elma nerede? 	banyo	19 21
+1 Sandra oradaki sütü aldı.
+2 Sandra mutfağa gitti.
+3 Süt nerede? 	mutfak	1 2
+4 Daniel banyoya gitti.
+5 Daniel oradaki elmayı aldı.
+6 Süt nerede? 	mutfak	1 2
+7 Daniel elmayı bıraktı.
+8 John koridora gitti.
+9 Elma nerede? 	banyo	7 4
+10 John banyoya gitti.
+11 Sandra sütü bıraktı.
+12 Elma nerede? 	banyo	7 4
+13 Mary mutfağa gitti.
+14 Sandra oradaki sütü aldı.
+15 John ofise gitti.
+16 Daniel oradaki elmayı aldı.
+17 Sandra sütü bıraktı.
+18 Daniel salona geri döndü.
+19 Süt nerede? 	mutfak	17 2
+1 Daniel koridora gitti.
+2 Mary mutfağa gitti.
+3 John salona gitti.
+4 Daniel salona geri döndü.
+5 Mary banyoya gitti.
+6 Sandra banyoya gitti.
+7 Sandra ofise geri döndü.
+8 John topu oraya aldı.
+9 John mutfağa gitti.
+10 John bahçeye gitti.
+11 Top nerede? 	bahçe	8 10
+12 Mary koridora gitti.
+13 John topu bıraktı.
+14 Top nerede? 	bahçe	13 10
+15 Mary salona geri döndü.
+16 Sandra salona geri döndü.
+17 Top nerede? 	bahçe	13 10
+18 Daniel mutfağa geri döndü.
+19 John banyoya gitti.
+20 Top nerede? 	bahçe	13 10
+21 Daniel banyoya gitti.
+22 Daniel ofise geri döndü.
+23 John salona geri döndü.
+24 John bahçeye gitti.
+25 John oradaki topu aldı.
+26 Sandra koridora gitti.
+27 Mary mutfağa gitti.
+28 John topu bıraktı.
+29 Top nerede? 	bahçe	28 24
+1 John bahçeye gitti.
+2 Mary salona gitti.
+3 Daniel salona gitti.
+4 Mary banyoya gitti.
+5 Daniel koridora geri döndü.
+6 Daniel oradaki topu aldı.
+7 Daniel banyoya gitti.
+8 Daniel mutfağa gitti.
+9 Top nerede? 	mutfak	6 8
+10 Daniel ofise gitti.
+11 Daniel oradaki sütü aldı.
+12 Top nerede? 	ofis	6 10
+13 John koridora gitti.
+14 Mary elmayı oraya aldı.
+15 Daniel sütü bıraktı.
+16 Daniel oradaki sütü aldı.
+17 Mary elmayı bıraktı.
+18 John ofise gitti.
+19 Elma nerede? 	banyo	17 4
+20 Mary elmayı oraya aldı.
+21 Daniel topu bıraktı.
+22 Top nerede? 	ofis	21 10
+23 Mary bahçeye gitti.
+24 Mary ofise gitti.
+25 Elma nerede? 	ofis	20 24
+1 John ofise gitti.
+2 Sandra koridora gitti.
+3 John banyoya geri döndü.
+4 Daniel koridora geri döndü.
+5 Daniel mutfağa gitti.
+6 Mary banyoya gitti.
+7 John ofise gitti.
+8 Sandra bahçeye gitti.
+9 Sandra oradaki sütü aldı.
+10 John koridora gitti.
+11 Mary oradaki elmayı aldı.
+12 Mary elmayı bıraktı.
+13 Elma nerede? 	banyo	12 6
+14 Sandra sütü bıraktı.
+15 Daniel bahçeye gitti.
+16 Süt nerede? 	bahçe	14 8
+17 Daniel oradaki sütü aldı.
+18 Mary koridora geri döndü.
+19 Elma nerede? 	banyo	12 6
+20 Mary salona geri döndü.
+21 Sandra salona gitti.
+22 John banyoya gitti.
+23 John elmayı oraya aldı.
+24 Daniel salona gitti.
+25 Mary oradaki topu aldı.
+26 Mary bahçeye gitti.
+27 John mutfağa gitti.
+28 Top nerede? 	bahçe	25 26
+29 Sandra ofise gitti.
+30 Mary mutfağa gitti.
+31 Top nerede? 	mutfak	25 30
+1 John koridora gitti.
+2 Sandra ofise gitti.
+3 Daniel banyoya gitti.
+4 John mutfağa gitti.
+5 Sandra oradaki elmayı aldı.
+6 Sandra topu oraya aldı.
+7 Sandra topu bıraktı.
+8 Sandra koridora gitti.
+9 Top nerede? 	ofis	7 2
+10 John salona geri döndü.
+11 Sandra elmayı bıraktı.
+12 Top nerede? 	ofis	7 2
+13 Sandra elmayı oraya aldı.
+14 John oradaki sütü aldı.
+15 Sandra banyoya gitti.
+16 Sandra koridora geri döndü.
+17 Elma nerede? 	koridor	13 16
+18 John banyoya gitti.
+19 John sütü bıraktı.
+20 Süt nerede? 	banyo	19 18
+21 Sandra elmayı oraya bıraktı.
+22 Sandra elmayı oraya aldı.
+23 Süt nerede? 	banyo	19 18
+1 Sandra oradaki topu aldı.
+2 Sandra salona gitti.
+3 Top nerede? 	salon	1 2
+4 John bahçeye gitti.
+5 Mary banyoya geri döndü.
+6 Top nerede? 	salon	1 2
+7 Mary mutfağa geri döndü.
+8 John banyoya gitti.
+9 Mary bahçeye gitti.
+10 Daniel mutfağa gitti.
+11 Sandra elmayı oraya aldı.
+12 Sandra banyoya gitti.
+13 Elma nerede? 	banyo	11 12
+14 John koridora gitti.
+15 Daniel bahçeye gitti.
+16 Elma nerede? 	banyo	11 12
+17 Sandra ofise gitti.
+18 Daniel salona geri döndü.
+19 Sandra oradaki sütü aldı.
+20 Sandra sütü bıraktı.
+21 Süt nerede? 	ofis	20 17
+1 Daniel oradaki elmayı aldı.
+2 Sandra koridora gitti.
+3 Mary oradaki topu aldı.
+4 Daniel koridora gitti.
+5 Elma nerede? 	koridor	1 4
+6 Mary ofise gitti.
+7 Sandra ofise geri döndü.
+8 Top nerede? 	ofis	3 6
+9 Mary koridora gitti.
+10 John bahçeye gitti.
+11 Mary topu bıraktı.
+12 Daniel topu oradan aldı.
+13 John mutfağa gitti.
+14 Daniel topu bıraktı.
+15 Top nerede? 	koridor	14 4
+16 Mary salona gitti.
+17 Sandra mutfağa gitti.
+18 Top nerede? 	koridor	14 4
+19 Mary oradaki sütü aldı.
+20 Sandra banyoya gitti.
+21 Top nerede? 	koridor	14 4
+1 John salona gitti.
+2 Mary oradaki elmayı aldı.
+3 Sandra salona gitti.
+4 Mary ofise gitti.
+5 Elma nerede? 	ofis	2 4
+6 John koridora geri döndü.
+7 Sandra koridora gitti.
+8 Elma nerede? 	ofis	2 4
+9 John mutfağa gitti.
+10 Sandra mutfağa gitti.
+11 Sandra oradaki sütü aldı.
+12 Mary salona gitti.
+13 Mary mutfağa gitti.
+14 Mary elmayı bıraktı.
+15 Elma nerede? 	mutfak	14 13
+16 Sandra sütü bıraktı.
+17 John banyoya geri döndü.
+18 Süt nerede? 	mutfak	16 10
+19 John salona gitti.
+20 Mary oradaki elmayı aldı.
+21 Süt nerede? 	mutfak	16 10
+1 John banyoya gitti.
+2 John mutfağa gitti.
+3 Mary koridora gitti.
+4 John oradaki topu aldı.
+5 Sandra banyoya gitti.
+6 Sandra salona gitti.
+7 John salona gitti.
+8 Sandra ofise gitti.
+9 Top nerede? 	salon	4 7
+10 John mutfağa geri döndü.
+11 Mary bahçeye gitti.
+12 John banyoya gitti.
+13 John koridora gitti.
+14 Mary oradaki elmayı aldı.
+15 Mary elmayı bıraktı.
+16 Elma nerede? 	bahçe	15 11
+17 Mary oradaki elmayı aldı.
+18 Daniel koridora gitti.
+19 Mary ofise geri döndü.
+20 John topu bıraktı.
+21 Elma nerede? 	ofis	17 19
+22 Mary elmayı bıraktı.
+23 Sandra bahçeye gitti.
+24 Elma nerede? 	ofis	22 19
+25 Daniel salona gitti.
+26 John oradaki topu aldı.
+27 Elma nerede? 	ofis	22 19
+1 Daniel oradaki topu aldı.
+2 Sandra salona gitti.
+3 Mary mutfağa geri döndü.
+4 Sandra banyoya gitti.
+5 Mary salona geri döndü.
+6 Daniel topu bıraktı.
+7 Mary koridora gitti.
+8 Sandra koridora gitti.
+9 Daniel oradaki topu aldı.
+10 Mary salona gitti.
+11 Daniel banyoya geri döndü.
+12 Sandra mutfağa gitti.
+13 Top nerede? 	banyo	9 11
+14 Daniel koridora gitti.
+15 Daniel topu bıraktı.
+16 Top nerede? 	koridor	15 14
+17 Daniel topu oradan aldı.
+18 John koridora geri döndü.
+19 Daniel topu bıraktı.
+20 Mary banyoya gitti.
+21 Top nerede? 	koridor	19 14
+22 John ofise gitti.
+23 Sandra ofise gitti.
+24 Top nerede? 	koridor	19 14
+25 Daniel bahçeye gitti.
+26 Sandra oradaki elmayı aldı.
+27 Daniel oradaki sütü aldı.
+28 Daniel mutfağa gitti.
+29 Süt nerede? 	mutfak	27 28
+1 Sandra mutfağa geri döndü.
+2 Daniel mutfağa gitti.
+3 Sandra banyoya gitti.
+4 Mary ofise gitti.
+5 Sandra ofise gitti.
+6 Mary banyoya gitti.
+7 Sandra mutfağa geri döndü.
+8 Sandra ofise gitti.
+9 Daniel ofise gitti.
+10 Daniel mutfağa gitti.
+11 Mary salona geri döndü.
+12 Sandra mutfağa gitti.
+13 John salona gitti.
+14 Mary koridora gitti.
+15 Mary bahçeye gitti.
+16 Mary oradaki elmayı aldı.
+17 Mary elmayı bıraktı.
+18 John bahçeye gitti.
+19 Elma nerede? 	bahçe	17 15
+20 Mary koridora geri döndü.
+21 John koridora gitti.
+22 Elma nerede? 	bahçe	17 15
+23 John banyoya gitti.
+24 Mary salona gitti.
+25 John oradaki sütü aldı.
+26 Mary banyoya gitti.
+27 John ofise gitti.
+28 Sandra salona gitti.
+29 Süt nerede? 	ofis	25 27
+30 Sandra koridora gitti.
+31 John salona geri döndü.
+32 John sütü bıraktı.
+33 Mary ofise gitti.
+34 Süt nerede? 	bahçe	32 31
+35 Mary salona gitti.
+36 John oradaki sütü aldı.
+37 Sandra mutfağa geri döndü.
+38 Sandra banyoya gitti.
+39 Daniel ofise gitti.
+40 Daniel koridora gitti.
+41 John oradaki elmayı aldı.
+42 John elmayı bıraktı.
+43 Elma nerede? 	bahçe	42 31
+1 Mary oradaki topu aldı.
+2 Mary topu bıraktı.
+3 John bahçeye gitti.
+4 John banyoya gitti.
+5 Daniel banyoya geri döndü.
+6 Mary oradaki topu aldı.
+7 Mary ofise gitti.
+8 Daniel oradaki elmayı aldı.
+9 Top nerede? 	ofis	6 7
+10 John salona geri döndü.
+11 Sandra koridora gitti.
+12 Top nerede? 	ofis	6 7
+13 Mary banyoya gitti.
+14 Daniel salona gitti.
+15 Elma nerede? 	salon	8 14
+16 Mary ofise gitti.
+17 Daniel elmayı oraya bıraktı.
+18 Elma nerede? 	salon	17 14
+19 Sandra bahçeye gitti.
+20 Mary bahçeye gitti.
+21 Elma nerede? 	salon	17 14
+1 Daniel oradaki sütü aldı.
+2 Daniel sütü bıraktı.
+3 John salona geri döndü.
+4 Daniel mutfağa gitti.
+5 Mary koridora gitti.
+6 Daniel oradaki elmayı aldı.
+7 Sandra ofise gitti.
+8 Sandra oradaki sütü aldı.
+9 Sandra sütü bıraktı.
+10 John salona geri döndü.
+11 Süt nerede? 	ofis	9 7
+12 Daniel elmayı bıraktı.
+13 Daniel oradaki elmayı aldı.
+14 Süt nerede? 	ofis	9 7
+15 Mary banyoya gitti.
+16 John oradaki topu aldı.
+17 Mary ofise gitti.
+18 Daniel elmayı bıraktı.
+19 Elma nerede? 	mutfak	18 4
+20 Sandra mutfağa gitti.
+21 Daniel banyoya gitti.
+22 Elma nerede? 	mutfak	18 4
+23 John mutfağa gitti.
+24 John banyoya gitti.
+25 Elma nerede? 	mutfak	18 4
+1 John oradaki topu aldı.
+2 John topu bıraktı.
+3 John topu oraya aldı.
+4 Mary mutfağa geri döndü.
+5 Sandra bahçeye gitti.
+6 John koridora gitti.
+7 Top nerede? 	koridor	3 6
+8 John oradaki elmayı aldı.
+9 John oradaki sütü aldı.
+10 Mary ofise gitti.
+11 Sandra mutfağa gitti.
+12 John bahçeye gitti.
+13 John sütü oraya bıraktı.
+14 Süt nerede? 	bahçe	13 12
+15 John salona gitti.
+16 John topu bıraktı.
+17 Top nerede? 	salon	16 15
+18 John ofise gitti.
+19 Daniel banyoya gitti.
+20 Top nerede? 	salon	16 15
+21 Sandra banyoya geri döndü.
+22 Sandra salona gitti.
+23 Top nerede? 	salon	16 15
+1 Daniel salona gitti.
+2 Sandra salona gitti.
+3 Daniel bahçeye gitti.
+4 Mary koridora gitti.
+5 John salona gitti.
+6 Mary mutfağa gitti.
+7 Daniel oradaki sütü aldı.
+8 Daniel sütü bıraktı.
+9 Süt nerede? 	bahçe	8 3
+10 Daniel salona gitti.
+11 Daniel bahçeye gitti.
+12 Süt nerede? 	bahçe	8 3
+13 Daniel salona geri döndü.
+14 John koridora gitti.
+15 Süt nerede? 	bahçe	8 3
+16 John oradaki topu aldı.
+17 John mutfağa geri döndü.
+18 Top nerede? 	mutfak	16 17
+19 John banyoya gitti.
+20 Mary salona geri döndü.
+21 Top nerede? 	banyo	16 19
+1 Sandra koridora gitti.
+2 John bahçeye gitti.
+3 John banyoya gitti.
+4 Daniel topu oradan aldı.
+5 Mary salona gitti.
+6 Mary oradaki sütü aldı.
+7 Daniel salona gitti.
+8 Mary sütü bıraktı.
+9 Süt nerede? 	salon	8 5
+10 Mary oradaki sütü aldı.
+11 Daniel oradaki elmayı aldı.
+12 Daniel topu bıraktı.
+13 Daniel banyoya gitti.
+14 Top nerede? 	salon	12 7
+15 Daniel ofise geri döndü.
+16 Daniel elmayı bıraktı.
+17 Top nerede? 	salon	12 7
+18 John koridora gitti.
+19 Mary bahçeye gitti.
+20 Elma nerede? 	ofis	16 15
+21 Daniel oradaki elmayı aldı.
+22 Daniel elmayı bıraktı.
+23 Elma nerede? 	ofis	22 15
+1 Mary ofise gitti.
+2 Daniel topu oradan aldı.
+3 Mary bahçeye gitti.
+4 Daniel topu bıraktı.
+5 Sandra ofise gitti.
+6 Daniel topu oradan aldı.
+7 Daniel ofise gitti.
+8 John bahçeye gitti.
+9 Top nerede? 	ofis	6 7
+10 John elmayı oraya aldı.
+11 John elmayı bıraktı.
+12 Top nerede? 	ofis	6 7
+13 Mary oradaki elmayı aldı.
+14 Mary mutfağa geri döndü.
+15 Elma nerede? 	mutfak	13 14
+16 Sandra salona gitti.
+17 Daniel topu oraya bıraktı.
+18 Top nerede? 	ofis	17 7
+19 Daniel topu oraya aldı.
+20 Sandra oradaki sütü aldı.
+21 Mary elmayı bıraktı.
+22 Mary oradaki elmayı aldı.
+23 Daniel bahçeye gitti.
+24 Sandra sütü bıraktı.
+25 Süt nerede? 	salon	24 16
+1 Daniel salona geri döndü.
+2 Mary koridora gitti.
+3 John salona gitti.
+4 Mary oradaki topu aldı.
+5 Daniel banyoya gitti.
+6 Mary mutfağa gitti.
+7 Top nerede? 	mutfak	4 6
+8 Daniel bahçeye gitti.
+9 Mary banyoya gitti.
+10 Top nerede? 	banyo	4 9
+11 Mary mutfağa gitti.
+12 Daniel banyoya gitti.
+13 John mutfağa gitti.
+14 Sandra mutfağa gitti.
+15 Daniel koridora geri döndü.
+16 Daniel mutfağa gitti.
+17 Daniel koridora gitti.
+18 Sandra salona gitti.
+19 Mary banyoya gitti.
+20 Sandra koridora gitti.
+21 Mary ofise gitti.
+22 Daniel mutfağa gitti.
+23 Daniel banyoya gitti.
+24 Mary topu bıraktı.
+25 Top nerede? 	ofis	24 21
+26 Mary oradaki topu aldı.
+27 Mary topu bıraktı.
+28 Top nerede? 	ofis	27 21
+29 Daniel salona gitti.
+30 Mary topu oraya aldı.
+31 Mary salona geri döndü.
+32 Mary topu bıraktı.
+33 Top nerede? 	salon	32 31
+1 Mary oradaki topu aldı.
+2 Mary topu bıraktı.
+3 Sandra koridora gitti.
+4 Mary banyoya gitti.
+5 Daniel mutfağa gitti.
+6 Sandra salona gitti.
+7 Daniel ofise geri döndü.
+8 Sandra oradaki elmayı aldı.
+9 John bahçeye gitti.
+10 Sandra mutfağa gitti.
+11 Elma nerede? 	mutfak	8 10
+12 Mary koridora gitti.
+13 Sandra ofise gitti.
+14 Elma nerede? 	ofis	8 13
+15 Sandra elmayı bıraktı.
+16 Daniel elmayı oraya aldı.
+17 Sandra mutfağa geri döndü.
+18 Sandra banyoya gitti.
+19 Mary ofise gitti.
+20 Daniel koridora gitti.
+21 Elma nerede? 	koridor	16 20
+22 Mary mutfağa gitti.
+23 Sandra koridora gitti.
+24 Sandra bahçeye gitti.
+25 John oradaki topu aldı.
+26 Daniel salona gitti.
+27 John salona gitti.
+28 Top nerede? 	salon	25 27
+29 Daniel elmayı bıraktı.
+30 Daniel mutfağa gitti.
+31 Elma nerede? 	salon	29 26
+1 Mary oradaki sütü aldı.
+2 John salona gitti.
+3 Mary banyoya geri döndü.
+4 John bahçeye gitti.
+5 Süt nerede? 	banyo	1 3
+6 Daniel koridora gitti.
+7 John salona gitti.
+8 Mary salona geri döndü.
+9 Sandra ofise gitti.
+10 Mary bahçeye gitti.
+11 Sandra topu oraya aldı.
+12 Mary mutfağa gitti.
+13 Mary koridora gitti.
+14 John mutfağa geri döndü.
+15 Mary sütü oraya bıraktı.
+16 Süt nerede? 	koridor	15 13
+17 Daniel oradaki sütü aldı.
+18 Daniel sütü bıraktı.
+19 Süt nerede? 	koridor	18 6
+20 Mary mutfağa gitti.
+21 Daniel bahçeye gitti.
+22 Süt nerede? 	koridor	18 6
+23 Sandra mutfağa gitti.
+24 Mary ofise geri döndü.
+25 Süt nerede? 	koridor	18 6
+1 Daniel koridora gitti.
+2 Mary ofise gitti.
+3 Sandra oradaki topu aldı.
+4 Mary oradaki sütü aldı.
+5 Mary oradaki elmayı aldı.
+6 Sandra koridora geri döndü.
+7 Top nerede? 	koridor	3 6
+8 John ofise gitti.
+9 Sandra topu oraya bıraktı.
+10 Top nerede? 	koridor	9 6
+11 John mutfağa gitti.
+12 Sandra mutfağa gitti.
+13 Top nerede? 	koridor	9 6
+14 Daniel oradaki topu aldı.
+15 Sandra ofise geri döndü.
+16 Daniel banyoya gitti.
+17 Sandra salona gitti.
+18 Top nerede? 	banyo	14 16
+19 John banyoya geri döndü.
+20 Mary elmayı oraya bıraktı.
+21 Elma nerede? 	ofis	20 2
+1 John mutfağa gitti.
+2 Sandra elmayı oraya aldı.
+3 Mary bahçeye gitti.
+4 Mary mutfağa gitti.
+5 John bahçeye gitti.
+6 Sandra elmayı bıraktı.
+7 Sandra salona gitti.
+8 Sandra oradaki sütü aldı.
+9 Sandra sütü bıraktı.
+10 Daniel oradaki sütü aldı.
+11 John topu oradan aldı.
+12 Daniel mutfağa gitti.
+13 Süt nerede? 	mutfak	10 12
+14 Daniel koridora gitti.
+15 John topu bıraktı.
+16 Top nerede? 	bahçe	15 5
+17 John oradaki topu aldı.
+18 John topu bıraktı.
+19 Top nerede? 	bahçe	18 5
+20 Mary koridora gitti.
+21 Daniel ofise gitti.
+22 Top nerede? 	bahçe	18 5
+23 Daniel koridora geri döndü.
+24 Sandra mutfağa gitti.
+25 Top nerede? 	bahçe	18 5
+1 Daniel bahçeye gitti.
+2 Mary koridora gitti.
+3 Daniel salona gitti.
+4 John oradaki topu aldı.
+5 John topu bıraktı.
+6 Daniel koridora gitti.
+7 Sandra banyoya geri döndü.
+8 John oradaki topu aldı.
+9 John bahçeye gitti.
+10 Sandra salona geri döndü.
+11 Top nerede? 	bahçe	8 9
+12 John banyoya gitti.
+13 Daniel salona gitti.
+14 Top nerede? 	banyo	8 12
+15 Sandra bahçeye gitti.
+16 Daniel bahçeye gitti.
+17 John ofise gitti.
+18 Daniel mutfağa gitti.
+19 Mary mutfağa gitti.
+20 John banyoya gitti.
+21 Mary salona gitti.
+22 John oradaki elmayı aldı.
+23 Sandra mutfağa geri döndü.
+24 Daniel banyoya gitti.
+25 Sandra ofise gitti.
+26 Daniel mutfağa gitti.
+27 Sandra banyoya geri döndü.
+28 Sandra mutfağa gitti.
+29 Daniel oradaki sütü aldı.
+30 Daniel ofise gitti.
+31 Süt nerede? 	ofis	29 30
+32 Daniel sütü bıraktı.
+33 John elmayı bıraktı.
+34 Elma nerede? 	banyo	33 20
+35 John topu bıraktı.
+36 Sandra ofise gitti.
+37 Top nerede? 	banyo	35 20
+1 John elmayı oraya aldı.
+2 John ofise gitti.
+3 Elma nerede? 	ofis	1 2
+4 Sandra ofise gitti.
+5 Sandra oradaki sütü aldı.
+6 Elma nerede? 	ofis	1 2
+7 Sandra sütü bıraktı.
+8 John oradaki sütü aldı.
+9 Sandra salona gitti.
+10 Daniel bahçeye gitti.
+11 Daniel topu oradan aldı.
+12 Sandra banyoya gitti.
+13 Daniel mutfağa gitti.
+14 John bahçeye gitti.
+15 Top nerede? 	mutfak	11 13
+16 John banyoya gitti.
+17 John sütü bıraktı.
+18 Süt nerede? 	banyo	17 16
+19 John oradaki sütü aldı.
+20 John elmayı bıraktı.
+21 Elma nerede? 	banyo	20 16
+1 John bahçeye gitti.
+2 Sandra mutfağa gitti.
+3 Daniel salona gitti.
+4 Mary banyoya gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra salona geri döndü.
+7 Süt nerede? 	salon	5 6
+8 Daniel mutfağa gitti.
+9 Mary salona gitti.
+10 Süt nerede? 	salon	5 6
+11 Mary bahçeye gitti.
+12 Mary koridora gitti.
+13 Sandra sütü oraya bıraktı.
+14 John banyoya gitti.
+15 Süt nerede? 	salon	13 6
+16 Sandra banyoya gitti.
+17 Sandra salona gitti.
+18 Süt nerede? 	salon	13 6
+19 Sandra oradaki sütü aldı.
+20 Daniel ofise gitti.
+21 Daniel topu oraya aldı.
+22 John oradaki elmayı aldı.
+23 John salona gitti.
+24 Sandra mutfağa gitti.
+25 Elma nerede? 	salon	22 23
+1 Sandra mutfağa geri döndü.
+2 Daniel mutfağa gitti.
+3 Mary oradaki sütü aldı.
+4 Sandra banyoya geri döndü.
+5 Mary koridora gitti.
+6 Daniel salona gitti.
+7 Süt nerede? 	koridor	3 5
+8 John koridora gitti.
+9 Sandra koridora gitti.
+10 Mary oradaki elmayı aldı.
+11 John banyoya gitti.
+12 Daniel koridora gitti.
+13 Mary elmayı bıraktı.
+14 Elma nerede? 	koridor	13 5
+15 Mary sütü bıraktı.
+16 Daniel elmayı oraya aldı.
+17 Süt nerede? 	koridor	15 5
+18 Daniel bahçeye gitti.
+19 Sandra ofise gitti.
+20 Süt nerede? 	koridor	15 5
+21 Daniel elmayı bıraktı.
+22 Mary bahçeye gitti.
+23 Elma nerede? 	bahçe	21 18
+1 Mary banyoya geri döndü.
+2 John ofise gitti.
+3 Daniel topu oradan aldı.
+4 Sandra banyoya gitti.
+5 Daniel topu bıraktı.
+6 Sandra salona gitti.
+7 Sandra mutfağa gitti.
+8 Sandra bahçeye gitti.
+9 Sandra banyoya geri döndü.
+10 John mutfağa gitti.
+11 Daniel bahçeye gitti.
+12 Sandra bahçeye gitti.
+13 Mary ofise gitti.
+14 Daniel mutfağa gitti.
+15 Daniel oradaki sütü aldı.
+16 Daniel bahçeye gitti.
+17 Süt nerede? 	bahçe	15 16
+18 John salona gitti.
+19 Sandra salona gitti.
+20 Süt nerede? 	bahçe	15 16
+21 John oradaki elmayı aldı.
+22 Daniel sütü bıraktı.
+23 Süt nerede? 	bahçe	22 16
+24 John ofise gitti.
+25 John elmayı bıraktı.
+26 Süt nerede? 	bahçe	22 16
+27 John oradaki elmayı aldı.
+28 Daniel oradaki sütü aldı.
+29 Sandra mutfağa gitti.
+30 Daniel sütü oraya bıraktı.
+31 Süt nerede? 	bahçe	30 16
+1 Mary ofise gitti.
+2 John bahçeye gitti.
+3 Mary salona gitti.
+4 Daniel oradaki sütü aldı.
+5 Daniel salona gitti.
+6 John mutfağa gitti.
+7 Süt nerede? 	salon	4 5
+8 Sandra banyoya gitti.
+9 Mary ofise gitti.
+10 Süt nerede? 	salon	4 5
+11 Sandra ofise geri döndü.
+12 Mary mutfağa gitti.
+13 Mary koridora geri döndü.
+14 Daniel sütü bıraktı.
+15 Süt nerede? 	salon	14 5
+16 Sandra oradaki topu aldı.
+17 Mary bahçeye gitti.
+18 Süt nerede? 	salon	14 5
+19 John bahçeye gitti.
+20 John banyoya gitti.
+21 Süt nerede? 	salon	14 5
+1 Sandra salona gitti.
+2 John mutfağa gitti.
+3 Sandra ofise geri döndü.
+4 Daniel salona geri döndü.
+5 Daniel oradaki elmayı aldı.
+6 Daniel koridora gitti.
+7 Elma nerede? 	koridor	5 6
+8 John ofise gitti.
+9 Mary oradaki topu aldı.
+10 Elma nerede? 	koridor	5 6
+11 Mary topu oraya bıraktı.
+12 Mary oradaki topu aldı.
+13 Daniel mutfağa gitti.
+14 Daniel koridora gitti.
+15 Daniel elmayı bıraktı.
+16 Mary mutfağa gitti.
+17 Top nerede? 	mutfak	12 16
+18 John koridora gitti.
+19 John mutfağa gitti.
+20 Elma nerede? 	koridor	15 14
+21 Mary topu bıraktı.
+22 John topu oradan aldı.
+23 John bahçeye gitti.
+24 Daniel elmayı oraya aldı.
+25 Top nerede? 	bahçe	22 23
+1 John oradaki sütü aldı.
+2 John ofise geri döndü.
+3 Süt nerede? 	ofis	1 2
+4 Sandra topu oradan aldı.
+5 John sütü bıraktı.
+6 Süt nerede? 	ofis	5 2
+7 John oradaki sütü aldı.
+8 Daniel bahçeye gitti.
+9 Sandra ofise gitti.
+10 Sandra banyoya gitti.
+11 Mary koridora geri döndü.
+12 Mary oradaki elmayı aldı.
+13 Mary elmayı bıraktı.
+14 Sandra topu bıraktı.
+15 Top nerede? 	banyo	14 10
+16 Mary oradaki elmayı aldı.
+17 Daniel salona geri döndü.
+18 Top nerede? 	banyo	14 10
+19 Mary bahçeye gitti.
+20 Sandra oradaki topu aldı.
+21 Elma nerede? 	bahçe	16 19
+1 Mary ofise geri döndü.
+2 Sandra ofise gitti.
+3 Daniel oradaki sütü aldı.
+4 Daniel sütü bıraktı.
+5 Daniel oradaki topu aldı.
+6 Daniel topu bıraktı.
+7 Daniel bahçeye gitti.
+8 Sandra koridora gitti.
+9 Daniel salona gitti.
+10 Daniel oradaki elmayı aldı.
+11 John salona gitti.
+12 Sandra oradaki sütü aldı.
+13 Daniel bahçeye gitti.
+14 Daniel koridora gitti.
+15 Elma nerede? 	koridor	10 14
+16 John bahçeye gitti.
+17 Sandra sütü bıraktı.
+18 Süt nerede? 	koridor	17 8
+19 Daniel elmayı bıraktı.
+20 Daniel topu oraya aldı.
+21 Elma nerede? 	koridor	19 14
+22 Sandra oradaki sütü aldı.
+23 Daniel oraya topu bıraktı.
+24 Top nerede? 	koridor	23 14
+25 Sandra sütü bıraktı.
+26 Daniel bahçeye gitti.
+27 Süt nerede? 	koridor	25 8
+1 Daniel koridora gitti.
+2 Sandra bahçeye gitti.
+3 Sandra salona gitti.
+4 Daniel mutfağa geri döndü.
+5 Daniel oradaki sütü aldı.
+6 Mary banyoya gitti.
+7 Daniel sütü oraya bıraktı.
+8 Sandra koridora gitti.
+9 Süt nerede? 	mutfak	7 4
+10 Mary mutfağa geri döndü.
+11 Sandra salona gitti.
+12 Süt nerede? 	mutfak	7 4
+13 Mary ofise gitti.
+14 John banyoya gitti.
+15 Daniel oradaki sütü aldı.
+16 Daniel banyoya gitti.
+17 Süt nerede? 	banyo	15 16
+18 Daniel sütü bıraktı.
+19 Daniel oradaki sütü aldı.
+20 Mary koridora gitti.
+21 Sandra ofise geri döndü.
+22 John mutfağa gitti.
+23 Daniel sütü bıraktı.
+24 Süt nerede? 	banyo	23 16
+25 Mary topu oradan aldı.
+26 Daniel oradaki sütü aldı.
+27 John koridora gitti.
+28 Daniel sütü bıraktı.
+29 Süt nerede? 	banyo	28 16
+1 John topu oradan aldı.
+2 John topu bıraktı.
+3 Daniel banyoya geri döndü.
+4 Mary koridora gitti.
+5 Mary oradaki sütü aldı.
+6 Sandra salona gitti.
+7 John oradaki topu aldı.
+8 John salona gitti.
+9 Top nerede? 	salon	7 8
+10 Mary mutfağa gitti.
+11 Sandra oradaki elmayı aldı.
+12 Top nerede? 	salon	7 8
+13 Mary banyoya gitti.
+14 Sandra bahçeye gitti.
+15 Elma nerede? 	bahçe	11 14
+16 Daniel ofise gitti.
+17 John koridora gitti.
+18 Elma nerede? 	bahçe	11 14
+19 Mary salona geri döndü.
+20 Mary sütü bıraktı.
+21 Süt nerede? 	bahçe	20 19
+1 John salona geri döndü.
+2 Daniel oradaki elmayı aldı.
+3 Mary salona gitti.
+4 Mary banyoya gitti.
+5 John koridora gitti.
+6 Sandra salona geri döndü.
+7 Sandra koridora geri döndü.
+8 Sandra mutfağa gitti.
+9 John mutfağa gitti.
+10 John salona gitti.
+11 Sandra oradaki sütü aldı.
+12 Daniel elmayı bıraktı.
+13 Daniel oradaki elmayı aldı.
+14 John ofise gitti.
+15 Sandra sütü bıraktı.
+16 Sandra oradaki sütü aldı.
+17 Sandra koridora geri döndü.
+18 Sandra oradaki topu aldı.
+19 Süt nerede? 	koridor	16 17
+20 Daniel elmayı bıraktı.
+21 Daniel mutfağa geri döndü.
+22 Süt nerede? 	koridor	16 17
+23 Mary salona gitti.
+24 Mary elmayı oraya aldı.
+25 Mary elmayı bıraktı.
+26 Sandra bahçeye gitti.
+27 Elma nerede? 	salon	25 23
+28 Sandra sütü bıraktı.
+29 Sandra mutfağa gitti.
+30 Elma nerede? 	salon	25 23
+31 Sandra topu bıraktı.
+32 John salona gitti.
+33 Süt nerede? 	bahçe	28 26
+1 Mary bahçeye gitti.
+2 Sandra oradaki topu aldı.
+3 Mary oradaki elmayı aldı.
+4 Mary elmayı bıraktı.
+5 Elma nerede? 	bahçe	4 1
+6 John salona geri döndü.
+7 John oradaki elmayı aldı.
+8 John elmayı bıraktı.
+9 Sandra topu bıraktı.
+10 Elma nerede? 	bahçe	8 6
+11 John banyoya geri döndü.
+12 Sandra topu oradan aldı.
+13 Elma nerede? 	bahçe	8 6
+14 Mary salona gitti.
+15 John ofise geri döndü.
+16 Sandra topu bıraktı.
+17 Daniel koridora gitti.
+18 Daniel ofise gitti.
+19 Sandra oradaki topu aldı.
+20 Daniel koridora geri döndü.
+21 Sandra topu bıraktı.
+22 Mary topu oraya aldı.
+23 John salona geri döndü.
+24 Mary banyoya gitti.
+25 Sandra ofise gitti.
+26 Top nerede? 	banyo	22 24
+27 Mary topu bıraktı.
+28 Mary oradaki topu aldı.
+29 Sandra mutfağa gitti.
+30 Mary oradaki sütü aldı.
+31 Daniel salona geri döndü.
+32 John koridora gitti.
+33 John salona gitti.
+34 John banyoya geri döndü.
+35 Daniel ofise geri döndü.
+36 Mary koridora gitti.
+37 Daniel salona geri döndü.
+38 Sandra ofise gitti.
+39 Daniel bahçeye gitti.
+40 Mary topu bıraktı.
+41 Top nerede? 	koridor	40 36
+1 John mutfağa gitti.
+2 Sandra ofise geri döndü.
+3 Mary banyoya geri döndü.
+4 Daniel mutfağa geri döndü.
+5 Daniel bahçeye gitti.
+6 Daniel oradaki elmayı aldı.
+7 Daniel mutfağa geri döndü.
+8 Daniel salona geri döndü.
+9 Elma nerede? 	salon	6 8
+10 John salona geri döndü.
+11 Sandra bahçeye gitti.
+12 Elma nerede? 	salon	6 8
+13 Mary oradaki sütü aldı.
+14 Mary oradaki topu aldı.
+15 Mary ofise gitti.
+16 Sandra koridora geri döndü.
+17 Top nerede? 	ofis	14 15
+18 Daniel koridora gitti.
+19 Daniel ofise gitti.
+20 Top nerede? 	ofis	14 15
+21 Mary topu bıraktı.
+22 Daniel elmayı bıraktı.
+23 Elma nerede? 	ofis	22 19
+1 Sandra banyoya gitti.
+2 Mary ofise gitti.
+3 Daniel oradaki elmayı aldı.
+4 Mary bahçeye gitti.
+5 Mary oradaki topu aldı.
+6 John banyoya gitti.
+7 Sandra ofise gitti.
+8 Daniel salona gitti.
+9 Daniel elmayı bıraktı.
+10 Daniel banyoya gitti.
+11 Elma nerede? 	salon	9 8
+12 Sandra mutfağa gitti.
+13 Sandra oradaki sütü aldı.
+14 Elma nerede? 	salon	9 8
+15 John salona geri döndü.
+16 John oradaki elmayı aldı.
+17 Sandra sütü oraya bıraktı.
+18 Sandra koridora gitti.
+19 Süt nerede? 	mutfak	17 12
+20 Mary topu bıraktı.
+21 Sandra bahçeye gitti.
+22 Top nerede? 	bahçe	20 4
+23 Mary oradaki topu aldı.
+24 John ofise gitti.
+25 Sandra mutfağa gitti.
+26 Daniel ofise gitti.
+27 Mary banyoya gitti.
+28 Mary topu bıraktı.
+29 Top nerede? 	banyo	28 27
+1 Mary oradaki sütü aldı.
+2 Daniel banyoya geri döndü.
+3 Sandra oradaki topu aldı.
+4 Mary sütü oraya bıraktı.
+5 Sandra koridora geri döndü.
+6 Sandra topu bıraktı.
+7 Top nerede? 	koridor	6 5
+8 John mutfağa gitti.
+9 Sandra topu oraya aldı.
+10 Sandra topu bıraktı.
+11 Sandra mutfağa gitti.
+12 Top nerede? 	koridor	10 5
+13 Mary mutfağa gitti.
+14 Sandra salona geri döndü.
+15 Top nerede? 	koridor	10 5
+16 Mary koridora geri döndü.
+17 Mary oradaki topu aldı.
+18 John banyoya gitti.
+19 Sandra oradaki sütü aldı.
+20 Sandra sütü bıraktı.
+21 John salona gitti.
+22 Süt nerede? 	bahçe	20 14
+23 John ofise gitti.
+24 John salona gitti.
+25 Süt nerede? 	bahçe	20 14
+1 John topu oraya aldı.
+2 John salona gitti.
+3 Top nerede? 	salon	1 2
+4 John topu bıraktı.
+5 Sandra salona gitti.
+6 Top nerede? 	salon	4 2
+7 John topu oraya aldı.
+8 John topu bıraktı.
+9 Top nerede? 	salon	8 2
+10 Sandra topu oraya aldı.
+11 Sandra topu bıraktı.
+12 Top nerede? 	salon	11 5
+13 Sandra mutfağa gitti.
+14 Mary ofise geri döndü.
+15 Top nerede? 	salon	11 5
+1 John oradaki sütü aldı.
+2 Sandra salona geri döndü.
+3 Daniel bahçeye gitti.
+4 Sandra ofise gitti.
+5 John sütü bıraktı.
+6 Daniel salona gitti.
+7 John oradaki sütü aldı.
+8 Sandra banyoya geri döndü.
+9 John koridora gitti.
+10 Mary salona geri döndü.
+11 Süt nerede? 	koridor	7 9
+12 Sandra koridora geri döndü.
+13 John topu oraya aldı.
+14 Sandra oradaki elmayı aldı.
+15 Mary bahçeye gitti.
+16 John topu bıraktı.
+17 John sütü bıraktı.
+18 Top nerede? 	koridor	16 9
+19 Mary banyoya gitti.
+20 Sandra topu oradan aldı.
+21 Süt nerede? 	koridor	17 9
+22 Sandra elmayı bıraktı.
+23 John oradaki sütü aldı.
+24 Elma nerede? 	koridor	22 12
+25 John sütü bıraktı.
+26 Daniel banyoya geri döndü.
+27 Süt nerede? 	koridor	25 9
+1 Sandra ofise gitti.
+2 John salona gitti.
+3 John koridora gitti.
+4 Mary banyoya gitti.
+5 John mutfağa gitti.
+6 Mary oradaki topu aldı.
+7 Mary topu bıraktı.
+8 Mary oradaki topu aldı.
+9 Mary koridora geri döndü.
+10 Daniel koridora gitti.
+11 Top nerede? 	koridor	8 9
+12 John oradaki sütü aldı.
+13 John sütü bıraktı.
+14 Süt nerede? 	mutfak	13 5
+15 Mary topu bıraktı.
+16 Daniel oradaki topu aldı.
+17 Süt nerede? 	mutfak	13 5
+18 Daniel salona gitti.
+19 Daniel topu bıraktı.
+20 Top nerede? 	salon	19 18
+21 Sandra banyoya gitti.
+22 Sandra oradaki elmayı aldı.
+23 Top nerede? 	salon	19 18
+1 Mary elmayı oraya aldı.
+2 John oradaki sütü aldı.
+3 Mary ofise gitti.
+4 Mary elmayı bıraktı.
+5 Elma nerede? 	ofis	4 3
+6 Sandra elmayı oraya aldı.
+7 John sütü bıraktı.
+8 Daniel ofise gitti.
+9 John oradaki sütü aldı.
+10 Sandra mutfağa geri döndü.
+11 Sandra topu oradan aldı.
+12 John sütü bıraktı.
+13 John oradaki sütü aldı.
+14 Sandra topu bıraktı.
+15 Sandra topu oraya aldı.
+16 John mutfağa gitti.
+17 Sandra elmayı bıraktı.
+18 Elma nerede? 	mutfak	17 10
+19 Mary mutfağa gitti.
+20 Daniel salona gitti.
+21 Elma nerede? 	mutfak	17 10
+22 Mary oradaki elmayı aldı.
+23 Mary elmayı bıraktı.
+24 Elma nerede? 	mutfak	23 19
+25 Sandra ofise geri döndü.
+26 Mary oradaki elmayı aldı.
+27 Mary ofise gitti.
+28 John ofise gitti.
+29 Elma nerede? 	ofis	26 27
+1 John banyoya gitti.
+2 Daniel oradaki topu aldı.
+3 Mary banyoya gitti.
+4 Sandra oradaki sütü aldı.
+5 Sandra sütü bıraktı.
+6 John koridora gitti.
+7 Sandra banyoya geri döndü.
+8 John salona geri döndü.
+9 Daniel bahçeye gitti.
+10 Daniel topu bıraktı.
+11 Top nerede? 	bahçe	10 9
+12 Daniel salona geri döndü.
+13 Daniel bahçeye gitti.
+14 Top nerede? 	bahçe	10 9
+15 Daniel oradaki topu aldı.
+16 Mary ofise gitti.
+17 Daniel mutfağa gitti.
+18 Daniel oradaki sütü aldı.
+19 Top nerede? 	mutfak	15 17
+20 Daniel banyoya gitti.
+21 John bahçeye gitti.
+22 Süt nerede? 	banyo	18 20
+23 Sandra koridora gitti.
+24 Mary oradaki elmayı aldı.
+25 Süt nerede? 	banyo	18 20
+1 Sandra salona gitti.
+2 Daniel koridora gitti.
+3 Mary banyoya gitti.
+4 Daniel oradaki elmayı aldı.
+5 Sandra ofise gitti.
+6 Mary oradaki topu aldı.
+7 Sandra koridora geri döndü.
+8 Daniel elmayı bıraktı.
+9 Elma nerede? 	koridor	8 2
+10 Mary ofise gitti.
+11 Sandra elmayı oraya aldı.
+12 Top nerede? 	ofis	6 10
+13 Daniel mutfağa gitti.
+14 Sandra elmayı oraya bıraktı.
+15 Elma nerede? 	koridor	14 7
+16 Daniel koridora gitti.
+17 Daniel oradaki elmayı aldı.
+18 Daniel mutfağa gitti.
+19 Daniel salona gitti.
+20 Elma nerede? 	salon	17 19
+21 Sandra banyoya gitti.
+22 Daniel elmayı bıraktı.
+23 Elma nerede? 	salon	22 19
+1 Mary banyoya gitti.
+2 Sandra oradaki sütü aldı.
+3 John topu oraya aldı.
+4 John mutfağa gitti.
+5 Top nerede? 	mutfak	3 4
+6 John topu bıraktı.
+7 Daniel ofise gitti.
+8 Top nerede? 	mutfak	6 4
+9 Sandra banyoya gitti.
+10 Sandra sütü bıraktı.
+11 Süt nerede? 	banyo	10 9
+12 Mary salona geri döndü.
+13 Sandra oradaki sütü aldı.
+14 Mary koridora gitti.
+15 Sandra salona gitti.
+16 Süt nerede? 	salon	13 15
+17 Daniel salona geri döndü.
+18 Sandra bahçeye gitti.
+19 Süt nerede? 	bahçe	13 18
+1 Sandra ofise gitti.
+2 Mary topu oradan aldı.
+3 Mary topu bıraktı.
+4 Daniel oradaki topu aldı.
+5 John bahçeye gitti.
+6 Mary bahçeye gitti.
+7 John ofise gitti.
+8 Mary oradaki sütü aldı.
+9 Mary sütü oraya bıraktı.
+10 Daniel topu bıraktı.
+11 Süt nerede? 	bahçe	9 6
+12 John salona gitti.
+13 Mary oradaki sütü aldı.
+14 Daniel bahçeye gitti.
+15 Mary sütü bıraktı.
+16 Süt nerede? 	bahçe	15 6
+17 Mary koridora gitti.
+18 Daniel oradaki sütü aldı.
+19 Daniel ofise gitti.
+20 Mary oradaki elmayı aldı.
+21 Süt nerede? 	ofis	18 19
+22 Daniel sütü oraya bıraktı.
+23 Daniel oradaki sütü aldı.
+24 John ofise gitti.
+25 Sandra koridora gitti.
+26 Sandra banyoya geri döndü.
+27 Mary bahçeye gitti.
+28 Daniel sütü bıraktı.
+29 Daniel oradaki sütü aldı.
+30 Mary ofise gitti.
+31 John koridora geri döndü.
+32 John banyoya gitti.
+33 John koridora geri döndü.
+34 Sandra ofise gitti.
+35 Daniel sütü bıraktı.
+36 Süt nerede? 	ofis	35 19
+37 Daniel oradaki sütü aldı.
+38 Daniel salona gitti.
+39 Süt nerede? 	salon	37 38
+1 John topu oraya aldı.
+2 John topu bıraktı.
+3 Mary banyoya geri döndü.
+4 Sandra oradaki topu aldı.
+5 Daniel mutfağa gitti.
+6 John salona gitti.
+7 Sandra topu bıraktı.
+8 Mary mutfağa gitti.
+9 Daniel elmayı oraya aldı.
+10 Mary banyoya gitti.
+11 Mary salona gitti.
+12 John banyoya geri döndü.
+13 Daniel elmayı oraya bıraktı.
+14 Mary mutfağa gitti.
+15 Elma nerede? 	mutfak	13 5
+16 Sandra oradaki topu aldı.
+17 Sandra topu oraya bıraktı.
+18 Elma nerede? 	mutfak	13 5
+19 Mary koridora gitti.
+20 Daniel oradaki elmayı aldı.
+21 Daniel koridora gitti.
+22 Mary topu oraya aldı.
+23 Elma nerede? 	koridor	20 21
+24 John koridora gitti.
+25 Mary topu bıraktı.
+26 Top nerede? 	koridor	25 19
+27 Mary salona geri döndü.
+28 John ofise geri döndü.
+29 Top nerede? 	koridor	25 19

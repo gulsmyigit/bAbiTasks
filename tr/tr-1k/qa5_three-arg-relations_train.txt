@@ -1,0 +1,6299 @@
+1 Bill ofise gitti.
+2 Bill topu aldı oradaki.
+3 Bill salona gitti.
+4 Bill topu verdi Fred e.
+5 Ne Bill verdi Fred e? 	top	4
+6 Fred topu aldı Bill e.
+7 Jeff ofise geri döndü.
+8 Kim topu aldı? 	Bill	6
+9 Bill ofise gitti.
+10 Bill sütü aldı oradaki.
+11 Kim topu aldı? 	Bill	6
+12 Fred bahçeye gitti.
+13 Fred koridora gitti.
+14 Bill salona gitti.
+15 Jeff koridora gitti.
+16 Jeff banyoya gitti.
+17 Bill ofise gitti.
+18 Fred banyoya gitti.
+19 Mary mutfağa gitti.
+20 Jeff elmayı aldı oradaki.
+21 Jeff elmayı verdi Fred e.
+22 Kime Jeff elmayı verdi? 	Fred	21
+23 Bill banyoya geri döndü.
+24 Bill sütü bıraktı.
+25 Kim elmayı aldı? 	Fred	21
+1 Mary bahçeye gitti.
+2 Mary mutfağa gitti.
+3 Bill ofise geri döndü.
+4 Bill koridora gitti.
+5 Jeff salona geri döndü.
+6 Fred koridora gitti.
+7 Bill banyoya gitti.
+8 Jeff geri döndü bahçeye.
+9 Jeff mutfağa geri döndü.
+10 Fred geri döndü bahçeye.
+11 Mary topu aldı oradaki.
+12 Mary topu Jeff e verdi.
+13 Ne Mary verdi Jeff e? 	top	12
+14 Bill koridora geri döndü.
+15 Jeff salona geri döndü.
+16 Ne Mary verdi Jeff e? 	top	12
+17 Fred banyoya gitti.
+18 Mary sütü aldı oradaki.
+19 Ne Mary verdi Jeff e? 	top	12
+20 Fred mutfağa gitti.
+21 Mary sütü aldı Fred e.
+22 Kim sütü verdi Fred e? 	Mary	21
+23 Fred koridora gitti.
+24 Jeff ofise gitti.
+25 Kime Mary sütü verdi? 	Fred	21
+1 Fred bahçeye gitti.
+2 Jeff sütü aldı oradaki.
+3 Bill mutfağa gitti.
+4 Jeff sütü verdi Bill e.
+5 Kim sütü aldı? 	Bill	4
+6 Bill sütü verdi Jeff e.
+7 Jeff sütü verdi Bill e.
+8 Kim sütü verdi? 	Jeff	7
+9 Bill sütü verdi Jeff e.
+10 Jeff sütü bıraktı.
+11 Kim sütü aldı? 	Jeff	9
+12 Jeff ofise gitti.
+13 Mary koridora gitti.
+14 Ne Bill verdi Jeff e? 	süt	9
+15 Bill sütü aldı oradaki.
+16 Fred ofise gitti.
+17 Fred mutfağa geri döndü.
+18 Fred salona gitti.
+19 Jeff bahçeye gitti.
+20 Bill sütü bıraktı oradaki.
+21 Fred ofise gitti.
+22 Mary salona gitti.
+23 Jeff salona geri döndü.
+24 Jeff topu aldı oradaki.
+25 Bill sütü aldı oradaki.
+26 Jeff topu verdi Mary e.
+27 Kime Jeff topu verdi? 	Mary	26
+1 Fred koridora gitti.
+2 Bill banyoya gitti.
+3 Mary mutfağa gitti.
+4 Mary banyoya gitti.
+5 Fred banyoya gitti.
+6 Bill koridora gitti.
+7 Bill bahçeye gitti.
+8 Jeff mutfağa gitti.
+9 Jeff salona gitti.
+10 Jeff ofise gitti.
+11 Mary ofise geri döndü.
+12 Bill elmayı aldı oradaki.
+13 Bill koridora gitti.
+14 Jeff mutfağa gitti.
+15 Mary topu aldı oradaki.
+16 Bill mutfağa gitti.
+17 Bill elmayı verdi Jeff e.
+18 Jeff elmayı bıraktı.
+19 Ne Bill verdi Jeff e? 	elma	17
+20 Jeff elmayı aldı oradaki.
+21 Mary topu bıraktı.
+22 Kim elmayı verdi? 	Bill	17
+23 Jeff elmayı aldı Bill e.
+24 Fred mutfağa gitti.
+25 Ne Jeff verdi Bill e? 	elma	23
+26 Fred salona gitti.
+27 Bill elmayı verdi Jeff e.
+28 Kime Bill elmayı verdi? 	Jeff	27
+29 Jeff elmayı verdi Bill e.
+30 Mary topu aldı oradaki.
+31 Ne Jeff verdi Bill e? 	elma	29
+1 Mary sütü aldı oradaki.
+2 Jeff koridora gitti.
+3 Mary sütü aldı Jeff e.
+4 Jeff sütü bıraktı oradaki.
+5 Kime Mary sütü verdi? 	Jeff	3
+6 Mary mutfağa gitti.
+7 Jeff bahçeye gitti.
+8 Kim sütü verdi? 	Mary	3
+9 Bill bahçeye gitti.
+10 Mary banyoya gitti.
+11 Mary ofise gitti.
+12 Bill ofise gitti.
+13 Jeff banyoya gitti.
+14 Jeff salona gitti.
+15 Fred mutfağa gitti.
+16 Fred topu aldı oradaki.
+17 Fred topu bıraktı.
+18 Fred topu aldı oradaki.
+19 Jeff banyoya gitti.
+20 Bill mutfağa gitti.
+21 Fred topu bıraktı.
+22 Fred banyoya geri döndü.
+23 Bill bahçeye gitti.
+24 Fred elmayı aldı oradaki.
+25 Fred elmayı verdi Jeff e.
+26 Mary koridora gitti.
+27 Kime Fred elmayı verdi? 	Jeff	25
+28 Fred bahçeye gitti.
+29 Mary sütü aldı oradaki.
+30 Kim elmayı verdi? 	Fred	25
+31 Mary banyoya gitti.
+32 Mary mutfağa gitti.
+33 Fred mutfağa gitti.
+34 Mary sütü verdi Fred e.
+35 Kime Mary sütü verdi? 	Fred	34
+1 Jeff sütü aldı oradaki.
+2 Jeff sütü verdi Bill e.
+3 Kime Jeff sütü verdi? 	Bill	2
+4 Mary banyoya gitti.
+5 Mary koridora gitti.
+6 Kim sütü aldı? 	Bill	2
+7 Bill mutfağa gitti.
+8 Fred elmayı aldı oradaki.
+9 Ne Jeff verdi Bill e? 	süt	2
+10 Fred elmayı bıraktı oradaki.
+11 Mary banyoya geri döndü.
+12 Bill koridora gitti.
+13 Bill mutfağa gitti.
+14 Bill banyoya gitti.
+15 Mary topu aldı oradaki.
+16 Mary ofise gitti.
+17 Mary topu bıraktı.
+18 Fred topu aldı oradaki.
+19 Fred topu verdi Mary e.
+20 Kim topu verdi Mary e? 	Fred	19
+21 Mary topu verdi Fred e.
+22 Mary elmayı aldı oradaki.
+23 Kim topu verdi Fred e? 	Mary	21
+1 Jeff salona gitti.
+2 Mary mutfağa gitti.
+3 Mary banyoya gitti.
+4 Bill mutfağa gitti.
+5 Mary bahçeye gitti.
+6 Bill ofise geri döndü.
+7 Bill mutfağa gitti.
+8 Mary banyoya geri döndü.
+9 Mary mutfağa gitti.
+10 Jeff ofise gitti.
+11 Fred koridora gitti.
+12 Fred geri döndü bahçeye.
+13 Mary ofise gitti.
+14 Jeff elmayı aldı oradaki.
+15 Jeff elmayı bıraktı.
+16 Mary bahçeye gitti.
+17 Bill banyoya geri döndü.
+18 Mary ofise gitti.
+19 Bill sütü aldı oradaki.
+20 Mary elmayı aldı oradaki.
+21 Jeff bahçeye gitti.
+22 Fred ofise gitti.
+23 Mary elmayı bıraktı.
+24 Fred topu aldı oradaki.
+25 Fred topu aldı Mary e.
+26 Fred elmayı aldı oradaki.
+27 Kim topu aldı? 	Mary	25
+28 Mary bahçeye gitti.
+29 Jeff koridora gitti.
+30 Ne Fred verdi Mary e? 	top	25
+31 Bill salona gitti.
+32 Mary topu bıraktı.
+33 Fred geri döndü bahçeye.
+34 Fred elmayı aldı Mary e.
+35 Kim elmayı aldı? 	Mary	34
+36 Bill sütü bıraktı.
+37 Mary elmayı aldı Fred e.
+38 Kime Mary elmayı verdi? 	Fred	37
+39 Fred elmayı verdi Mary e.
+40 Fred banyoya gitti.
+41 Ne Fred verdi Mary e? 	elma	39
+1 Bill elmayı aldı oradaki.
+2 Bill topu aldı oradaki.
+3 Jeff banyoya gitti.
+4 Bill elmayı aldı Jeff e.
+5 Ne Bill verdi Jeff e? 	elma	4
+6 Jeff elmayı aldı Bill e.
+7 Bill elmayı aldı Jeff e.
+8 Ne Bill verdi Jeff e? 	elma	7
+9 Jeff elmayı aldı Bill e.
+10 Bill elmayı aldı Jeff e.
+11 Ne Bill verdi Jeff e? 	elma	10
+12 Jeff elmayı bıraktı.
+13 Bill topu verdi Jeff e.
+14 Ne Bill verdi Jeff e? 	elma	10
+15 Jeff topu verdi Bill e.
+16 Mary sütü aldı oradaki.
+17 Ne Bill verdi Jeff e? 	elma	10
+1 Mary topu aldı oradaki.
+2 Bill bahçeye gitti.
+3 Fred ofise gitti.
+4 Mary topu bıraktı oradaki.
+5 Jeff mutfağa gitti.
+6 Mary topu aldı oradaki.
+7 Mary topu verdi Jeff e.
+8 Jeff koridora gitti.
+9 Ne Mary verdi Jeff e? 	top	7
+10 Jeff bahçeye gitti.
+11 Bill ofise gitti.
+12 Kim topu aldı? 	Jeff	7
+13 Fred koridora gitti.
+14 Fred elmayı aldı oradaki.
+15 Mary salona gitti.
+16 Mary ofise gitti.
+17 Mary koridora gitti.
+18 Mary banyoya gitti.
+19 Jeff topu bıraktı.
+20 Bill bahçeye gitti.
+21 Fred bahçeye gitti.
+22 Jeff topu aldı oradaki.
+23 Fred elmayı bıraktı.
+24 Jeff topu bıraktı.
+25 Mary sütü aldı oradaki.
+26 Jeff elmayı aldı oradaki.
+27 Bill topu aldı oradaki.
+28 Mary sütü bıraktı.
+29 Jeff mutfağa gitti.
+30 Fred salona gitti.
+31 Bill mutfağa gitti.
+32 Jeff elmayı bıraktı.
+33 Bill topu verdi Jeff e.
+34 Mary bahçeye gitti.
+35 Kim topu aldı? 	Jeff	33
+36 Mary ofise gitti.
+37 Jeff topu verdi Bill e.
+38 Ne Jeff verdi Bill e? 	top	37
+39 Bill elmayı aldı oradaki.
+40 Bill elmayı aldı Jeff e.
+41 Kim topu aldı? 	Bill	37
+1 Bill ofise gitti.
+2 Mary banyoya gitti.
+3 Mary topu aldı oradaki.
+4 Fred salona gitti.
+5 Fred elmayı aldı oradaki.
+6 Mary salona gitti.
+7 Bill koridora gitti.
+8 Mary ofise gitti.
+9 Mary salona geri döndü.
+10 Fred elmayı aldı Mary e.
+11 Ne Fred verdi Mary e? 	elma	10
+12 Mary elmayı aldı Fred e.
+13 Fred bahçeye gitti.
+14 Kim elmayı aldı? 	Fred	12
+15 Bill mutfağa gitti.
+16 Fred sütü aldı oradaki.
+17 Kime Mary elmayı verdi? 	Fred	12
+18 Mary topu bıraktı oradaki.
+19 Mary topu aldı oradaki.
+20 Fred elmayı bıraktı.
+21 Bill koridora gitti.
+22 Jeff banyoya gitti.
+23 Bill salona gitti.
+24 Mary topu verdi Bill e.
+25 Bill topu verdi Mary e.
+26 Ne Bill verdi Mary e? 	top	25
+27 Fred salona gitti.
+28 Mary topu aldı Fred e.
+29 Ne Mary verdi Fred e? 	top	28
+1 Jeff salona gitti.
+2 Jeff koridora gitti.
+3 Mary bahçeye gitti.
+4 Bill salona gitti.
+5 Jeff mutfağa gitti.
+6 Mary koridora gitti.
+7 Mary banyoya gitti.
+8 Mary mutfağa geri döndü.
+9 Bill banyoya gitti.
+10 Bill ofise gitti.
+11 Mary banyoya gitti.
+12 Mary sütü aldı oradaki.
+13 Bill koridora geri döndü.
+14 Mary geri döndü bahçeye.
+15 Mary koridora gitti.
+16 Mary sütü verdi Bill e.
+17 Kime Mary sütü verdi? 	Bill	16
+18 Bill sütü aldı Mary e.
+19 Fred bahçeye gitti.
+20 Ne Bill verdi Mary e? 	süt	18
+21 Bill topu aldı oradaki.
+22 Fred elmayı aldı oradaki.
+23 Ne Bill verdi Mary e? 	süt	18
+24 Bill topu verdi Mary e.
+25 Mary topu verdi Bill e.
+26 Ne Mary verdi Bill e? 	top	25
+27 Bill topu aldı Mary e.
+28 Fred elmayı bıraktı.
+29 Kim topu verdi Mary e? 	Bill	27
+1 Bill topu aldı oradaki.
+2 Fred bahçeye gitti.
+3 Fred banyoya gitti.
+4 Mary koridora gitti.
+5 Bill topu bıraktı.
+6 Bill topu aldı oradaki.
+7 Mary banyoya gitti.
+8 Jeff koridora gitti.
+9 Bill salona geri döndü.
+10 Mary mutfağa gitti.
+11 Mary salona geri döndü.
+12 Mary mutfağa gitti.
+13 Jeff elmayı aldı oradaki.
+14 Bill topu bıraktı.
+15 Jeff ofise gitti.
+16 Fred sütü aldı oradaki.
+17 Jeff mutfağa gitti.
+18 Jeff banyoya gitti.
+19 Jeff ofise geri döndü.
+20 Bill topu aldı oradaki.
+21 Bill koridora gitti.
+22 Jeff elmayı bıraktı.
+23 Jeff koridora gitti.
+24 Bill topu aldı Jeff e.
+25 Ne Bill verdi Jeff e? 	top	24
+26 Jeff topu verdi Bill e.
+27 Fred sütü bıraktı.
+28 Kim topu verdi Bill e? 	Jeff	26
+29 Bill topu aldı Jeff e.
+30 Jeff topu aldı Bill e.
+31 Ne Jeff verdi Bill e? 	top	30
+32 Fred sütü aldı oradaki.
+33 Mary banyoya geri döndü.
+34 Ne Jeff verdi Bill e? 	top	30
+35 Jeff geri döndü bahçeye.
+36 Fred salona geri döndü.
+37 Ne Jeff verdi Bill e? 	top	30
+1 Jeff ofise geri döndü.
+2 Bill koridora gitti.
+3 Jeff salona gitti.
+4 Bill elmayı aldı oradaki.
+5 Mary koridora gitti.
+6 Bill salona gitti.
+7 Bill elmayı verdi Jeff e.
+8 Bill sütü aldı oradaki.
+9 Kim elmayı verdi Jeff e? 	Bill	7
+10 Jeff elmayı verdi Bill e.
+11 Bill elmayı verdi Jeff e.
+12 Ne Bill verdi Jeff e? 	elma	11
+13 Bill topu aldı oradaki.
+14 Jeff elmayı aldı Bill e.
+15 Ne Jeff verdi Bill e? 	elma	14
+16 Bill elmayı aldı Jeff e.
+17 Bill ofise geri döndü.
+18 Ne Bill verdi Jeff e? 	elma	16
+19 Jeff koridora gitti.
+20 Jeff elmayı verdi Mary e.
+21 Kim elmayı aldı? 	Mary	20
+1 Bill mutfağa gitti.
+2 Mary bahçeye gitti.
+3 Jeff koridora gitti.
+4 Mary koridora gitti.
+5 Mary ofise gitti.
+6 Fred topu aldı oradaki.
+7 Bill sütü aldı oradaki.
+8 Fred elmayı aldı oradaki.
+9 Bill sütü bıraktı.
+10 Jeff bahçeye gitti.
+11 Jeff koridora gitti.
+12 Fred banyoya gitti.
+13 Jeff ofise gitti.
+14 Jeff bahçeye gitti.
+15 Fred topu bıraktı.
+16 Fred topu aldı oradaki.
+17 Fred mutfağa gitti.
+18 Fred sütü aldı oradaki.
+19 Fred elmayı verdi Bill e.
+20 Bill elmayı verdi Fred e.
+21 Kime Bill elmayı verdi? 	Fred	20
+22 Fred elmayı verdi Bill e.
+23 Bill koridora gitti.
+24 Kim elmayı verdi Bill e? 	Fred	22
+25 Fred salona gitti.
+26 Mary koridora gitti.
+27 Ne Fred verdi Bill e? 	elma	22
+28 Bill elmayı bıraktı.
+29 Bill ofise gitti.
+30 Mary banyoya geri döndü.
+31 Mary mutfağa gitti.
+32 Bill salona gitti.
+33 Fred topu verdi Bill e.
+34 Ne Fred verdi Bill e? 	top	33
+35 Bill topu verdi Fred e.
+36 Fred topu verdi Bill e.
+37 Ne Fred verdi Bill e? 	top	36
+1 Bill elmayı aldı oradaki.
+2 Jeff ofise gitti.
+3 Bill geri döndü bahçeye.
+4 Bill elmayı bıraktı.
+5 Bill salona gitti.
+6 Mary koridora gitti.
+7 Fred koridora gitti.
+8 Bill bahçeye gitti.
+9 Fred banyoya gitti.
+10 Jeff mutfağa gitti.
+11 Bill elmayı aldı oradaki.
+12 Mary mutfağa gitti.
+13 Mary ofise gitti.
+14 Fred bahçeye gitti.
+15 Bill elmayı verdi Fred e.
+16 Bill banyoya geri döndü.
+17 Kim elmayı verdi Fred e? 	Bill	15
+18 Fred elmayı bıraktı.
+19 Fred koridora gitti.
+20 Kim elmayı verdi Fred e? 	Bill	15
+21 Bill bahçeye gitti.
+22 Bill elmayı aldı oradaki.
+23 Bill ofise geri döndü.
+24 Bill elmayı bıraktı.
+25 Bill salona gitti.
+26 Mary elmayı aldı oradaki.
+27 Mary mutfağa gitti.
+28 Fred sütü aldı oradaki.
+29 Fred salona gitti.
+30 Bill banyoya gitti.
+31 Fred geri döndü bahçeye.
+32 Mary elmayı aldı Jeff e.
+33 Kime Mary elmayı verdi? 	Jeff	32
+34 Jeff elmayı verdi Mary e.
+35 Mary elmayı verdi Jeff e.
+36 Kim elmayı aldı? 	Jeff	35
+37 Fred sütü bıraktı.
+38 Jeff elmayı verdi Mary e.
+39 Ne Jeff verdi Mary e? 	elma	38
+1 Fred topu aldı oradaki.
+2 Jeff elmayı aldı oradaki.
+3 Jeff elmayı bıraktı.
+4 Bill elmayı aldı oradaki.
+5 Mary mutfağa gitti.
+6 Mary koridora geri döndü.
+7 Bill bahçeye gitti.
+8 Fred bahçeye gitti.
+9 Bill elmayı verdi Fred e.
+10 Fred elmayı bıraktı.
+11 Kim elmayı aldı? 	Fred	9
+12 Fred koridora geri döndü.
+13 Fred topu aldı Mary e.
+14 Ne Bill verdi Fred e? 	elma	9
+15 Jeff geri döndü bahçeye.
+16 Bill elmayı aldı oradaki.
+17 Kim topu verdi? 	Fred	13
+18 Mary ofise gitti.
+19 Mary mutfağa gitti.
+20 Kim topu verdi? 	Fred	13
+21 Bill elmayı verdi Jeff e.
+22 Fred ofise gitti.
+23 Ne Bill verdi Jeff e? 	elma	21
+1 Fred koridora gitti.
+2 Mary sütü aldı oradaki.
+3 Jeff topu aldı oradaki.
+4 Jeff topu verdi Fred e.
+5 Ne Jeff verdi Fred e? 	top	4
+6 Fred topu verdi Jeff e.
+7 Jeff topu verdi Fred e.
+8 Kim topu aldı? 	Fred	7
+9 Jeff salona gitti.
+10 Jeff banyoya gitti.
+11 Kim topu aldı? 	Fred	7
+12 Mary sütü aldı Jeff e.
+13 Jeff sütü verdi Mary e.
+14 Ne Jeff verdi Mary e? 	süt	13
+15 Mary sütü verdi Jeff e.
+16 Jeff sütü verdi Mary e.
+17 Ne Jeff verdi Mary e? 	süt	16
+1 Mary salona gitti.
+2 Bill mutfağa gitti.
+3 Fred sütü aldı oradaki.
+4 Mary mutfağa gitti.
+5 Jeff salona gitti.
+6 Jeff topu aldı oradaki.
+7 Mary koridora gitti.
+8 Mary bahçeye gitti.
+9 Jeff koridora geri döndü.
+10 Jeff topu bıraktı.
+11 Mary koridora geri döndü.
+12 Jeff topu aldı oradaki.
+13 Jeff topu verdi Mary e.
+14 Fred bahçeye gitti.
+15 Ne Jeff verdi Mary e? 	top	13
+16 Mary topu verdi Jeff e.
+17 Fred koridora geri döndü.
+18 Kim topu verdi Jeff e? 	Mary	16
+19 Jeff topu verdi Mary e.
+20 Mary topu verdi Fred e.
+21 Ne Mary verdi Fred e? 	top	20
+22 Fred topu aldı Mary e.
+23 Bill ofise geri döndü.
+24 Kim topu aldı? 	Mary	22
+25 Bill elmayı aldı oradaki.
+26 Bill banyoya gitti.
+27 Kim topu aldı? 	Mary	22
+1 Jeff geri döndü bahçeye.
+2 Jeff elmayı aldı oradaki.
+3 Bill salona geri döndü.
+4 Jeff elmayı bıraktı.
+5 Jeff banyoya gitti.
+6 Bill sütü aldı oradaki.
+7 Mary mutfağa gitti.
+8 Jeff topu aldı oradaki.
+9 Jeff topu bıraktı.
+10 Bill sütü bıraktı.
+11 Bill sütü aldı oradaki.
+12 Mary bahçeye gitti.
+13 Fred mutfağa gitti.
+14 Jeff ofise gitti.
+15 Jeff banyoya gitti.
+16 Jeff ofise gitti.
+17 Jeff mutfağa gitti.
+18 Mary elmayı aldı oradaki.
+19 Fred banyoya gitti.
+20 Mary elmayı bıraktı.
+21 Bill koridora gitti.
+22 Fred koridora gitti.
+23 Mary elmayı aldı oradaki.
+24 Bill sütü bıraktı.
+25 Bill sütü aldı oradaki.
+26 Fred mutfağa gitti.
+27 Bill salona gitti.
+28 Fred banyoya gitti.
+29 Fred topu aldı oradaki.
+30 Mary salona gitti.
+31 Bill sütü bıraktı.
+32 Jeff bahçeye gitti.
+33 Mary elmayı aldı Bill e.
+34 Bill sütü aldı oradaki.
+35 Kim elmayı aldı? 	Bill	33
+36 Bill elmayı bıraktı.
+37 Bill banyoya gitti.
+38 Kime Mary elmayı verdi? 	Bill	33
+39 Fred topu aldı Bill e.
+40 Bill topu verdi Fred e.
+41 Ne Bill verdi Fred e? 	top	40
+42 Mary elmayı aldı oradaki.
+43 Fred topu verdi Bill e.
+44 Ne Fred verdi Bill e? 	top	43
+45 Bill topu verdi Fred e.
+46 Fred topu aldı Bill e.
+47 Kim topu verdi? 	Fred	46
+1 Bill koridora gitti.
+2 Mary koridora gitti.
+3 Fred bahçeye gitti.
+4 Mary ofise gitti.
+5 Jeff bahçeye gitti.
+6 Bill topu aldı oradaki.
+7 Jeff salona geri döndü.
+8 Bill topu bıraktı.
+9 Bill topu aldı oradaki.
+10 Mary salona gitti.
+11 Bill ofise geri döndü.
+12 Fred banyoya gitti.
+13 Mary ofise gitti.
+14 Bill topu bıraktı oradaki.
+15 Mary koridora gitti.
+16 Mary bahçeye gitti.
+17 Bill mutfağa gitti.
+18 Mary salona gitti.
+19 Mary bahçeye gitti.
+20 Fred sütü aldı oradaki.
+21 Mary koridora gitti.
+22 Fred salona geri döndü.
+23 Fred sütü verdi Jeff e.
+24 Jeff sütü aldı Fred e.
+25 Kim sütü verdi? 	Jeff	24
+26 Fred sütü verdi Jeff e.
+27 Jeff sütü aldı Fred e.
+28 Kime Jeff sütü verdi? 	Fred	27
+29 Jeff banyoya gitti.
+30 Jeff ofise gitti.
+31 Kime Jeff sütü verdi? 	Fred	27
+32 Bill bahçeye gitti.
+33 Fred bahçeye gitti.
+34 Kim sütü aldı? 	Fred	27
+35 Fred sütü verdi Bill e.
+36 Bill sütü bıraktı.
+37 Kim sütü aldı? 	Bill	35
+1 Mary mutfağa gitti.
+2 Jeff ofise gitti.
+3 Jeff koridora gitti.
+4 Mary bahçeye gitti.
+5 Jeff topu aldı oradaki.
+6 Mary banyoya gitti.
+7 Jeff topu bıraktı.
+8 Bill salona gitti.
+9 Mary mutfağa gitti.
+10 Jeff topu aldı oradaki.
+11 Jeff ofise gitti.
+12 Jeff koridora gitti.
+13 Mary banyoya gitti.
+14 Jeff salona gitti.
+15 Jeff topu aldı Bill e.
+16 Fred salona gitti.
+17 Ne Jeff verdi Bill e? 	top	15
+18 Jeff bahçeye gitti.
+19 Bill topu verdi Fred e.
+20 Ne Bill verdi Fred e? 	top	19
+21 Fred topu verdi Bill e.
+22 Bill topu verdi Fred e.
+23 Ne Bill verdi Fred e? 	top	22
+24 Fred topu verdi Bill e.
+25 Bill topu verdi Fred e.
+26 Kim topu verdi? 	Bill	25
+27 Fred topu aldı Bill e.
+28 Bill topu aldı Fred e.
+29 Ne Bill verdi Fred e? 	top	28
+1 Fred banyoya gitti.
+2 Jeff banyoya gitti.
+3 Mary banyoya geri döndü.
+4 Fred salona geri döndü.
+5 Fred ofise gitti.
+6 Mary salona geri döndü.
+7 Jeff sütü aldı oradaki.
+8 Bill bahçeye gitti.
+9 Mary mutfağa geri döndü.
+10 Fred salona gitti.
+11 Mary salona gitti.
+12 Jeff sütü bıraktı oradaki.
+13 Jeff sütü aldı oradaki.
+14 Bill ofise geri döndü.
+15 Mary mutfağa gitti.
+16 Jeff mutfağa geri döndü.
+17 Jeff sütü verdi Mary e.
+18 Mary sütü verdi Jeff e.
+19 Kime Mary sütü verdi? 	Jeff	18
+20 Jeff sütü verdi Mary e.
+21 Mary topu aldı oradaki.
+22 Ne Jeff verdi Mary e? 	süt	20
+23 Bill banyoya gitti.
+24 Fred bahçeye gitti.
+25 Kime Jeff sütü verdi? 	Mary	20
+26 Fred elmayı aldı oradaki.
+27 Mary topu Jeff e verdi.
+28 Kim topu verdi? 	Mary	27
+29 Fred elmayı bıraktı.
+30 Jeff topu bıraktı.
+31 Kim topu aldı? 	Jeff	27
+1 Jeff banyoya gitti.
+2 Jeff bahçeye gitti.
+3 Fred banyoya gitti.
+4 Jeff koridora gitti.
+5 Fred ofise gitti.
+6 Jeff salona gitti.
+7 Jeff topu aldı oradaki.
+8 Mary ofise gitti.
+9 Fred mutfağa gitti.
+10 Fred koridora gitti.
+11 Jeff sütü aldı oradaki.
+12 Fred mutfağa gitti.
+13 Mary banyoya gitti.
+14 Mary elmayı aldı oradaki.
+15 Jeff mutfağa gitti.
+16 Jeff topu aldı Fred e.
+17 Ne Jeff verdi Fred e? 	top	16
+18 Mary elmayı bıraktı.
+19 Fred topu aldı Bill e.
+20 Ne Fred verdi Bill e? 	top	19
+21 Fred koridora gitti.
+22 Bill topu aldı Jeff e.
+23 Kim topu verdi? 	Bill	22
+24 Mary mutfağa geri döndü.
+25 Jeff topu aldı Mary e.
+26 Kim topu aldı? 	Mary	25
+27 Mary topu verdi Bill e.
+28 Bill topu verdi Mary e.
+29 Ne Bill verdi Mary e? 	top	28
+1 Mary banyoya gitti.
+2 Jeff elmayı aldı oradaki.
+3 Bill ofise gitti.
+4 Jeff ofise gitti.
+5 Jeff elmayı verdi Bill e.
+6 Bill elmayı aldı Jeff e.
+7 Kim elmayı aldı? 	Jeff	6
+8 Jeff elmayı verdi Bill e.
+9 Bill elmayı aldı Jeff e.
+10 Kim elmayı verdi? 	Bill	9
+11 Jeff topu aldı oradaki.
+12 Jeff elmayı aldı Bill e.
+13 Ne Jeff verdi Bill e? 	elma	12
+14 Mary mutfağa gitti.
+15 Bill elmayı aldı Jeff e.
+16 Ne Bill verdi Jeff e? 	elma	15
+17 Mary banyoya gitti.
+18 Mary koridora gitti.
+19 Kim elmayı aldı? 	Jeff	15
+1 Bill salona gitti.
+2 Jeff koridora gitti.
+3 Jeff salona gitti.
+4 Bill ofise gitti.
+5 Fred koridora gitti.
+6 Fred banyoya gitti.
+7 Fred topu aldı oradaki.
+8 Mary salona gitti.
+9 Bill salona gitti.
+10 Fred sütü aldı oradaki.
+11 Fred salona geri döndü.
+12 Jeff bahçeye gitti.
+13 Fred topu aldı Mary e.
+14 Mary topu verdi Fred e.
+15 Kim topu verdi? 	Mary	14
+16 Fred topu verdi Mary e.
+17 Mary topu bıraktı.
+18 Kime Fred topu verdi? 	Mary	16
+19 Fred sütü aldı Mary e.
+20 Bill mutfağa geri döndü.
+21 Kim topu verdi Mary e? 	Fred	16
+22 Bill bahçeye gitti.
+23 Mary sütü verdi Fred e.
+24 Ne Mary verdi Fred e? 	süt	23
+25 Fred sütü bıraktı.
+26 Mary bahçeye gitti.
+27 Kim sütü verdi? 	Mary	23
+1 Fred elmayı aldı oradaki.
+2 Bill mutfağa gitti.
+3 Bill sütü aldı oradaki.
+4 Jeff mutfağa gitti.
+5 Bill sütü verdi Jeff e.
+6 Jeff sütü aldı Bill e.
+7 Kime Jeff sütü verdi? 	Bill	6
+8 Bill sütü verdi Jeff e.
+9 Jeff sütü verdi Bill e.
+10 Kime Jeff sütü verdi? 	Bill	9
+11 Fred elmayı bıraktı.
+12 Bill sütü bıraktı.
+13 Ne Jeff verdi Bill e? 	süt	9
+14 Mary mutfağa gitti.
+15 Bill sütü aldı oradaki.
+16 Ne Jeff verdi Bill e? 	süt	9
+17 Fred elmayı aldı oradaki.
+18 Bill sütü verdi Mary e.
+19 Kime Bill sütü verdi? 	Mary	18
+1 Mary koridora gitti.
+2 Fred salona gitti.
+3 Mary mutfağa gitti.
+4 Bill geri döndü bahçeye.
+5 Bill ofise geri döndü.
+6 Bill elmayı aldı oradaki.
+7 Jeff ofise geri döndü.
+8 Bill elmayı bıraktı.
+9 Mary bahçeye gitti.
+10 Jeff elmayı aldı oradaki.
+11 Jeff elmayı aldı Bill e.
+12 Bill elmayı bıraktı.
+13 Kim elmayı verdi Bill e? 	Jeff	11
+14 Bill banyoya gitti.
+15 Bill salona gitti.
+16 Ne Jeff verdi Bill e? 	elma	11
+17 Bill koridora gitti.
+18 Bill salona gitti.
+19 Bill ofise geri döndü.
+20 Jeff elmayı aldı oradaki.
+21 Jeff elmayı verdi Bill e.
+22 Bill elmayı aldı Jeff e.
+23 Kim elmayı aldı? 	Jeff	22
+24 Jeff elmayı verdi Bill e.
+25 Bill elmayı verdi Jeff e.
+26 Kim elmayı aldı? 	Jeff	25
+27 Jeff elmayı aldı Bill e.
+28 Mary mutfağa geri döndü.
+29 Kim elmayı verdi Bill e? 	Jeff	27
+1 Fred bahçeye gitti.
+2 Fred mutfağa gitti.
+3 Bill mutfağa geri döndü.
+4 Bill ofise gitti.
+5 Mary mutfağa geri döndü.
+6 Fred koridora gitti.
+7 Bill salona gitti.
+8 Jeff banyoya gitti.
+9 Bill koridora gitti.
+10 Jeff ofise gitti.
+11 Fred bahçeye gitti.
+12 Fred elmayı aldı oradaki.
+13 Bill mutfağa gitti.
+14 Bill ofise gitti.
+15 Fred salona gitti.
+16 Fred elmayı bıraktı.
+17 Fred ofise geri döndü.
+18 Bill geri döndü bahçeye.
+19 Bill ofise gitti.
+20 Jeff banyoya gitti.
+21 Fred koridora gitti.
+22 Fred mutfağa gitti.
+23 Mary geri döndü bahçeye.
+24 Mary banyoya gitti.
+25 Fred ofise geri döndü.
+26 Mary ofise gitti.
+27 Fred salona geri döndü.
+28 Mary bahçeye gitti.
+29 Mary ofise gitti.
+30 Fred topu aldı oradaki.
+31 Fred sütü aldı oradaki.
+32 Mary mutfağa gitti.
+33 Mary banyoya gitti.
+34 Bill banyoya gitti.
+35 Fred elmayı aldı oradaki.
+36 Mary mutfağa gitti.
+37 Fred elmayı bıraktı.
+38 Bill mutfağa gitti.
+39 Fred ofise gitti.
+40 Fred sütü bıraktı.
+41 Mary ofise gitti.
+42 Jeff bahçeye gitti.
+43 Fred topu bıraktı.
+44 Mary topu aldı oradaki.
+45 Mary topu bıraktı.
+46 Fred salona gitti.
+47 Fred elmayı aldı oradaki.
+48 Bill salona geri döndü.
+49 Jeff salona gitti.
+50 Mary mutfağa gitti.
+51 Fred elmayı verdi Bill e.
+52 Bill elmayı verdi Fred e.
+53 Kim elmayı verdi? 	Bill	52
+54 Fred elmayı verdi Bill e.
+55 Bill elmayı verdi Fred e.
+56 Ne Bill verdi Fred e? 	elma	55
+57 Fred elmayı verdi Bill e.
+58 Bill elmayı verdi Fred e.
+59 Ne Bill verdi Fred e? 	elma	58
+60 Bill bahçeye gitti.
+61 Fred koridora gitti.
+62 Kime Bill elmayı verdi? 	Fred	58
+63 Bill banyoya gitti.
+64 Jeff bahçeye gitti.
+65 Ne Bill verdi Fred e? 	elma	58
+1 Bill mutfağa gitti.
+2 Fred bahçeye gitti.
+3 Mary mutfağa geri döndü.
+4 Jeff koridora gitti.
+5 Fred ofise geri döndü.
+6 Jeff topu aldı oradaki.
+7 Fred mutfağa gitti.
+8 Fred salona gitti.
+9 Jeff topu bıraktı.
+10 Jeff salona gitti.
+11 Fred ofise gitti.
+12 Jeff banyoya gitti.
+13 Fred banyoya gitti.
+14 Bill bahçeye gitti.
+15 Fred mutfağa gitti.
+16 Fred banyoya gitti.
+17 Bill mutfağa gitti.
+18 Fred salona gitti.
+19 Jeff koridora gitti.
+20 Jeff topu aldı oradaki.
+21 Fred koridora gitti.
+22 Jeff topu verdi Fred e.
+23 Ne Jeff verdi Fred e? 	top	22
+24 Fred topu verdi Jeff e.
+25 Mary bahçeye gitti.
+26 Ne Fred verdi Jeff e? 	top	24
+27 Jeff topu bıraktı.
+28 Bill banyoya gitti.
+29 Kime Fred topu verdi? 	Jeff	24
+30 Mary banyoya gitti.
+31 Jeff salona gitti.
+32 Jeff banyoya gitti.
+33 Fred banyoya gitti.
+34 Jeff mutfağa geri döndü.
+35 Jeff bahçeye gitti.
+36 Bill bahçeye gitti.
+37 Mary bahçeye gitti.
+38 Bill koridora geri döndü.
+39 Jeff koridora gitti.
+40 Bill topu aldı oradaki.
+41 Jeff salona gitti.
+42 Bill topu bıraktı.
+43 Bill topu aldı oradaki.
+44 Fred geri döndü bahçeye.
+45 Bill topu bıraktı.
+46 Mary mutfağa gitti.
+47 Bill topu aldı oradaki.
+48 Bill topu bıraktı.
+49 Fred salona gitti.
+50 Bill mutfağa gitti.
+51 Fred sütü aldı oradaki.
+52 Bill salona gitti.
+53 Bill elmayı aldı oradaki.
+54 Bill elmayı verdi Fred e.
+55 Fred elmayı verdi Bill e.
+56 Kim elmayı verdi? 	Fred	55
+57 Bill elmayı aldı Fred e.
+58 Fred sütü bıraktı.
+59 Ne Bill verdi Fred e? 	elma	57
+1 Fred topu aldı oradaki.
+2 Mary mutfağa gitti.
+3 Mary koridora geri döndü.
+4 Jeff mutfağa gitti.
+5 Fred topu aldı Jeff e.
+6 Jeff topu verdi Fred e.
+7 Ne Jeff verdi Fred e? 	top	6
+8 Bill elmayı aldı oradaki.
+9 Fred topu verdi Jeff e.
+10 Kim topu verdi? 	Fred	9
+11 Jeff topu aldı Fred e.
+12 Bill mutfağa gitti.
+13 Ne Jeff verdi Fred e? 	top	11
+14 Bill elmayı verdi Fred e.
+15 Fred elmayı verdi Bill e.
+16 Kime Jeff topu verdi? 	Fred	11
+17 Bill elmayı bıraktı.
+18 Bill elmayı aldı oradaki.
+19 Ne Fred verdi Bill e? 	elma	15
+1 Fred koridora gitti.
+2 Jeff sütü aldı oradaki.
+3 Jeff sütü bıraktı.
+4 Jeff sütü aldı oradaki.
+5 Jeff sütü bıraktı oradaki.
+6 Mary koridora gitti.
+7 Mary ofise gitti.
+8 Bill banyoya gitti.
+9 Fred bahçeye gitti.
+10 Bill salona gitti.
+11 Bill mutfağa gitti.
+12 Mary banyoya gitti.
+13 Mary salona gitti.
+14 Jeff bahçeye gitti.
+15 Mary koridora gitti.
+16 Jeff salona geri döndü.
+17 Fred elmayı aldı oradaki.
+18 Jeff sütü aldı oradaki.
+19 Bill ofise gitti.
+20 Mary banyoya gitti.
+21 Fred elmayı bıraktı.
+22 Fred ofise gitti.
+23 Jeff sütü bıraktı.
+24 Bill mutfağa geri döndü.
+25 Bill koridora geri döndü.
+26 Mary ofise gitti.
+27 Bill mutfağa gitti.
+28 Mary mutfağa gitti.
+29 Fred salona gitti.
+30 Fred banyoya geri döndü.
+31 Fred salona gitti.
+32 Fred sütü aldı oradaki.
+33 Fred sütü aldı Jeff e.
+34 Jeff sütü verdi Fred e.
+35 Kime Jeff sütü verdi? 	Fred	34
+36 Fred sütü verdi Jeff e.
+37 Jeff sütü aldı Fred e.
+38 Kim sütü verdi Fred e? 	Jeff	37
+39 Fred sütü verdi Jeff e.
+40 Jeff mutfağa gitti.
+41 Kime Fred sütü verdi? 	Jeff	39
+42 Fred ofise gitti.
+43 Jeff sütü verdi Mary e.
+44 Ne Jeff verdi Mary e? 	süt	43
+45 Mary sütü bıraktı.
+46 Bill salona gitti.
+47 Kim sütü aldı? 	Mary	43
+1 Jeff koridora gitti.
+2 Fred elmayı aldı oradaki.
+3 Mary geri döndü bahçeye.
+4 Fred elmayı bıraktı.
+5 Fred elmayı aldı oradaki.
+6 Jeff ofise gitti.
+7 Fred elmayı bıraktı.
+8 Fred ofise gitti.
+9 Bill banyoya gitti.
+10 Jeff salona gitti.
+11 Mary sütü aldı oradaki.
+12 Fred banyoya gitti.
+13 Fred bahçeye gitti.
+14 Mary sütü verdi Fred e.
+15 Kim sütü verdi Fred e? 	Mary	14
+16 Fred sütü bıraktı.
+17 Jeff ofise gitti.
+18 Ne Mary verdi Fred e? 	süt	14
+19 Mary sütü aldı oradaki.
+20 Mary sütü bıraktı.
+21 Ne Mary verdi Fred e? 	süt	14
+22 Bill topu aldı oradaki.
+23 Fred sütü aldı oradaki.
+24 Fred sütü aldı Mary e.
+25 Mary sütü bıraktı oradaki.
+26 Ne Fred verdi Mary e? 	süt	24
+27 Bill topu bıraktı.
+28 Mary banyoya geri döndü.
+29 Ne Fred verdi Mary e? 	süt	24
+1 Bill sütü aldı oradaki.
+2 Bill sütü bıraktı.
+3 Bill ofise gitti.
+4 Bill mutfağa gitti.
+5 Mary salona geri döndü.
+6 Bill bahçeye gitti.
+7 Mary koridora gitti.
+8 Jeff ofise gitti.
+9 Mary sütü aldı oradaki.
+10 Mary banyoya gitti.
+11 Fred salona gitti.
+12 Fred elmayı aldı oradaki.
+13 Fred topu aldı oradaki.
+14 Fred koridora gitti.
+15 Jeff mutfağa geri döndü.
+16 Jeff ofise gitti.
+17 Fred elmayı bıraktı.
+18 Fred topu bıraktı.
+19 Mary koridora geri döndü.
+20 Fred mutfağa gitti.
+21 Bill salona gitti.
+22 Mary mutfağa gitti.
+23 Bill mutfağa gitti.
+24 Mary sütü bıraktı.
+25 Mary banyoya gitti.
+26 Bill sütü aldı oradaki.
+27 Jeff bahçeye gitti.
+28 Bill bahçeye gitti.
+29 Bill sütü verdi Jeff e.
+30 Jeff sütü bıraktı.
+31 Kim sütü aldı? 	Jeff	29
+32 Mary salona gitti.
+33 Jeff sütü aldı oradaki.
+34 Ne Bill verdi Jeff e? 	süt	29
+35 Jeff ofise gitti.
+36 Mary ofise gitti.
+37 Jeff sütü bıraktı.
+38 Bill banyoya gitti.
+39 Bill ofise gitti.
+40 Bill mutfağa gitti.
+41 Jeff sütü aldı oradaki.
+42 Jeff sütü bıraktı oradaki.
+43 Jeff sütü aldı oradaki.
+44 Jeff sütü verdi Mary e.
+45 Ne Jeff verdi Mary e? 	süt	44
+46 Mary sütü verdi Jeff e.
+47 Jeff sütü bıraktı.
+48 Kime Mary sütü verdi? 	Jeff	46
+49 Mary banyoya gitti.
+50 Bill salona geri döndü.
+51 Ne Mary verdi Jeff e? 	süt	46
+1 Mary salona gitti.
+2 Bill sütü aldı oradaki.
+3 Bill sütü verdi Mary e.
+4 Fred elmayı aldı oradaki.
+5 Kime Bill sütü verdi? 	Mary	3
+6 Mary sütü verdi Bill e.
+7 Fred elmayı bıraktı.
+8 Kim sütü verdi? 	Mary	6
+9 Bill koridora gitti.
+10 Fred koridora geri döndü.
+11 Kime Mary sütü verdi? 	Bill	6
+12 Bill sütü verdi Fred e.
+13 Mary ofise gitti.
+14 Kim sütü aldı? 	Fred	12
+15 Fred sütü verdi Bill e.
+16 Bill topu aldı oradaki.
+17 Kim sütü aldı? 	Bill	15
+1 Mary sütü aldı oradaki.
+2 Mary elmayı aldı oradaki.
+3 Jeff mutfağa geri döndü.
+4 Mary elmayı aldı Fred e.
+5 Kim elmayı verdi? 	Mary	4
+6 Fred elmayı verdi Mary e.
+7 Mary elmayı verdi Fred e.
+8 Ne Mary verdi Fred e? 	elma	7
+9 Jeff ofise gitti.
+10 Jeff salona gitti.
+11 Kime Mary elmayı verdi? 	Fred	7
+12 Fred elmayı verdi Mary e.
+13 Jeff ofise gitti.
+14 Kim elmayı verdi? 	Fred	12
+15 Mary elmayı aldı Fred e.
+16 Mary koridora gitti.
+17 Kim elmayı verdi? 	Mary	15
+1 Mary salona gitti.
+2 Jeff ofise gitti.
+3 Mary mutfağa gitti.
+4 Bill ofise gitti.
+5 Mary ofise gitti.
+6 Fred banyoya gitti.
+7 Fred ofise gitti.
+8 Bill banyoya gitti.
+9 Jeff banyoya gitti.
+10 Fred bahçeye gitti.
+11 Bill koridora geri döndü.
+12 Fred topu aldı oradaki.
+13 Bill salona gitti.
+14 Jeff ofise geri döndü.
+15 Fred sütü aldı oradaki.
+16 Mary bahçeye gitti.
+17 Bill ofise gitti.
+18 Fred koridora gitti.
+19 Fred salona geri döndü.
+20 Jeff koridora geri döndü.
+21 Bill salona gitti.
+22 Bill koridora geri döndü.
+23 Fred topu bıraktı.
+24 Fred mutfağa geri döndü.
+25 Mary koridora gitti.
+26 Jeff salona gitti.
+27 Fred koridora gitti.
+28 Bill banyoya gitti.
+29 Bill bahçeye gitti.
+30 Fred sütü verdi Mary e.
+31 Ne Fred verdi Mary e? 	süt	30
+32 Mary sütü bıraktı.
+33 Jeff topu aldı oradaki.
+34 Kim sütü verdi Mary e? 	Fred	30
+35 Mary sütü aldı oradaki.
+36 Mary sütü verdi Fred e.
+37 Ne Mary verdi Fred e? 	süt	36
+38 Fred sütü aldı Mary e.
+39 Jeff topu bıraktı.
+40 Ne Fred verdi Mary e? 	süt	38
+41 Mary sütü aldı Fred e.
+42 Fred salona gitti.
+43 Ne Mary verdi Fred e? 	süt	41
+1 Mary mutfağa geri döndü.
+2 Bill sütü aldı oradaki.
+3 Fred elmayı aldı oradaki.
+4 Bill koridora gitti.
+5 Fred elmayı bıraktı oradaki.
+6 Bill bahçeye gitti.
+7 Bill sütü verdi Fred e.
+8 Fred sütü verdi Bill e.
+9 Kim sütü verdi Bill e? 	Fred	8
+10 Bill elmayı aldı oradaki.
+11 Bill banyoya geri döndü.
+12 Ne Fred verdi Bill e? 	süt	8
+13 Bill salona gitti.
+14 Bill sütü bıraktı.
+15 Ne Fred verdi Bill e? 	süt	8
+16 Mary bahçeye gitti.
+17 Bill bahçeye gitti.
+18 Mary salona geri döndü.
+19 Jeff ofise gitti.
+20 Bill elmayı verdi Fred e.
+21 Fred elmayı verdi Bill e.
+22 Kime Fred elmayı verdi? 	Bill	21
+23 Mary mutfağa geri döndü.
+24 Jeff mutfağa geri döndü.
+25 Kim elmayı aldı? 	Bill	21
+1 Bill elmayı aldı oradaki.
+2 Fred bahçeye gitti.
+3 Fred topu aldı oradaki.
+4 Fred ofise geri döndü.
+5 Fred topu verdi Mary e.
+6 Mary topu verdi Fred e.
+7 Ne Mary verdi Fred e? 	top	6
+8 Fred topu aldı Mary e.
+9 Bill banyoya geri döndü.
+10 Kim topu verdi Mary e? 	Fred	8
+11 Bill sütü aldı oradaki.
+12 Mary topu verdi Fred e.
+13 Kim topu aldı? 	Fred	12
+14 Bill koridora gitti.
+15 Bill banyoya gitti.
+16 Ne Mary verdi Fred e? 	top	12
+17 Fred topu verdi Mary e.
+18 Mary topu bıraktı.
+19 Kim topu verdi Mary e? 	Fred	17
+1 Mary elmayı aldı oradaki.
+2 Fred sütü aldı oradaki.
+3 Fred sütü bıraktı.
+4 Mary elmayı bıraktı oradaki.
+5 Fred banyoya gitti.
+6 Fred salona geri döndü.
+7 Bill geri döndü bahçeye.
+8 Jeff topu aldı oradaki.
+9 Mary salona gitti.
+10 Jeff topu verdi Bill e.
+11 Kim topu verdi Bill e? 	Jeff	10
+12 Bill topu bıraktı.
+13 Bill mutfağa gitti.
+14 Kime Jeff topu verdi? 	Bill	10
+15 Mary mutfağa gitti.
+16 Jeff salona gitti.
+17 Ne Jeff verdi Bill e? 	top	10
+18 Bill sütü aldı oradaki.
+19 Bill sütü verdi Mary e.
+20 Kim sütü verdi Mary e? 	Bill	19
+21 Mary sütü aldı Bill e.
+22 Bill sütü bıraktı.
+23 Kim sütü verdi Bill e? 	Mary	21
+1 Mary mutfağa gitti.
+2 Bill salona gitti.
+3 Mary koridora gitti.
+4 Bill banyoya gitti.
+5 Mary topu aldı oradaki.
+6 Jeff elmayı aldı oradaki.
+7 Mary topu bıraktı.
+8 Jeff elmayı bıraktı.
+9 Fred mutfağa gitti.
+10 Mary bahçeye gitti.
+11 Jeff koridora gitti.
+12 Jeff salona gitti.
+13 Jeff ofise geri döndü.
+14 Jeff sütü aldı oradaki.
+15 Jeff bahçeye gitti.
+16 Jeff sütü verdi Mary e.
+17 Ne Jeff verdi Mary e? 	süt	16
+18 Mary salona gitti.
+19 Jeff koridora gitti.
+20 Kim sütü verdi Mary e? 	Jeff	16
+21 Mary elmayı aldı oradaki.
+22 Fred bahçeye gitti.
+23 Kim sütü verdi Mary e? 	Jeff	16
+24 Bill mutfağa gitti.
+25 Mary elmayı bıraktı oradaki.
+26 Jeff banyoya gitti.
+27 Mary koridora gitti.
+28 Fred banyoya gitti.
+29 Fred ofise gitti.
+30 Mary topu aldı oradaki.
+31 Mary bahçeye gitti.
+32 Mary mutfağa gitti.
+33 Mary topu verdi Bill e.
+34 Ne Mary verdi Bill e? 	top	33
+35 Bill topu aldı Mary e.
+36 Jeff bahçeye gitti.
+37 Kim topu verdi Mary e? 	Bill	35
+1 Mary topu aldı oradaki.
+2 Jeff geri döndü bahçeye.
+3 Jeff mutfağa geri döndü.
+4 Mary topu aldı Fred e.
+5 Kime Mary topu verdi? 	Fred	4
+6 Fred banyoya gitti.
+7 Fred topu aldı Bill e.
+8 Ne Fred verdi Bill e? 	top	7
+9 Bill topu verdi Fred e.
+10 Fred topu bıraktı.
+11 Kim topu verdi? 	Bill	9
+12 Bill topu aldı oradaki.
+13 Bill mutfağa geri döndü.
+14 Kim topu verdi? 	Bill	9
+15 Bill topu aldı Jeff e.
+16 Mary koridora gitti.
+17 Ne Bill verdi Jeff e? 	top	15
+1 Mary elmayı aldı oradaki.
+2 Jeff sütü aldı oradaki.
+3 Mary topu aldı oradaki.
+4 Jeff sütü verdi Bill e.
+5 Kime Jeff sütü verdi? 	Bill	4
+6 Fred koridora gitti.
+7 Bill sütü bıraktı.
+8 Ne Jeff verdi Bill e? 	süt	4
+9 Mary elmayı bıraktı.
+10 Jeff bahçeye gitti.
+11 Ne Jeff verdi Bill e? 	süt	4
+12 Fred salona gitti.
+13 Mary koridora gitti.
+14 Jeff mutfağa geri döndü.
+15 Jeff elmayı aldı oradaki.
+16 Mary salona gitti.
+17 Mary topu aldı Fred e.
+18 Kim topu verdi? 	Mary	17
+19 Fred topu verdi Mary e.
+20 Mary ofise gitti.
+21 Kim topu verdi Mary e? 	Fred	19
+1 Fred ofise gitti.
+2 Fred mutfağa gitti.
+3 Jeff mutfağa geri döndü.
+4 Mary koridora gitti.
+5 Mary topu aldı oradaki.
+6 Jeff ofise gitti.
+7 Bill mutfağa gitti.
+8 Bill ofise gitti.
+9 Mary topu bıraktı.
+10 Mary salona gitti.
+11 Mary koridora gitti.
+12 Mary topu aldı oradaki.
+13 Bill banyoya gitti.
+14 Fred bahçeye gitti.
+15 Mary ofise gitti.
+16 Mary topu Jeff e verdi.
+17 Ne Mary verdi Jeff e? 	top	16
+18 Fred sütü aldı oradaki.
+19 Jeff topu verdi Mary e.
+20 Ne Jeff verdi Mary e? 	top	19
+21 Mary topu Jeff e verdi.
+22 Bill elmayı aldı oradaki.
+23 Kim topu verdi? 	Mary	21
+24 Mary koridora gitti.
+25 Fred sütü bıraktı.
+26 Kim topu verdi Jeff e? 	Mary	21
+27 Fred sütü aldı oradaki.
+28 Fred salona geri döndü.
+29 Mary geri döndü bahçeye.
+30 Bill elmayı bıraktı.
+31 Bill geri döndü bahçeye.
+32 Jeff koridora gitti.
+33 Fred banyoya geri döndü.
+34 Fred sütü bıraktı oradaki.
+35 Mary mutfağa gitti.
+36 Fred elmayı aldı oradaki.
+37 Fred geri döndü bahçeye.
+38 Fred elmayı verdi Bill e.
+39 Kim elmayı verdi? 	Fred	38
+1 Bill koridora gitti.
+2 Fred salona gitti.
+3 Fred topu aldı oradaki.
+4 Bill mutfağa gitti.
+5 Fred sütü aldı oradaki.
+6 Mary salona gitti.
+7 Fred topu verdi Mary e.
+8 Fred koridora gitti.
+9 Ne Fred verdi Mary e? 	top	7
+10 Mary topu bıraktı oradaki.
+11 Fred sütü bıraktı.
+12 Ne Fred verdi Mary e? 	top	7
+13 Fred ofise gitti.
+14 Fred mutfağa gitti.
+15 Jeff ofise geri döndü.
+16 Fred ofise gitti.
+17 Jeff banyoya gitti.
+18 Fred bahçeye gitti.
+19 Bill salona geri döndü.
+20 Jeff elmayı aldı oradaki.
+21 Bill topu aldı oradaki.
+22 Bill topu verdi Mary e.
+23 Ne Bill verdi Mary e? 	top	22
+24 Jeff mutfağa gitti.
+25 Jeff ofise gitti.
+26 Kim topu verdi? 	Bill	22
+27 Mary topu aldı Bill e.
+28 Jeff elmayı bıraktı.
+29 Ne Mary verdi Bill e? 	top	27
+1 Bill mutfağa gitti.
+2 Jeff bahçeye gitti.
+3 Bill ofise gitti.
+4 Jeff mutfağa gitti.
+5 Bill banyoya gitti.
+6 Fred banyoya geri döndü.
+7 Bill koridora gitti.
+8 Fred koridora gitti.
+9 Bill ofise gitti.
+10 Mary ofise gitti.
+11 Jeff elmayı aldı oradaki.
+12 Bill salona geri döndü.
+13 Jeff bahçeye gitti.
+14 Jeff elmayı bıraktı.
+15 Jeff banyoya gitti.
+16 Jeff bahçeye gitti.
+17 Fred bahçeye gitti.
+18 Jeff elmayı aldı oradaki.
+19 Jeff elmayı aldı Fred e.
+20 Fred elmayı aldı Jeff e.
+21 Kim elmayı aldı? 	Jeff	20
+22 Jeff elmayı bıraktı.
+23 Jeff elmayı aldı oradaki.
+24 Ne Fred verdi Jeff e? 	elma	20
+25 Jeff topu aldı oradaki.
+26 Jeff topu bıraktı oradaki.
+27 Ne Fred verdi Jeff e? 	elma	20
+28 Jeff salona gitti.
+29 Jeff mutfağa gitti.
+30 Fred ofise gitti.
+31 Fred salona gitti.
+32 Mary sütü aldı oradaki.
+33 Fred banyoya geri döndü.
+34 Mary mutfağa gitti.
+35 Bill mutfağa gitti.
+36 Mary bahçeye gitti.
+37 Jeff elmayı verdi Bill e.
+38 Kim elmayı verdi Bill e? 	Jeff	37
+39 Bill elmayı verdi Jeff e.
+40 Fred bahçeye gitti.
+41 Kim elmayı verdi? 	Bill	39
+1 Fred ofise gitti.
+2 Jeff banyoya gitti.
+3 Jeff koridora gitti.
+4 Bill salona gitti.
+5 Fred banyoya geri döndü.
+6 Fred sütü aldı oradaki.
+7 Jeff banyoya gitti.
+8 Fred mutfağa geri döndü.
+9 Fred sütü bıraktı.
+10 Mary koridora gitti.
+11 Mary ofise gitti.
+12 Fred sütü aldı oradaki.
+13 Fred sütü bıraktı.
+14 Bill mutfağa geri döndü.
+15 Mary banyoya gitti.
+16 Fred sütü aldı oradaki.
+17 Bill koridora gitti.
+18 Mary geri döndü bahçeye.
+19 Fred sütü bıraktı.
+20 Fred sütü aldı oradaki.
+21 Bill salona geri döndü.
+22 Mary elmayı aldı oradaki.
+23 Mary mutfağa gitti.
+24 Fred sütü bıraktı oradaki.
+25 Mary elmayı bıraktı oradaki.
+26 Fred sütü aldı oradaki.
+27 Fred koridora gitti.
+28 Mary salona gitti.
+29 Fred sütü bıraktı.
+30 Mary ofise gitti.
+31 Fred banyoya geri döndü.
+32 Mary salona gitti.
+33 Mary mutfağa gitti.
+34 Fred geri döndü bahçeye.
+35 Bill banyoya gitti.
+36 Fred ofise gitti.
+37 Mary elmayı aldı oradaki.
+38 Mary elmayı bıraktı oradaki.
+39 Fred banyoya gitti.
+40 Fred salona geri döndü.
+41 Fred ofise gitti.
+42 Mary elmayı aldı oradaki.
+43 Mary koridora gitti.
+44 Mary elmayı bıraktı.
+45 Mary elmayı aldı oradaki.
+46 Mary sütü aldı oradaki.
+47 Fred mutfağa gitti.
+48 Jeff mutfağa gitti.
+49 Jeff koridora gitti.
+50 Mary ofise gitti.
+51 Fred salona gitti.
+52 Jeff bahçeye gitti.
+53 Mary mutfağa gitti.
+54 Mary banyoya gitti.
+55 Jeff topu aldı oradaki.
+56 Mary elmayı aldı Bill e.
+57 Kim elmayı verdi? 	Mary	56
+58 Bill elmayı verdi Mary e.
+59 Fred banyoya gitti.
+60 Kim elmayı verdi? 	Bill	58
+61 Mary elmayı verdi Fred e.
+62 Fred elmayı aldı Mary e.
+63 Kim elmayı verdi Mary e? 	Fred	62
+64 Mary mutfağa gitti.
+65 Mary sütü bıraktı.
+66 Kim elmayı verdi? 	Fred	62
+67 Bill ofise geri döndü.
+68 Mary sütü aldı oradaki.
+69 Ne Fred verdi Mary e? 	elma	62
+1 Fred mutfağa gitti.
+2 Jeff topu aldı oradaki.
+3 Mary elmayı aldı oradaki.
+4 Jeff topu bıraktı.
+5 Mary ofise gitti.
+6 Mary elmayı verdi Jeff e.
+7 Kime Mary elmayı verdi? 	Jeff	6
+8 Fred sütü aldı oradaki.
+9 Fred sütü bıraktı.
+10 Ne Mary verdi Jeff e? 	elma	6
+11 Jeff elmayı aldı Mary e.
+12 Mary elmayı verdi Jeff e.
+13 Ne Mary verdi Jeff e? 	elma	12
+14 Jeff elmayı verdi Mary e.
+15 Mary topu aldı oradaki.
+16 Kim elmayı aldı? 	Mary	14
+17 Mary topu bıraktı.
+18 Jeff salona gitti.
+19 Kime Jeff elmayı verdi? 	Mary	14
+1 Bill bahçeye gitti.
+2 Mary banyoya gitti.
+3 Bill ofise geri döndü.
+4 Jeff ofise gitti.
+5 Fred ofise geri döndü.
+6 Jeff banyoya gitti.
+7 Jeff koridora gitti.
+8 Bill salona gitti.
+9 Mary geri döndü bahçeye.
+10 Mary banyoya gitti.
+11 Mary ofise geri döndü.
+12 Mary banyoya gitti.
+13 Fred mutfağa gitti.
+14 Fred salona gitti.
+15 Mary salona geri döndü.
+16 Mary mutfağa gitti.
+17 Bill bahçeye gitti.
+18 Bill sütü aldı oradaki.
+19 Bill salona gitti.
+20 Bill sütü verdi Fred e.
+21 Kim sütü verdi? 	Bill	20
+22 Mary topu aldı oradaki.
+23 Fred sütü verdi Bill e.
+24 Kim sütü verdi Bill e? 	Fred	23
+25 Mary banyoya geri döndü.
+26 Mary topu bıraktı.
+27 Ne Fred verdi Bill e? 	süt	23
+28 Fred ofise geri döndü.
+29 Jeff salona gitti.
+30 Kim sütü verdi Bill e? 	Fred	23
+31 Bill sütü verdi Jeff e.
+32 Bill banyoya geri döndü.
+33 Ne Bill verdi Jeff e? 	süt	31
+1 Mary topu aldı oradaki.
+2 Mary topu verdi Fred e.
+3 Kim topu aldı? 	Fred	2
+4 Bill mutfağa gitti.
+5 Jeff ofise gitti.
+6 Kim topu verdi Fred e? 	Mary	2
+7 Fred topu verdi Mary e.
+8 Mary topu aldı Fred e.
+9 Kim topu verdi? 	Mary	8
+10 Fred topu aldı Mary e.
+11 Mary topu bıraktı.
+12 Kim topu verdi Mary e? 	Fred	10
+13 Fred topu aldı oradaki.
+14 Fred topu bıraktı.
+15 Ne Fred verdi Mary e? 	top	10
+1 Bill salona geri döndü.
+2 Mary sütü aldı oradaki.
+3 Mary sütü verdi Fred e.
+4 Fred sütü aldı Mary e.
+5 Kim sütü verdi Mary e? 	Fred	4
+6 Mary sütü bıraktı.
+7 Jeff ofise gitti.
+8 Kim sütü verdi Mary e? 	Fred	4
+9 Bill bahçeye gitti.
+10 Mary koridora gitti.
+11 Kim sütü verdi? 	Fred	4
+12 Jeff mutfağa geri döndü.
+13 Jeff ofise gitti.
+14 Mary topu aldı oradaki.
+15 Fred sütü aldı oradaki.
+16 Mary topu bıraktı.
+17 Fred banyoya gitti.
+18 Fred sütü bıraktı oradaki.
+19 Mary salona geri döndü.
+20 Bill salona gitti.
+21 Mary ofise gitti.
+22 Jeff koridora geri döndü.
+23 Mary banyoya gitti.
+24 Fred elmayı aldı oradaki.
+25 Fred elmayı aldı Mary e.
+26 Kim elmayı verdi? 	Fred	25
+27 Mary elmayı verdi Fred e.
+28 Mary sütü aldı oradaki.
+29 Ne Mary verdi Fred e? 	elma	27
+1 Jeff banyoya gitti.
+2 Bill salona gitti.
+3 Jeff koridora gitti.
+4 Bill sütü aldı oradaki.
+5 Bill sütü bıraktı.
+6 Mary salona gitti.
+7 Jeff salona geri döndü.
+8 Fred topu aldı oradaki.
+9 Bill sütü aldı oradaki.
+10 Bill sütü verdi Mary e.
+11 Kim sütü verdi Mary e? 	Bill	10
+12 Mary sütü verdi Bill e.
+13 Bill sütü bıraktı oradaki.
+14 Kim sütü verdi Bill e? 	Mary	12
+15 Bill mutfağa gitti.
+16 Bill elmayı aldı oradaki.
+17 Kim sütü verdi Bill e? 	Mary	12
+18 Fred topu bıraktı.
+19 Mary bahçeye gitti.
+20 Fred mutfağa gitti.
+21 Fred salona geri döndü.
+22 Fred sütü aldı oradaki.
+23 Fred sütü aldı Jeff e.
+24 Ne Fred verdi Jeff e? 	süt	23
+25 Fred banyoya gitti.
+26 Bill salona gitti.
+27 Kim sütü aldı? 	Jeff	23
+1 Bill sütü aldı oradaki.
+2 Bill topu aldı oradaki.
+3 Fred koridora gitti.
+4 Bill topu bıraktı.
+5 Bill sütü bıraktı.
+6 Bill sütü aldı oradaki.
+7 Bill sütü verdi Fred e.
+8 Jeff banyoya gitti.
+9 Kim sütü aldı? 	Fred	7
+10 Fred topu aldı oradaki.
+11 Bill mutfağa geri döndü.
+12 Kim sütü verdi Fred e? 	Bill	7
+13 Fred topu bıraktı.
+14 Fred mutfağa gitti.
+15 Fred sütü aldı Bill e.
+16 Bill sütü verdi Fred e.
+17 Kim sütü aldı? 	Fred	16
+18 Fred sütü aldı Bill e.
+19 Bill sütü verdi Fred e.
+20 Kime Bill sütü verdi? 	Fred	19
+21 Fred bahçeye gitti.
+22 Mary bahçeye gitti.
+23 Kim sütü aldı? 	Fred	19
+1 Bill ofise gitti.
+2 Mary banyoya gitti.
+3 Fred geri döndü bahçeye.
+4 Bill koridora gitti.
+5 Bill ofise geri döndü.
+6 Fred salona gitti.
+7 Fred mutfağa gitti.
+8 Fred salona gitti.
+9 Mary salona gitti.
+10 Fred mutfağa gitti.
+11 Mary bahçeye gitti.
+12 Fred banyoya geri döndü.
+13 Bill koridora geri döndü.
+14 Bill sütü aldı oradaki.
+15 Bill ofise geri döndü.
+16 Bill sütü verdi Jeff e.
+17 Ne Bill verdi Jeff e? 	süt	16
+18 Jeff sütü verdi Bill e.
+19 Jeff banyoya geri döndü.
+20 Kim sütü aldı? 	Bill	18
+21 Bill mutfağa geri döndü.
+22 Bill elmayı aldı oradaki.
+23 Kime Jeff sütü verdi? 	Bill	18
+24 Jeff mutfağa geri döndü.
+25 Bill elmayı verdi Jeff e.
+26 Ne Bill verdi Jeff e? 	elma	25
+27 Jeff bahçeye gitti.
+28 Jeff elmayı verdi Mary e.
+29 Kime Jeff elmayı verdi? 	Mary	28
+1 Fred ofise gitti.
+2 Fred bahçeye gitti.
+3 Mary sütü aldı oradaki.
+4 Bill elmayı aldı oradaki.
+5 Jeff koridora gitti.
+6 Mary sütü verdi Jeff e.
+7 Ne Mary verdi Jeff e? 	süt	6
+8 Jeff sütü verdi Mary e.
+9 Bill bahçeye gitti.
+10 Kim sütü verdi? 	Jeff	8
+11 Bill elmayı verdi Fred e.
+12 Fred elmayı verdi Bill e.
+13 Kim sütü verdi? 	Jeff	8
+14 Jeff banyoya gitti.
+15 Mary bahçeye gitti.
+16 Kim elmayı verdi? 	Fred	12
+17 Bill elmayı verdi Mary e.
+18 Mary elmayı verdi Fred e.
+19 Ne Mary verdi Fred e? 	elma	18
+1 Bill koridora geri döndü.
+2 Fred bahçeye gitti.
+3 Mary koridora gitti.
+4 Fred koridora gitti.
+5 Bill banyoya gitti.
+6 Jeff geri döndü bahçeye.
+7 Mary bahçeye gitti.
+8 Jeff mutfağa gitti.
+9 Bill topu aldı oradaki.
+10 Fred ofise geri döndü.
+11 Bill topu bıraktı.
+12 Bill topu aldı oradaki.
+13 Mary mutfağa gitti.
+14 Jeff bahçeye gitti.
+15 Mary salona gitti.
+16 Bill salona gitti.
+17 Bill topu verdi Mary e.
+18 Mary topu aldı Bill e.
+19 Kime Mary topu verdi? 	Bill	18
+20 Bill topu verdi Mary e.
+21 Mary topu verdi Bill e.
+22 Kim topu verdi Bill e? 	Mary	21
+23 Bill ofise gitti.
+24 Bill elmayı aldı oradaki.
+25 Ne Mary verdi Bill e? 	top	21
+26 Bill elmayı aldı Fred e.
+27 Fred elmayı verdi Bill e.
+28 Kim elmayı aldı? 	Bill	27
+29 Jeff banyoya gitti.
+30 Bill elmayı verdi Fred e.
+31 Kim elmayı verdi? 	Bill	30
+1 Jeff topu aldı oradaki.
+2 Fred bahçeye gitti.
+3 Jeff topu verdi Bill e.
+4 Mary koridora gitti.
+5 Kim topu verdi Bill e? 	Jeff	3
+6 Fred salona gitti.
+7 Mary mutfağa gitti.
+8 Kim topu aldı? 	Bill	3
+9 Bill topu bıraktı.
+10 Mary banyoya gitti.
+11 Fred bahçeye gitti.
+12 Fred salona geri döndü.
+13 Fred banyoya gitti.
+14 Bill topu aldı oradaki.
+15 Jeff bahçeye gitti.
+16 Jeff ofise gitti.
+17 Fred ofise gitti.
+18 Bill topu bıraktı oradaki.
+19 Fred bahçeye gitti.
+20 Jeff koridora gitti.
+21 Jeff ofise geri döndü.
+22 Mary bahçeye gitti.
+23 Jeff sütü aldı oradaki.
+24 Bill bahçeye gitti.
+25 Bill mutfağa gitti.
+26 Jeff koridora geri döndü.
+27 Fred banyoya gitti.
+28 Mary ofise gitti.
+29 Bill elmayı aldı oradaki.
+30 Jeff ofise gitti.
+31 Jeff sütü aldı Mary e.
+32 Mary sütü verdi Jeff e.
+33 Kim sütü verdi Jeff e? 	Mary	32
+34 Jeff koridora gitti.
+35 Fred koridora gitti.
+36 Kim sütü verdi Jeff e? 	Mary	32
+37 Jeff topu aldı oradaki.
+38 Jeff topu bıraktı oradaki.
+39 Kim sütü verdi? 	Mary	32
+1 Bill banyoya gitti.
+2 Bill ofise gitti.
+3 Fred elmayı aldı oradaki.
+4 Mary koridora gitti.
+5 Mary sütü aldı oradaki.
+6 Fred elmayı bıraktı.
+7 Mary salona gitti.
+8 Fred ofise gitti.
+9 Fred banyoya gitti.
+10 Jeff koridora gitti.
+11 Mary topu aldı oradaki.
+12 Mary topu bıraktı.
+13 Fred bahçeye gitti.
+14 Bill salona gitti.
+15 Mary sütü aldı Bill e.
+16 Bill topu aldı oradaki.
+17 Kim sütü verdi Bill e? 	Mary	15
+18 Bill topu verdi Mary e.
+19 Fred elmayı aldı oradaki.
+20 Kim sütü verdi? 	Mary	15
+21 Mary topu bıraktı.
+22 Fred salona gitti.
+23 Kim topu verdi Mary e? 	Bill	18
+24 Jeff bahçeye gitti.
+25 Fred elmayı aldı Mary e.
+26 Kim elmayı aldı? 	Mary	25
+27 Bill ofise gitti.
+28 Jeff koridora gitti.
+29 Ne Fred verdi Mary e? 	elma	25
+1 Fred salona gitti.
+2 Jeff sütü aldı oradaki.
+3 Jeff sütü bıraktı.
+4 Fred banyoya gitti.
+5 Fred topu aldı oradaki.
+6 Bill mutfağa gitti.
+7 Mary banyoya gitti.
+8 Jeff salona gitti.
+9 Fred topu bıraktı oradaki.
+10 Fred mutfağa gitti.
+11 Bill bahçeye gitti.
+12 Bill banyoya gitti.
+13 Bill topu aldı oradaki.
+14 Fred banyoya geri döndü.
+15 Bill topu aldı Mary e.
+16 Mary topu verdi Fred e.
+17 Ne Mary verdi Fred e? 	top	16
+18 Fred topu aldı Mary e.
+19 Mary ofise gitti.
+20 Kim topu verdi? 	Fred	18
+21 Mary sütü aldı oradaki.
+22 Mary salona gitti.
+23 Kim topu verdi? 	Fred	18
+24 Mary topu verdi Jeff e.
+25 Mary ofise gitti.
+26 Ne Mary verdi Jeff e? 	top	24
+27 Mary sütü bıraktı.
+28 Mary salona geri döndü.
+29 Kime Mary topu verdi? 	Jeff	24
+1 Fred topu aldı oradaki.
+2 Mary bahçeye gitti.
+3 Jeff ofise geri döndü.
+4 Jeff banyoya geri döndü.
+5 Fred topu bıraktı.
+6 Jeff mutfağa gitti.
+7 Fred banyoya gitti.
+8 Mary ofise gitti.
+9 Mary bahçeye gitti.
+10 Mary ofise gitti.
+11 Bill ofise gitti.
+12 Mary mutfağa gitti.
+13 Jeff sütü aldı oradaki.
+14 Fred mutfağa geri döndü.
+15 Mary topu aldı oradaki.
+16 Jeff koridora gitti.
+17 Mary koridora gitti.
+18 Mary topu verdi Jeff e.
+19 Kim topu verdi? 	Mary	18
+20 Mary salona gitti.
+21 Mary mutfağa gitti.
+22 Ne Mary verdi Jeff e? 	top	18
+23 Fred banyoya geri döndü.
+24 Jeff sütü bıraktı oradaki.
+25 Kim topu verdi? 	Mary	18
+26 Jeff sütü aldı oradaki.
+27 Bill mutfağa gitti.
+28 Jeff topu bıraktı.
+29 Fred koridora gitti.
+30 Jeff topu aldı oradaki.
+31 Fred mutfağa gitti.
+32 Fred banyoya gitti.
+33 Mary salona gitti.
+34 Mary elmayı aldı oradaki.
+35 Bill bahçeye gitti.
+36 Jeff ofise gitti.
+37 Fred salona geri döndü.
+38 Mary elmayı verdi Fred e.
+39 Fred mutfağa geri döndü.
+40 Kime Mary elmayı verdi? 	Fred	38
+41 Mary mutfağa gitti.
+42 Jeff banyoya gitti.
+43 Kim elmayı verdi? 	Mary	38
+1 Bill salona geri döndü.
+2 Fred bahçeye gitti.
+3 Mary mutfağa geri döndü.
+4 Jeff koridora gitti.
+5 Jeff banyoya gitti.
+6 Mary topu aldı oradaki.
+7 Mary ofise geri döndü.
+8 Mary salona gitti.
+9 Mary topu bıraktı.
+10 Bill topu aldı oradaki.
+11 Mary elmayı aldı oradaki.
+12 Bill ofise gitti.
+13 Bill topu bıraktı.
+14 Mary elmayı bıraktı oradaki.
+15 Bill bahçeye gitti.
+16 Fred salona gitti.
+17 Fred mutfağa gitti.
+18 Jeff koridora gitti.
+19 Fred koridora gitti.
+20 Mary mutfağa gitti.
+21 Jeff mutfağa gitti.
+22 Jeff ofise geri döndü.
+23 Bill koridora geri döndü.
+24 Mary banyoya gitti.
+25 Mary koridora gitti.
+26 Jeff koridora gitti.
+27 Bill ofise geri döndü.
+28 Bill topu aldı oradaki.
+29 Mary ofise gitti.
+30 Bill topu verdi Mary e.
+31 Ne Bill verdi Mary e? 	top	30
+32 Fred mutfağa gitti.
+33 Bill banyoya gitti.
+34 Kim topu verdi? 	Bill	30
+35 Jeff banyoya gitti.
+36 Mary sütü aldı oradaki.
+37 Ne Bill verdi Mary e? 	top	30
+38 Bill mutfağa gitti.
+39 Bill koridora gitti.
+40 Mary sütü bıraktı.
+41 Mary topu bıraktı oradaki.
+42 Fred ofise gitti.
+43 Fred topu aldı oradaki.
+44 Bill ofise gitti.
+45 Fred topu aldı Mary e.
+46 Kim topu verdi Mary e? 	Fred	45
+47 Fred sütü aldı oradaki.
+48 Mary topu verdi Fred e.
+49 Kime Mary topu verdi? 	Fred	48
+1 Bill bahçeye gitti.
+2 Jeff salona gitti.
+3 Fred koridora geri döndü.
+4 Jeff topu aldı oradaki.
+5 Jeff banyoya gitti.
+6 Jeff topu bıraktı.
+7 Jeff elmayı aldı oradaki.
+8 Jeff topu aldı oradaki.
+9 Bill banyoya gitti.
+10 Jeff elmayı verdi Bill e.
+11 Ne Jeff verdi Bill e? 	elma	10
+12 Mary ofise gitti.
+13 Jeff topu bıraktı oradaki.
+14 Kim elmayı aldı? 	Bill	10
+15 Bill elmayı verdi Jeff e.
+16 Mary sütü aldı oradaki.
+17 Kim elmayı aldı? 	Jeff	15
+18 Jeff elmayı verdi Bill e.
+19 Bill elmayı verdi Jeff e.
+20 Kim elmayı aldı? 	Jeff	19
+21 Bill koridora gitti.
+22 Jeff topu aldı oradaki.
+23 Kim elmayı aldı? 	Jeff	19
+1 Fred koridora gitti.
+2 Fred ofise gitti.
+3 Fred koridora gitti.
+4 Mary elmayı aldı oradaki.
+5 Jeff salona gitti.
+6 Jeff ofise gitti.
+7 Jeff salona gitti.
+8 Mary ofise gitti.
+9 Mary banyoya gitti.
+10 Mary elmayı bıraktı.
+11 Fred salona gitti.
+12 Jeff bahçeye gitti.
+13 Jeff salona gitti.
+14 Fred banyoya gitti.
+15 Bill bahçeye gitti.
+16 Mary elmayı aldı oradaki.
+17 Mary elmayı aldı Fred e.
+18 Jeff topu aldı oradaki.
+19 Kime Mary elmayı verdi? 	Fred	17
+20 Fred elmayı verdi Mary e.
+21 Mary elmayı verdi Fred e.
+22 Kime Mary elmayı verdi? 	Fred	21
+23 Jeff sütü aldı oradaki.
+24 Fred elmayı verdi Mary e.
+25 Ne Fred verdi Mary e? 	elma	24
+26 Mary elmayı verdi Fred e.
+27 Fred koridora geri döndü.
+28 Ne Mary verdi Fred e? 	elma	26
+29 Jeff banyoya gitti.
+30 Jeff topu verdi Mary e.
+31 Kim topu verdi Mary e? 	Jeff	30
+1 Mary elmayı aldı oradaki.
+2 Mary elmayı bıraktı oradaki.
+3 Mary elmayı aldı oradaki.
+4 Mary elmayı bıraktı oradaki.
+5 Fred mutfağa gitti.
+6 Fred ofise gitti.
+7 Bill elmayı aldı oradaki.
+8 Bill elmayı verdi Mary e.
+9 Ne Bill verdi Mary e? 	elma	8
+10 Mary elmayı aldı Bill e.
+11 Jeff koridora gitti.
+12 Ne Mary verdi Bill e? 	elma	10
+13 Bill elmayı bıraktı oradaki.
+14 Bill elmayı aldı oradaki.
+15 Ne Mary verdi Bill e? 	elma	10
+16 Bill elmayı aldı Mary e.
+17 Mary elmayı verdi Bill e.
+18 Kime Mary elmayı verdi? 	Bill	17
+19 Mary geri döndü bahçeye.
+20 Bill ofise gitti.
+21 Kim elmayı verdi? 	Mary	17
+1 Mary mutfağa gitti.
+2 Fred mutfağa gitti.
+3 Jeff bahçeye gitti.
+4 Bill ofise gitti.
+5 Jeff mutfağa gitti.
+6 Bill elmayı aldı oradaki.
+7 Fred ofise gitti.
+8 Jeff salona gitti.
+9 Bill elmayı verdi Fred e.
+10 Fred elmayı verdi Bill e.
+11 Kime Fred elmayı verdi? 	Bill	10
+12 Bill elmayı bıraktı.
+13 Jeff bahçeye gitti.
+14 Ne Fred verdi Bill e? 	elma	10
+15 Bill koridora gitti.
+16 Fred elmayı aldı oradaki.
+17 Ne Fred verdi Bill e? 	elma	10
+18 Mary ofise gitti.
+19 Fred elmayı bıraktı.
+20 Jeff mutfağa gitti.
+21 Fred elmayı aldı oradaki.
+22 Fred elmayı verdi Mary e.
+23 Mary elmayı verdi Fred e.
+24 Kim elmayı verdi Fred e? 	Mary	23
+25 Fred elmayı aldı Mary e.
+26 Bill topu aldı oradaki.
+27 Ne Fred verdi Mary e? 	elma	25
+1 Mary mutfağa gitti.
+2 Mary banyoya gitti.
+3 Jeff mutfağa gitti.
+4 Jeff ofise gitti.
+5 Mary koridora gitti.
+6 Jeff banyoya gitti.
+7 Jeff mutfağa geri döndü.
+8 Mary ofise gitti.
+9 Fred mutfağa gitti.
+10 Bill bahçeye gitti.
+11 Jeff ofise geri döndü.
+12 Fred elmayı aldı oradaki.
+13 Fred elmayı bıraktı.
+14 Bill ofise geri döndü.
+15 Mary koridora gitti.
+16 Bill mutfağa geri döndü.
+17 Bill ofise gitti.
+18 Mary salona gitti.
+19 Fred salona gitti.
+20 Mary bahçeye gitti.
+21 Fred mutfağa gitti.
+22 Bill geri döndü bahçeye.
+23 Jeff mutfağa geri döndü.
+24 Fred elmayı aldı oradaki.
+25 Fred salona gitti.
+26 Mary sütü aldı oradaki.
+27 Mary sütü verdi Bill e.
+28 Mary ofise gitti.
+29 Ne Mary verdi Bill e? 	süt	27
+30 Jeff banyoya gitti.
+31 Jeff ofise geri döndü.
+32 Kim sütü aldı? 	Bill	27
+33 Fred elmayı bıraktı.
+34 Bill topu aldı oradaki.
+35 Fred mutfağa gitti.
+36 Bill topu bıraktı.
+37 Bill topu aldı oradaki.
+38 Jeff mutfağa gitti.
+39 Bill sütü bıraktı.
+40 Jeff koridora gitti.
+41 Bill topu bıraktı.
+42 Fred banyoya geri döndü.
+43 Mary mutfağa gitti.
+44 Mary ofise gitti.
+45 Fred ofise geri döndü.
+46 Bill ofise gitti.
+47 Jeff bahçeye gitti.
+48 Mary mutfağa gitti.
+49 Mary geri döndü bahçeye.
+50 Fred banyoya gitti.
+51 Mary koridora gitti.
+52 Mary ofise gitti.
+53 Jeff topu aldı oradaki.
+54 Jeff sütü aldı oradaki.
+55 Bill mutfağa geri döndü.
+56 Mary bahçeye gitti.
+57 Fred mutfağa gitti.
+58 Jeff topu verdi Mary e.
+59 Kim topu verdi? 	Jeff	58
+60 Bill salona geri döndü.
+61 Mary koridora gitti.
+62 Ne Jeff verdi Mary e? 	top	58
+63 Fred salona gitti.
+64 Mary banyoya gitti.
+65 Kime Jeff topu verdi? 	Mary	58
+1 Fred topu aldı oradaki.
+2 Fred topu verdi Jeff e.
+3 Kime Fred topu verdi? 	Jeff	2
+4 Jeff topu verdi Fred e.
+5 Fred salona gitti.
+6 Kime Jeff topu verdi? 	Fred	4
+7 Mary salona gitti.
+8 Bill ofise gitti.
+9 Kim topu aldı? 	Fred	4
+10 Fred topu verdi Mary e.
+11 Jeff mutfağa geri döndü.
+12 Ne Fred verdi Mary e? 	top	10
+13 Bill banyoya geri döndü.
+14 Mary topu verdi Fred e.
+15 Kim topu aldı? 	Fred	14
+1 Mary ofise gitti.
+2 Jeff bahçeye gitti.
+3 Jeff koridora geri döndü.
+4 Mary sütü aldı oradaki.
+5 Mary topu aldı oradaki.
+6 Mary elmayı aldı oradaki.
+7 Jeff mutfağa gitti.
+8 Bill bahçeye gitti.
+9 Bill mutfağa geri döndü.
+10 Fred bahçeye gitti.
+11 Mary topu bıraktı.
+12 Mary mutfağa geri döndü.
+13 Jeff ofise gitti.
+14 Bill ofise gitti.
+15 Bill bahçeye gitti.
+16 Fred salona gitti.
+17 Mary sütü bıraktı.
+18 Bill ofise gitti.
+19 Mary salona gitti.
+20 Mary ofise gitti.
+21 Jeff topu aldı oradaki.
+22 Mary banyoya gitti.
+23 Mary bahçeye gitti.
+24 Jeff topu aldı Bill e.
+25 Kime Jeff topu verdi? 	Bill	24
+26 Mary mutfağa gitti.
+27 Bill topu verdi Jeff e.
+28 Kim topu verdi Jeff e? 	Bill	27
+29 Mary elmayı bıraktı.
+30 Jeff topu verdi Bill e.
+31 Kim topu verdi? 	Jeff	30
+32 Bill topu verdi Jeff e.
+33 Jeff banyoya gitti.
+34 Kim topu aldı? 	Jeff	32
+35 Bill geri döndü bahçeye.
+36 Jeff topu bıraktı.
+37 Kim topu verdi? 	Bill	32
+1 Mary mutfağa gitti.
+2 Jeff bahçeye gitti.
+3 Mary salona gitti.
+4 Bill topu aldı oradaki.
+5 Bill topu verdi Fred e.
+6 Jeff salona gitti.
+7 Ne Bill verdi Fred e? 	top	5
+8 Fred topu bıraktı.
+9 Bill salona gitti.
+10 Kim topu verdi Fred e? 	Bill	5
+11 Fred topu aldı oradaki.
+12 Mary elmayı aldı oradaki.
+13 Mary banyoya gitti.
+14 Mary salona geri döndü.
+15 Fred mutfağa gitti.
+16 Mary elmayı bıraktı.
+17 Bill mutfağa gitti.
+18 Jeff elmayı aldı oradaki.
+19 Jeff elmayı bıraktı.
+20 Fred topu aldı Bill e.
+21 Kime Fred topu verdi? 	Bill	20
+22 Bill topu aldı Fred e.
+23 Mary ofise gitti.
+24 Kim topu verdi Fred e? 	Bill	22
+25 Fred topu verdi Bill e.
+26 Bill topu verdi Fred e.
+27 Kim topu aldı? 	Fred	26
+1 Mary ofise gitti.
+2 Fred sütü aldı oradaki.
+3 Mary mutfağa gitti.
+4 Fred banyoya gitti.
+5 Mary bahçeye gitti.
+6 Bill koridora gitti.
+7 Fred sütü bıraktı.
+8 Jeff banyoya gitti.
+9 Fred bahçeye gitti.
+10 Jeff mutfağa gitti.
+11 Mary banyoya gitti.
+12 Mary salona gitti.
+13 Mary topu aldı oradaki.
+14 Fred koridora gitti.
+15 Jeff elmayı aldı oradaki.
+16 Bill salona gitti.
+17 Mary mutfağa gitti.
+18 Bill koridora gitti.
+19 Jeff elmayı verdi Mary e.
+20 Mary elmayı bıraktı.
+21 Ne Jeff verdi Mary e? 	elma	19
+22 Jeff elmayı aldı oradaki.
+23 Jeff elmayı verdi Mary e.
+24 Kim elmayı verdi? 	Jeff	23
+25 Fred ofise gitti.
+26 Mary elmayı verdi Jeff e.
+27 Kim elmayı verdi? 	Mary	26
+28 Jeff elmayı verdi Mary e.
+29 Mary elmayı aldı Jeff e.
+30 Ne Mary verdi Jeff e? 	elma	29
+31 Jeff elmayı aldı Mary e.
+32 Mary koridora geri döndü.
+33 Ne Jeff verdi Mary e? 	elma	31
+1 Mary ofise geri döndü.
+2 Fred ofise gitti.
+3 Jeff banyoya gitti.
+4 Bill ofise gitti.
+5 Fred koridora gitti.
+6 Jeff elmayı aldı oradaki.
+7 Bill mutfağa gitti.
+8 Fred banyoya gitti.
+9 Fred koridora gitti.
+10 Fred salona gitti.
+11 Bill bahçeye gitti.
+12 Mary mutfağa gitti.
+13 Jeff topu aldı oradaki.
+14 Mary sütü aldı oradaki.
+15 Jeff salona gitti.
+16 Jeff elmayı aldı Fred e.
+17 Ne Jeff verdi Fred e? 	elma	16
+18 Mary salona geri döndü.
+19 Fred elmayı verdi Mary e.
+20 Ne Fred verdi Mary e? 	elma	19
+21 Jeff topu bıraktı.
+22 Jeff mutfağa gitti.
+23 Ne Fred verdi Mary e? 	elma	19
+24 Mary elmayı bıraktı.
+25 Fred elmayı aldı oradaki.
+26 Kime Fred elmayı verdi? 	Mary	19
+27 Fred topu aldı oradaki.
+28 Mary sütü bıraktı.
+29 Fred elmayı verdi Mary e.
+30 Jeff bahçeye gitti.
+31 Ne Fred verdi Mary e? 	elma	29
+1 Fred sütü aldı oradaki.
+2 Fred banyoya geri döndü.
+3 Bill banyoya geri döndü.
+4 Fred sütü verdi Bill e.
+5 Kim sütü verdi Bill e? 	Fred	4
+6 Bill topu aldı oradaki.
+7 Bill topu aldı Fred e.
+8 Kime Bill topu verdi? 	Fred	7
+9 Fred topu bıraktı.
+10 Bill topu aldı oradaki.
+11 Ne Fred verdi Bill e? 	süt	4
+12 Bill topu verdi Fred e.
+13 Fred topu aldı Bill e.
+14 Kim topu aldı? 	Bill	13
+15 Bill topu bıraktı.
+16 Fred topu aldı oradaki.
+17 Ne Fred verdi Bill e? 	top	13
+1 Fred topu aldı oradaki.
+2 Jeff ofise gitti.
+3 Fred topu bıraktı.
+4 Mary elmayı aldı oradaki.
+5 Mary elmayı bıraktı.
+6 Fred ofise gitti.
+7 Mary elmayı aldı oradaki.
+8 Jeff bahçeye gitti.
+9 Mary elmayı bıraktı.
+10 Mary elmayı aldı oradaki.
+11 Fred banyoya gitti.
+12 Mary elmayı bıraktı.
+13 Mary koridora gitti.
+14 Fred mutfağa geri döndü.
+15 Bill mutfağa gitti.
+16 Jeff ofise gitti.
+17 Fred koridora gitti.
+18 Jeff geri döndü bahçeye.
+19 Jeff mutfağa geri döndü.
+20 Jeff koridora gitti.
+21 Jeff salona gitti.
+22 Bill elmayı aldı oradaki.
+23 Bill elmayı bıraktı.
+24 Bill elmayı aldı oradaki.
+25 Bill elmayı bıraktı.
+26 Mary banyoya gitti.
+27 Fred mutfağa gitti.
+28 Bill banyoya geri döndü.
+29 Fred bahçeye gitti.
+30 Jeff sütü aldı oradaki.
+31 Jeff sütü bıraktı oradaki.
+32 Jeff topu aldı oradaki.
+33 Bill salona gitti.
+34 Jeff topu verdi Bill e.
+35 Ne Jeff verdi Bill e? 	top	34
+36 Bill topu bıraktı.
+37 Jeff sütü aldı oradaki.
+38 Ne Jeff verdi Bill e? 	top	34
+39 Jeff sütü bıraktı.
+40 Fred salona gitti.
+41 Kim topu verdi? 	Jeff	34
+42 Jeff sütü aldı oradaki.
+43 Jeff topu aldı oradaki.
+44 Bill ofise gitti.
+45 Jeff mutfağa gitti.
+46 Bill mutfağa gitti.
+47 Jeff topu verdi Bill e.
+48 Kime Jeff topu verdi? 	Bill	47
+49 Jeff banyoya gitti.
+50 Jeff sütü verdi Mary e.
+51 Ne Jeff verdi Bill e? 	top	47
+1 Bill bahçeye gitti.
+2 Bill mutfağa gitti.
+3 Mary bahçeye gitti.
+4 Jeff geri döndü bahçeye.
+5 Jeff koridora gitti.
+6 Bill banyoya gitti.
+7 Mary koridora gitti.
+8 Mary salona gitti.
+9 Jeff salona geri döndü.
+10 Bill koridora gitti.
+11 Mary banyoya gitti.
+12 Jeff banyoya gitti.
+13 Mary bahçeye gitti.
+14 Fred koridora geri döndü.
+15 Mary salona gitti.
+16 Bill ofise gitti.
+17 Fred ofise gitti.
+18 Mary mutfağa gitti.
+19 Fred koridora gitti.
+20 Mary salona gitti.
+21 Mary geri döndü bahçeye.
+22 Fred salona gitti.
+23 Jeff ofise gitti.
+24 Bill salona geri döndü.
+25 Fred mutfağa gitti.
+26 Fred koridora gitti.
+27 Fred ofise gitti.
+28 Fred banyoya gitti.
+29 Mary ofise gitti.
+30 Jeff salona gitti.
+31 Fred salona gitti.
+32 Mary banyoya gitti.
+33 Fred banyoya gitti.
+34 Jeff mutfağa gitti.
+35 Mary ofise gitti.
+36 Fred salona gitti.
+37 Mary banyoya gitti.
+38 Mary salona geri döndü.
+39 Mary koridora geri döndü.
+40 Mary ofise geri döndü.
+41 Bill koridora gitti.
+42 Bill mutfağa gitti.
+43 Jeff ofise gitti.
+44 Fred bahçeye gitti.
+45 Bill salona gitti.
+46 Fred ofise gitti.
+47 Bill mutfağa gitti.
+48 Jeff bahçeye gitti.
+49 Fred banyoya gitti.
+50 Fred mutfağa gitti.
+51 Fred banyoya geri döndü.
+52 Mary koridora geri döndü.
+53 Fred bahçeye gitti.
+54 Mary elmayı aldı oradaki.
+55 Mary elmayı bıraktı.
+56 Bill bahçeye gitti.
+57 Mary ofise gitti.
+58 Jeff banyoya gitti.
+59 Fred salona gitti.
+60 Bill mutfağa gitti.
+61 Mary salona gitti.
+62 Mary bahçeye gitti.
+63 Bill bahçeye gitti.
+64 Mary koridora geri döndü.
+65 Bill salona gitti.
+66 Mary banyoya gitti.
+67 Fred mutfağa gitti.
+68 Mary bahçeye gitti.
+69 Bill koridora gitti.
+70 Bill topu aldı oradaki.
+71 Fred ofise gitti.
+72 Bill topu bıraktı.
+73 Jeff mutfağa gitti.
+74 Bill bahçeye gitti.
+75 Mary koridora gitti.
+76 Mary banyoya gitti.
+77 Mary ofise gitti.
+78 Fred banyoya gitti.
+79 Fred mutfağa gitti.
+80 Fred salona gitti.
+81 Jeff bahçeye gitti.
+82 Bill salona gitti.
+83 Mary bahçeye gitti.
+84 Bill mutfağa gitti.
+85 Fred ofise gitti.
+86 Mary koridora gitti.
+87 Jeff mutfağa gitti.
+88 Fred bahçeye gitti.
+89 Fred salona gitti.
+90 Mary topu aldı oradaki.
+91 Bill banyoya gitti.
+92 Mary banyoya geri döndü.
+93 Mary topu verdi Bill e.
+94 Bill koridora gitti.
+95 Ne Mary verdi Bill e? 	top	93
+96 Fred koridora gitti.
+97 Jeff koridora gitti.
+98 Kime Mary topu verdi? 	Bill	93
+99 Jeff sütü aldı oradaki.
+100 Bill topu verdi Fred e.
+101 Ne Bill verdi Fred e? 	top	100
+102 Jeff ofise gitti.
+103 Fred topu verdi Bill e.
+104 Kim topu aldı? 	Bill	103
+105 Bill topu verdi Fred e.
+106 Fred elmayı aldı oradaki.
+107 Kim topu aldı? 	Fred	105
+1 Jeff banyoya geri döndü.
+2 Bill banyoya gitti.
+3 Fred bahçeye gitti.
+4 Bill mutfağa gitti.
+5 Fred sütü aldı oradaki.
+6 Bill banyoya geri döndü.
+7 Jeff bahçeye gitti.
+8 Fred sütü aldı Jeff e.
+9 Kim sütü aldı? 	Jeff	8
+10 Jeff ofise gitti.
+11 Mary bahçeye gitti.
+12 Kim sütü verdi? 	Fred	8
+13 Fred ofise gitti.
+14 Jeff sütü verdi Fred e.
+15 Kim sütü verdi? 	Jeff	14
+16 Jeff salona gitti.
+17 Fred sütü bıraktı.
+18 Kim sütü verdi Fred e? 	Jeff	14
+19 Mary elmayı aldı oradaki.
+20 Mary ofise gitti.
+21 Kime Jeff sütü verdi? 	Fred	14
+1 Jeff mutfağa gitti.
+2 Bill banyoya gitti.
+3 Jeff sütü aldı oradaki.
+4 Fred ofise gitti.
+5 Jeff sütü aldı Mary e.
+6 Mary sütü bıraktı.
+7 Kim sütü verdi? 	Jeff	5
+8 Mary banyoya gitti.
+9 Jeff sütü aldı oradaki.
+10 Kim sütü verdi Mary e? 	Jeff	5
+11 Mary bahçeye gitti.
+12 Jeff koridora gitti.
+13 Fred bahçeye gitti.
+14 Fred topu aldı oradaki.
+15 Fred topu bıraktı.
+16 Mary ofise gitti.
+17 Jeff sütü bıraktı oradaki.
+18 Fred mutfağa gitti.
+19 Mary salona gitti.
+20 Fred bahçeye gitti.
+21 Fred mutfağa gitti.
+22 Mary mutfağa gitti.
+23 Bill ofise gitti.
+24 Mary ofise geri döndü.
+25 Mary mutfağa gitti.
+26 Jeff sütü aldı oradaki.
+27 Fred salona gitti.
+28 Jeff sütü bıraktı.
+29 Jeff bahçeye gitti.
+30 Jeff topu aldı oradaki.
+31 Fred koridora gitti.
+32 Fred salona gitti.
+33 Jeff topu bıraktı.
+34 Bill bahçeye gitti.
+35 Jeff topu aldı oradaki.
+36 Bill elmayı aldı oradaki.
+37 Fred banyoya gitti.
+38 Fred bahçeye gitti.
+39 Bill elmayı verdi Fred e.
+40 Fred elmayı verdi Bill e.
+41 Kim elmayı aldı? 	Bill	40
+42 Bill elmayı bıraktı.
+43 Jeff topu bıraktı.
+44 Kim elmayı verdi Bill e? 	Fred	40
+45 Bill topu aldı oradaki.
+46 Jeff elmayı aldı oradaki.
+47 Kime Fred elmayı verdi? 	Bill	40
+1 Jeff topu aldı oradaki.
+2 Mary elmayı aldı oradaki.
+3 Jeff topu bıraktı.
+4 Bill sütü aldı oradaki.
+5 Jeff topu aldı oradaki.
+6 Mary banyoya gitti.
+7 Bill sütü verdi Fred e.
+8 Fred sütü verdi Bill e.
+9 Kim sütü verdi? 	Fred	8
+10 Bill sütü bıraktı.
+11 Jeff topu bıraktı.
+12 Ne Fred verdi Bill e? 	süt	8
+13 Bill sütü aldı oradaki.
+14 Jeff topu aldı oradaki.
+15 Kime Fred sütü verdi? 	Bill	8
+16 Bill sütü verdi Fred e.
+17 Fred sütü aldı Bill e.
+18 Kim sütü verdi Bill e? 	Fred	17
+19 Bill sütü verdi Fred e.
+20 Mary elmayı bıraktı.
+21 Ne Bill verdi Fred e? 	süt	19
+1 Mary bahçeye gitti.
+2 Bill salona gitti.
+3 Jeff bahçeye gitti.
+4 Fred mutfağa gitti.
+5 Bill elmayı aldı oradaki.
+6 Fred bahçeye gitti.
+7 Bill elmayı bıraktı.
+8 Fred salona gitti.
+9 Bill banyoya gitti.
+10 Fred ofise gitti.
+11 Bill koridora gitti.
+12 Mary topu aldı oradaki.
+13 Jeff sütü aldı oradaki.
+14 Jeff sütü bıraktı.
+15 Bill mutfağa gitti.
+16 Mary topu bıraktı oradaki.
+17 Mary mutfağa gitti.
+18 Fred banyoya gitti.
+19 Jeff topu aldı oradaki.
+20 Jeff topu bıraktı.
+21 Bill salona geri döndü.
+22 Bill elmayı aldı oradaki.
+23 Bill ofise gitti.
+24 Bill salona geri döndü.
+25 Bill elmayı bıraktı.
+26 Bill koridora geri döndü.
+27 Bill salona gitti.
+28 Mary banyoya gitti.
+29 Bill elmayı aldı oradaki.
+30 Jeff sütü aldı oradaki.
+31 Jeff banyoya geri döndü.
+32 Jeff sütü verdi Mary e.
+33 Kim sütü verdi Mary e? 	Jeff	32
+34 Mary sütü aldı Fred e.
+35 Bill koridora gitti.
+36 Kime Mary sütü verdi? 	Fred	34
+37 Bill elmayı bıraktı.
+38 Fred sütü verdi Mary e.
+39 Ne Fred verdi Mary e? 	süt	38
+40 Mary sütü verdi Fred e.
+41 Mary koridora gitti.
+42 Kim sütü aldı? 	Fred	40
+43 Fred sütü bıraktı.
+44 Mary banyoya gitti.
+45 Ne Mary verdi Fred e? 	süt	40
+1 Mary topu aldı oradaki.
+2 Fred mutfağa gitti.
+3 Mary ofise gitti.
+4 Bill koridora gitti.
+5 Fred sütü aldı oradaki.
+6 Bill banyoya gitti.
+7 Jeff ofise gitti.
+8 Mary topu verdi Jeff e.
+9 Ne Mary verdi Jeff e? 	top	8
+10 Jeff topu verdi Mary e.
+11 Fred koridora gitti.
+12 Kim topu verdi Mary e? 	Jeff	10
+13 Mary koridora gitti.
+14 Mary topu verdi Fred e.
+15 Kime Mary topu verdi? 	Fred	14
+16 Fred topu verdi Mary e.
+17 Bill koridora geri döndü.
+18 Kim topu aldı? 	Mary	16
+19 Mary topu bıraktı.
+20 Fred sütü bıraktı.
+21 Kim topu aldı? 	Mary	16
+1 Bill topu aldı oradaki.
+2 Fred banyoya geri döndü.
+3 Bill topu verdi Fred e.
+4 Fred topu aldı Bill e.
+5 Kim topu verdi Bill e? 	Fred	4
+6 Bill topu verdi Fred e.
+7 Fred topu verdi Bill e.
+8 Ne Fred verdi Bill e? 	top	7
+9 Bill topu bıraktı oradaki.
+10 Bill topu aldı oradaki.
+11 Kim topu aldı? 	Bill	7
+12 Bill topu verdi Fred e.
+13 Fred topu verdi Bill e.
+14 Kim topu aldı? 	Bill	13
+15 Jeff geri döndü bahçeye.
+16 Bill topu aldı Fred e.
+17 Ne Bill verdi Fred e? 	top	16
+1 Mary bahçeye gitti.
+2 Fred mutfağa gitti.
+3 Fred elmayı aldı oradaki.
+4 Fred salona gitti.
+5 Bill banyoya gitti.
+6 Mary ofise geri döndü.
+7 Fred elmayı bıraktı.
+8 Mary mutfağa geri döndü.
+9 Fred koridora gitti.
+10 Jeff mutfağa gitti.
+11 Bill koridora gitti.
+12 Jeff banyoya gitti.
+13 Fred banyoya gitti.
+14 Mary banyoya gitti.
+15 Bill salona gitti.
+16 Fred ofise gitti.
+17 Bill ofise gitti.
+18 Fred mutfağa gitti.
+19 Mary bahçeye gitti.
+20 Mary topu aldı oradaki.
+21 Mary topu bıraktı.
+22 Fred koridora gitti.
+23 Bill sütü aldı oradaki.
+24 Mary topu aldı oradaki.
+25 Mary mutfağa gitti.
+26 Mary ofise gitti.
+27 Fred bahçeye gitti.
+28 Mary topu verdi Bill e.
+29 Ne Mary verdi Bill e? 	top	28
+30 Bill topu verdi Mary e.
+31 Mary topu verdi Bill e.
+32 Kim topu verdi? 	Mary	31
+33 Jeff salona geri döndü.
+34 Bill banyoya gitti.
+35 Ne Mary verdi Bill e? 	top	31
+36 Mary bahçeye gitti.
+37 Bill sütü bıraktı oradaki.
+38 Kim topu verdi Bill e? 	Mary	31
+39 Jeff elmayı aldı oradaki.
+40 Bill topu bıraktı.
+41 Jeff elmayı bıraktı.
+42 Bill mutfağa geri döndü.
+43 Jeff ofise gitti.
+44 Bill bahçeye gitti.
+45 Fred mutfağa geri döndü.
+46 Fred koridora gitti.
+47 Fred ofise gitti.
+48 Mary salona gitti.
+49 Bill salona gitti.
+50 Mary bahçeye gitti.
+51 Jeff banyoya geri döndü.
+52 Mary ofise gitti.
+53 Bill koridora gitti.
+54 Fred koridora gitti.
+55 Bill salona gitti.
+56 Jeff topu aldı oradaki.
+57 Mary salona gitti.
+58 Mary mutfağa gitti.
+59 Jeff sütü aldı oradaki.
+60 Fred ofise gitti.
+61 Fred mutfağa geri döndü.
+62 Bill banyoya gitti.
+63 Jeff sütü bıraktı.
+64 Jeff topu verdi Bill e.
+65 Ne Jeff verdi Bill e? 	top	64
+1 Mary mutfağa geri döndü.
+2 Bill bahçeye gitti.
+3 Mary topu aldı oradaki.
+4 Jeff ofise gitti.
+5 Jeff elmayı aldı oradaki.
+6 Fred banyoya geri döndü.
+7 Jeff mutfağa geri döndü.
+8 Jeff elmayı verdi Mary e.
+9 Kime Jeff elmayı verdi? 	Mary	8
+10 Mary topu bıraktı oradaki.
+11 Mary elmayı bıraktı.
+12 Kim elmayı verdi? 	Jeff	8
+13 Mary elmayı aldı oradaki.
+14 Mary topu aldı oradaki.
+15 Ne Jeff verdi Mary e? 	elma	8
+16 Mary elmayı verdi Jeff e.
+17 Jeff elmayı aldı Mary e.
+18 Kim elmayı verdi Mary e? 	Jeff	17
+19 Mary elmayı aldı Jeff e.
+20 Jeff elmayı verdi Mary e.
+21 Kim elmayı verdi? 	Jeff	20
+1 Bill sütü aldı oradaki.
+2 Bill sütü bıraktı.
+3 Fred sütü aldı oradaki.
+4 Jeff ofise gitti.
+5 Fred topu aldı oradaki.
+6 Fred topu verdi Bill e.
+7 Kim topu aldı? 	Bill	6
+8 Bill topu verdi Fred e.
+9 Fred salona gitti.
+10 Kim topu verdi? 	Bill	8
+11 Mary koridora gitti.
+12 Mary elmayı aldı oradaki.
+13 Kim topu aldı? 	Fred	8
+14 Mary elmayı bıraktı.
+15 Bill banyoya gitti.
+16 Mary elmayı aldı oradaki.
+17 Mary elmayı bıraktı.
+18 Bill ofise gitti.
+19 Fred banyoya gitti.
+20 Mary elmayı aldı oradaki.
+21 Fred topu bıraktı.
+22 Fred mutfağa gitti.
+23 Mary elmayı bıraktı oradaki.
+24 Mary elmayı aldı oradaki.
+25 Mary elmayı bıraktı oradaki.
+26 Bill bahçeye gitti.
+27 Mary elmayı aldı oradaki.
+28 Fred sütü bıraktı.
+29 Bill mutfağa gitti.
+30 Mary elmayı bıraktı.
+31 Jeff banyoya gitti.
+32 Jeff ofise geri döndü.
+33 Jeff koridora gitti.
+34 Fred sütü aldı oradaki.
+35 Fred sütü aldı Bill e.
+36 Ne Fred verdi Bill e? 	süt	35
+37 Mary elmayı aldı oradaki.
+38 Mary elmayı aldı Jeff e.
+39 Ne Mary verdi Jeff e? 	elma	38
+1 Mary ofise gitti.
+2 Jeff salona gitti.
+3 Fred mutfağa gitti.
+4 Jeff koridora gitti.
+5 Fred banyoya geri döndü.
+6 Mary banyoya gitti.
+7 Mary sütü aldı oradaki.
+8 Mary koridora gitti.
+9 Mary sütü verdi Jeff e.
+10 Jeff sütü verdi Mary e.
+11 Ne Jeff verdi Mary e? 	süt	10
+12 Fred bahçeye gitti.
+13 Bill koridora gitti.
+14 Ne Jeff verdi Mary e? 	süt	10
+15 Mary topu aldı oradaki.
+16 Mary topu verdi Bill e.
+17 Kim sütü verdi? 	Jeff	10
+18 Jeff ofise geri döndü.
+19 Fred koridora gitti.
+20 Kime Mary topu verdi? 	Bill	16
+21 Bill elmayı aldı oradaki.
+22 Mary sütü bıraktı.
+23 Ne Mary verdi Bill e? 	top	16
+1 Fred koridora geri döndü.
+2 Bill bahçeye gitti.
+3 Bill sütü aldı oradaki.
+4 Mary ofise gitti.
+5 Bill sütü verdi Jeff e.
+6 Jeff sütü aldı Bill e.
+7 Kim sütü verdi? 	Jeff	6
+8 Mary salona geri döndü.
+9 Bill mutfağa gitti.
+10 Kim sütü aldı? 	Bill	6
+11 Bill sütü bıraktı.
+12 Mary bahçeye gitti.
+13 Kim sütü verdi Bill e? 	Jeff	6
+14 Fred bahçeye gitti.
+15 Bill banyoya gitti.
+16 Mary ofise gitti.
+17 Bill bahçeye gitti.
+18 Mary salona geri döndü.
+19 Fred ofise gitti.
+20 Mary topu aldı oradaki.
+21 Fred koridora gitti.
+22 Mary topu bıraktı.
+23 Jeff banyoya geri döndü.
+24 Bill mutfağa geri döndü.
+25 Mary topu aldı oradaki.
+26 Jeff ofise geri döndü.
+27 Jeff banyoya geri döndü.
+28 Fred ofise gitti.
+29 Jeff salona geri döndü.
+30 Mary topu bıraktı.
+31 Jeff topu aldı oradaki.
+32 Jeff ofise geri döndü.
+33 Jeff topu verdi Fred e.
+34 Ne Jeff verdi Fred e? 	top	33
+35 Fred topu verdi Jeff e.
+36 Fred koridora gitti.
+37 Kim topu verdi Jeff e? 	Fred	35
+1 Jeff koridora gitti.
+2 Jeff ofise geri döndü.
+3 Fred mutfağa gitti.
+4 Fred topu aldı oradaki.
+5 Bill elmayı aldı oradaki.
+6 Bill elmayı verdi Mary e.
+7 Kim elmayı aldı? 	Mary	6
+8 Fred banyoya geri döndü.
+9 Mary bahçeye gitti.
+10 Ne Bill verdi Mary e? 	elma	6
+11 Fred salona gitti.
+12 Jeff sütü aldı oradaki.
+13 Kim elmayı verdi? 	Bill	6
+14 Jeff banyoya gitti.
+15 Jeff sütü verdi Bill e.
+16 Kim sütü aldı? 	Bill	15
+17 Bill sütü verdi Jeff e.
+18 Jeff sütü aldı Bill e.
+19 Ne Jeff verdi Bill e? 	süt	18
+1 Bill sütü aldı oradaki.
+2 Fred mutfağa gitti.
+3 Mary salona geri döndü.
+4 Jeff elmayı aldı oradaki.
+5 Jeff elmayı verdi Mary e.
+6 Fred koridora gitti.
+7 Kim elmayı aldı? 	Mary	5
+8 Mary elmayı bıraktı.
+9 Bill sütü verdi Fred e.
+10 Kim elmayı verdi? 	Jeff	5
+11 Fred sütü verdi Bill e.
+12 Fred salona gitti.
+13 Kim sütü verdi Bill e? 	Fred	11
+14 Mary elmayı aldı oradaki.
+15 Jeff banyoya gitti.
+16 Kim sütü verdi Bill e? 	Fred	11
+17 Mary elmayı aldı Fred e.
+18 Bill banyoya geri döndü.
+19 Ne Mary verdi Fred e? 	elma	17
+1 Fred ofise geri döndü.
+2 Fred elmayı aldı oradaki.
+3 Mary sütü aldı oradaki.
+4 Fred topu aldı oradaki.
+5 Mary sütü bıraktı.
+6 Bill koridora gitti.
+7 Mary banyoya gitti.
+8 Fred elmayı bıraktı.
+9 Mary koridora gitti.
+10 Bill sütü aldı oradaki.
+11 Bill bahçeye gitti.
+12 Fred elmayı aldı oradaki.
+13 Mary ofise gitti.
+14 Fred mutfağa geri döndü.
+15 Fred ofise gitti.
+16 Fred elmayı bıraktı.
+17 Fred topu bıraktı.
+18 Jeff bahçeye gitti.
+19 Fred elmayı aldı oradaki.
+20 Bill sütü bıraktı.
+21 Fred elmayı aldı Mary e.
+22 Mary elmayı aldı Fred e.
+23 Kime Mary elmayı verdi? 	Fred	22
+24 Bill sütü aldı oradaki.
+25 Fred topu aldı oradaki.
+26 Ne Mary verdi Fred e? 	elma	22
+27 Bill sütü bıraktı.
+28 Fred elmayı verdi Mary e.
+29 Ne Fred verdi Mary e? 	elma	28
+30 Mary mutfağa gitti.
+31 Fred topu bıraktı oradaki.
+32 Kim elmayı verdi? 	Fred	28
+33 Jeff ofise geri döndü.
+34 Bill sütü aldı oradaki.
+35 Ne Fred verdi Mary e? 	elma	28
+1 Bill mutfağa gitti.
+2 Jeff elmayı aldı oradaki.
+3 Jeff elmayı aldı Mary e.
+4 Mary elmayı verdi Bill e.
+5 Kime Mary elmayı verdi? 	Bill	4
+6 Mary koridora geri döndü.
+7 Bill elmayı verdi Jeff e.
+8 Kim elmayı aldı? 	Jeff	7
+9 Jeff elmayı verdi Bill e.
+10 Bill elmayı aldı Jeff e.
+11 Ne Bill verdi Jeff e? 	elma	10
+12 Bill koridora gitti.
+13 Mary mutfağa gitti.
+14 Ne Bill verdi Jeff e? 	elma	10
+15 Jeff elmayı verdi Mary e.
+16 Mary elmayı bıraktı oradaki.
+17 Kim elmayı verdi Mary e? 	Jeff	15
+1 Jeff bahçeye gitti.
+2 Mary salona geri döndü.
+3 Jeff sütü aldı oradaki.
+4 Mary ofise gitti.
+5 Jeff koridora gitti.
+6 Jeff ofise gitti.
+7 Fred bahçeye gitti.
+8 Jeff sütü verdi Mary e.
+9 Kime Jeff sütü verdi? 	Mary	8
+10 Mary sütü aldı Bill e.
+11 Jeff koridora gitti.
+12 Kime Mary sütü verdi? 	Bill	10
+13 Jeff elmayı aldı oradaki.
+14 Jeff elmayı bıraktı.
+15 Kim sütü verdi? 	Mary	10
+16 Bill sütü verdi Mary e.
+17 Mary sütü verdi Bill e.
+18 Kim sütü verdi? 	Mary	17
+19 Fred salona gitti.
+20 Bill sütü aldı Mary e.
+21 Ne Bill verdi Mary e? 	süt	20
+1 Bill koridora gitti.
+2 Jeff banyoya geri döndü.
+3 Bill mutfağa gitti.
+4 Mary salona gitti.
+5 Fred geri döndü bahçeye.
+6 Mary sütü aldı oradaki.
+7 Fred elmayı aldı oradaki.
+8 Jeff salona geri döndü.
+9 Mary sütü verdi Jeff e.
+10 Fred elmayı bıraktı oradaki.
+11 Kim sütü verdi? 	Mary	9
+12 Fred ofise gitti.
+13 Jeff sütü verdi Mary e.
+14 Kime Jeff sütü verdi? 	Mary	13
+15 Mary sütü aldı Jeff e.
+16 Fred koridora gitti.
+17 Ne Mary verdi Jeff e? 	süt	15
+18 Fred ofise gitti.
+19 Jeff sütü aldı Mary e.
+20 Kime Jeff sütü verdi? 	Mary	19
+21 Mary sütü verdi Jeff e.
+22 Jeff sütü aldı Mary e.
+23 Ne Jeff verdi Mary e? 	süt	22
+1 Bill banyoya gitti.
+2 Bill koridora gitti.
+3 Bill ofise gitti.
+4 Bill bahçeye gitti.
+5 Bill elmayı aldı oradaki.
+6 Bill mutfağa gitti.
+7 Mary ofise gitti.
+8 Mary banyoya gitti.
+9 Fred ofise geri döndü.
+10 Bill elmayı bıraktı.
+11 Jeff bahçeye gitti.
+12 Mary geri döndü bahçeye.
+13 Jeff koridora gitti.
+14 Bill elmayı aldı oradaki.
+15 Bill banyoya gitti.
+16 Mary topu aldı oradaki.
+17 Bill elmayı bıraktı.
+18 Mary salona gitti.
+19 Mary topu bıraktı.
+20 Jeff mutfağa gitti.
+21 Jeff salona gitti.
+22 Jeff mutfağa geri döndü.
+23 Jeff banyoya gitti.
+24 Bill elmayı aldı oradaki.
+25 Mary topu aldı oradaki.
+26 Bill elmayı verdi Jeff e.
+27 Kime Bill elmayı verdi? 	Jeff	26
+28 Jeff salona gitti.
+29 Mary topu bıraktı.
+30 Kim elmayı aldı? 	Jeff	26
+31 Jeff elmayı verdi Mary e.
+32 Mary bahçeye gitti.
+33 Kim elmayı verdi Mary e? 	Jeff	31
+34 Mary ofise gitti.
+35 Mary elmayı bıraktı.
+36 Ne Jeff verdi Mary e? 	elma	31
+37 Fred elmayı aldı oradaki.
+38 Fred elmayı verdi Mary e.
+39 Kim elmayı verdi? 	Fred	38
+1 Mary banyoya gitti.
+2 Jeff elmayı aldı oradaki.
+3 Jeff elmayı bıraktı.
+4 Fred koridora gitti.
+5 Mary elmayı aldı oradaki.
+6 Mary elmayı verdi Jeff e.
+7 Kime Mary elmayı verdi? 	Jeff	6
+8 Jeff salona gitti.
+9 Jeff banyoya gitti.
+10 Ne Mary verdi Jeff e? 	elma	6
+11 Jeff elmayı verdi Mary e.
+12 Jeff salona gitti.
+13 Kime Jeff elmayı verdi? 	Mary	11
+14 Fred mutfağa geri döndü.
+15 Mary bahçeye gitti.
+16 Ne Jeff verdi Mary e? 	elma	11
+17 Mary elmayı aldı Bill e.
+18 Jeff banyoya gitti.
+19 Kim elmayı verdi? 	Mary	17
+1 Jeff koridora gitti.
+2 Jeff salona geri döndü.
+3 Jeff ofise gitti.
+4 Jeff salona gitti.
+5 Fred bahçeye gitti.
+6 Bill mutfağa geri döndü.
+7 Fred topu aldı oradaki.
+8 Jeff geri döndü bahçeye.
+9 Fred ofise gitti.
+10 Jeff elmayı aldı oradaki.
+11 Fred topu bıraktı.
+12 Mary banyoya gitti.
+13 Mary ofise gitti.
+14 Jeff elmayı bıraktı.
+15 Mary topu aldı oradaki.
+16 Jeff elmayı aldı oradaki.
+17 Bill bahçeye gitti.
+18 Jeff elmayı aldı Bill e.
+19 Ne Jeff verdi Bill e? 	elma	18
+20 Bill elmayı aldı Jeff e.
+21 Jeff elmayı aldı Bill e.
+22 Kim elmayı verdi? 	Jeff	21
+23 Bill elmayı aldı Jeff e.
+24 Jeff elmayı verdi Bill e.
+25 Ne Jeff verdi Bill e? 	elma	24
+26 Jeff ofise gitti.
+27 Mary topu bıraktı.
+28 Kim elmayı verdi? 	Jeff	24
+29 Bill elmayı bıraktı.
+30 Jeff topu aldı oradaki.
+31 Ne Jeff verdi Bill e? 	elma	24
+1 Mary mutfağa geri döndü.
+2 Mary salona geri döndü.
+3 Bill banyoya gitti.
+4 Bill elmayı aldı oradaki.
+5 Mary mutfağa geri döndü.
+6 Bill mutfağa geri döndü.
+7 Bill elmayı bıraktı.
+8 Bill elmayı aldı oradaki.
+9 Bill elmayı bıraktı.
+10 Fred mutfağa gitti.
+11 Fred bahçeye gitti.
+12 Jeff geri döndü bahçeye.
+13 Jeff mutfağa gitti.
+14 Bill ofise gitti.
+15 Fred mutfağa gitti.
+16 Jeff elmayı aldı oradaki.
+17 Jeff elmayı verdi Mary e.
+18 Bill topu aldı oradaki.
+19 Kim elmayı aldı? 	Mary	17
+20 Mary elmayı verdi Fred e.
+21 Fred elmayı verdi Mary e.
+22 Kim elmayı verdi? 	Fred	21
+23 Mary elmayı bıraktı.
+24 Mary ofise gitti.
+25 Kime Fred elmayı verdi? 	Mary	21
+26 Bill topu bıraktı.
+27 Bill topu aldı oradaki.
+28 Ne Fred verdi Mary e? 	elma	21
+29 Jeff elmayı aldı oradaki.
+30 Jeff elmayı aldı Fred e.
+31 Kim elmayı aldı? 	Fred	30
+1 Fred sütü aldı oradaki.
+2 Mary banyoya geri döndü.
+3 Mary salona gitti.
+4 Bill ofise geri döndü.
+5 Jeff koridora gitti.
+6 Jeff salona geri döndü.
+7 Fred sütü bıraktı oradaki.
+8 Jeff bahçeye gitti.
+9 Fred sütü aldı oradaki.
+10 Fred mutfağa gitti.
+11 Jeff topu aldı oradaki.
+12 Jeff salona gitti.
+13 Jeff topu bıraktı oradaki.
+14 Jeff koridora geri döndü.
+15 Fred sütü bıraktı.
+16 Fred ofise gitti.
+17 Mary koridora gitti.
+18 Mary mutfağa gitti.
+19 Mary banyoya gitti.
+20 Bill salona gitti.
+21 Bill topu aldı oradaki.
+22 Jeff elmayı aldı oradaki.
+23 Jeff banyoya gitti.
+24 Jeff ofise gitti.
+25 Jeff elmayı verdi Fred e.
+26 Bill topu bıraktı.
+27 Kim elmayı aldı? 	Fred	25
+28 Bill topu aldı oradaki.
+29 Mary salona geri döndü.
+30 Ne Jeff verdi Fred e? 	elma	25
+31 Fred koridora gitti.
+32 Bill topu verdi Mary e.
+33 Kim topu verdi Mary e? 	Bill	32
+34 Bill banyoya gitti.
+35 Bill koridora gitti.
+36 Kim topu aldı? 	Mary	32
+37 Mary topu bıraktı.
+38 Mary topu aldı oradaki.
+39 Kim topu aldı? 	Mary	32
+1 Jeff bahçeye gitti.
+2 Bill salona gitti.
+3 Jeff mutfağa geri döndü.
+4 Bill topu aldı oradaki.
+5 Bill topu bıraktı.
+6 Jeff ofise gitti.
+7 Jeff sütü aldı oradaki.
+8 Bill topu aldı oradaki.
+9 Bill geri döndü bahçeye.
+10 Bill topu verdi Fred e.
+11 Ne Bill verdi Fred e? 	top	10
+12 Fred topu verdi Bill e.
+13 Jeff salona gitti.
+14 Kim topu verdi? 	Fred	12
+15 Bill topu bıraktı.
+16 Jeff sütü bıraktı.
+17 Ne Fred verdi Bill e? 	top	12
+18 Bill mutfağa gitti.
+19 Jeff sütü aldı oradaki.
+20 Mary salona gitti.
+21 Mary mutfağa gitti.
+22 Bill bahçeye gitti.
+23 Bill topu aldı oradaki.
+24 Jeff sütü bıraktı.
+25 Fred mutfağa gitti.
+26 Bill topu bıraktı.
+27 Jeff sütü aldı oradaki.
+28 Fred ofise gitti.
+29 Jeff sütü bıraktı.
+30 Bill ofise gitti.
+31 Fred salona gitti.
+32 Jeff sütü aldı oradaki.
+33 Jeff sütü aldı Fred e.
+34 Kim sütü verdi Fred e? 	Jeff	33
+35 Fred sütü verdi Jeff e.
+36 Mary koridora gitti.
+37 Kime Fred sütü verdi? 	Jeff	35
+1 Jeff salona gitti.
+2 Fred salona gitti.
+3 Bill sütü aldı oradaki.
+4 Mary mutfağa geri döndü.
+5 Jeff ofise gitti.
+6 Bill koridora geri döndü.
+7 Bill bahçeye gitti.
+8 Bill sütü bıraktı.
+9 Fred koridora geri döndü.
+10 Jeff salona geri döndü.
+11 Bill koridora gitti.
+12 Bill ofise gitti.
+13 Fred topu aldı oradaki.
+14 Mary ofise geri döndü.
+15 Fred salona geri döndü.
+16 Fred topu aldı Jeff e.
+17 Ne Fred verdi Jeff e? 	top	16
+18 Jeff topu verdi Fred e.
+19 Bill salona gitti.
+20 Ne Jeff verdi Fred e? 	top	18
+21 Fred topu aldı Bill e.
+22 Fred mutfağa gitti.
+23 Kime Fred topu verdi? 	Bill	21
+24 Bill topu verdi Jeff e.
+25 Fred salona geri döndü.
+26 Ne Bill verdi Jeff e? 	top	24
+27 Jeff topu aldı Fred e.
+28 Fred topu aldı Bill e.
+29 Kim topu verdi? 	Fred	28
+1 Bill banyoya gitti.
+2 Fred ofise gitti.
+3 Jeff koridora gitti.
+4 Mary ofise gitti.
+5 Bill sütü aldı oradaki.
+6 Jeff salona gitti.
+7 Bill elmayı aldı oradaki.
+8 Jeff ofise gitti.
+9 Bill mutfağa gitti.
+10 Jeff koridora gitti.
+11 Mary bahçeye gitti.
+12 Mary ofise gitti.
+13 Bill banyoya gitti.
+14 Fred koridora geri döndü.
+15 Mary koridora geri döndü.
+16 Bill koridora gitti.
+17 Bill elmayı aldı Mary e.
+18 Mary elmayı verdi Fred e.
+19 Kim elmayı verdi Fred e? 	Mary	18
+20 Fred elmayı aldı Mary e.
+21 Bill sütü bıraktı oradaki.
+22 Kim elmayı verdi? 	Fred	20
+23 Fred bahçeye gitti.
+24 Mary elmayı verdi Bill e.
+25 Ne Mary verdi Bill e? 	elma	24
+26 Bill elmayı aldı Mary e.
+27 Bill sütü aldı oradaki.
+28 Kime Bill elmayı verdi? 	Mary	26
+29 Mary salona gitti.
+30 Jeff mutfağa gitti.
+31 Kim elmayı verdi Mary e? 	Bill	26
+1 Fred geri döndü bahçeye.
+2 Jeff elmayı aldı oradaki.
+3 Jeff elmayı verdi Bill e.
+4 Jeff ofise geri döndü.
+5 Kim elmayı verdi Bill e? 	Jeff	3
+6 Fred koridora geri döndü.
+7 Bill elmayı verdi Fred e.
+8 Ne Bill verdi Fred e? 	elma	7
+9 Fred elmayı aldı Bill e.
+10 Bill elmayı aldı Fred e.
+11 Kim elmayı verdi Fred e? 	Bill	10
+12 Fred mutfağa gitti.
+13 Fred elmayı aldı Mary e.
+14 Ne Fred verdi Mary e? 	elma	13
+15 Mary ofise gitti.
+16 Jeff bahçeye gitti.
+17 Kim elmayı verdi? 	Fred	13
+1 Mary koridora gitti.
+2 Jeff salona gitti.
+3 Fred mutfağa gitti.
+4 Bill sütü aldı oradaki.
+5 Bill koridora gitti.
+6 Fred topu aldı oradaki.
+7 Bill sütü verdi Mary e.
+8 Mary sütü aldı Bill e.
+9 Kim sütü verdi Bill e? 	Mary	8
+10 Bill sütü aldı Mary e.
+11 Mary sütü verdi Bill e.
+12 Kime Mary sütü verdi? 	Bill	11
+13 Bill sütü aldı Mary e.
+14 Fred topu bıraktı.
+15 Ne Bill verdi Mary e? 	süt	13
+16 Mary sütü bıraktı.
+17 Fred topu aldı oradaki.
+18 Kim sütü verdi? 	Bill	13
+19 Fred salona gitti.
+20 Fred topu verdi Jeff e.
+21 Kime Fred topu verdi? 	Jeff	20
+1 Bill koridora gitti.
+2 Bill topu aldı oradaki.
+3 Bill topu bıraktı.
+4 Fred salona gitti.
+5 Bill mutfağa gitti.
+6 Bill bahçeye gitti.
+7 Fred mutfağa geri döndü.
+8 Jeff salona geri döndü.
+9 Fred koridora geri döndü.
+10 Mary salona gitti.
+11 Jeff sütü aldı oradaki.
+12 Jeff sütü aldı Mary e.
+13 Kim sütü aldı? 	Mary	12
+14 Mary sütü bıraktı.
+15 Fred topu aldı oradaki.
+16 Kim sütü aldı? 	Mary	12
+17 Fred banyoya gitti.
+18 Jeff sütü aldı oradaki.
+19 Kim sütü verdi Mary e? 	Jeff	12
+20 Jeff sütü verdi Mary e.
+21 Bill elmayı aldı oradaki.
+22 Kim sütü aldı? 	Mary	20
+23 Mary sütü verdi Jeff e.
+24 Fred salona gitti.
+25 Kim sütü aldı? 	Jeff	23
+1 Mary topu aldı oradaki.
+2 Fred salona gitti.
+3 Mary topu bıraktı.
+4 Mary topu aldı oradaki.
+5 Jeff bahçeye gitti.
+6 Bill salona geri döndü.
+7 Mary topu bıraktı.
+8 Bill elmayı aldı oradaki.
+9 Bill elmayı verdi Fred e.
+10 Fred elmayı verdi Bill e.
+11 Ne Fred verdi Bill e? 	elma	10
+12 Bill elmayı verdi Fred e.
+13 Fred elmayı verdi Bill e.
+14 Kim elmayı aldı? 	Bill	13
+15 Fred koridora geri döndü.
+16 Mary topu aldı oradaki.
+17 Kime Fred elmayı verdi? 	Bill	13
+18 Fred ofise gitti.
+19 Fred sütü aldı oradaki.
+20 Ne Fred verdi Bill e? 	elma	13
+21 Fred mutfağa gitti.
+22 Jeff banyoya gitti.
+23 Mary geri döndü bahçeye.
+24 Fred salona gitti.
+25 Bill elmayı aldı Fred e.
+26 Jeff salona gitti.
+27 Kim elmayı verdi? 	Bill	25
+1 Fred ofise gitti.
+2 Jeff geri döndü bahçeye.
+3 Jeff banyoya gitti.
+4 Bill salona geri döndü.
+5 Bill bahçeye gitti.
+6 Mary elmayı aldı oradaki.
+7 Mary elmayı verdi Bill e.
+8 Bill elmayı bıraktı.
+9 Kime Mary elmayı verdi? 	Bill	7
+10 Fred salona gitti.
+11 Mary elmayı aldı oradaki.
+12 Kim elmayı verdi? 	Mary	7
+13 Mary elmayı verdi Bill e.
+14 Bill elmayı bıraktı.
+15 Kim elmayı verdi? 	Mary	13
+16 Bill elmayı aldı oradaki.
+17 Bill elmayı verdi Mary e.
+18 Kim elmayı verdi? 	Bill	17
+19 Mary elmayı verdi Bill e.
+20 Bill elmayı verdi Mary e.
+21 Ne Bill verdi Mary e? 	elma	20
+1 Fred sütü aldı oradaki.
+2 Fred sütü aldı Mary e.
+3 Kime Fred sütü verdi? 	Mary	2
+4 Mary sütü bıraktı.
+5 Jeff sütü aldı oradaki.
+6 Kime Fred sütü verdi? 	Mary	2
+7 Bill ofise gitti.
+8 Jeff sütü aldı Mary e.
+9 Ne Jeff verdi Mary e? 	süt	8
+10 Jeff mutfağa gitti.
+11 Bill bahçeye gitti.
+12 Ne Jeff verdi Mary e? 	süt	8
+13 Mary sütü bıraktı oradaki.
+14 Fred ofise gitti.
+15 Kim sütü aldı? 	Mary	8
+1 Jeff topu aldı oradaki.
+2 Jeff topu verdi Fred e.
+3 Ne Jeff verdi Fred e? 	top	2
+4 Fred mutfağa gitti.
+5 Fred topu verdi Mary e.
+6 Kim topu aldı? 	Mary	5
+7 Mary topu verdi Fred e.
+8 Fred banyoya geri döndü.
+9 Kim topu verdi Fred e? 	Mary	7
+10 Bill ofise gitti.
+11 Fred topu bıraktı.
+12 Kim topu verdi? 	Mary	7
+13 Fred salona gitti.
+14 Mary elmayı aldı oradaki.
+15 Fred bahçeye gitti.
+16 Mary banyoya geri döndü.
+17 Bill salona gitti.
+18 Mary topu aldı oradaki.
+19 Bill mutfağa gitti.
+20 Mary elmayı bıraktı.
+21 Bill banyoya gitti.
+22 Mary topu verdi Bill e.
+23 Ne Mary verdi Bill e? 	top	22
+1 Fred topu aldı oradaki.
+2 Mary sütü aldı oradaki.
+3 Fred topu aldı Jeff e.
+4 Mary sütü bıraktı.
+5 Ne Fred verdi Jeff e? 	top	3
+6 Jeff topu verdi Fred e.
+7 Fred salona geri döndü.
+8 Kim topu aldı? 	Fred	6
+9 Fred sütü aldı oradaki.
+10 Fred topu aldı Mary e.
+11 Kime Fred topu verdi? 	Mary	10
+12 Mary topu aldı Fred e.
+13 Fred banyoya gitti.
+14 Kim topu aldı? 	Fred	12
+15 Fred topu verdi Jeff e.
+16 Fred geri döndü bahçeye.
+17 Kime Fred topu verdi? 	Jeff	15
+1 Jeff topu aldı oradaki.
+2 Jeff salona gitti.
+3 Jeff sütü aldı oradaki.
+4 Jeff topu aldı Bill e.
+5 Kime Jeff topu verdi? 	Bill	4
+6 Bill topu verdi Jeff e.
+7 Mary banyoya gitti.
+8 Kime Bill topu verdi? 	Jeff	6
+9 Jeff topu verdi Bill e.
+10 Jeff sütü bıraktı oradaki.
+11 Ne Jeff verdi Bill e? 	top	9
+12 Bill topu verdi Jeff e.
+13 Jeff topu verdi Bill e.
+14 Kim topu verdi? 	Jeff	13
+15 Bill topu bıraktı.
+16 Fred koridora gitti.
+17 Kime Jeff topu verdi? 	Bill	13
+1 Jeff bahçeye gitti.
+2 Bill elmayı aldı oradaki.
+3 Jeff mutfağa gitti.
+4 Bill elmayı verdi Mary e.
+5 Ne Bill verdi Mary e? 	elma	4
+6 Jeff topu aldı oradaki.
+7 Mary elmayı verdi Bill e.
+8 Kim elmayı verdi? 	Mary	7
+9 Bill salona geri döndü.
+10 Jeff salona gitti.
+11 Kim elmayı verdi? 	Mary	7
+12 Bill elmayı aldı Jeff e.
+13 Jeff mutfağa gitti.
+14 Kim elmayı aldı? 	Jeff	12
+15 Mary bahçeye gitti.
+16 Fred salona gitti.
+17 Kim elmayı verdi? 	Bill	12
+1 Fred banyoya gitti.
+2 Fred bahçeye gitti.
+3 Jeff banyoya gitti.
+4 Bill banyoya gitti.
+5 Jeff bahçeye gitti.
+6 Bill elmayı aldı oradaki.
+7 Bill elmayı bıraktı.
+8 Fred ofise gitti.
+9 Fred topu aldı oradaki.
+10 Mary bahçeye gitti.
+11 Jeff ofise gitti.
+12 Mary banyoya gitti.
+13 Fred topu aldı Jeff e.
+14 Jeff topu aldı Fred e.
+15 Kim topu verdi? 	Jeff	14
+16 Fred topu aldı Jeff e.
+17 Jeff topu aldı Fred e.
+18 Kim topu aldı? 	Fred	17
+19 Jeff bahçeye gitti.
+20 Bill elmayı aldı oradaki.
+21 Ne Jeff verdi Fred e? 	top	17
+22 Bill elmayı bıraktı.
+23 Mary elmayı aldı oradaki.
+24 Kim topu verdi? 	Jeff	17
+25 Mary elmayı verdi Bill e.
+26 Fred topu bıraktı oradaki.
+27 Ne Mary verdi Bill e? 	elma	25
+1 Bill banyoya gitti.
+2 Jeff banyoya gitti.
+3 Jeff bahçeye gitti.
+4 Mary salona gitti.
+5 Bill ofise geri döndü.
+6 Jeff salona gitti.
+7 Fred topu aldı oradaki.
+8 Jeff elmayı aldı oradaki.
+9 Jeff elmayı aldı Mary e.
+10 Mary elmayı verdi Jeff e.
+11 Ne Mary verdi Jeff e? 	elma	10
+12 Jeff elmayı verdi Mary e.
+13 Fred koridora gitti.
+14 Ne Jeff verdi Mary e? 	elma	12
+15 Mary elmayı aldı Jeff e.
+16 Jeff elmayı aldı Mary e.
+17 Kim elmayı verdi Mary e? 	Jeff	16
+18 Fred topu bıraktı.
+19 Bill salona geri döndü.
+20 Ne Jeff verdi Mary e? 	elma	16
+21 Mary elmayı verdi Bill e.
+22 Bill elmayı verdi Mary e.
+23 Ne Bill verdi Mary e? 	elma	22
+1 Jeff koridora geri döndü.
+2 Mary salona gitti.
+3 Mary bahçeye gitti.
+4 Mary mutfağa gitti.
+5 Mary topu aldı oradaki.
+6 Mary salona gitti.
+7 Mary topu aldı Fred e.
+8 Fred topu aldı Mary e.
+9 Ne Fred verdi Mary e? 	top	8
+10 Mary topu verdi Fred e.
+11 Fred mutfağa geri döndü.
+12 Kim topu verdi? 	Mary	10
+13 Fred koridora geri döndü.
+14 Fred topu verdi Jeff e.
+15 Kim topu aldı? 	Jeff	14
+16 Jeff topu aldı Fred e.
+17 Jeff salona gitti.
+18 Kim topu verdi Fred e? 	Jeff	16
+19 Jeff mutfağa gitti.
+20 Fred banyoya gitti.
+21 Kim topu verdi? 	Jeff	16
+1 Mary sütü aldı oradaki.
+2 Fred elmayı aldı oradaki.
+3 Fred elmayı bıraktı.
+4 Fred banyoya gitti.
+5 Fred mutfağa gitti.
+6 Mary salona geri döndü.
+7 Mary elmayı aldı oradaki.
+8 Bill ofise geri döndü.
+9 Bill salona gitti.
+10 Mary elmayı verdi Bill e.
+11 Kim elmayı aldı? 	Bill	10
+12 Bill elmayı verdi Mary e.
+13 Jeff banyoya gitti.
+14 Kim elmayı aldı? 	Mary	12
+15 Mary elmayı verdi Bill e.
+16 Bill elmayı verdi Mary e.
+17 Kim elmayı aldı? 	Mary	16
+18 Mary elmayı aldı Bill e.
+19 Jeff mutfağa gitti.
+20 Ne Mary verdi Bill e? 	elma	18
+21 Bill elmayı aldı Mary e.
+22 Mary elmayı verdi Bill e.
+23 Kim elmayı aldı? 	Bill	22
+1 Mary salona gitti.
+2 Bill bahçeye gitti.
+3 Bill banyoya gitti.
+4 Jeff topu aldı oradaki.
+5 Fred koridora gitti.
+6 Fred mutfağa geri döndü.
+7 Jeff topu verdi Mary e.
+8 Jeff ofise gitti.
+9 Kim topu verdi? 	Jeff	7
+10 Mary topu bıraktı.
+11 Mary topu aldı oradaki.
+12 Kim topu aldı? 	Mary	7
+13 Fred salona gitti.
+14 Bill elmayı aldı oradaki.
+15 Mary topu verdi Fred e.
+16 Fred topu bıraktı.
+17 Kime Mary topu verdi? 	Fred	15
+18 Mary topu aldı oradaki.
+19 Bill elmayı bıraktı.
+20 Kim topu aldı? 	Fred	15
+21 Bill mutfağa gitti.
+22 Jeff koridora gitti.
+23 Mary topu aldı Fred e.
+24 Mary banyoya gitti.
+25 Kim topu aldı? 	Fred	23
+1 Bill bahçeye gitti.
+2 Mary mutfağa gitti.
+3 Mary sütü aldı oradaki.
+4 Mary sütü bıraktı.
+5 Jeff ofise gitti.
+6 Jeff elmayı aldı oradaki.
+7 Jeff elmayı bıraktı.
+8 Jeff mutfağa geri döndü.
+9 Mary sütü aldı oradaki.
+10 Fred topu aldı oradaki.
+11 Mary sütü verdi Jeff e.
+12 Jeff sütü aldı Mary e.
+13 Ne Jeff verdi Mary e? 	süt	12
+14 Mary sütü aldı Jeff e.
+15 Jeff sütü bıraktı.
+16 Ne Mary verdi Jeff e? 	süt	14
+17 Jeff koridora gitti.
+18 Bill banyoya gitti.
+19 Kim sütü aldı? 	Jeff	14
+20 Fred topu verdi Jeff e.
+21 Jeff topu verdi Fred e.
+22 Ne Jeff verdi Fred e? 	top	21
+23 Fred topu bıraktı.
+24 Jeff ofise geri döndü.
+25 Kim topu aldı? 	Fred	21
+1 Mary ofise geri döndü.
+2 Fred topu aldı oradaki.
+3 Fred topu bıraktı.
+4 Fred bahçeye gitti.
+5 Fred mutfağa gitti.
+6 Bill salona gitti.
+7 Jeff elmayı aldı oradaki.
+8 Bill koridora gitti.
+9 Jeff elmayı bıraktı.
+10 Mary sütü aldı oradaki.
+11 Jeff elmayı aldı oradaki.
+12 Bill topu aldı oradaki.
+13 Mary banyoya gitti.
+14 Mary sütü bıraktı oradaki.
+15 Mary sütü aldı oradaki.
+16 Mary sütü bıraktı oradaki.
+17 Mary mutfağa gitti.
+18 Jeff elmayı bıraktı.
+19 Bill topu bıraktı.
+20 Bill topu aldı oradaki.
+21 Bill banyoya gitti.
+22 Fred koridora geri döndü.
+23 Jeff elmayı aldı oradaki.
+24 Jeff elmayı bıraktı.
+25 Jeff elmayı aldı oradaki.
+26 Bill topu bıraktı oradaki.
+27 Jeff salona gitti.
+28 Jeff banyoya gitti.
+29 Jeff elmayı bıraktı.
+30 Bill elmayı aldı oradaki.
+31 Bill elmayı aldı Jeff e.
+32 Jeff elmayı aldı Bill e.
+33 Kim elmayı verdi? 	Jeff	32
+34 Mary banyoya geri döndü.
+35 Bill elmayı aldı Mary e.
+36 Ne Bill verdi Mary e? 	elma	35
+37 Bill topu aldı oradaki.
+38 Jeff sütü aldı oradaki.
+39 Kim elmayı aldı? 	Mary	35
+40 Jeff ofise geri döndü.
+41 Mary elmayı bıraktı oradaki.
+42 Kim elmayı aldı? 	Mary	35
+43 Bill topu bıraktı.
+44 Jeff sütü bıraktı.
+45 Jeff sütü aldı oradaki.
+46 Bill elmayı aldı oradaki.
+47 Bill elmayı bıraktı.
+48 Bill ofise gitti.
+49 Jeff sütü bıraktı.
+50 Mary topu aldı oradaki.
+51 Bill bahçeye gitti.
+52 Mary elmayı aldı oradaki.
+53 Jeff sütü aldı oradaki.
+54 Bill banyoya gitti.
+55 Mary mutfağa gitti.
+56 Mary salona gitti.
+57 Jeff sütü bıraktı.
+58 Jeff sütü aldı oradaki.
+59 Jeff mutfağa gitti.
+60 Mary elmayı bıraktı oradaki.
+61 Jeff sütü bıraktı oradaki.
+62 Mary topu bıraktı.
+63 Mary banyoya gitti.
+64 Jeff sütü aldı oradaki.
+65 Fred bahçeye gitti.
+66 Jeff sütü bıraktı.
+67 Fred mutfağa geri döndü.
+68 Fred ofise gitti.
+69 Jeff salona gitti.
+70 Bill salona gitti.
+71 Bill bahçeye gitti.
+72 Fred koridora gitti.
+73 Jeff koridora gitti.
+74 Jeff bahçeye gitti.
+75 Bill mutfağa gitti.
+76 Jeff ofise gitti.
+77 Mary koridora gitti.
+78 Bill sütü aldı oradaki.
+79 Jeff bahçeye gitti.
+80 Mary mutfağa geri döndü.
+81 Bill sütü verdi Mary e.
+82 Mary sütü verdi Bill e.
+83 Ne Mary verdi Bill e? 	süt	82
+1 Fred banyoya gitti.
+2 Fred bahçeye gitti.
+3 Fred sütü aldı oradaki.
+4 Fred sütü bıraktı.
+5 Fred sütü aldı oradaki.
+6 Fred sütü bıraktı.
+7 Fred sütü aldı oradaki.
+8 Jeff banyoya gitti.
+9 Mary ofise gitti.
+10 Bill banyoya gitti.
+11 Mary koridora gitti.
+12 Mary bahçeye gitti.
+13 Bill koridora gitti.
+14 Mary mutfağa gitti.
+15 Fred sütü bıraktı.
+16 Fred ofise gitti.
+17 Fred salona gitti.
+18 Mary koridora gitti.
+19 Mary bahçeye gitti.
+20 Fred bahçeye gitti.
+21 Jeff bahçeye gitti.
+22 Mary mutfağa gitti.
+23 Bill bahçeye gitti.
+24 Fred sütü aldı oradaki.
+25 Fred sütü verdi Bill e.
+26 Bill sütü aldı Fred e.
+27 Ne Bill verdi Fred e? 	süt	26
+28 Fred sütü bıraktı oradaki.
+29 Mary koridora gitti.
+30 Kim sütü aldı? 	Fred	26
+31 Fred sütü aldı oradaki.
+32 Fred sütü verdi Bill e.
+33 Ne Fred verdi Bill e? 	süt	32
+34 Fred koridora gitti.
+35 Bill mutfağa geri döndü.
+36 Ne Fred verdi Bill e? 	süt	32
+37 Fred bahçeye gitti.
+38 Bill sütü bıraktı.
+39 Kime Fred sütü verdi? 	Bill	32
+1 Bill salona gitti.
+2 Jeff mutfağa geri döndü.
+3 Fred ofise gitti.
+4 Mary bahçeye gitti.
+5 Mary koridora geri döndü.
+6 Bill ofise gitti.
+7 Fred banyoya gitti.
+8 Bill salona gitti.
+9 Mary mutfağa gitti.
+10 Fred mutfağa gitti.
+11 Bill geri döndü bahçeye.
+12 Mary koridora gitti.
+13 Fred banyoya gitti.
+14 Fred ofise gitti.
+15 Bill sütü aldı oradaki.
+16 Bill topu aldı oradaki.
+17 Bill salona gitti.
+18 Mary mutfağa geri döndü.
+19 Bill geri döndü bahçeye.
+20 Mary koridora geri döndü.
+21 Mary mutfağa gitti.
+22 Bill topu bıraktı.
+23 Jeff geri döndü bahçeye.
+24 Bill sütü verdi Jeff e.
+25 Kim sütü verdi? 	Bill	24
+26 Jeff sütü aldı Bill e.
+27 Jeff topu aldı oradaki.
+28 Kim sütü aldı? 	Bill	26
+29 Jeff topu bıraktı oradaki.
+30 Bill sütü verdi Jeff e.
+31 Kim sütü verdi? 	Bill	30
+32 Fred salona gitti.
+33 Jeff ofise geri döndü.
+34 Ne Bill verdi Jeff e? 	süt	30
+35 Fred banyoya gitti.
+36 Jeff sütü bıraktı.
+37 Ne Bill verdi Jeff e? 	süt	30
+1 Mary salona gitti.
+2 Fred salona gitti.
+3 Fred banyoya gitti.
+4 Jeff ofise geri döndü.
+5 Bill banyoya gitti.
+6 Jeff koridora gitti.
+7 Mary koridora gitti.
+8 Mary sütü aldı oradaki.
+9 Mary sütü verdi Jeff e.
+10 Jeff ofise gitti.
+11 Kim sütü verdi? 	Mary	9
+12 Jeff bahçeye gitti.
+13 Jeff salona geri döndü.
+14 Kim sütü aldı? 	Jeff	9
+15 Mary banyoya gitti.
+16 Mary bahçeye gitti.
+17 Jeff geri döndü bahçeye.
+18 Fred koridora gitti.
+19 Mary mutfağa gitti.
+20 Jeff salona gitti.
+21 Mary koridora gitti.
+22 Mary salona gitti.
+23 Fred salona gitti.
+24 Fred mutfağa geri döndü.
+25 Jeff ofise gitti.
+26 Jeff banyoya geri döndü.
+27 Jeff sütü verdi Bill e.
+28 Bill sütü verdi Jeff e.
+29 Ne Bill verdi Jeff e? 	süt	28
+30 Jeff sütü verdi Bill e.
+31 Bill sütü aldı Jeff e.
+32 Kime Bill sütü verdi? 	Jeff	31
+33 Jeff sütü aldı Bill e.
+34 Bill sütü aldı Jeff e.
+35 Ne Bill verdi Jeff e? 	süt	34
+1 Jeff geri döndü bahçeye.
+2 Fred salona gitti.
+3 Fred sütü aldı oradaki.
+4 Fred sütü bıraktı oradaki.
+5 Jeff topu aldı oradaki.
+6 Jeff salona gitti.
+7 Mary banyoya geri döndü.
+8 Jeff topu aldı Fred e.
+9 Ne Jeff verdi Fred e? 	top	8
+10 Mary elmayı aldı oradaki.
+11 Fred sütü aldı oradaki.
+12 Ne Jeff verdi Fred e? 	top	8
+13 Jeff mutfağa gitti.
+14 Fred topu aldı Bill e.
+15 Ne Fred verdi Bill e? 	top	14
+16 Bill topu aldı Fred e.
+17 Fred topu verdi Bill e.
+18 Ne Fred verdi Bill e? 	top	17
+19 Bill geri döndü bahçeye.
+20 Jeff banyoya gitti.
+21 Kim topu verdi Bill e? 	Fred	17
+1 Bill ofise gitti.
+2 Fred geri döndü bahçeye.
+3 Fred banyoya gitti.
+4 Bill mutfağa geri döndü.
+5 Jeff salona gitti.
+6 Fred ofise gitti.
+7 Mary ofise gitti.
+8 Bill bahçeye gitti.
+9 Bill mutfağa gitti.
+10 Jeff mutfağa gitti.
+11 Jeff salona gitti.
+12 Jeff sütü aldı oradaki.
+13 Jeff mutfağa gitti.
+14 Bill ofise gitti.
+15 Jeff sütü bıraktı.
+16 Fred koridora gitti.
+17 Jeff sütü aldı oradaki.
+18 Jeff salona gitti.
+19 Jeff sütü bıraktı.
+20 Fred topu aldı oradaki.
+21 Fred topu bıraktı.
+22 Bill bahçeye gitti.
+23 Mary banyoya gitti.
+24 Mary mutfağa gitti.
+25 Jeff koridora geri döndü.
+26 Fred salona gitti.
+27 Bill mutfağa gitti.
+28 Jeff topu aldı oradaki.
+29 Jeff topu bıraktı.
+30 Bill geri döndü bahçeye.
+31 Jeff topu aldı oradaki.
+32 Fred sütü aldı oradaki.
+33 Jeff topu bıraktı.
+34 Fred elmayı aldı oradaki.
+35 Jeff topu aldı oradaki.
+36 Fred elmayı bıraktı oradaki.
+37 Fred sütü bıraktı.
+38 Bill mutfağa gitti.
+39 Mary ofise geri döndü.
+40 Bill koridora gitti.
+41 Jeff topu aldı Bill e.
+42 Bill topu verdi Jeff e.
+43 Ne Bill verdi Jeff e? 	top	42
+44 Fred mutfağa gitti.
+45 Jeff banyoya geri döndü.
+46 Kim topu verdi Jeff e? 	Bill	42
+47 Fred ofise gitti.
+48 Jeff mutfağa gitti.
+49 Kime Bill topu verdi? 	Jeff	42
+50 Mary koridora gitti.
+51 Fred banyoya gitti.
+52 Mary salona gitti.
+53 Jeff koridora geri döndü.
+54 Fred koridora gitti.
+55 Jeff topu verdi Fred e.
+56 Kim topu aldı? 	Fred	55
+57 Jeff salona gitti.
+58 Fred topu verdi Bill e.
+59 Ne Fred verdi Bill e? 	top	58
+1 Bill ofise geri döndü.
+2 Jeff geri döndü bahçeye.
+3 Fred ofise gitti.
+4 Bill bahçeye gitti.
+5 Fred banyoya gitti.
+6 Fred sütü aldı oradaki.
+7 Fred sütü bıraktı.
+8 Jeff koridora gitti.
+9 Fred salona gitti.
+10 Fred topu aldı oradaki.
+11 Jeff mutfağa gitti.
+12 Fred topu verdi Mary e.
+13 Kime Fred topu verdi? 	Mary	12
+14 Mary topu verdi Fred e.
+15 Fred topu verdi Mary e.
+16 Kim topu aldı? 	Mary	15
+17 Mary topu aldı Fred e.
+18 Fred topu verdi Mary e.
+19 Kim topu verdi? 	Fred	18
+20 Mary topu bıraktı.
+21 Fred topu aldı oradaki.
+22 Ne Fred verdi Mary e? 	top	18
+23 Fred topu aldı Mary e.
+24 Jeff ofise gitti.
+25 Kime Fred topu verdi? 	Mary	23
+1 Jeff topu aldı oradaki.
+2 Bill salona gitti.
+3 Jeff topu verdi Bill e.
+4 Bill topu aldı Jeff e.
+5 Kim topu aldı? 	Jeff	4
+6 Jeff topu bıraktı.
+7 Jeff topu aldı oradaki.
+8 Ne Bill verdi Jeff e? 	top	4
+9 Jeff topu aldı Bill e.
+10 Jeff elmayı aldı oradaki.
+11 Ne Jeff verdi Bill e? 	top	9
+12 Bill banyoya gitti.
+13 Jeff elmayı bıraktı.
+14 Kim topu verdi Bill e? 	Jeff	9
+15 Bill topu bıraktı oradaki.
+16 Jeff banyoya gitti.
+17 Bill topu aldı oradaki.
+18 Mary sütü aldı oradaki.
+19 Jeff salona gitti.
+20 Jeff elmayı aldı oradaki.
+21 Mary sütü verdi Fred e.
+22 Bill topu bıraktı.
+23 Ne Mary verdi Fred e? 	süt	21
+1 Mary ofise gitti.
+2 Jeff topu aldı oradaki.
+3 Fred salona gitti.
+4 Bill koridora gitti.
+5 Mary koridora gitti.
+6 Jeff topu verdi Mary e.
+7 Kim topu verdi? 	Jeff	6
+8 Jeff salona gitti.
+9 Mary banyoya gitti.
+10 Kim topu aldı? 	Mary	6
+11 Fred geri döndü bahçeye.
+12 Mary topu bıraktı.
+13 Ne Jeff verdi Mary e? 	top	6
+14 Mary salona geri döndü.
+15 Bill banyoya gitti.
+16 Jeff sütü aldı oradaki.
+17 Mary koridora gitti.
+18 Jeff sütü bıraktı.
+19 Fred mutfağa gitti.
+20 Fred ofise geri döndü.
+21 Jeff ofise gitti.
+22 Bill mutfağa gitti.
+23 Bill ofise gitti.
+24 Mary banyoya gitti.
+25 Fred bahçeye gitti.
+26 Jeff banyoya gitti.
+27 Jeff topu aldı oradaki.
+28 Jeff topu bıraktı.
+29 Jeff topu aldı oradaki.
+30 Fred mutfağa geri döndü.
+31 Jeff topu aldı Mary e.
+32 Ne Jeff verdi Mary e? 	top	31
+33 Mary topu bıraktı.
+34 Fred banyoya gitti.
+35 Ne Jeff verdi Mary e? 	top	31
+1 Bill koridora gitti.
+2 Jeff mutfağa gitti.
+3 Mary geri döndü bahçeye.
+4 Mary elmayı aldı oradaki.
+5 Fred koridora geri döndü.
+6 Fred salona gitti.
+7 Jeff geri döndü bahçeye.
+8 Bill banyoya gitti.
+9 Mary elmayı bıraktı oradaki.
+10 Jeff elmayı aldı oradaki.
+11 Jeff elmayı verdi Mary e.
+12 Mary elmayı aldı Jeff e.
+13 Kim elmayı verdi? 	Mary	12
+14 Fred mutfağa gitti.
+15 Bill topu aldı oradaki.
+16 Kim elmayı verdi? 	Mary	12
+17 Bill topu bıraktı.
+18 Jeff elmayı bıraktı oradaki.
+19 Kim elmayı aldı? 	Jeff	12
+20 Mary elmayı aldı oradaki.
+21 Mary elmayı verdi Jeff e.
+22 Kim elmayı verdi Jeff e? 	Mary	21
+23 Jeff elmayı aldı Mary e.
+24 Bill koridora geri döndü.
+25 Ne Jeff verdi Mary e? 	elma	23
+1 Jeff sütü aldı oradaki.
+2 Jeff sütü verdi Mary e.
+3 Kim sütü aldı? 	Mary	2
+4 Mary sütü verdi Bill e.
+5 Mary ofise gitti.
+6 Kim sütü aldı? 	Bill	4
+7 Bill sütü verdi Jeff e.
+8 Fred mutfağa gitti.
+9 Kim sütü aldı? 	Jeff	7
+10 Jeff sütü bıraktı.
+11 Fred sütü aldı oradaki.
+12 Kim sütü verdi Jeff e? 	Bill	7
+13 Jeff salona gitti.
+14 Fred salona gitti.
+15 Mary banyoya gitti.
+16 Bill ofise gitti.
+17 Fred sütü verdi Jeff e.
+18 Jeff sütü verdi Fred e.
+19 Kim sütü verdi Fred e? 	Jeff	18
+1 Mary sütü aldı oradaki.
+2 Bill bahçeye gitti.
+3 Bill mutfağa gitti.
+4 Fred koridora gitti.
+5 Bill elmayı aldı oradaki.
+6 Fred ofise geri döndü.
+7 Mary mutfağa geri döndü.
+8 Fred koridora gitti.
+9 Bill elmayı verdi Mary e.
+10 Mary koridora gitti.
+11 Ne Bill verdi Mary e? 	elma	9
+12 Mary elmayı verdi Fred e.
+13 Fred elmayı verdi Mary e.
+14 Ne Fred verdi Mary e? 	elma	13
+15 Jeff banyoya gitti.
+16 Bill koridora gitti.
+17 Ne Fred verdi Mary e? 	elma	13
+18 Mary elmayı verdi Fred e.
+19 Mary ofise gitti.
+20 Kim elmayı verdi? 	Mary	18
+21 Jeff topu aldı oradaki.
+22 Fred elmayı verdi Bill e.
+23 Kim elmayı aldı? 	Bill	22
+1 Bill topu aldı oradaki.
+2 Fred salona gitti.
+3 Jeff banyoya gitti.
+4 Bill topu bıraktı.
+5 Jeff elmayı aldı oradaki.
+6 Jeff elmayı bıraktı.
+7 Jeff elmayı aldı oradaki.
+8 Jeff geri döndü bahçeye.
+9 Bill koridora geri döndü.
+10 Jeff elmayı bıraktı.
+11 Jeff elmayı aldı oradaki.
+12 Jeff topu aldı oradaki.
+13 Jeff elmayı bıraktı.
+14 Jeff topu bıraktı.
+15 Fred geri döndü bahçeye.
+16 Fred elmayı aldı oradaki.
+17 Fred elmayı bıraktı.
+18 Fred mutfağa gitti.
+19 Jeff elmayı aldı oradaki.
+20 Jeff topu aldı oradaki.
+21 Fred banyoya gitti.
+22 Bill ofise gitti.
+23 Jeff koridora gitti.
+24 Jeff ofise geri döndü.
+25 Bill sütü aldı oradaki.
+26 Mary banyoya gitti.
+27 Jeff elmayı verdi Bill e.
+28 Mary salona gitti.
+29 Kim elmayı verdi? 	Jeff	27
+30 Bill elmayı verdi Jeff e.
+31 Jeff topu bıraktı.
+32 Ne Bill verdi Jeff e? 	elma	30
+33 Jeff elmayı verdi Bill e.
+34 Mary ofise gitti.
+35 Kim elmayı aldı? 	Bill	33
+36 Fred mutfağa gitti.
+37 Bill bahçeye gitti.
+38 Kim elmayı aldı? 	Bill	33
+39 Mary koridora geri döndü.
+40 Jeff banyoya gitti.
+41 Bill elmayı bıraktı.
+42 Mary ofise gitti.
+43 Mary bahçeye gitti.
+44 Bill sütü verdi Mary e.
+45 Ne Bill verdi Mary e? 	süt	44
+1 Bill topu aldı oradaki.
+2 Mary geri döndü bahçeye.
+3 Jeff bahçeye gitti.
+4 Bill koridora gitti.
+5 Jeff koridora gitti.
+6 Bill topu aldı Jeff e.
+7 Kime Bill topu verdi? 	Jeff	6
+8 Fred sütü aldı oradaki.
+9 Jeff topu verdi Bill e.
+10 Ne Jeff verdi Bill e? 	top	9
+11 Fred sütü bıraktı.
+12 Fred mutfağa gitti.
+13 Kim topu verdi? 	Jeff	9
+14 Fred salona gitti.
+15 Bill topu verdi Jeff e.
+16 Kim topu aldı? 	Jeff	15
+17 Mary koridora gitti.
+18 Fred sütü aldı oradaki.
+19 Ne Bill verdi Jeff e? 	top	15
+1 Fred sütü aldı oradaki.
+2 Fred sütü aldı Bill e.
+3 Ne Fred verdi Bill e? 	süt	2
+4 Jeff mutfağa gitti.
+5 Bill sütü aldı Fred e.
+6 Kim sütü aldı? 	Fred	5
+7 Fred sütü verdi Bill e.
+8 Jeff salona gitti.
+9 Kim sütü verdi Bill e? 	Fred	7
+10 Bill sütü verdi Fred e.
+11 Fred sütü verdi Bill e.
+12 Ne Fred verdi Bill e? 	süt	11
+13 Bill mutfağa gitti.
+14 Jeff topu aldı oradaki.
+15 Kim sütü verdi Bill e? 	Fred	11
+1 Jeff mutfağa gitti.
+2 Mary bahçeye gitti.
+3 Bill ofise geri döndü.
+4 Bill sütü aldı oradaki.
+5 Jeff banyoya geri döndü.
+6 Mary banyoya gitti.
+7 Jeff ofise gitti.
+8 Bill salona gitti.
+9 Fred mutfağa gitti.
+10 Bill banyoya gitti.
+11 Jeff banyoya gitti.
+12 Mary mutfağa gitti.
+13 Bill sütü bıraktı.
+14 Jeff sütü aldı oradaki.
+15 Jeff sütü verdi Bill e.
+16 Jeff koridora gitti.
+17 Kime Jeff sütü verdi? 	Bill	15
+18 Mary salona geri döndü.
+19 Jeff ofise gitti.
+20 Kim sütü verdi Bill e? 	Jeff	15
+21 Fred banyoya gitti.
+22 Bill sütü verdi Fred e.
+23 Kim sütü verdi Fred e? 	Bill	22
+24 Jeff koridora gitti.
+25 Fred sütü verdi Bill e.
+26 Kime Fred sütü verdi? 	Bill	25
+27 Mary ofise gitti.
+28 Bill sütü verdi Fred e.
+29 Ne Bill verdi Fred e? 	süt	28
+1 Jeff banyoya gitti.
+2 Jeff ofise gitti.
+3 Fred ofise geri döndü.
+4 Fred salona gitti.
+5 Mary banyoya gitti.
+6 Jeff topu aldı oradaki.
+7 Jeff topu bıraktı.
+8 Jeff topu aldı oradaki.
+9 Jeff topu bıraktı.
+10 Jeff topu aldı oradaki.
+11 Bill bahçeye gitti.
+12 Jeff geri döndü bahçeye.
+13 Jeff elmayı aldı oradaki.
+14 Bill koridora gitti.
+15 Mary koridora gitti.
+16 Bill salona geri döndü.
+17 Jeff elmayı bıraktı oradaki.
+18 Jeff elmayı aldı oradaki.
+19 Jeff mutfağa gitti.
+20 Mary sütü aldı oradaki.
+21 Jeff koridora gitti.
+22 Jeff topu bıraktı.
+23 Jeff mutfağa gitti.
+24 Fred banyoya gitti.
+25 Bill ofise gitti.
+26 Mary topu aldı oradaki.
+27 Mary bahçeye gitti.
+28 Mary sütü bıraktı.
+29 Jeff ofise geri döndü.
+30 Mary sütü aldı oradaki.
+31 Mary salona gitti.
+32 Jeff elmayı bıraktı.
+33 Jeff elmayı aldı oradaki.
+34 Jeff salona gitti.
+35 Mary sütü bıraktı.
+36 Jeff elmayı bıraktı.
+37 Mary elmayı aldı oradaki.
+38 Mary elmayı aldı Jeff e.
+39 Kime Mary elmayı verdi? 	Jeff	38
+40 Mary sütü aldı oradaki.
+41 Jeff elmayı verdi Mary e.
+42 Kim elmayı aldı? 	Mary	41
+43 Mary elmayı verdi Jeff e.
+44 Jeff elmayı verdi Mary e.
+45 Ne Jeff verdi Mary e? 	elma	44
+46 Mary elmayı aldı Jeff e.
+47 Jeff bahçeye gitti.
+48 Ne Mary verdi Jeff e? 	elma	46
+49 Fred salona gitti.
+50 Mary bahçeye gitti.
+51 Kim elmayı verdi? 	Mary	46
+1 Fred elmayı aldı oradaki.
+2 Bill banyoya gitti.
+3 Jeff topu aldı oradaki.
+4 Jeff banyoya gitti.
+5 Jeff salona gitti.
+6 Fred elmayı bıraktı oradaki.
+7 Jeff topu bıraktı oradaki.
+8 Fred elmayı aldı oradaki.
+9 Mary sütü aldı oradaki.
+10 Mary koridora geri döndü.
+11 Fred elmayı verdi Mary e.
+12 Mary elmayı verdi Fred e.
+13 Ne Mary verdi Fred e? 	elma	12
+14 Fred elmayı aldı Mary e.
+15 Fred ofise gitti.
+16 Kim elmayı verdi Mary e? 	Fred	14
+17 Mary bahçeye gitti.
+18 Mary sütü bıraktı.
+19 Kim elmayı verdi? 	Fred	14
+20 Mary elmayı bıraktı.
+21 Mary sütü aldı oradaki.
+22 Mary elmayı aldı oradaki.
+23 Mary elmayı bıraktı.
+24 Jeff topu aldı oradaki.
+25 Mary sütü bıraktı.
+26 Bill koridora gitti.
+27 Mary sütü aldı oradaki.
+28 Mary mutfağa gitti.
+29 Jeff mutfağa gitti.
+30 Mary sütü bıraktı oradaki.
+31 Mary sütü aldı oradaki.
+32 Jeff topu verdi Mary e.
+33 Mary topu verdi Jeff e.
+34 Kim topu aldı? 	Jeff	33
+35 Jeff topu aldı Mary e.
+36 Mary ofise gitti.
+37 Kim topu aldı? 	Mary	35
+1 Jeff bahçeye gitti.
+2 Fred mutfağa gitti.
+3 Fred salona gitti.
+4 Jeff banyoya gitti.
+5 Mary ofise geri döndü.
+6 Mary salona gitti.
+7 Mary mutfağa gitti.
+8 Fred koridora gitti.
+9 Mary salona gitti.
+10 Fred elmayı aldı oradaki.
+11 Bill bahçeye gitti.
+12 Fred elmayı bıraktı.
+13 Mary mutfağa gitti.
+14 Bill topu aldı oradaki.
+15 Fred ofise gitti.
+16 Mary koridora gitti.
+17 Mary elmayı aldı oradaki.
+18 Bill topu bıraktı.
+19 Bill topu aldı oradaki.
+20 Fred sütü aldı oradaki.
+21 Mary elmayı bıraktı.
+22 Bill salona gitti.
+23 Bill geri döndü bahçeye.
+24 Jeff salona gitti.
+25 Mary geri döndü bahçeye.
+26 Bill topu verdi Mary e.
+27 Kime Bill topu verdi? 	Mary	26
+28 Mary topu bıraktı.
+29 Bill salona gitti.
+30 Kime Bill topu verdi? 	Mary	26
+31 Mary topu aldı oradaki.
+32 Bill bahçeye gitti.
+33 Kim topu verdi? 	Bill	26
+34 Mary topu aldı Bill e.
+35 Bill topu aldı Mary e.
+36 Kim topu verdi? 	Bill	35
+37 Fred bahçeye gitti.
+38 Jeff mutfağa gitti.
+39 Ne Bill verdi Mary e? 	top	35
+1 Jeff elmayı aldı oradaki.
+2 Jeff elmayı verdi Bill e.
+3 Kim elmayı verdi? 	Jeff	2
+4 Bill elmayı aldı Jeff e.
+5 Jeff elmayı verdi Bill e.
+6 Kime Jeff elmayı verdi? 	Bill	5
+7 Bill elmayı verdi Jeff e.
+8 Fred ofise gitti.
+9 Ne Bill verdi Jeff e? 	elma	7
+10 Mary mutfağa gitti.
+11 Jeff elmayı verdi Mary e.
+12 Kim elmayı verdi? 	Jeff	11
+13 Fred topu aldı oradaki.
+14 Jeff koridora gitti.
+15 Kime Jeff elmayı verdi? 	Mary	11
+1 Mary koridora gitti.
+2 Mary banyoya geri döndü.
+3 Bill banyoya gitti.
+4 Jeff ofise gitti.
+5 Mary koridora gitti.
+6 Jeff topu aldı oradaki.
+7 Jeff sütü aldı oradaki.
+8 Mary geri döndü bahçeye.
+9 Bill bahçeye gitti.
+10 Jeff topu bıraktı oradaki.
+11 Jeff sütü bıraktı.
+12 Jeff bahçeye gitti.
+13 Fred geri döndü bahçeye.
+14 Bill koridora geri döndü.
+15 Bill banyoya gitti.
+16 Bill mutfağa gitti.
+17 Bill banyoya gitti.
+18 Mary mutfağa gitti.
+19 Fred mutfağa geri döndü.
+20 Jeff koridora gitti.
+21 Jeff bahçeye gitti.
+22 Fred bahçeye gitti.
+23 Bill ofise gitti.
+24 Bill topu aldı oradaki.
+25 Bill koridora gitti.
+26 Fred ofise geri döndü.
+27 Fred banyoya gitti.
+28 Fred ofise gitti.
+29 Fred mutfağa gitti.
+30 Bill topu bıraktı.
+31 Bill topu aldı oradaki.
+32 Bill banyoya gitti.
+33 Bill salona gitti.
+34 Bill banyoya geri döndü.
+35 Mary ofise geri döndü.
+36 Bill topu bıraktı.
+37 Mary sütü aldı oradaki.
+38 Fred salona gitti.
+39 Jeff salona gitti.
+40 Bill koridora gitti.
+41 Jeff elmayı aldı oradaki.
+42 Jeff elmayı verdi Fred e.
+43 Ne Jeff verdi Fred e? 	elma	42
+44 Mary sütü bıraktı.
+45 Mary banyoya gitti.
+46 Kime Jeff elmayı verdi? 	Fred	42
+47 Fred elmayı bıraktı.
+48 Mary topu aldı oradaki.
+49 Kime Jeff elmayı verdi? 	Fred	42
+50 Fred elmayı aldı oradaki.
+51 Jeff banyoya gitti.
+52 Mary mutfağa gitti.
+53 Mary topu bıraktı.
+54 Bill ofise gitti.
+55 Jeff koridora gitti.
+56 Mary topu aldı oradaki.
+57 Fred elmayı bıraktı oradaki.
+58 Mary banyoya gitti.
+59 Fred mutfağa gitti.
+60 Bill sütü aldı oradaki.
+61 Mary ofise gitti.
+62 Mary topu verdi Bill e.
+63 Bill topu verdi Mary e.
+64 Kime Bill topu verdi? 	Mary	63
+65 Jeff bahçeye gitti.
+66 Mary topu aldı Bill e.
+67 Kim topu aldı? 	Bill	66
+1 Mary topu aldı oradaki.
+2 Bill mutfağa gitti.
+3 Mary salona gitti.
+4 Mary topu verdi Fred e.
+5 Ne Mary verdi Fred e? 	top	4
+6 Fred topu bıraktı oradaki.
+7 Bill koridora gitti.
+8 Ne Mary verdi Fred e? 	top	4
+9 Jeff topu aldı oradaki.
+10 Mary banyoya gitti.
+11 Kime Mary topu verdi? 	Fred	4
+12 Mary bahçeye gitti.
+13 Jeff topu verdi Fred e.
+14 Kim topu verdi Fred e? 	Jeff	13
+15 Fred topu verdi Jeff e.
+16 Mary salona geri döndü.
+17 Kim topu aldı? 	Jeff	15
+1 Fred koridora gitti.
+2 Mary ofise gitti.
+3 Mary mutfağa geri döndü.
+4 Fred topu aldı oradaki.
+5 Fred topu bıraktı.
+6 Bill banyoya gitti.
+7 Fred banyoya geri döndü.
+8 Mary salona gitti.
+9 Mary ofise gitti.
+10 Jeff ofise gitti.
+11 Jeff sütü aldı oradaki.
+12 Jeff sütü verdi Mary e.
+13 Kim sütü aldı? 	Mary	12
+14 Fred mutfağa gitti.
+15 Fred salona gitti.
+16 Ne Jeff verdi Mary e? 	süt	12
+17 Mary sütü bıraktı.
+18 Jeff koridora gitti.
+19 Ne Jeff verdi Mary e? 	süt	12
+20 Mary sütü aldı oradaki.
+21 Jeff salona geri döndü.
+22 Mary bahçeye gitti.
+23 Mary elmayı aldı oradaki.
+24 Jeff banyoya gitti.
+25 Mary elmayı bıraktı.
+26 Mary sütü bıraktı oradaki.
+27 Bill salona gitti.
+28 Fred bahçeye gitti.
+29 Bill banyoya gitti.
+30 Jeff mutfağa geri döndü.
+31 Mary elmayı aldı oradaki.
+32 Jeff banyoya gitti.
+33 Bill salona geri döndü.
+34 Fred sütü aldı oradaki.
+35 Mary elmayı aldı Fred e.
+36 Ne Mary verdi Fred e? 	elma	35
+37 Fred sütü bıraktı.
+38 Fred elmayı bıraktı.
+39 Kim elmayı aldı? 	Fred	35
+1 Bill topu aldı oradaki.
+2 Bill topu bıraktı.
+3 Bill ofise gitti.
+4 Fred salona gitti.
+5 Mary ofise gitti.
+6 Bill koridora gitti.
+7 Bill mutfağa gitti.
+8 Mary salona geri döndü.
+9 Bill elmayı aldı oradaki.
+10 Bill banyoya geri döndü.
+11 Bill salona gitti.
+12 Bill banyoya gitti.
+13 Bill elmayı bıraktı.
+14 Bill topu aldı oradaki.
+15 Bill elmayı aldı oradaki.
+16 Bill elmayı bıraktı.
+17 Bill mutfağa gitti.
+18 Fred bahçeye gitti.
+19 Mary mutfağa gitti.
+20 Bill topu bıraktı.
+21 Fred sütü aldı oradaki.
+22 Jeff mutfağa gitti.
+23 Bill topu aldı oradaki.
+24 Bill topu verdi Mary e.
+25 Ne Bill verdi Mary e? 	top	24
+26 Mary topu verdi Bill e.
+27 Bill salona gitti.
+28 Ne Mary verdi Bill e? 	top	26
+29 Fred salona gitti.
+30 Fred geri döndü bahçeye.
+31 Kim topu verdi Bill e? 	Mary	26
+32 Bill topu bıraktı oradaki.
+33 Bill topu aldı oradaki.
+34 Mary ofise gitti.
+35 Bill bahçeye gitti.
+36 Bill topu verdi Fred e.
+37 Mary bahçeye gitti.
+38 Kim topu verdi Fred e? 	Bill	36
+39 Fred topu verdi Mary e.
+40 Jeff bahçeye gitti.
+41 Kim topu verdi Mary e? 	Fred	39
+1 Fred salona gitti.
+2 Mary salona gitti.
+3 Bill elmayı aldı oradaki.
+4 Bill bahçeye gitti.
+5 Jeff sütü aldı oradaki.
+6 Bill elmayı bıraktı.
+7 Mary koridora gitti.
+8 Fred ofise gitti.
+9 Mary mutfağa geri döndü.
+10 Jeff sütü aldı Mary e.
+11 Kim sütü aldı? 	Mary	10
+12 Mary ofise gitti.
+13 Bill elmayı aldı oradaki.
+14 Kim sütü aldı? 	Mary	10
+15 Mary sütü verdi Fred e.
+16 Fred sütü verdi Mary e.
+17 Ne Fred verdi Mary e? 	süt	16
+18 Mary sütü bıraktı.
+19 Jeff salona gitti.
+20 Kim sütü verdi? 	Fred	16
+21 Mary bahçeye gitti.
+22 Mary topu aldı oradaki.
+23 Kim sütü verdi? 	Fred	16
+1 Jeff topu aldı oradaki.
+2 Jeff topu verdi Bill e.
+3 Ne Jeff verdi Bill e? 	top	2
+4 Fred sütü aldı oradaki.
+5 Bill topu bıraktı.
+6 Ne Jeff verdi Bill e? 	top	2
+7 Jeff banyoya gitti.
+8 Fred ofise gitti.
+9 Ne Jeff verdi Bill e? 	top	2
+10 Bill topu aldı oradaki.
+11 Bill koridora gitti.
+12 Fred sütü bıraktı oradaki.
+13 Fred sütü aldı oradaki.
+14 Fred sütü bıraktı oradaki.
+15 Bill topu bıraktı.
+16 Fred sütü aldı oradaki.
+17 Fred sütü bıraktı.
+18 Fred banyoya geri döndü.
+19 Fred elmayı aldı oradaki.
+20 Mary banyoya geri döndü.
+21 Fred elmayı verdi Mary e.
+22 Kim elmayı verdi? 	Fred	21
+23 Bill salona gitti.
+24 Mary elmayı verdi Fred e.
+25 Ne Mary verdi Fred e? 	elma	24
+1 Mary geri döndü bahçeye.
+2 Fred elmayı aldı oradaki.
+3 Mary salona geri döndü.
+4 Bill sütü aldı oradaki.
+5 Bill sütü bıraktı.
+6 Bill sütü aldı oradaki.
+7 Fred ofise gitti.
+8 Fred elmayı verdi Jeff e.
+9 Kim elmayı verdi? 	Fred	8
+10 Fred mutfağa geri döndü.
+11 Bill sütü bıraktı.
+12 Ne Fred verdi Jeff e? 	elma	8
+13 Bill sütü aldı oradaki.
+14 Bill sütü bıraktı oradaki.
+15 Ne Fred verdi Jeff e? 	elma	8
+16 Jeff elmayı bıraktı oradaki.
+17 Bill sütü aldı oradaki.
+18 Fred banyoya gitti.
+19 Bill sütü bıraktı.
+20 Fred ofise gitti.
+21 Jeff elmayı aldı oradaki.
+22 Jeff elmayı aldı Fred e.
+23 Jeff koridora gitti.
+24 Kim elmayı aldı? 	Fred	22
+25 Fred elmayı bıraktı.
+26 Jeff ofise gitti.
+27 Kime Jeff elmayı verdi? 	Fred	22
+1 Bill elmayı aldı oradaki.
+2 Bill elmayı verdi Fred e.
+3 Kim elmayı verdi Fred e? 	Bill	2
+4 Bill geri döndü bahçeye.
+5 Bill salona gitti.
+6 Kim elmayı verdi? 	Bill	2
+7 Fred elmayı bıraktı.
+8 Bill koridora gitti.
+9 Ne Bill verdi Fred e? 	elma	2
+10 Fred elmayı aldı oradaki.
+11 Jeff topu aldı oradaki.
+12 Jeff topu bıraktı.
+13 Jeff mutfağa gitti.
+14 Fred elmayı verdi Jeff e.
+15 Jeff elmayı verdi Fred e.
+16 Kime Jeff elmayı verdi? 	Fred	15
+17 Bill sütü aldı oradaki.
+18 Fred banyoya gitti.
+19 Kim elmayı verdi Fred e? 	Jeff	15
+1 Mary sütü aldı oradaki.
+2 Fred koridora gitti.
+3 Mary sütü bıraktı.
+4 Mary topu aldı oradaki.
+5 Bill sütü aldı oradaki.
+6 Mary topu aldı Bill e.
+7 Kim topu verdi? 	Mary	6
+8 Bill topu verdi Mary e.
+9 Mary topu aldı Bill e.
+10 Ne Mary verdi Bill e? 	top	9
+11 Jeff geri döndü bahçeye.
+12 Bill topu bıraktı oradaki.
+13 Ne Mary verdi Bill e? 	top	9
+14 Bill banyoya gitti.
+15 Bill salona gitti.
+16 Ne Mary verdi Bill e? 	top	9
+17 Mary bahçeye gitti.
+18 Mary koridora gitti.
+19 Bill koridora gitti.
+20 Bill ofise gitti.
+21 Bill sütü bıraktı.
+22 Bill topu aldı oradaki.
+23 Fred geri döndü bahçeye.
+24 Bill sütü aldı oradaki.
+25 Bill sütü bıraktı.
+26 Mary banyoya gitti.
+27 Mary koridora gitti.
+28 Mary ofise gitti.
+29 Mary sütü aldı oradaki.
+30 Bill topu bıraktı.
+31 Mary sütü verdi Bill e.
+32 Mary topu aldı oradaki.
+33 Kime Mary sütü verdi? 	Bill	31
+1 Mary koridora gitti.
+2 Fred banyoya geri döndü.
+3 Mary topu aldı oradaki.
+4 Mary topu verdi Jeff e.
+5 Kime Mary topu verdi? 	Jeff	4
+6 Jeff topu aldı Mary e.
+7 Mary topu verdi Jeff e.
+8 Kim topu verdi? 	Mary	7
+9 Jeff topu aldı Mary e.
+10 Mary topu bıraktı.
+11 Kim topu verdi? 	Jeff	9
+12 Fred bahçeye gitti.
+13 Mary topu aldı oradaki.
+14 Kime Jeff topu verdi? 	Mary	9
+15 Bill banyoya gitti.
+16 Fred ofise gitti.
+17 Bill bahçeye gitti.
+18 Mary topu Jeff e verdi.
+19 Kim topu aldı? 	Jeff	18
+1 Fred koridora gitti.
+2 Mary elmayı aldı oradaki.
+3 Bill mutfağa gitti.
+4 Fred salona gitti.
+5 Bill salona gitti.
+6 Bill sütü aldı oradaki.
+7 Jeff banyoya geri döndü.
+8 Bill sütü verdi Fred e.
+9 Kim sütü aldı? 	Fred	8
+10 Jeff bahçeye gitti.
+11 Fred sütü bıraktı.
+12 Ne Bill verdi Fred e? 	süt	8
+13 Mary elmayı bıraktı.
+14 Bill sütü aldı oradaki.
+15 Kim sütü verdi? 	Bill	8
+16 Bill sütü verdi Fred e.
+17 Fred sütü aldı Bill e.
+18 Kim sütü verdi Bill e? 	Fred	17
+19 Mary koridora geri döndü.
+20 Fred koridora gitti.
+21 Kime Fred sütü verdi? 	Bill	17
+1 Jeff bahçeye gitti.
+2 Bill koridora gitti.
+3 Fred ofise gitti.
+4 Fred elmayı aldı oradaki.
+5 Fred elmayı bıraktı oradaki.
+6 Fred elmayı aldı oradaki.
+7 Mary bahçeye gitti.
+8 Jeff banyoya geri döndü.
+9 Jeff salona gitti.
+10 Jeff ofise gitti.
+11 Fred elmayı aldı Jeff e.
+12 Jeff elmayı aldı Fred e.
+13 Kim elmayı verdi Fred e? 	Jeff	12
+14 Fred elmayı verdi Jeff e.
+15 Jeff elmayı aldı Fred e.
+16 Kime Jeff elmayı verdi? 	Fred	15
+17 Mary mutfağa gitti.
+18 Fred elmayı verdi Jeff e.
+19 Ne Fred verdi Jeff e? 	elma	18
+20 Mary banyoya gitti.
+21 Jeff elmayı verdi Fred e.
+22 Kim elmayı verdi Fred e? 	Jeff	21
+23 Bill mutfağa gitti.
+24 Fred elmayı verdi Jeff e.
+25 Kim elmayı verdi Jeff e? 	Fred	24
+1 Bill koridora gitti.
+2 Fred koridora geri döndü.
+3 Mary mutfağa gitti.
+4 Mary elmayı aldı oradaki.
+5 Mary ofise gitti.
+6 Fred banyoya gitti.
+7 Jeff salona geri döndü.
+8 Bill mutfağa geri döndü.
+9 Jeff ofise gitti.
+10 Mary elmayı bıraktı.
+11 Bill topu aldı oradaki.
+12 Jeff mutfağa gitti.
+13 Fred bahçeye gitti.
+14 Mary salona gitti.
+15 Bill topu verdi Jeff e.
+16 Jeff salona gitti.
+17 Ne Bill verdi Jeff e? 	top	15
+18 Fred koridora gitti.
+19 Fred mutfağa gitti.
+20 Ne Bill verdi Jeff e? 	top	15
+21 Jeff topu aldı Mary e.
+22 Mary topu verdi Jeff e.
+23 Kim topu verdi? 	Mary	22
+24 Jeff topu verdi Mary e.
+25 Bill sütü aldı oradaki.
+26 Kime Jeff topu verdi? 	Mary	24
+27 Fred ofise gitti.
+28 Mary banyoya gitti.
+29 Ne Jeff verdi Mary e? 	top	24
+1 Fred sütü aldı oradaki.
+2 Mary mutfağa geri döndü.
+3 Jeff ofise geri döndü.
+4 Fred koridora gitti.
+5 Fred ofise gitti.
+6 Fred sütü verdi Bill e.
+7 Kim sütü verdi Bill e? 	Fred	6
+8 Bill sütü verdi Fred e.
+9 Fred mutfağa gitti.
+10 Kim sütü verdi? 	Bill	8
+11 Jeff geri döndü bahçeye.
+12 Fred sütü verdi Mary e.
+13 Ne Fred verdi Mary e? 	süt	12
+14 Fred koridora gitti.
+15 Fred topu aldı oradaki.
+16 Kim sütü verdi? 	Fred	12
+17 Jeff mutfağa gitti.
+18 Fred bahçeye gitti.
+19 Kime Fred sütü verdi? 	Mary	12
+1 Fred ofise gitti.
+2 Mary bahçeye gitti.
+3 Jeff banyoya gitti.
+4 Mary mutfağa gitti.
+5 Mary koridora gitti.
+6 Mary salona gitti.
+7 Mary sütü aldı oradaki.
+8 Fred banyoya gitti.
+9 Fred mutfağa gitti.
+10 Jeff koridora gitti.
+11 Mary sütü bıraktı.
+12 Jeff elmayı aldı oradaki.
+13 Fred koridora geri döndü.
+14 Jeff elmayı aldı Fred e.
+15 Kime Jeff elmayı verdi? 	Fred	14
+16 Mary sütü aldı oradaki.
+17 Fred elmayı verdi Jeff e.
+18 Kim elmayı aldı? 	Jeff	17
+19 Jeff bahçeye gitti.
+20 Jeff topu aldı oradaki.
+21 Kim elmayı verdi Jeff e? 	Fred	17
+22 Mary sütü bıraktı.
+23 Jeff topu bıraktı.
+24 Ne Fred verdi Jeff e? 	elma	17
+25 Mary sütü aldı oradaki.
+26 Jeff elmayı bıraktı.
+27 Mary geri döndü bahçeye.
+28 Mary sütü verdi Jeff e.
+29 Kim sütü verdi? 	Mary	28
+1 Jeff salona geri döndü.
+2 Fred sütü aldı oradaki.
+3 Fred mutfağa geri döndü.
+4 Fred sütü bıraktı.
+5 Jeff geri döndü bahçeye.
+6 Mary topu aldı oradaki.
+7 Fred salona gitti.
+8 Mary topu bıraktı oradaki.
+9 Fred koridora geri döndü.
+10 Bill ofise geri döndü.
+11 Jeff salona gitti.
+12 Jeff bahçeye gitti.
+13 Mary bahçeye gitti.
+14 Fred topu aldı oradaki.
+15 Jeff koridora gitti.
+16 Fred topu verdi Jeff e.
+17 Ne Fred verdi Jeff e? 	top	16
+18 Jeff topu verdi Fred e.
+19 Fred topu bıraktı.
+20 Ne Jeff verdi Fred e? 	top	18
+21 Mary mutfağa gitti.
+22 Fred topu aldı oradaki.
+23 Kim topu verdi Fred e? 	Jeff	18
+24 Fred bahçeye gitti.
+25 Jeff salona gitti.
+26 Fred koridora gitti.
+27 Jeff ofise gitti.
+28 Bill koridora geri döndü.
+29 Jeff elmayı aldı oradaki.
+30 Fred topu verdi Bill e.
+31 Jeff bahçeye gitti.
+32 Kime Fred topu verdi? 	Bill	30
+33 Jeff elmayı bıraktı.
+34 Jeff mutfağa geri döndü.
+35 Kim topu verdi? 	Fred	30
+1 Bill banyoya gitti.
+2 Mary bahçeye gitti.
+3 Mary elmayı aldı oradaki.
+4 Bill mutfağa gitti.
+5 Mary elmayı bıraktı oradaki.
+6 Jeff topu aldı oradaki.
+7 Jeff mutfağa geri döndü.
+8 Jeff topu verdi Fred e.
+9 Ne Jeff verdi Fred e? 	top	8
+10 Mary mutfağa gitti.
+11 Fred topu verdi Mary e.
+12 Kime Fred topu verdi? 	Mary	11
+13 Bill banyoya gitti.
+14 Bill sütü aldı oradaki.
+15 Ne Fred verdi Mary e? 	top	11
+16 Bill salona gitti.
+17 Mary topu verdi Fred e.
+18 Kim topu verdi? 	Mary	17
+19 Bill sütü bıraktı.
+20 Fred topu aldı Mary e.
+21 Kime Fred topu verdi? 	Mary	20
+1 Bill elmayı aldı oradaki.
+2 Mary ofise gitti.
+3 Bill bahçeye gitti.
+4 Mary bahçeye gitti.
+5 Bill elmayı bıraktı oradaki.
+6 Bill elmayı aldı oradaki.
+7 Bill elmayı verdi Mary e.
+8 Fred banyoya gitti.
+9 Kim elmayı aldı? 	Mary	7
+10 Mary elmayı bıraktı.
+11 Fred salona gitti.
+12 Ne Bill verdi Mary e? 	elma	7
+13 Bill elmayı aldı oradaki.
+14 Bill elmayı verdi Mary e.
+15 Kim elmayı verdi? 	Bill	14
+16 Fred topu aldı oradaki.
+17 Jeff ofise gitti.
+18 Ne Bill verdi Mary e? 	elma	14
+19 Mary elmayı verdi Bill e.
+20 Bill elmayı aldı Mary e.
+21 Ne Bill verdi Mary e? 	elma	20
+1 Jeff salona gitti.
+2 Mary sütü aldı oradaki.
+3 Mary koridora gitti.
+4 Jeff ofise gitti.
+5 Mary topu aldı oradaki.
+6 Fred mutfağa gitti.
+7 Fred elmayı aldı oradaki.
+8 Fred elmayı bıraktı.
+9 Fred salona gitti.
+10 Jeff bahçeye gitti.
+11 Jeff salona gitti.
+12 Bill banyoya gitti.
+13 Fred ofise geri döndü.
+14 Bill koridora geri döndü.
+15 Mary topu verdi Bill e.
+16 Bill topu verdi Mary e.
+17 Kime Bill topu verdi? 	Mary	16
+18 Jeff bahçeye gitti.
+19 Mary topu verdi Bill e.
+20 Kim topu verdi? 	Mary	19
+21 Fred banyoya geri döndü.
+22 Bill topu verdi Mary e.
+23 Kime Bill topu verdi? 	Mary	22
+24 Mary topu verdi Bill e.
+25 Bill topu aldı Mary e.
+26 Kim topu verdi Mary e? 	Bill	25
+27 Jeff ofise gitti.
+28 Mary topu verdi Bill e.
+29 Kim topu aldı? 	Bill	28
+1 Jeff elmayı aldı oradaki.
+2 Jeff elmayı aldı Mary e.
+3 Kim elmayı verdi? 	Jeff	2
+4 Bill salona gitti.
+5 Mary elmayı aldı Jeff e.
+6 Ne Mary verdi Jeff e? 	elma	5
+7 Bill ofise gitti.
+8 Jeff elmayı verdi Mary e.
+9 Kim elmayı aldı? 	Mary	8
+10 Bill sütü aldı oradaki.
+11 Mary elmayı verdi Jeff e.
+12 Kim elmayı verdi Jeff e? 	Mary	11
+13 Jeff elmayı verdi Mary e.
+14 Mary elmayı aldı Jeff e.
+15 Kim elmayı verdi? 	Mary	14
+1 Mary mutfağa gitti.
+2 Mary banyoya gitti.
+3 Bill banyoya gitti.
+4 Bill salona gitti.
+5 Bill elmayı aldı oradaki.
+6 Bill elmayı bıraktı.
+7 Mary koridora gitti.
+8 Bill banyoya gitti.
+9 Jeff koridora gitti.
+10 Jeff bahçeye gitti.
+11 Jeff mutfağa gitti.
+12 Mary salona gitti.
+13 Mary sütü aldı oradaki.
+14 Mary elmayı aldı oradaki.
+15 Fred koridora gitti.
+16 Mary elmayı bıraktı.
+17 Mary sütü bıraktı.
+18 Jeff bahçeye gitti.
+19 Bill ofise gitti.
+20 Bill koridora gitti.
+21 Bill bahçeye gitti.
+22 Bill salona gitti.
+23 Fred bahçeye gitti.
+24 Mary ofise gitti.
+25 Fred mutfağa gitti.
+26 Mary topu aldı oradaki.
+27 Bill koridora gitti.
+28 Fred banyoya gitti.
+29 Jeff mutfağa geri döndü.
+30 Bill mutfağa gitti.
+31 Mary salona gitti.
+32 Bill ofise geri döndü.
+33 Mary topu bıraktı.
+34 Mary sütü aldı oradaki.
+35 Jeff bahçeye gitti.
+36 Mary topu aldı oradaki.
+37 Fred koridora gitti.
+38 Mary elmayı aldı oradaki.
+39 Fred mutfağa gitti.
+40 Mary sütü bıraktı.
+41 Mary sütü aldı oradaki.
+42 Bill koridora geri döndü.
+43 Fred koridora gitti.
+44 Mary koridora geri döndü.
+45 Mary elmayı verdi Fred e.
+46 Fred elmayı bıraktı.
+47 Kim elmayı verdi? 	Mary	45
+48 Fred ofise gitti.
+49 Mary topu verdi Bill e.
+50 Kim topu aldı? 	Bill	49
+51 Bill topu verdi Mary e.
+52 Jeff koridora geri döndü.
+53 Ne Bill verdi Mary e? 	top	51
+54 Mary topu verdi Bill e.
+55 Bill topu verdi Mary e.
+56 Kim topu verdi? 	Bill	55
+57 Jeff elmayı aldı oradaki.
+58 Mary bahçeye gitti.
+59 Kime Bill topu verdi? 	Mary	55
+1 Jeff koridora gitti.
+2 Bill sütü aldı oradaki.
+3 Bill sütü verdi Mary e.
+4 Mary sütü verdi Bill e.
+5 Ne Mary verdi Bill e? 	süt	4
+6 Jeff geri döndü bahçeye.
+7 Bill banyoya gitti.
+8 Kime Mary sütü verdi? 	Bill	4
+9 Jeff ofise gitti.
+10 Mary ofise geri döndü.
+11 Ne Mary verdi Bill e? 	süt	4
+12 Fred ofise geri döndü.
+13 Jeff topu aldı oradaki.
+14 Jeff salona gitti.
+15 Fred geri döndü bahçeye.
+16 Bill koridora gitti.
+17 Jeff banyoya gitti.
+18 Bill bahçeye gitti.
+19 Jeff ofise geri döndü.
+20 Jeff mutfağa gitti.
+21 Mary mutfağa gitti.
+22 Jeff topu bıraktı.
+23 Bill sütü bıraktı.
+24 Mary topu aldı oradaki.
+25 Jeff geri döndü bahçeye.
+26 Fred sütü aldı oradaki.
+27 Fred sütü aldı Bill e.
+28 Kim sütü aldı? 	Bill	27
+29 Bill sütü verdi Fred e.
+30 Fred sütü verdi Bill e.
+31 Kime Fred sütü verdi? 	Bill	30
+1 Bill sütü aldı oradaki.
+2 Jeff bahçeye gitti.
+3 Bill salona gitti.
+4 Jeff salona geri döndü.
+5 Bill sütü verdi Jeff e.
+6 Jeff sütü aldı Bill e.
+7 Ne Jeff verdi Bill e? 	süt	6
+8 Bill sütü verdi Jeff e.
+9 Jeff sütü aldı Bill e.
+10 Kime Jeff sütü verdi? 	Bill	9
+11 Bill sütü aldı Jeff e.
+12 Jeff sütü verdi Bill e.
+13 Kime Jeff sütü verdi? 	Bill	12
+14 Jeff ofise gitti.
+15 Fred bahçeye gitti.
+16 Ne Jeff verdi Bill e? 	süt	12
+17 Jeff banyoya gitti.
+18 Bill sütü bıraktı.
+19 Ne Jeff verdi Bill e? 	süt	12
+1 Bill sütü aldı oradaki.
+2 Bill sütü bıraktı.
+3 Bill salona gitti.
+4 Fred ofise gitti.
+5 Fred banyoya gitti.
+6 Mary elmayı aldı oradaki.
+7 Jeff banyoya gitti.
+8 Mary mutfağa gitti.
+9 Mary elmayı bıraktı oradaki.
+10 Bill mutfağa gitti.
+11 Mary elmayı aldı oradaki.
+12 Mary elmayı verdi Bill e.
+13 Kime Mary elmayı verdi? 	Bill	12
+14 Bill koridora gitti.
+15 Bill elmayı bıraktı.
+16 Kim elmayı verdi? 	Mary	12
+17 Fred sütü aldı oradaki.
+18 Mary banyoya geri döndü.
+19 Ne Mary verdi Bill e? 	elma	12
+20 Mary salona gitti.
+21 Jeff mutfağa gitti.
+22 Fred koridora geri döndü.
+23 Mary ofise gitti.
+24 Fred sütü verdi Bill e.
+25 Bill elmayı aldı oradaki.
+26 Kim sütü verdi? 	Fred	24
+27 Bill elmayı verdi Fred e.
+28 Bill sütü bıraktı.
+29 Ne Fred verdi Bill e? 	süt	24
+1 Fred banyoya gitti.
+2 Jeff sütü aldı oradaki.
+3 Jeff bahçeye gitti.
+4 Jeff elmayı aldı oradaki.
+5 Fred koridora gitti.
+6 Jeff ofise gitti.
+7 Fred banyoya gitti.
+8 Mary koridora gitti.
+9 Mary topu aldı oradaki.
+10 Mary salona gitti.
+11 Jeff koridora gitti.
+12 Bill salona gitti.
+13 Mary topu aldı Bill e.
+14 Bill topu verdi Mary e.
+15 Kim topu aldı? 	Mary	14
+16 Jeff sütü bıraktı.
+17 Mary topu verdi Bill e.
+18 Kim topu aldı? 	Bill	17
+19 Jeff mutfağa gitti.
+20 Bill topu verdi Mary e.
+21 Ne Bill verdi Mary e? 	top	20
+22 Mary bahçeye gitti.
+23 Mary topu bıraktı.
+24 Kim topu verdi? 	Bill	20
+25 Jeff banyoya gitti.
+26 Jeff koridora gitti.
+27 Kim topu aldı? 	Mary	20
+1 Mary ofise gitti.
+2 Fred topu aldı oradaki.
+3 Bill ofise gitti.
+4 Fred banyoya geri döndü.
+5 Jeff mutfağa gitti.
+6 Fred sütü aldı oradaki.
+7 Jeff salona gitti.
+8 Bill elmayı aldı oradaki.
+9 Fred topu bıraktı.
+10 Bill elmayı aldı Mary e.
+11 Kime Bill elmayı verdi? 	Mary	10
+12 Fred ofise gitti.
+13 Jeff ofise geri döndü.
+14 Ne Bill verdi Mary e? 	elma	10
+15 Jeff salona geri döndü.
+16 Jeff mutfağa geri döndü.
+17 Kim elmayı verdi? 	Bill	10
+18 Mary elmayı aldı Fred e.
+19 Fred elmayı verdi Mary e.
+20 Ne Fred verdi Mary e? 	elma	19
+21 Fred sütü bıraktı.
+22 Mary sütü aldı oradaki.
+23 Ne Fred verdi Mary e? 	elma	19
+1 Bill koridora gitti.
+2 Jeff bahçeye gitti.
+3 Bill elmayı aldı oradaki.
+4 Bill ofise gitti.
+5 Mary sütü aldı oradaki.
+6 Fred koridora gitti.
+7 Bill salona gitti.
+8 Mary bahçeye gitti.
+9 Mary sütü aldı Jeff e.
+10 Jeff sütü bıraktı.
+11 Ne Mary verdi Jeff e? 	süt	9
+12 Jeff salona gitti.
+13 Mary sütü aldı oradaki.
+14 Kime Mary sütü verdi? 	Jeff	9
+15 Mary sütü bıraktı.
+16 Bill elmayı verdi Jeff e.
+17 Kim elmayı aldı? 	Jeff	16
+18 Jeff elmayı bıraktı.
+19 Bill elmayı aldı oradaki.
+20 Kime Bill elmayı verdi? 	Jeff	16
+21 Bill elmayı verdi Jeff e.
+22 Jeff elmayı verdi Bill e.
+23 Kim elmayı verdi Bill e? 	Jeff	22
+1 Bill banyoya gitti.
+2 Fred salona gitti.
+3 Fred sütü aldı oradaki.
+4 Bill salona gitti.
+5 Fred sütü aldı Bill e.
+6 Bill sütü verdi Fred e.
+7 Kim sütü verdi? 	Bill	6
+8 Fred sütü verdi Bill e.
+9 Bill sütü bıraktı oradaki.
+10 Kim sütü verdi? 	Fred	8
+11 Bill koridora gitti.
+12 Jeff koridora gitti.
+13 Kim sütü verdi? 	Fred	8
+14 Jeff elmayı aldı oradaki.
+15 Jeff elmayı aldı Bill e.
+16 Kime Jeff elmayı verdi? 	Bill	15
+17 Fred sütü aldı oradaki.
+18 Bill elmayı verdi Jeff e.
+19 Kim elmayı verdi Jeff e? 	Bill	18
+1 Fred topu aldı oradaki.
+2 Jeff sütü aldı oradaki.
+3 Fred topu bıraktı.
+4 Bill bahçeye gitti.
+5 Fred topu aldı oradaki.
+6 Fred topu bıraktı.
+7 Fred topu aldı oradaki.
+8 Mary ofise geri döndü.
+9 Fred ofise gitti.
+10 Fred topu aldı Mary e.
+11 Kim topu aldı? 	Mary	10
+12 Mary topu aldı Fred e.
+13 Fred topu verdi Mary e.
+14 Kime Fred topu verdi? 	Mary	13
+15 Mary topu verdi Fred e.
+16 Fred topu bıraktı.
+17 Ne Mary verdi Fred e? 	top	15
+18 Mary topu aldı oradaki.
+19 Fred koridora gitti.
+20 Kime Mary topu verdi? 	Fred	15
+21 Bill koridora gitti.
+22 Jeff koridora gitti.
+23 Jeff sütü bıraktı.
+24 Mary banyoya gitti.
+25 Jeff bahçeye gitti.
+26 Fred sütü aldı oradaki.
+27 Fred sütü bıraktı.
+28 Mary topu bıraktı.
+29 Jeff koridora gitti.
+30 Mary mutfağa geri döndü.
+31 Fred sütü aldı oradaki.
+32 Fred sütü aldı Bill e.
+33 Kim sütü verdi Bill e? 	Fred	32
+1 Fred salona gitti.
+2 Jeff mutfağa gitti.
+3 Mary bahçeye gitti.
+4 Bill koridora gitti.
+5 Jeff koridora gitti.
+6 Fred sütü aldı oradaki.
+7 Fred ofise gitti.
+8 Jeff mutfağa gitti.
+9 Fred sütü bıraktı.
+10 Jeff elmayı aldı oradaki.
+11 Jeff ofise gitti.
+12 Jeff mutfağa gitti.
+13 Jeff elmayı bıraktı oradaki.
+14 Jeff elmayı aldı oradaki.
+15 Jeff bahçeye gitti.
+16 Jeff elmayı verdi Mary e.
+17 Kim elmayı verdi Mary e? 	Jeff	16
+18 Mary elmayı aldı Jeff e.
+19 Jeff elmayı aldı Mary e.
+20 Kim elmayı aldı? 	Mary	19
+21 Fred mutfağa gitti.
+22 Mary topu aldı oradaki.
+23 Ne Jeff verdi Mary e? 	elma	19
+24 Mary elmayı verdi Jeff e.
+25 Bill salona gitti.
+26 Kim elmayı aldı? 	Jeff	24
+27 Jeff elmayı aldı Mary e.
+28 Bill bahçeye gitti.
+29 Kime Jeff elmayı verdi? 	Mary	27
+1 Bill salona gitti.
+2 Mary topu aldı oradaki.
+3 Mary topu bıraktı.
+4 Bill elmayı aldı oradaki.
+5 Bill elmayı bıraktı oradaki.
+6 Mary sütü aldı oradaki.
+7 Bill geri döndü bahçeye.
+8 Mary sütü bıraktı.
+9 Bill mutfağa gitti.
+10 Bill bahçeye gitti.
+11 Jeff mutfağa gitti.
+12 Mary ofise gitti.
+13 Fred banyoya geri döndü.
+14 Mary bahçeye gitti.
+15 Fred mutfağa gitti.
+16 Bill koridora gitti.
+17 Jeff geri döndü bahçeye.
+18 Fred geri döndü bahçeye.
+19 Jeff koridora gitti.
+20 Mary ofise gitti.
+21 Bill ofise gitti.
+22 Mary salona gitti.
+23 Bill salona gitti.
+24 Bill banyoya gitti.
+25 Mary elmayı aldı oradaki.
+26 Bill topu aldı oradaki.
+27 Mary bahçeye gitti.
+28 Mary elmayı verdi Fred e.
+29 Kim elmayı verdi Fred e? 	Mary	28
+30 Fred elmayı verdi Mary e.
+31 Mary elmayı aldı Fred e.
+32 Kime Mary elmayı verdi? 	Fred	31
+33 Bill topu bıraktı.
+34 Fred elmayı bıraktı.
+35 Kime Mary elmayı verdi? 	Fred	31
+36 Mary koridora geri döndü.
+37 Bill bahçeye gitti.
+38 Kime Mary elmayı verdi? 	Fred	31
+39 Mary banyoya geri döndü.
+40 Jeff bahçeye gitti.
+41 Bill salona gitti.
+42 Fred banyoya gitti.
+43 Mary topu aldı oradaki.
+44 Mary topu verdi Fred e.
+45 Kim topu verdi Fred e? 	Mary	44
+1 Jeff koridora gitti.
+2 Jeff topu aldı oradaki.
+3 Jeff mutfağa geri döndü.
+4 Jeff topu verdi Fred e.
+5 Ne Jeff verdi Fred e? 	top	4
+6 Fred topu bıraktı.
+7 Fred geri döndü bahçeye.
+8 Kime Jeff topu verdi? 	Fred	4
+9 Jeff bahçeye gitti.
+10 Jeff banyoya gitti.
+11 Kime Jeff topu verdi? 	Fred	4
+12 Jeff ofise gitti.
+13 Fred banyoya gitti.
+14 Fred koridora gitti.
+15 Mary banyoya geri döndü.
+16 Jeff elmayı aldı oradaki.
+17 Jeff elmayı bıraktı.
+18 Mary bahçeye gitti.
+19 Mary salona gitti.
+20 Jeff elmayı aldı oradaki.
+21 Mary banyoya gitti.
+22 Bill ofise geri döndü.
+23 Mary koridora geri döndü.
+24 Jeff elmayı aldı Bill e.
+25 Jeff koridora gitti.
+26 Kime Jeff elmayı verdi? 	Bill	24
+27 Bill elmayı bıraktı.
+28 Bill bahçeye gitti.
+29 Ne Jeff verdi Bill e? 	elma	24
+1 Jeff mutfağa gitti.
+2 Jeff salona gitti.
+3 Fred mutfağa gitti.
+4 Fred topu aldı oradaki.
+5 Jeff ofise gitti.
+6 Bill mutfağa gitti.
+7 Fred topu verdi Bill e.
+8 Bill topu verdi Fred e.
+9 Ne Bill verdi Fred e? 	top	8
+10 Fred topu bıraktı.
+11 Bill bahçeye gitti.
+12 Kim topu aldı? 	Fred	8
+13 Jeff koridora gitti.
+14 Mary banyoya gitti.
+15 Kime Bill topu verdi? 	Fred	8
+16 Mary mutfağa gitti.
+17 Mary topu aldı oradaki.
+18 Mary bahçeye gitti.
+19 Mary topu verdi Bill e.
+20 Kime Mary topu verdi? 	Bill	19
+21 Bill topu verdi Mary e.
+22 Bill salona geri döndü.
+23 Kim topu verdi Mary e? 	Bill	21
+1 Bill mutfağa gitti.
+2 Fred topu aldı oradaki.
+3 Jeff koridora gitti.
+4 Bill ofise geri döndü.
+5 Jeff ofise geri döndü.
+6 Jeff mutfağa gitti.
+7 Mary bahçeye gitti.
+8 Fred topu bıraktı.
+9 Fred topu aldı oradaki.
+10 Jeff koridora gitti.
+11 Jeff geri döndü bahçeye.
+12 Fred mutfağa gitti.
+13 Fred topu bıraktı.
+14 Jeff salona gitti.
+15 Mary salona gitti.
+16 Fred topu aldı oradaki.
+17 Bill koridora gitti.
+18 Mary banyoya gitti.
+19 Bill sütü aldı oradaki.
+20 Bill mutfağa gitti.
+21 Fred topu bıraktı.
+22 Bill topu aldı oradaki.
+23 Bill geri döndü bahçeye.
+24 Bill sütü bıraktı.
+25 Bill topu bıraktı.
+26 Bill topu aldı oradaki.
+27 Mary elmayı aldı oradaki.
+28 Bill banyoya gitti.
+29 Jeff ofise gitti.
+30 Mary elmayı verdi Bill e.
+31 Ne Mary verdi Bill e? 	elma	30
+32 Bill elmayı verdi Mary e.
+33 Mary elmayı verdi Bill e.
+34 Ne Mary verdi Bill e? 	elma	33
+35 Mary salona gitti.
+36 Mary koridora geri döndü.
+37 Kim elmayı aldı? 	Bill	33
+38 Fred ofise gitti.
+39 Jeff salona gitti.
+40 Kim elmayı verdi Bill e? 	Mary	33
+41 Jeff bahçeye gitti.
+42 Jeff sütü aldı oradaki.
+43 Bill mutfağa gitti.
+44 Bill banyoya gitti.
+45 Bill topu bıraktı oradaki.
+46 Mary mutfağa gitti.
+47 Bill elmayı bıraktı.
+48 Bill topu aldı oradaki.
+49 Jeff ofise gitti.
+50 Jeff sütü verdi Fred e.
+51 Kim sütü verdi Fred e? 	Jeff	50
+1 Bill ofise gitti.
+2 Jeff elmayı aldı oradaki.
+3 Jeff elmayı bıraktı.
+4 Bill salona gitti.
+5 Jeff sütü aldı oradaki.
+6 Bill bahçeye gitti.
+7 Bill salona gitti.
+8 Jeff ofise geri döndü.
+9 Jeff sütü aldı Mary e.
+10 Bill banyoya geri döndü.
+11 Kim sütü aldı? 	Mary	9
+12 Fred ofise gitti.
+13 Bill mutfağa gitti.
+14 Ne Jeff verdi Mary e? 	süt	9
+15 Mary sütü bıraktı.
+16 Jeff banyoya gitti.
+17 Mary sütü aldı oradaki.
+18 Bill koridora gitti.
+19 Mary sütü aldı Fred e.
+20 Fred sütü verdi Mary e.
+21 Kim sütü verdi Mary e? 	Fred	20
+22 Mary sütü verdi Fred e.
+23 Fred sütü verdi Mary e.
+24 Ne Fred verdi Mary e? 	süt	23
+25 Mary sütü verdi Fred e.
+26 Fred sütü verdi Mary e.
+27 Kime Fred sütü verdi? 	Mary	26
+1 Bill koridora gitti.
+2 Bill geri döndü bahçeye.
+3 Fred ofise gitti.
+4 Fred mutfağa gitti.
+5 Jeff banyoya gitti.
+6 Fred salona gitti.
+7 Fred sütü aldı oradaki.
+8 Mary mutfağa gitti.
+9 Bill koridora geri döndü.
+10 Fred ofise geri döndü.
+11 Fred sütü bıraktı.
+12 Fred sütü aldı oradaki.
+13 Fred banyoya gitti.
+14 Mary ofise gitti.
+15 Fred sütü verdi Jeff e.
+16 Jeff ofise gitti.
+17 Kim sütü verdi Jeff e? 	Fred	15
+18 Jeff sütü bıraktı.
+19 Jeff elmayı aldı oradaki.
+20 Ne Fred verdi Jeff e? 	süt	15
+21 Mary bahçeye gitti.
+22 Mary ofise gitti.
+23 Mary sütü aldı oradaki.
+24 Mary sütü bıraktı.
+25 Jeff topu aldı oradaki.
+26 Mary koridora gitti.
+27 Bill bahçeye gitti.
+28 Fred ofise gitti.
+29 Jeff salona gitti.
+30 Bill ofise gitti.
+31 Fred koridora gitti.
+32 Jeff topu bıraktı.
+33 Mary ofise gitti.
+34 Bill sütü aldı oradaki.
+35 Bill sütü verdi Mary e.
+36 Mary sütü verdi Bill e.
+37 Ne Mary verdi Bill e? 	süt	36
+38 Jeff topu aldı oradaki.
+39 Bill sütü bıraktı.
+40 Kim sütü verdi? 	Mary	36
+41 Bill sütü aldı oradaki.
+42 Bill sütü aldı Mary e.
+43 Kime Bill sütü verdi? 	Mary	42
+1 Jeff koridora gitti.
+2 Fred salona geri döndü.
+3 Bill ofise geri döndü.
+4 Mary ofise geri döndü.
+5 Fred koridora gitti.
+6 Fred mutfağa gitti.
+7 Fred koridora gitti.
+8 Jeff banyoya gitti.
+9 Bill koridora gitti.
+10 Bill salona gitti.
+11 Fred banyoya geri döndü.
+12 Jeff ofise gitti.
+13 Jeff mutfağa gitti.
+14 Fred salona gitti.
+15 Jeff koridora gitti.
+16 Mary bahçeye gitti.
+17 Mary mutfağa geri döndü.
+18 Fred koridora gitti.
+19 Jeff banyoya gitti.
+20 Mary sütü aldı oradaki.
+21 Mary salona gitti.
+22 Jeff koridora gitti.
+23 Mary sütü verdi Bill e.
+24 Bill sütü verdi Mary e.
+25 Ne Bill verdi Mary e? 	süt	24
+26 Mary sütü bıraktı.
+27 Fred ofise gitti.
+28 Kim sütü verdi? 	Bill	24
+29 Bill sütü aldı oradaki.
+30 Bill sütü verdi Mary e.
+31 Ne Bill verdi Mary e? 	süt	30
+32 Mary sütü verdi Bill e.
+33 Bill sütü aldı Mary e.
+34 Kim sütü aldı? 	Mary	33
+35 Mary sütü aldı Bill e.
+36 Bill sütü aldı Mary e.
+37 Ne Bill verdi Mary e? 	süt	36
+1 Fred elmayı aldı oradaki.
+2 Jeff banyoya gitti.
+3 Fred mutfağa gitti.
+4 Jeff bahçeye gitti.
+5 Mary topu aldı oradaki.
+6 Mary koridora gitti.
+7 Fred elmayı bıraktı.
+8 Fred koridora geri döndü.
+9 Mary topu bıraktı.
+10 Jeff koridora gitti.
+11 Bill koridora geri döndü.
+12 Jeff salona geri döndü.
+13 Bill topu aldı oradaki.
+14 Bill banyoya gitti.
+15 Jeff sütü aldı oradaki.
+16 Fred ofise geri döndü.
+17 Fred salona gitti.
+18 Jeff sütü verdi Fred e.
+19 Kime Jeff sütü verdi? 	Fred	18
+20 Fred koridora gitti.
+21 Fred sütü bıraktı.
+22 Kim sütü aldı? 	Fred	18
+23 Bill topu bıraktı.
+24 Bill topu aldı oradaki.
+25 Ne Jeff verdi Fred e? 	süt	18
+26 Bill mutfağa gitti.
+27 Mary sütü aldı oradaki.
+28 Mary sütü verdi Fred e.
+29 Mary banyoya gitti.
+30 Kime Mary sütü verdi? 	Fred	28
+31 Mary mutfağa geri döndü.
+32 Bill topu aldı Mary e.
+33 Kim sütü verdi Fred e? 	Mary	28
+1 Bill sütü aldı oradaki.
+2 Bill sütü verdi Fred e.
+3 Kime Bill sütü verdi? 	Fred	2
+4 Fred sütü aldı Bill e.
+5 Bill sütü verdi Fred e.
+6 Ne Bill verdi Fred e? 	süt	5
+7 Fred banyoya gitti.
+8 Bill banyoya gitti.
+9 Ne Bill verdi Fred e? 	süt	5
+10 Fred topu aldı oradaki.
+11 Mary mutfağa gitti.
+12 Kim sütü aldı? 	Fred	5
+13 Fred topu verdi Bill e.
+14 Bill elmayı aldı oradaki.
+15 Kim topu aldı? 	Bill	13
+1 Fred salona gitti.
+2 Jeff ofise gitti.
+3 Jeff mutfağa geri döndü.
+4 Fred elmayı aldı oradaki.
+5 Fred ofise gitti.
+6 Fred koridora geri döndü.
+7 Fred banyoya gitti.
+8 Fred elmayı bıraktı oradaki.
+9 Jeff topu aldı oradaki.
+10 Bill koridora gitti.
+11 Bill mutfağa gitti.
+12 Jeff topu verdi Bill e.
+13 Ne Jeff verdi Bill e? 	top	12
+14 Bill salona gitti.
+15 Jeff salona gitti.
+16 Kim topu aldı? 	Bill	12
+17 Bill topu verdi Jeff e.
+18 Jeff topu verdi Bill e.
+19 Kim topu aldı? 	Bill	18
+20 Mary mutfağa geri döndü.
+21 Mary ofise gitti.
+22 Kim topu verdi Bill e? 	Jeff	18
+23 Bill topu verdi Jeff e.
+24 Jeff ofise geri döndü.
+25 Ne Bill verdi Jeff e? 	top	23
+1 Bill mutfağa gitti.
+2 Jeff salona gitti.
+3 Bill koridora gitti.
+4 Fred banyoya gitti.
+5 Jeff mutfağa gitti.
+6 Jeff topu aldı oradaki.
+7 Bill mutfağa geri döndü.
+8 Jeff topu aldı Bill e.
+9 Kim topu verdi? 	Jeff	8
+10 Bill topu aldı Jeff e.
+11 Jeff topu verdi Bill e.
+12 Kim topu verdi Bill e? 	Jeff	11
+13 Bill sütü aldı oradaki.
+14 Fred koridora gitti.
+15 Kim topu verdi? 	Jeff	11
+16 Mary koridora gitti.
+17 Bill ofise gitti.
+18 Kim topu verdi? 	Jeff	11
+19 Bill bahçeye gitti.
+20 Bill topu bıraktı.
+21 Bill topu aldı oradaki.
+22 Jeff koridora gitti.
+23 Bill koridora geri döndü.
+24 Bill topu verdi Mary e.
+25 Ne Bill verdi Mary e? 	top	24
+1 Fred ofise gitti.
+2 Mary koridora gitti.
+3 Jeff bahçeye gitti.
+4 Jeff koridora gitti.
+5 Bill ofise gitti.
+6 Jeff sütü aldı oradaki.
+7 Jeff sütü aldı Mary e.
+8 Mary sütü verdi Jeff e.
+9 Kim sütü verdi? 	Mary	8
+10 Jeff ofise gitti.
+11 Bill mutfağa gitti.
+12 Kime Mary sütü verdi? 	Jeff	8
+13 Fred banyoya gitti.
+14 Mary salona gitti.
+15 Kim sütü verdi? 	Mary	8
+16 Jeff sütü bıraktı.
+17 Jeff sütü aldı oradaki.
+18 Mary mutfağa gitti.
+19 Bill ofise gitti.
+20 Jeff sütü verdi Bill e.
+21 Jeff koridora gitti.
+22 Ne Jeff verdi Bill e? 	süt	20
+23 Jeff mutfağa geri döndü.
+24 Mary topu aldı oradaki.
+25 Kim sütü verdi Bill e? 	Jeff	20
+1 Bill banyoya gitti.
+2 Fred elmayı aldı oradaki.
+3 Mary topu aldı oradaki.
+4 Mary koridora gitti.
+5 Fred elmayı aldı Jeff e.
+6 Mary sütü aldı oradaki.
+7 Ne Fred verdi Jeff e? 	elma	5
+8 Mary bahçeye gitti.
+9 Jeff elmayı verdi Fred e.
+10 Kim elmayı verdi Fred e? 	Jeff	9
+11 Fred elmayı bıraktı.
+12 Mary sütü bıraktı.
+13 Kim elmayı verdi Fred e? 	Jeff	9
+14 Mary sütü aldı oradaki.
+15 Jeff banyoya gitti.
+16 Kim elmayı aldı? 	Fred	9
+17 Jeff bahçeye gitti.
+18 Mary topu verdi Jeff e.
+19 Kim topu verdi Jeff e? 	Mary	18
+1 Bill bahçeye gitti.
+2 Mary ofise gitti.
+3 Jeff sütü aldı oradaki.
+4 Jeff sütü verdi Bill e.
+5 Ne Jeff verdi Bill e? 	süt	4
+6 Bill sütü bıraktı.
+7 Fred mutfağa gitti.
+8 Ne Jeff verdi Bill e? 	süt	4
+9 Mary banyoya gitti.
+10 Jeff koridora gitti.
+11 Ne Jeff verdi Bill e? 	süt	4
+12 Bill mutfağa geri döndü.
+13 Jeff banyoya gitti.
+14 Jeff mutfağa gitti.
+15 Fred ofise gitti.
+16 Fred bahçeye gitti.
+17 Fred ofise gitti.
+18 Jeff salona gitti.
+19 Bill ofise gitti.
+20 Mary ofise gitti.
+21 Mary koridora geri döndü.
+22 Fred salona gitti.
+23 Fred elmayı aldı oradaki.
+24 Jeff topu aldı oradaki.
+25 Fred elmayı verdi Jeff e.
+26 Ne Fred verdi Jeff e? 	elma	25
+27 Jeff elmayı verdi Fred e.
+28 Fred elmayı aldı Jeff e.
+29 Kim elmayı verdi? 	Fred	28
+1 Mary koridora gitti.
+2 Mary topu aldı oradaki.
+3 Mary topu aldı Fred e.
+4 Fred topu verdi Mary e.
+5 Kime Fred topu verdi? 	Mary	4
+6 Jeff banyoya gitti.
+7 Mary topu verdi Fred e.
+8 Ne Mary verdi Fred e? 	top	7
+9 Fred banyoya gitti.
+10 Fred topu verdi Jeff e.
+11 Ne Fred verdi Jeff e? 	top	10
+12 Bill sütü aldı oradaki.
+13 Jeff topu bıraktı.
+14 Kim topu aldı? 	Jeff	10
+15 Mary salona gitti.
+16 Bill mutfağa geri döndü.
+17 Ne Fred verdi Jeff e? 	top	10
+1 Jeff banyoya gitti.
+2 Bill koridora gitti.
+3 Jeff ofise gitti.
+4 Jeff bahçeye gitti.
+5 Mary koridora gitti.
+6 Bill sütü aldı oradaki.
+7 Mary bahçeye gitti.
+8 Jeff banyoya gitti.
+9 Jeff elmayı aldı oradaki.
+10 Jeff elmayı bıraktı.
+11 Fred salona gitti.
+12 Bill salona gitti.
+13 Bill sütü bıraktı.
+14 Mary koridora gitti.
+15 Mary mutfağa gitti.
+16 Jeff salona gitti.
+17 Jeff topu aldı oradaki.
+18 Jeff topu aldı Fred e.
+19 Kim topu verdi? 	Jeff	18
+20 Fred topu verdi Bill e.
+21 Jeff geri döndü bahçeye.
+22 Kim topu aldı? 	Bill	20
+23 Jeff salona gitti.
+24 Mary salona gitti.
+25 Ne Fred verdi Bill e? 	top	20
+26 Fred koridora geri döndü.
+27 Jeff ofise geri döndü.
+28 Bill topu verdi Mary e.
+29 Mary topu aldı Bill e.
+30 Kim topu verdi Bill e? 	Mary	29
+31 Bill topu verdi Mary e.
+32 Mary ofise geri döndü.
+33 Ne Bill verdi Mary e? 	top	31
+1 Mary salona gitti.
+2 Mary banyoya gitti.
+3 Mary topu aldı oradaki.
+4 Mary topu verdi Fred e.
+5 Kim topu aldı? 	Fred	4
+6 Fred sütü aldı oradaki.
+7 Fred topu verdi Mary e.
+8 Kime Fred topu verdi? 	Mary	7
+9 Jeff banyoya gitti.
+10 Mary topu aldı Fred e.
+11 Kim topu verdi? 	Mary	10
+12 Fred topu verdi Mary e.
+13 Fred koridora geri döndü.
+14 Ne Fred verdi Mary e? 	top	12
+15 Fred sütü bıraktı.
+16 Mary bahçeye gitti.
+17 Kim topu verdi? 	Fred	12
+1 Bill ofise gitti.
+2 Bill mutfağa gitti.
+3 Fred sütü aldı oradaki.
+4 Fred sütü bıraktı.
+5 Fred sütü aldı oradaki.
+6 Fred sütü bıraktı.
+7 Jeff bahçeye gitti.
+8 Mary mutfağa gitti.
+9 Fred sütü aldı oradaki.
+10 Fred sütü bıraktı.
+11 Jeff mutfağa gitti.
+12 Jeff bahçeye gitti.
+13 Bill ofise geri döndü.
+14 Fred sütü aldı oradaki.
+15 Bill koridora gitti.
+16 Fred ofise geri döndü.
+17 Jeff banyoya gitti.
+18 Fred sütü bıraktı.
+19 Fred sütü aldı oradaki.
+20 Jeff bahçeye gitti.
+21 Mary bahçeye gitti.
+22 Fred sütü bıraktı oradaki.
+23 Fred sütü aldı oradaki.
+24 Mary elmayı aldı oradaki.
+25 Mary koridora gitti.
+26 Bill mutfağa gitti.
+27 Jeff topu aldı oradaki.
+28 Jeff mutfağa gitti.
+29 Fred banyoya gitti.
+30 Jeff topu verdi Bill e.
+31 Kim topu verdi? 	Jeff	30
+32 Fred sütü bıraktı oradaki.
+33 Bill topu aldı Jeff e.
+34 Ne Bill verdi Jeff e? 	top	33
+35 Jeff topu verdi Bill e.
+36 Bill topu verdi Jeff e.
+37 Kim topu verdi Jeff e? 	Bill	36
+38 Fred sütü aldı oradaki.
+39 Jeff topu aldı Bill e.
+40 Ne Jeff verdi Bill e? 	top	39
+41 Bill topu verdi Jeff e.
+42 Jeff topu aldı Bill e.
+43 Ne Jeff verdi Bill e? 	top	42
+1 Bill mutfağa gitti.
+2 Fred salona gitti.
+3 Jeff sütü aldı oradaki.
+4 Jeff salona gitti.
+5 Jeff sütü verdi Fred e.
+6 Fred sütü verdi Jeff e.
+7 Ne Fred verdi Jeff e? 	süt	6
+8 Jeff sütü aldı Fred e.
+9 Fred sütü bıraktı.
+10 Kim sütü verdi Fred e? 	Jeff	8
+11 Jeff sütü aldı oradaki.
+12 Jeff sütü verdi Fred e.
+13 Kim sütü verdi Fred e? 	Jeff	12
+14 Fred sütü verdi Jeff e.
+15 Jeff sütü aldı Fred e.
+16 Kim sütü aldı? 	Fred	15
+17 Fred sütü verdi Jeff e.
+18 Jeff sütü verdi Fred e.
+19 Kim sütü verdi Fred e? 	Jeff	18
+1 Mary salona geri döndü.
+2 Mary geri döndü bahçeye.
+3 Mary mutfağa gitti.
+4 Fred ofise gitti.
+5 Jeff salona gitti.
+6 Mary ofise geri döndü.
+7 Fred topu aldı oradaki.
+8 Fred topu aldı Mary e.
+9 Kim topu verdi Mary e? 	Fred	8
+10 Fred sütü aldı oradaki.
+11 Mary topu verdi Fred e.
+12 Ne Mary verdi Fred e? 	top	11
+13 Jeff koridora gitti.
+14 Fred topu bıraktı.
+15 Ne Mary verdi Fred e? 	top	11
+16 Fred sütü verdi Mary e.
+17 Mary sütü aldı Fred e.
+18 Kime Mary topu verdi? 	Fred	11
+19 Fred sütü verdi Mary e.
+20 Mary sütü bıraktı.
+21 Kim sütü verdi? 	Fred	19
+1 Bill banyoya gitti.
+2 Fred ofise gitti.
+3 Fred mutfağa geri döndü.
+4 Jeff salona gitti.
+5 Bill ofise gitti.
+6 Fred banyoya gitti.
+7 Jeff sütü aldı oradaki.
+8 Bill elmayı aldı oradaki.
+9 Jeff topu aldı oradaki.
+10 Mary ofise gitti.
+11 Jeff topu bıraktı.
+12 Jeff bahçeye gitti.
+13 Fred mutfağa gitti.
+14 Bill elmayı verdi Mary e.
+15 Ne Bill verdi Mary e? 	elma	14
+16 Mary elmayı aldı Bill e.
+17 Mary koridora gitti.
+18 Kim elmayı verdi Bill e? 	Mary	16
+19 Fred koridora gitti.
+20 Jeff sütü bıraktı.
+21 Kim elmayı verdi? 	Mary	16
+22 Mary bahçeye gitti.
+23 Jeff sütü aldı oradaki.
+24 Jeff sütü bıraktı.
+25 Fred banyoya geri döndü.
+26 Mary sütü aldı oradaki.
+27 Fred koridora gitti.
+28 Mary sütü verdi Jeff e.
+29 Jeff sütü aldı Mary e.
+30 Ne Jeff verdi Mary e? 	süt	29
+31 Bill salona geri döndü.
+32 Jeff koridora gitti.
+33 Kim sütü verdi Mary e? 	Jeff	29
+1 Bill salona gitti.
+2 Jeff salona geri döndü.
+3 Fred koridora gitti.
+4 Fred salona gitti.
+5 Mary elmayı aldı oradaki.
+6 Fred banyoya geri döndü.
+7 Mary elmayı aldı Fred e.
+8 Jeff bahçeye gitti.
+9 Kime Mary elmayı verdi? 	Fred	7
+10 Fred elmayı verdi Mary e.
+11 Mary elmayı verdi Fred e.
+12 Ne Mary verdi Fred e? 	elma	11
+13 Jeff koridora gitti.
+14 Fred elmayı aldı Mary e.
+15 Kime Fred elmayı verdi? 	Mary	14
+16 Mary elmayı bıraktı.
+17 Bill koridora gitti.
+18 Ne Fred verdi Mary e? 	elma	14
+19 Fred salona gitti.
+20 Fred koridora gitti.
+21 Kime Fred elmayı verdi? 	Mary	14
+1 Fred salona gitti.
+2 Bill bahçeye gitti.
+3 Fred bahçeye gitti.
+4 Mary mutfağa gitti.
+5 Mary elmayı aldı oradaki.
+6 Mary elmayı verdi Jeff e.
+7 Kim elmayı aldı? 	Jeff	6
+8 Mary banyoya gitti.
+9 Jeff elmayı bıraktı.
+10 Ne Mary verdi Jeff e? 	elma	6
+11 Fred banyoya gitti.
+12 Jeff sütü aldı oradaki.
+13 Kim elmayı verdi? 	Mary	6
+14 Bill ofise gitti.
+15 Bill topu aldı oradaki.
+16 Bill topu bıraktı.
+17 Jeff sütü bıraktı.
+18 Bill mutfağa gitti.
+19 Bill ofise gitti.
+20 Fred koridora gitti.
+21 Jeff elmayı aldı oradaki.
+22 Mary koridora geri döndü.
+23 Jeff elmayı bıraktı.
+24 Bill topu aldı oradaki.
+25 Fred bahçeye gitti.
+26 Jeff salona geri döndü.
+27 Fred ofise gitti.
+28 Mary salona gitti.
+29 Bill topu verdi Fred e.
+30 Kim topu aldı? 	Fred	29
+31 Fred topu verdi Bill e.
+32 Fred salona gitti.
+33 Kim topu verdi? 	Fred	31
+1 Jeff salona gitti.
+2 Jeff ofise gitti.
+3 Fred salona gitti.
+4 Mary koridora geri döndü.
+5 Mary elmayı aldı oradaki.
+6 Jeff koridora gitti.
+7 Mary elmayı aldı Jeff e.
+8 Jeff elmayı aldı Mary e.
+9 Ne Jeff verdi Mary e? 	elma	8
+10 Fred koridora geri döndü.
+11 Jeff bahçeye gitti.
+12 Ne Jeff verdi Mary e? 	elma	8
+13 Mary elmayı verdi Fred e.
+14 Fred elmayı verdi Mary e.
+15 Kim elmayı verdi? 	Fred	14
+16 Mary elmayı bıraktı oradaki.
+17 Mary elmayı aldı oradaki.
+18 Ne Fred verdi Mary e? 	elma	14
+19 Fred banyoya gitti.
+20 Jeff mutfağa gitti.
+21 Kim elmayı verdi? 	Fred	14
+1 Fred sütü aldı oradaki.
+2 Fred mutfağa gitti.
+3 Fred sütü bıraktı.
+4 Mary bahçeye gitti.
+5 Bill mutfağa geri döndü.
+6 Fred ofise gitti.
+7 Jeff banyoya geri döndü.
+8 Bill bahçeye gitti.
+9 Bill banyoya gitti.
+10 Fred salona gitti.
+11 Jeff koridora gitti.
+12 Fred koridora gitti.
+13 Mary mutfağa gitti.
+14 Mary banyoya gitti.
+15 Bill koridora gitti.
+16 Bill ofise gitti.
+17 Jeff bahçeye gitti.
+18 Mary geri döndü bahçeye.
+19 Fred banyoya geri döndü.
+20 Jeff salona gitti.
+21 Jeff koridora gitti.
+22 Fred ofise gitti.
+23 Jeff salona gitti.
+24 Jeff banyoya geri döndü.
+25 Jeff ofise gitti.
+26 Jeff salona gitti.
+27 Jeff ofise gitti.
+28 Mary salona gitti.
+29 Mary elmayı aldı oradaki.
+30 Jeff salona gitti.
+31 Mary bahçeye gitti.
+32 Mary elmayı bıraktı.
+33 Mary mutfağa geri döndü.
+34 Jeff koridora gitti.
+35 Jeff mutfağa gitti.
+36 Mary salona gitti.
+37 Jeff bahçeye gitti.
+38 Mary koridora gitti.
+39 Jeff elmayı aldı oradaki.
+40 Jeff elmayı bıraktı.
+41 Jeff elmayı aldı oradaki.
+42 Fred bahçeye gitti.
+43 Jeff salona geri döndü.
+44 Jeff elmayı bıraktı.
+45 Bill koridora gitti.
+46 Bill salona geri döndü.
+47 Bill elmayı aldı oradaki.
+48 Bill elmayı bıraktı.
+49 Bill banyoya gitti.
+50 Jeff elmayı aldı oradaki.
+51 Mary ofise gitti.
+52 Mary mutfağa gitti.
+53 Fred salona geri döndü.
+54 Jeff elmayı bıraktı.
+55 Fred bahçeye gitti.
+56 Jeff elmayı aldı oradaki.
+57 Fred koridora gitti.
+58 Jeff geri döndü bahçeye.
+59 Jeff elmayı bıraktı.
+60 Bill salona gitti.
+61 Jeff elmayı aldı oradaki.
+62 Mary ofise gitti.
+63 Jeff koridora gitti.
+64 Mary mutfağa gitti.
+65 Jeff elmayı verdi Fred e.
+66 Bill banyoya geri döndü.
+67 Ne Jeff verdi Fred e? 	elma	65
+68 Bill salona gitti.
+69 Jeff geri döndü bahçeye.
+70 Kim elmayı verdi Fred e? 	Jeff	65
+71 Mary ofise gitti.
+72 Fred banyoya gitti.
+73 Fred elmayı bıraktı.
+74 Bill ofise geri döndü.
+75 Bill salona gitti.
+76 Fred elmayı aldı oradaki.
+77 Fred elmayı bıraktı oradaki.
+78 Mary banyoya geri döndü.
+79 Fred elmayı aldı oradaki.
+80 Bill banyoya gitti.
+81 Fred elmayı aldı Mary e.
+82 Mary elmayı verdi Fred e.
+83 Kim elmayı verdi? 	Mary	82
+84 Bill salona gitti.
+85 Fred elmayı bıraktı oradaki.
+86 Kim elmayı verdi Fred e? 	Mary	82
+87 Mary elmayı aldı oradaki.
+88 Mary elmayı verdi Fred e.
+89 Kime Mary elmayı verdi? 	Fred	88
+1 Jeff topu aldı oradaki.
+2 Mary ofise geri döndü.
+3 Fred bahçeye gitti.
+4 Jeff topu bıraktı.
+5 Bill salona gitti.
+6 Jeff topu aldı oradaki.
+7 Mary mutfağa geri döndü.
+8 Jeff topu verdi Fred e.
+9 Ne Jeff verdi Fred e? 	top	8
+10 Bill bahçeye gitti.
+11 Fred topu verdi Bill e.
+12 Kim topu verdi? 	Fred	11
+13 Bill topu verdi Fred e.
+14 Mary bahçeye gitti.
+15 Kim topu verdi Fred e? 	Bill	13
+16 Fred topu aldı Mary e.
+17 Mary topu verdi Fred e.
+18 Kim topu verdi? 	Mary	17
+19 Fred topu bıraktı.
+20 Bill topu aldı oradaki.
+21 Ne Mary verdi Fred e? 	top	17
+1 Fred koridora gitti.
+2 Jeff ofise gitti.
+3 Fred sütü aldı oradaki.
+4 Mary salona gitti.
+5 Jeff salona gitti.
+6 Jeff banyoya geri döndü.
+7 Jeff ofise gitti.
+8 Jeff elmayı aldı oradaki.
+9 Jeff topu aldı oradaki.
+10 Fred sütü bıraktı.
+11 Jeff mutfağa gitti.
+12 Jeff elmayı bıraktı oradaki.
+13 Fred sütü aldı oradaki.
+14 Bill bahçeye gitti.
+15 Fred bahçeye gitti.
+16 Jeff elmayı aldı oradaki.
+17 Jeff elmayı bıraktı oradaki.
+18 Fred sütü verdi Bill e.
+19 Kim sütü verdi? 	Fred	18
+20 Bill sütü verdi Fred e.
+21 Fred banyoya gitti.
+22 Ne Bill verdi Fred e? 	süt	20
+23 Jeff elmayı aldı oradaki.
+24 Jeff elmayı bıraktı.
+25 Kim sütü verdi? 	Bill	20
+26 Jeff topu bıraktı.
+27 Bill koridora gitti.
+28 Jeff topu aldı oradaki.
+29 Jeff topu bıraktı.
+30 Mary banyoya gitti.
+31 Mary koridora gitti.
+32 Jeff koridora gitti.
+33 Jeff salona gitti.
+34 Bill salona gitti.
+35 Bill ofise geri döndü.
+36 Fred sütü bıraktı.
+37 Fred bahçeye gitti.
+38 Jeff koridora gitti.
+39 Jeff banyoya gitti.
+40 Bill banyoya gitti.
+41 Jeff sütü aldı oradaki.
+42 Jeff sütü verdi Bill e.
+43 Bill sütü verdi Jeff e.
+44 Kim sütü verdi? 	Bill	43
+45 Jeff sütü verdi Bill e.
+46 Bill koridora gitti.
+47 Ne Jeff verdi Bill e? 	süt	45
+1 Jeff elmayı aldı oradaki.
+2 Jeff ofise gitti.
+3 Jeff elmayı bıraktı.
+4 Jeff elmayı aldı oradaki.
+5 Jeff elmayı verdi Fred e.
+6 Fred elmayı aldı Jeff e.
+7 Ne Fred verdi Jeff e? 	elma	6
+8 Jeff elmayı verdi Fred e.
+9 Fred elmayı bıraktı.
+10 Ne Jeff verdi Fred e? 	elma	8
+11 Mary salona gitti.
+12 Bill ofise gitti.
+13 Ne Jeff verdi Fred e? 	elma	8
+14 Fred mutfağa gitti.
+15 Jeff salona gitti.
+16 Bill elmayı aldı oradaki.
+17 Bill bahçeye gitti.
+18 Jeff banyoya gitti.
+19 Jeff koridora gitti.
+20 Bill elmayı bıraktı.
+21 Fred banyoya geri döndü.
+22 Fred sütü aldı oradaki.
+23 Fred sütü bıraktı.
+24 Jeff ofise gitti.
+25 Bill elmayı aldı oradaki.
+26 Bill banyoya gitti.
+27 Bill elmayı verdi Fred e.
+28 Kim elmayı aldı? 	Fred	27
+29 Jeff banyoya gitti.
+30 Fred elmayı aldı Bill e.
+31 Ne Fred verdi Bill e? 	elma	30
+1 Mary koridora gitti.
+2 Mary elmayı aldı oradaki.
+3 Fred topu aldı oradaki.
+4 Bill mutfağa gitti.
+5 Fred topu verdi Bill e.
+6 Bill topu verdi Fred e.
+7 Kime Bill topu verdi? 	Fred	6
+8 Jeff banyoya gitti.
+9 Fred topu aldı Bill e.
+10 Kim topu aldı? 	Bill	9
+11 Fred salona geri döndü.
+12 Jeff ofise gitti.
+13 Kim topu aldı? 	Bill	9
+14 Jeff bahçeye gitti.
+15 Mary bahçeye gitti.
+16 Kim topu aldı? 	Bill	9
+17 Jeff salona gitti.
+18 Jeff banyoya gitti.
+19 Fred sütü aldı oradaki.
+20 Fred bahçeye gitti.
+21 Mary elmayı aldı Fred e.
+22 Fred elmayı verdi Mary e.
+23 Kim elmayı aldı? 	Mary	22
+1 Bill bahçeye gitti.
+2 Jeff sütü aldı oradaki.
+3 Jeff mutfağa gitti.
+4 Fred ofise gitti.
+5 Jeff sütü bıraktı.
+6 Jeff elmayı aldı oradaki.
+7 Jeff sütü aldı oradaki.
+8 Jeff elmayı bıraktı.
+9 Mary mutfağa geri döndü.
+10 Jeff sütü verdi Mary e.
+11 Kime Jeff sütü verdi? 	Mary	10
+12 Mary sütü verdi Jeff e.
+13 Mary elmayı aldı oradaki.
+14 Ne Mary verdi Jeff e? 	süt	12
+15 Jeff sütü bıraktı.
+16 Mary sütü aldı oradaki.
+17 Ne Mary verdi Jeff e? 	süt	12
+18 Fred bahçeye gitti.
+19 Mary sütü bıraktı.
+20 Mary elmayı verdi Jeff e.
+21 Jeff elmayı aldı Mary e.
+22 Ne Jeff verdi Mary e? 	elma	21
+23 Mary elmayı aldı Jeff e.
+24 Mary sütü aldı oradaki.
+25 Kime Mary elmayı verdi? 	Jeff	23
+1 Fred banyoya gitti.
+2 Jeff koridora gitti.
+3 Fred salona gitti.
+4 Jeff topu aldı oradaki.
+5 Bill mutfağa gitti.
+6 Bill elmayı aldı oradaki.
+7 Fred mutfağa gitti.
+8 Mary mutfağa geri döndü.
+9 Bill elmayı verdi Mary e.
+10 Mary elmayı verdi Fred e.
+11 Ne Mary verdi Fred e? 	elma	10
+12 Fred elmayı verdi Mary e.
+13 Fred banyoya gitti.
+14 Kim elmayı verdi Mary e? 	Fred	12
+15 Mary elmayı aldı Bill e.
+16 Fred salona gitti.
+17 Kim elmayı aldı? 	Bill	15
+18 Bill elmayı bıraktı.
+19 Mary elmayı aldı oradaki.
+20 Ne Mary verdi Bill e? 	elma	15
+21 Jeff topu bıraktı.
+22 Mary salona gitti.
+23 Mary elmayı aldı Fred e.
+24 Fred elmayı aldı Mary e.
+25 Ne Fred verdi Mary e? 	elma	24
+1 Jeff salona gitti.
+2 Bill bahçeye gitti.
+3 Fred elmayı aldı oradaki.
+4 Mary ofise gitti.
+5 Fred elmayı verdi Mary e.
+6 Mary elmayı verdi Fred e.
+7 Ne Mary verdi Fred e? 	elma	6
+8 Fred elmayı verdi Mary e.
+9 Mary elmayı aldı Fred e.
+10 Kim elmayı verdi Fred e? 	Mary	9
+11 Fred banyoya gitti.
+12 Mary geri döndü bahçeye.
+13 Ne Mary verdi Fred e? 	elma	9
+14 Bill salona geri döndü.
+15 Fred topu aldı oradaki.
+16 Ne Mary verdi Fred e? 	elma	9
+17 Fred koridora gitti.
+18 Bill bahçeye gitti.
+19 Jeff banyoya gitti.
+20 Fred banyoya gitti.
+21 Fred elmayı aldı Jeff e.
+22 Jeff elmayı aldı Fred e.
+23 Kime Jeff elmayı verdi? 	Fred	22
+1 Fred topu aldı oradaki.
+2 Fred topu bıraktı.
+3 Fred topu aldı oradaki.
+4 Fred topu bıraktı.
+5 Bill elmayı aldı oradaki.
+6 Mary salona gitti.
+7 Fred geri döndü bahçeye.
+8 Bill salona gitti.
+9 Bill elmayı verdi Mary e.
+10 Mary sütü aldı oradaki.
+11 Ne Bill verdi Mary e? 	elma	9
+12 Mary elmayı verdi Bill e.
+13 Bill elmayı bıraktı.
+14 Kim elmayı aldı? 	Bill	12
+15 Mary sütü bıraktı.
+16 Mary sütü aldı oradaki.
+17 Ne Mary verdi Bill e? 	elma	12
+18 Jeff banyoya geri döndü.
+19 Mary elmayı aldı oradaki.
+20 Mary elmayı aldı Bill e.
+21 Bill elmayı bıraktı.
+22 Ne Mary verdi Bill e? 	elma	20
+23 Mary sütü verdi Bill e.
+24 Bill sütü aldı Mary e.
+25 Kime Bill sütü verdi? 	Mary	24
+1 Mary ofise gitti.
+2 Bill mutfağa gitti.
+3 Bill salona gitti.
+4 Bill topu aldı oradaki.
+5 Mary mutfağa gitti.
+6 Bill topu aldı Fred e.
+7 Kime Bill topu verdi? 	Fred	6
+8 Fred topu verdi Bill e.
+9 Bill mutfağa gitti.
+10 Kim topu aldı? 	Bill	8
+11 Bill topu verdi Mary e.
+12 Mary ofise geri döndü.
+13 Ne Bill verdi Mary e? 	top	11
+14 Jeff koridora gitti.
+15 Jeff ofise gitti.
+16 Kime Bill topu verdi? 	Mary	11
+17 Mary topu verdi Jeff e.
+18 Jeff topu aldı Mary e.
+19 Ne Jeff verdi Mary e? 	top	18
+1 Fred ofise gitti.
+2 Bill ofise gitti.
+3 Bill koridora gitti.
+4 Jeff salona gitti.
+5 Bill ofise gitti.
+6 Fred salona geri döndü.
+7 Fred topu aldı oradaki.
+8 Jeff koridora gitti.
+9 Mary salona gitti.
+10 Fred banyoya gitti.
+11 Fred topu bıraktı oradaki.
+12 Jeff elmayı aldı oradaki.
+13 Jeff salona gitti.
+14 Jeff elmayı aldı Mary e.
+15 Ne Jeff verdi Mary e? 	elma	14
+16 Mary elmayı bıraktı oradaki.
+17 Mary banyoya gitti.
+18 Kim elmayı verdi Mary e? 	Jeff	14
+19 Fred topu aldı oradaki.
+20 Fred topu aldı Mary e.
+21 Ne Fred verdi Mary e? 	top	20
+22 Mary topu aldı Fred e.
+23 Jeff banyoya gitti.
+24 Kim topu verdi? 	Mary	22
+25 Fred topu aldı Mary e.
+26 Mary topu bıraktı oradaki.
+27 Kim topu aldı? 	Mary	25
+1 Jeff topu aldı oradaki.
+2 Jeff topu verdi Bill e.
+3 Kim topu aldı? 	Bill	2
+4 Fred ofise gitti.
+5 Jeff koridora geri döndü.
+6 Kim topu aldı? 	Bill	2
+7 Jeff elmayı aldı oradaki.
+8 Bill topu bıraktı oradaki.
+9 Kim topu verdi? 	Jeff	2
+10 Jeff elmayı bıraktı.
+11 Jeff elmayı aldı oradaki.
+12 Jeff ofise gitti.
+13 Fred sütü aldı oradaki.
+14 Bill topu aldı oradaki.
+15 Fred koridora gitti.
+16 Fred bahçeye gitti.
+17 Jeff banyoya gitti.
+18 Jeff elmayı bıraktı oradaki.
+19 Bill bahçeye gitti.
+20 Jeff elmayı aldı oradaki.
+21 Jeff ofise gitti.
+22 Bill topu bıraktı.
+23 Bill salona gitti.
+24 Fred sütü bıraktı.
+25 Jeff bahçeye gitti.
+26 Jeff elmayı verdi Fred e.
+27 Fred elmayı bıraktı oradaki.
+28 Kime Jeff elmayı verdi? 	Fred	26
+29 Fred sütü aldı oradaki.
+30 Fred koridora gitti.
+31 Kim elmayı verdi? 	Jeff	26
+1 Bill sütü aldı oradaki.
+2 Fred topu aldı oradaki.
+3 Fred mutfağa gitti.
+4 Jeff ofise geri döndü.
+5 Fred topu bıraktı.
+6 Fred topu aldı oradaki.
+7 Jeff bahçeye gitti.
+8 Fred ofise gitti.
+9 Jeff banyoya gitti.
+10 Jeff bahçeye gitti.
+11 Jeff koridora gitti.
+12 Mary mutfağa gitti.
+13 Bill sütü verdi Jeff e.
+14 Jeff sütü verdi Bill e.
+15 Kim sütü verdi? 	Jeff	14
+16 Bill sütü aldı Jeff e.
+17 Jeff mutfağa gitti.
+18 Ne Bill verdi Jeff e? 	süt	16
+19 Fred topu bıraktı.
+20 Mary ofise gitti.
+21 Kime Bill sütü verdi? 	Jeff	16
+22 Jeff salona gitti.
+23 Jeff sütü bıraktı.
+24 Jeff sütü aldı oradaki.
+25 Fred elmayı aldı oradaki.
+26 Fred topu aldı oradaki.
+27 Fred elmayı aldı Mary e.
+28 Ne Fred verdi Mary e? 	elma	27
+29 Mary elmayı verdi Fred e.
+30 Fred elmayı aldı Mary e.
+31 Kim elmayı verdi Mary e? 	Fred	30
+1 Jeff mutfağa gitti.
+2 Fred mutfağa geri döndü.
+3 Mary banyoya gitti.
+4 Mary ofise gitti.
+5 Bill ofise geri döndü.
+6 Mary banyoya geri döndü.
+7 Jeff bahçeye gitti.
+8 Fred koridora gitti.
+9 Fred geri döndü bahçeye.
+10 Bill banyoya gitti.
+11 Fred elmayı aldı oradaki.
+12 Fred elmayı aldı Jeff e.
+13 Kim elmayı verdi Jeff e? 	Fred	12
+14 Fred koridora gitti.
+15 Bill geri döndü bahçeye.
+16 Ne Fred verdi Jeff e? 	elma	12
+17 Mary salona geri döndü.
+18 Mary koridora gitti.
+19 Ne Fred verdi Jeff e? 	elma	12
+20 Fred banyoya geri döndü.
+21 Jeff elmayı aldı Bill e.
+22 Kim elmayı verdi? 	Jeff	21
+23 Bill elmayı bıraktı.
+24 Jeff banyoya gitti.
+25 Ne Jeff verdi Bill e? 	elma	21
+1 Jeff koridora gitti.
+2 Mary salona gitti.
+3 Jeff mutfağa geri döndü.
+4 Fred sütü aldı oradaki.
+5 Fred sütü verdi Jeff e.
+6 Jeff sütü aldı Fred e.
+7 Kim sütü aldı? 	Fred	6
+8 Fred salona geri döndü.
+9 Fred geri döndü bahçeye.
+10 Ne Jeff verdi Fred e? 	süt	6
+11 Fred banyoya gitti.
+12 Jeff koridora geri döndü.
+13 Kim sütü verdi? 	Jeff	6
+14 Fred sütü aldı Bill e.
+15 Bill sütü verdi Fred e.
+16 Ne Bill verdi Fred e? 	süt	15
+17 Fred sütü aldı Bill e.
+18 Bill geri döndü bahçeye.
+19 Kim sütü verdi Bill e? 	Fred	17
+1 Fred koridora gitti.
+2 Bill koridora geri döndü.
+3 Jeff bahçeye gitti.
+4 Fred mutfağa gitti.
+5 Jeff koridora gitti.
+6 Jeff ofise geri döndü.
+7 Jeff koridora gitti.
+8 Mary salona gitti.
+9 Fred salona gitti.
+10 Mary mutfağa geri döndü.
+11 Mary salona geri döndü.
+12 Fred ofise geri döndü.
+13 Bill bahçeye gitti.
+14 Jeff salona geri döndü.
+15 Jeff bahçeye gitti.
+16 Bill sütü aldı oradaki.
+17 Mary ofise gitti.
+18 Bill sütü verdi Jeff e.
+19 Kim sütü verdi? 	Bill	18
+20 Jeff sütü bıraktı.
+21 Fred koridora gitti.
+22 Kime Bill sütü verdi? 	Jeff	18
+23 Mary koridora gitti.
+24 Jeff koridora gitti.
+25 Ne Bill verdi Jeff e? 	süt	18
+26 Fred banyoya gitti.
+27 Bill salona gitti.
+28 Bill ofise gitti.
+29 Fred bahçeye gitti.
+30 Fred sütü aldı oradaki.
+31 Jeff mutfağa gitti.
+32 Jeff banyoya gitti.
+33 Jeff topu aldı oradaki.
+34 Mary ofise geri döndü.
+35 Jeff topu bıraktı.
+36 Jeff mutfağa gitti.
+37 Fred elmayı aldı oradaki.
+38 Fred salona gitti.
+39 Mary bahçeye gitti.
+40 Fred mutfağa geri döndü.
+41 Fred elmayı verdi Jeff e.
+42 Kim elmayı aldı? 	Jeff	41
+43 Fred bahçeye gitti.
+44 Fred sütü aldı Mary e.
+45 Ne Fred verdi Mary e? 	süt	44
+1 Jeff topu aldı oradaki.
+2 Fred koridora geri döndü.
+3 Jeff topu verdi Fred e.
+4 Fred topu verdi Jeff e.
+5 Kim topu verdi Jeff e? 	Fred	4
+6 Jeff topu verdi Fred e.
+7 Fred topu aldı Jeff e.
+8 Ne Fred verdi Jeff e? 	top	7
+9 Jeff topu verdi Fred e.
+10 Fred sütü aldı oradaki.
+11 Kim topu verdi Fred e? 	Jeff	9
+12 Fred topu verdi Jeff e.
+13 Fred sütü bıraktı.
+14 Kim topu verdi Jeff e? 	Fred	12
+15 Fred banyoya gitti.
+16 Bill banyoya gitti.
+17 Ne Fred verdi Jeff e? 	top	12
+1 Fred mutfağa gitti.
+2 Jeff banyoya gitti.
+3 Fred geri döndü bahçeye.
+4 Mary koridora gitti.
+5 Mary mutfağa gitti.
+6 Fred koridora gitti.
+7 Jeff mutfağa geri döndü.
+8 Bill ofise gitti.
+9 Bill banyoya gitti.
+10 Mary salona gitti.
+11 Jeff banyoya gitti.
+12 Mary topu aldı oradaki.
+13 Fred ofise gitti.
+14 Mary koridora gitti.
+15 Fred mutfağa gitti.
+16 Mary ofise gitti.
+17 Bill koridora gitti.
+18 Mary topu bıraktı.
+19 Mary topu aldı oradaki.
+20 Fred banyoya gitti.
+21 Fred koridora gitti.
+22 Mary topu bıraktı.
+23 Fred mutfağa gitti.
+24 Mary geri döndü bahçeye.
+25 Mary ofise gitti.
+26 Fred salona geri döndü.
+27 Fred mutfağa gitti.
+28 Mary salona geri döndü.
+29 Jeff ofise geri döndü.
+30 Fred koridora geri döndü.
+31 Jeff bahçeye gitti.
+32 Fred mutfağa gitti.
+33 Mary bahçeye gitti.
+34 Mary sütü aldı oradaki.
+35 Mary sütü verdi Jeff e.
+36 Jeff sütü verdi Mary e.
+37 Kim sütü verdi? 	Jeff	36
+38 Mary sütü bıraktı.
+39 Mary sütü aldı oradaki.
+40 Kim sütü verdi? 	Jeff	36
+41 Fred bahçeye gitti.
+42 Mary sütü verdi Fred e.
+43 Kim sütü verdi? 	Mary	42
+44 Fred sütü aldı Mary e.
+45 Mary sütü verdi Fred e.
+46 Kim sütü verdi? 	Mary	45
+47 Jeff salona gitti.
+48 Fred sütü bıraktı.
+49 Ne Mary verdi Fred e? 	süt	45
+1 Fred salona gitti.
+2 Bill koridora geri döndü.
+3 Bill sütü aldı oradaki.
+4 Fred koridora gitti.
+5 Bill sütü verdi Fred e.
+6 Fred sütü verdi Bill e.
+7 Kime Fred sütü verdi? 	Bill	6
+8 Bill sütü verdi Fred e.
+9 Fred sütü verdi Bill e.
+10 Kim sütü aldı? 	Bill	9
+11 Mary koridora gitti.
+12 Mary bahçeye gitti.
+13 Kim sütü aldı? 	Bill	9
+14 Bill sütü aldı Fred e.
+15 Mary ofise gitti.
+16 Kim sütü verdi Fred e? 	Bill	14
+17 Bill ofise gitti.
+18 Jeff koridora gitti.
+19 Kim sütü aldı? 	Fred	14
+1 Mary banyoya gitti.
+2 Fred ofise gitti.
+3 Jeff koridora gitti.
+4 Bill koridora gitti.
+5 Jeff topu aldı oradaki.
+6 Jeff topu aldı Bill e.
+7 Kim topu verdi? 	Jeff	6
+8 Bill mutfağa gitti.
+9 Mary bahçeye gitti.
+10 Kim topu aldı? 	Bill	6
+11 Fred bahçeye gitti.
+12 Bill topu bıraktı.
+13 Kim topu aldı? 	Bill	6
+14 Bill topu aldı oradaki.
+15 Jeff banyoya gitti.
+16 Jeff sütü aldı oradaki.
+17 Bill topu bıraktı.
+18 Jeff sütü bıraktı.
+19 Bill topu aldı oradaki.
+20 Mary banyoya gitti.
+21 Bill banyoya gitti.
+22 Jeff mutfağa geri döndü.
+23 Jeff bahçeye gitti.
+24 Bill sütü aldı oradaki.
+25 Bill ofise gitti.
+26 Jeff mutfağa gitti.
+27 Bill bahçeye gitti.
+28 Bill ofise geri döndü.
+29 Bill topu bıraktı.
+30 Fred koridora gitti.
+31 Mary koridora gitti.
+32 Fred ofise geri döndü.
+33 Fred topu aldı oradaki.
+34 Mary elmayı aldı oradaki.
+35 Fred topu verdi Bill e.
+36 Ne Fred verdi Bill e? 	top	35
+37 Mary salona geri döndü.
+38 Bill sütü bıraktı oradaki.
+39 Kim topu verdi? 	Fred	35
+1 Mary koridora geri döndü.
+2 Bill koridora gitti.
+3 Bill topu aldı oradaki.
+4 Bill topu verdi Mary e.
+5 Kim topu aldı? 	Mary	4
+6 Mary topu aldı Bill e.
+7 Bill topu verdi Mary e.
+8 Kim topu verdi Mary e? 	Bill	7
+9 Mary topu aldı Bill e.
+10 Bill topu aldı Mary e.
+11 Kim topu verdi Mary e? 	Bill	10
+12 Mary elmayı aldı oradaki.
+13 Fred salona gitti.
+14 Ne Bill verdi Mary e? 	top	10
+15 Mary elmayı verdi Bill e.
+16 Bill elmayı verdi Mary e.
+17 Ne Bill verdi Mary e? 	top	10

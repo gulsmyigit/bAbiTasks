@@ -1,0 +1,5000 @@
+1 kitapçı kütüphanenin batısında.
+2 restoran salonun batısında.
+3 mutfak kütüphanenin güneyinde.
+4 mutfak batısında restoranın.
+5 Nasıl gidilir kitapçıdan mutfağa?	w,n	1 3
+1 Banyo kütüphanenin güneyinde.
+2 mutfak koridorun güneyinde.
+3 Banyo koridorun doğusunda.
+4 Okul doğusunda Banyo.
+5 Nasıl gidilir koridordan kütüphaneye?	w,s	1 3
+1 Banyo güneyinde mutfak.
+2 Banyo batısında restoranın.
+3 kitapçı parkın kuzeyinde.
+4 Banyo doğusunda kütapçının.
+5 Nasıl gidilir restorandan kitapçıya?	e,e	2 4
+1 kitapçı doğusunda Banyo.
+2 bahçe banyonun güneyinde.
+3 park koridorun batısında.
+4 koridor bahçenin batısında.
+5 Nasıl gidilir kitapçıdan bahçeye?	e,n	1 2
+1 kitapçı parkın güneyinde.
+2 mutfak parkın kuzeyinde.
+3 koridor parkın batısında.
+4 restoran güneyinde kütapçının.
+5 Nasıl gidilir mutfaktan kitapçıya?	n,n	1 2
+1 park kütüphanenin doğusunda.
+2 ofis bahçenin doğusunda.
+3 kütüphanenin güneyinde.
+4 park okulun batısında.
+5 Nasıl gidilir bahçeden kütüphaneye?	w,s	2 3
+1 koridor parkın güneyinde.
+2 koridor kuzeyinde ev.
+3 koridor doğusunda restoranın.
+4 park bahçenin batısında.
+5 Nasıl gidilir parktan restorana?	n,e	1 3
+1 ev okulun doğusunda.
+2 salon evin doğusunda.
+3 mutfak evin güneyinde.
+4 kütüphane kuzeyinde ev.
+5 Nasıl gidilir salondan kütüphaneye?	e,s	2 4
+1 mutfak kütüphanenin doğusunda.
+2 mutfak güneyinde salon.
+3 Okul salonun doğusunda.
+4 Okul güneyinde restoranın.
+5 Nasıl gidilir okuldan mutfağa?	e,n	2 3
+1 ev bahçenin batısında.
+2 bahçe güneyinde restoranın.
+3 Okul doğusunda restoranın.
+4 ev koridorun kuzeyinde.
+5 Nasıl gidilir bahçeden koridora?	e,n	1 4
+1 park okulun doğusunda.
+2 park kütüphanenin batısında.
+3 ofis parkın kuzeyinde.
+4 mutfak kütüphanenin güneyinde.
+5 Nasıl gidilir kütüphaneden okula?	e,e	1 2
+1 ev bahçenin doğusunda.
+2 mutfak parkın doğusunda.
+3 mutfak kütüphanenin güneyinde.
+4 bahçe güneyinde mutfak.
+5 Nasıl gidilir mutfaktan eve?	n,w	1 4
+1 restoran mutfağın doğusunda.
+2 park okulun doğusunda.
+3 park güneyinde mutfak.
+4 ofis okulun batısında.
+5 Nasıl gidilir parktan ofise?	e,e	2 4
+1 kütüphanenin güneyinde.
+2 ofis salonun kuzeyinde.
+3 ev bahçenin batısında.
+4 kütüphane bahçenin doğusunda.
+5 Nasıl gidilir ofisten bahçeye?	s,e	1 4
+1 restoran doğusunda Banyo.
+2 Banyo okulun doğusunda.
+3 ev güneyinde restoranın.
+4 Banyo kütüphanenin güneyinde.
+5 Nasıl gidilir okuldan kütüphaneye?	w,s	2 4
+1 bahçe evin doğusunda.
+2 bahçe salonun kuzeyinde.
+3 ev doğusunda restoranın.
+4 salon ofisin batısında.
+5 Nasıl gidilir bahçeden ofise?	n,w	2 4
+1 bahçe banyonun güneyinde.
+2 salon bahçenin güneyinde.
+3 Banyo güneyinde restoranın.
+4 Okul doğusunda restoranın.
+5 Nasıl gidilir banyodan okula?	s,w	3 4
+1 ofis mutfağın doğusunda.
+2 kitapçı ofisin kuzeyinde.
+3 kitapçı parkın batısında.
+4 ofis bahçenin kuzeyinde.
+5 Nasıl gidilir kitapçıdan bahçeye?	n,n	2 4
+1 bahçe ofisin batısında.
+2 Okul koridorun kuzeyinde.
+3 ofis koridorun güneyinde.
+4 Okul güneyinde salon.
+5 Nasıl gidilir koridordan bahçeye?	n,e	1 3
+1 bahçe evin batısında.
+2 park salonun batısında.
+3 bahçe kütüphanenin doğusunda.
+4 ev parkın kuzeyinde.
+5 Nasıl gidilir salondan eve?	e,s	2 4
+1 kitapçı banyonun güneyinde.
+2 park bahçenin kuzeyinde.
+3 Okul banyonun kuzeyinde.
+4 bahçe okulun doğusunda.
+5 Nasıl gidilir banyodan bahçeye?	s,w	3 4
+1 ev kütüphanenin kuzeyinde.
+2 restoran kuzeyinde ev.
+3 park bahçenin doğusunda.
+4 bahçe kuzeyinde restoranın.
+5 Nasıl gidilir restorandan kütüphaneye?	n,n	1 2
+1 ev parkın doğusunda.
+2 bahçe koridorun batısında.
+3 ev güneyinde kütapçının.
+4 ev bahçenin batısında.
+5 Nasıl gidilir bahçeden kitapçıya?	e,s	3 4
+1 bahçe batısında restoranın.
+2 kütüphane güneyinde restoranın.
+3 kütüphane salonun kuzeyinde.
+4 kitapçı kuzeyinde restoranın.
+5 Nasıl gidilir bahçeden kütüphaneye?	w,n	1 2
+1 bahçe salonun kuzeyinde.
+2 salon evin doğusunda.
+3 Banyo bahçenin doğusunda.
+4 kütüphane banyonun kuzeyinde.
+5 Nasıl gidilir bahçeden kütüphaneye?	w,s	3 4
+1 Banyo kütüphanenin kuzeyinde.
+2 Banyo parkın güneyinde.
+3 restoran ofisin güneyinde.
+4 kütüphanenin batısında.
+5 Nasıl gidilir banyodan ofise?	n,e	1 4
+1 salon doğusunda restoranın.
+2 park salonun kuzeyinde.
+3 restoran doğusunda kütapçının.
+4 bahçe güneyinde kütapçının.
+5 Nasıl gidilir restorandan parka?	w,s	1 2
+1 bahçe kütüphanenin doğusunda.
+2 Okul bahçenin kuzeyinde.
+3 Okul güneyinde restoranın.
+4 salon okulun doğusunda.
+5 Nasıl gidilir bahçeden salona?	s,w	2 4
+1 ofis doğusunda restoranın.
+2 restoran banyonun güneyinde.
+3 ev mutfağın batısında.
+4 mutfak batısında restoranın.
+5 Nasıl gidilir evden restorana?	w,w	3 4
+1 Banyo evin güneyinde.
+2 park kütüphanenin doğusunda.
+3 ev mutfağın batısında.
+4 ev parkın güneyinde.
+5 Nasıl gidilir parktan mutfağa?	n,w	3 4
+1 restoran mutfağın batısında.
+2 restoran kütüphanenin kuzeyinde.
+3 bahçe koridorun kuzeyinde.
+4 bahçe mutfağın doğusunda.
+5 Nasıl gidilir koridordan mutfağa?	s,e	3 4
+1 ev güneyinde mutfak.
+2 ev salonun batısında.
+3 salon ofisin kuzeyinde.
+4 mutfak parkın doğusunda.
+5 Nasıl gidilir ofisten eve?	s,e	2 3
+1 bahçe salonun kuzeyinde.
+2 Okul güneyinde salon.
+3 Banyo güneyinde restoranın.
+4 restoran okulun doğusunda.
+5 Nasıl gidilir okuldan bahçeye?	s,s	1 2
+1 bahçe koridorun doğusunda.
+2 mutfak koridorun kuzeyinde.
+3 kitapçı mutfağın kuzeyinde.
+4 ev doğusunda kütapçının.
+5 Nasıl gidilir kitapçıdan koridora?	n,n	2 3
+1 kütüphane koridorun güneyinde.
+2 Okul kuzeyinde kütapçının.
+3 kitapçı evin batısında.
+4 kitapçı koridorun kuzeyinde.
+5 Nasıl gidilir kütüphaneden kitapçıya?	s,s	1 4
+1 kütüphane kuzeyinde kütapçının.
+2 kitapçı okulun kuzeyinde.
+3 ev doğusunda kütapçının.
+4 kütüphane güneyinde restoranın.
+5 Nasıl gidilir evden kütüphaneye?	e,s	1 3
+1 koridor salonun kuzeyinde.
+2 kitapçı bahçenin batısında.
+3 bahçe koridorun kuzeyinde.
+4 park bahçenin doğusunda.
+5 Nasıl gidilir parktan koridora?	e,n	3 4
+1 mutfak okulun batısında.
+2 kitapçı banyonun güneyinde.
+3 kitapçı koridorun doğusunda.
+4 mutfak güneyinde kütapçının.
+5 Nasıl gidilir banyodan koridora?	n,e	2 3
+1 salon okulun güneyinde.
+2 ev okulun kuzeyinde.
+3 ev batısında restoranın.
+4 kitapçı doğusunda restoranın.
+5 Nasıl gidilir restorandan okula?	e,n	2 3
+1 salon güneyinde mutfak.
+2 ofis güneyinde kütapçının.
+3 salon okulun doğusunda.
+4 kitapçı okulun güneyinde.
+5 Nasıl gidilir okuldan ofise?	n,n	2 4
+1 Okul doğusunda restoranın.
+2 mutfak kuzeyinde ev.
+3 Okul mutfağın batısında.
+4 ofis mutfağın doğusunda.
+5 Nasıl gidilir okuldan eve?	w,n	2 3
+1 park koridorun batısında.
+2 ev parkın batısında.
+3 Banyo kuzeyinde ev.
+4 Banyo salonun doğusunda.
+5 Nasıl gidilir parktan banyoya?	e,s	2 3
+1 restoran bahçenin batısında.
+2 kütüphane bahçenin doğusunda.
+3 Banyo kütüphanenin doğusunda.
+4 kütüphane okulun kuzeyinde.
+5 Nasıl gidilir restorandan kütüphaneye?	w,w	1 2
+1 bahçe doğusunda kütapçının.
+2 Banyo kuzeyinde kütapçının.
+3 kitapçı koridorun doğusunda.
+4 mutfak güneyinde kütapçının.
+5 Nasıl gidilir bahçeden koridora?	e,e	1 3
+1 restoran parkın güneyinde.
+2 koridor kütüphanenin batısında.
+3 restoran ofisin batısında.
+4 restoran kütüphanenin kuzeyinde.
+5 Nasıl gidilir ofisten kütüphaneye?	e,n	3 4
+1 Okul kütüphanenin güneyinde.
+2 Okul ofisin doğusunda.
+3 park ofisin batısında.
+4 kitapçı okulun doğusunda.
+5 Nasıl gidilir kütüphaneden kitapçıya?	n,w	1 4
+1 mutfak bahçenin kuzeyinde.
+2 Okul mutfağın doğusunda.
+3 Banyo okulun kuzeyinde.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir banyodan mutfağa?	n,e	2 3
+1 ofis parkın batısında.
+2 kütüphane kuzeyinde restoranın.
+3 koridor ofisin batısında.
+4 kütüphane koridorun batısında.
+5 Nasıl gidilir restorandan koridora?	s,w	2 4
+1 kütüphane salonun doğusunda.
+2 kütüphane kuzeyinde ev.
+3 Banyo doğusunda restoranın.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir banyodan kütüphaneye?	s,s	2 4
+1 bahçe koridorun güneyinde.
+2 restoran koridorun batısında.
+3 ofis koridorun kuzeyinde.
+4 koridor batısında kütapçının.
+5 Nasıl gidilir bahçeden ofise?	s,s	1 3
+1 Okul banyonun kuzeyinde.
+2 Okul evin güneyinde.
+3 koridor evin batısında.
+4 salon koridorun batısında.
+5 Nasıl gidilir evden salona?	e,e	3 4
+1 salon bahçenin güneyinde.
+2 kütüphanenin güneyinde.
+3 ofis bahçenin kuzeyinde.
+4 bahçe okulun batısında.
+5 Nasıl gidilir bahçeden kütüphaneye?	s,s	2 3
+1 salon okulun güneyinde.
+2 kütüphane okulun doğusunda.
+3 Banyo güneyinde salon.
+4 koridor okulun batısında.
+5 Nasıl gidilir okuldan banyoya?	n,n	1 3
+1 ev kütüphanenin batısında.
+2 koridor evin batısında.
+3 koridor doğusunda kütapçının.
+4 salon evin güneyinde.
+5 Nasıl gidilir salondan kütüphaneye?	s,w	1 4
+1 salon okulun doğusunda.
+2 restoran okulun kuzeyinde.
+3 Okul banyonun kuzeyinde.
+4 koridor salonun doğusunda.
+5 Nasıl gidilir restorandan salona?	n,w	1 2
+1 salon parkın kuzeyinde.
+2 salon ofisin doğusunda.
+3 kütüphane koridorun kuzeyinde.
+4 salon koridorun batısında.
+5 Nasıl gidilir ofisten parka?	w,n	1 2
+1 bahçe kuzeyinde kütapçının.
+2 bahçe güneyinde salon.
+3 kitapçı okulun kuzeyinde.
+4 Banyo bahçenin doğusunda.
+5 Nasıl gidilir banyodan kitapçıya?	e,n	1 4
+1 Okul batısında restoranın.
+2 Okul ofisin kuzeyinde.
+3 Okul koridorun güneyinde.
+4 kütüphane ofisin güneyinde.
+5 Nasıl gidilir ofisten restorana?	s,w	1 2
+1 Banyo parkın batısında.
+2 mutfak banyonun batısında.
+3 ofis salonun kuzeyinde.
+4 ofis banyonun güneyinde.
+5 Nasıl gidilir ofisten parka?	s,w	1 4
+1 ofis parkın kuzeyinde.
+2 Banyo parkın güneyinde.
+3 restoran ofisin doğusunda.
+4 restoran evin güneyinde.
+5 Nasıl gidilir parktan restorana?	s,w	1 3
+1 kitapçı evin güneyinde.
+2 koridor parkın kuzeyinde.
+3 mutfak kuzeyinde ev.
+4 mutfak parkın batısında.
+5 Nasıl gidilir koridordan mutfağa?	n,e	2 4
+1 salon bahçenin batısında.
+2 bahçe evin batısında.
+3 koridor bahçenin kuzeyinde.
+4 ev batısında kütapçının.
+5 Nasıl gidilir koridordan salona?	n,e	1 3
+1 Banyo ofisin batısında.
+2 Banyo doğusunda restoranın.
+3 ev banyonun kuzeyinde.
+4 Okul banyonun güneyinde.
+5 Nasıl gidilir restorandan eve?	w,s	2 3
+1 mutfak salonun batısında.
+2 park ofisin doğusunda.
+3 bahçe parkın güneyinde.
+4 park güneyinde mutfak.
+5 Nasıl gidilir bahçeden mutfağa?	s,s	3 4
+1 Banyo parkın batısında.
+2 Okul banyonun batısında.
+3 restoran bahçenin kuzeyinde.
+4 restoran banyonun güneyinde.
+5 Nasıl gidilir parktan okula?	e,e	1 2
+1 park batısında kütapçının.
+2 Okul doğusunda kütapçının.
+3 kitapçı mutfağın kuzeyinde.
+4 ofisin kuzeyinde kütapçının.
+5 Nasıl gidilir mutfaktan parka?	s,e	1 3
+1 salon kütüphanenin kuzeyinde.
+2 salon bahçenin doğusunda.
+3 park kütüphanenin güneyinde.
+4 koridor kütüphanenin doğusunda.
+5 Nasıl gidilir kütüphaneden bahçeye?	s,e	1 2
+1 park evin doğusunda.
+2 mutfak okulun güneyinde.
+3 ofis evin batısında.
+4 ev güneyinde mutfak.
+5 Nasıl gidilir parktan ofise?	e,e	1 3
+1 koridor banyonun güneyinde.
+2 kütüphanenin güneyinde.
+3 restoran kütüphanenin doğusunda.
+4 ofis doğusunda Banyo.
+5 Nasıl gidilir ofisten koridora?	e,n	1 4
+1 mutfak salonun kuzeyinde.
+2 kitapçı kuzeyinde restoranın.
+3 kütüphane doğusunda kütapçının.
+4 restoran mutfağın doğusunda.
+5 Nasıl gidilir restorandan salona?	e,n	1 4
+1 restoran bahçenin güneyinde.
+2 bahçe evin doğusunda.
+3 park bahçenin kuzeyinde.
+4 salon evin batısında.
+5 Nasıl gidilir evden restorana?	w,n	1 2
+1 Banyo güneyinde kütapçının.
+2 park kuzeyinde kütapçının.
+3 bahçe doğusunda kütapçının.
+4 salon banyonun batısında.
+5 Nasıl gidilir banyodan parka?	s,s	1 2
+1 kitapçı kütüphanenin batısında.
+2 kütüphane evin batısında.
+3 ev mutfağın kuzeyinde.
+4 Banyo kuzeyinde kütapçının.
+5 Nasıl gidilir kütüphaneden mutfağa?	w,n	2 3
+1 restoran ofisin batısında.
+2 kütüphane ofisin doğusunda.
+3 ofis koridorun kuzeyinde.
+4 koridor kuzeyinde ev.
+5 Nasıl gidilir kütüphaneden koridora?	e,n	2 3
+1 Banyo güneyinde kütapçının.
+2 ofis parkın batısında.
+3 park kütüphanenin batısında.
+4 Banyo parkın kuzeyinde.
+5 Nasıl gidilir ofisten banyoya?	w,s	2 4
+1 kitapçı bahçenin doğusunda.
+2 kitapçı kuzeyinde restoranın.
+3 mutfak kütüphanenin güneyinde.
+4 kütüphane doğusunda restoranın.
+5 Nasıl gidilir mutfaktan restorana?	s,e	3 4
+1 kütüphane koridorun doğusunda.
+2 mutfak kütüphanenin doğusunda.
+3 ofis koridorun güneyinde.
+4 kütüphane güneyinde kütapçının.
+5 Nasıl gidilir koridordan mutfağa?	w,w	1 2
+1 bahçe mutfağın batısında.
+2 bahçe kuzeyinde ev.
+3 kitapçı parkın doğusunda.
+4 bahçe doğusunda kütapçının.
+5 Nasıl gidilir evden kitapçıya?	s,e	2 4
+1 park batısında kütapçının.
+2 Okul doğusunda kütapçının.
+3 koridor parkın güneyinde.
+4 restoran okulun doğusunda.
+5 Nasıl gidilir restorandan kitapçıya?	e,e	2 4
+1 Banyo parkın kuzeyinde.
+2 kütüphane doğusunda Banyo.
+3 ev ofisin güneyinde.
+4 ev kütüphanenin doğusunda.
+5 Nasıl gidilir ofisten kütüphaneye?	n,e	3 4
+1 ev ofisin doğusunda.
+2 ofis güneyinde restoranın.
+3 bahçe batısında kütapçının.
+4 kitapçı ofisin batısında.
+5 Nasıl gidilir kitapçıdan eve?	w,w	1 4
+1 mutfak ofisin kuzeyinde.
+2 kütüphane ofisin güneyinde.
+3 mutfak okulun batısında.
+4 kütüphane salonun batısında.
+5 Nasıl gidilir okuldan ofise?	e,n	1 3
+1 kitapçı evin güneyinde.
+2 restoran parkın doğusunda.
+3 kitapçı mutfağın doğusunda.
+4 park doğusunda kütapçının.
+5 Nasıl gidilir evden mutfağa?	n,e	1 3
+1 mutfak okulun kuzeyinde.
+2 kütüphane evin güneyinde.
+3 ev okulun güneyinde.
+4 Okul banyonun batısında.
+5 Nasıl gidilir mutfaktan eve?	n,n	1 3
+1 koridor bahçenin doğusunda.
+2 koridor batısında kütapçının.
+3 bahçe kütüphanenin güneyinde.
+4 kütüphane evin güneyinde.
+5 Nasıl gidilir bahçeden eve?	s,s	3 4
+1 bahçe kütüphanenin güneyinde.
+2 ofis banyonun güneyinde.
+3 kütüphanenin batısında.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir parktan kütüphaneye?	s,s	1 4
+1 mutfak bahçenin güneyinde.
+2 mutfak batısında kütapçının.
+3 restoran salonun batısında.
+4 salon güneyinde mutfak.
+5 Nasıl gidilir salondan kitapçıya?	s,w	2 4
+1 kütüphane parkın kuzeyinde.
+2 park koridorun batısında.
+3 ev ofisin kuzeyinde.
+4 koridor evin batısında.
+5 Nasıl gidilir ofisten koridora?	s,e	3 4
+1 kitapçı doğusunda restoranın.
+2 salon bahçenin kuzeyinde.
+3 park güneyinde restoranın.
+4 restoran bahçenin güneyinde.
+5 Nasıl gidilir bahçeden kitapçıya?	n,w	1 4
+1 kitapçı evin doğusunda.
+2 koridor ofisin doğusunda.
+3 ev koridorun kuzeyinde.
+4 ev banyonun güneyinde.
+5 Nasıl gidilir evden ofise?	n,e	2 3
+1 park güneyinde kütapçının.
+2 restoran batısında kütapçının.
+3 park mutfağın kuzeyinde.
+4 kitapçı bahçenin batısında.
+5 Nasıl gidilir restorandan parka?	w,n	1 2
+1 kitapçı kuzeyinde ev.
+2 ofis mutfağın batısında.
+3 ofis okulun doğusunda.
+4 Okul evin güneyinde.
+5 Nasıl gidilir ofisten eve?	e,s	3 4
+1 salon banyonun güneyinde.
+2 mutfak bahçenin batısında.
+3 bahçe güneyinde salon.
+4 restoran salonun doğusunda.
+5 Nasıl gidilir restorandan bahçeye?	e,n	3 4
+1 Okul kütüphanenin kuzeyinde.
+2 ev güneyinde mutfak.
+3 ofis okulun batısında.
+4 ev okulun doğusunda.
+5 Nasıl gidilir okuldan mutfağa?	w,s	2 4
+1 mutfak okulun doğusunda.
+2 bahçe koridorun kuzeyinde.
+3 koridor mutfağın doğusunda.
+4 kütüphane okulun kuzeyinde.
+5 Nasıl gidilir okuldan koridora?	w,w	1 3
+1 park evin güneyinde.
+2 park kütüphanenin kuzeyinde.
+3 ofis evin doğusunda.
+4 Banyo parkın batısında.
+5 Nasıl gidilir ofisten parka?	e,n	1 3
+1 restoran parkın güneyinde.
+2 restoran ofisin kuzeyinde.
+3 bahçe banyonun kuzeyinde.
+4 bahçe ofisin doğusunda.
+5 Nasıl gidilir bahçeden restorana?	e,s	2 4
+1 ofbatısında kütapçının.
+2 ev salonun kuzeyinde.
+3 salon ofisin kuzeyinde.
+4 kitapçı bahçenin kuzeyinde.
+5 Nasıl gidilir ofisten bahçeye?	w,n	1 4
+1 park batısında kütapçının.
+2 park güneyinde restoranın.
+3 park koridorun doğusunda.
+4 restoran bahçenin güneyinde.
+5 Nasıl gidilir parktan bahçeye?	s,s	2 4
+1 kitapçı koridorun güneyinde.
+2 restoran parkın güneyinde.
+3 ofbatısında kütapçının.
+4 kitapçı parkın kuzeyinde.
+5 Nasıl gidilir parktan koridora?	s,s	1 4
+1 koridor bahçenin kuzeyinde.
+2 mutfak bahçenin batısında.
+3 kütüphane koridorun kuzeyinde.
+4 mutfak ofisin doğusunda.
+5 Nasıl gidilir bahçeden kütüphaneye?	s,s	1 3
+1 Banyo güneyinde restoranın.
+2 park ofisin güneyinde.
+3 salon ofisin doğusunda.
+4 salon banyonun güneyinde.
+5 Nasıl gidilir salondan parka?	e,n	2 3
+1 bahçe salonun kuzeyinde.
+2 Okul bahçenin kuzeyinde.
+3 bahçe doğusunda restoranın.
+4 kitapçı okulun doğusunda.
+5 Nasıl gidilir okuldan restorana?	n,e	2 3
+1 ofis doğusunda restoranın.
+2 koridor parkın batısında.
+3 Banyo kuzeyinde restoranın.
+4 park güneyinde restoranın.
+5 Nasıl gidilir parktan ofise?	s,w	1 4
+1 koridor salonun kuzeyinde.
+2 mutfak güneyinde salon.
+3 park koridorun kuzeyinde.
+4 mutfak doğusunda restoranın.
+5 Nasıl gidilir koridordan mutfağa?	n,n	1 2
+1 kitapçı kütüphanenin kuzeyinde.
+2 koridor doğusunda kütapçının.
+3 Okul batısında kütapçının.
+4 restoran kütüphanenin güneyinde.
+5 Nasıl gidilir koridordan kütüphaneye?	e,n	1 2
+1 restoran kuzeyinde kütapçının.
+2 kitapçı okulun kuzeyinde.
+3 Okul ofisin batısında.
+4 ev okulun güneyinde.
+5 Nasıl gidilir kitapçıdan eve?	n,n	2 4
+1 ofis salonun kuzeyinde.
+2 restoran güneyinde salon.
+3 ofis doğusunda Banyo.
+4 ev salonun doğusunda.
+5 Nasıl gidilir restorandan ofise?	s,s	1 2
+1 kütüphane ofisin batısında.
+2 ev kuzeyinde kütapçının.
+3 mutfak kütüphanenin kuzeyinde.
+4 mutfak güneyinde kütapçının.
+5 Nasıl gidilir mutfaktan eve?	s,s	2 4
+1 ev ofisin güneyinde.
+2 mutfak evin doğusunda.
+3 ev kütüphanenin doğusunda.
+4 ev banyonun kuzeyinde.
+5 Nasıl gidilir banyodan kütüphaneye?	s,e	3 4
+1 ofis doğusunda restoranın.
+2 restoran kütüphanenin doğusunda.
+3 kitapçı kütüphanenin batısında.
+4 ev kütüphanenin kuzeyinde.
+5 Nasıl gidilir restorandan eve?	e,s	2 4
+1 restoran evin güneyinde.
+2 restoran kütüphanenin batısında.
+3 ev parkın doğusunda.
+4 koridor güneyinde restoranın.
+5 Nasıl gidilir evden kütüphaneye?	n,w	1 2
+1 park banyonun batısında.
+2 kütüphane salonun kuzeyinde.
+3 salon bahçenin batısında.
+4 park kütüphanenin kuzeyinde.
+5 Nasıl gidilir parktan salona?	n,n	2 4
+1 Okul mutfağın doğusunda.
+2 park batısında kütapçının.
+3 kitapçı banyonun batısında.
+4 park okulun kuzeyinde.
+5 Nasıl gidilir mutfaktan parka?	w,s	1 4
+1 ev bahçenin doğusunda.
+2 park koridorun doğusunda.
+3 salon bahçenin batısında.
+4 ev koridorun batısında.
+5 Nasıl gidilir parktan eve?	e,e	2 4
+1 restoran parkın güneyinde.
+2 bahçe güneyinde kütapçının.
+3 Banyo doğusunda restoranın.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir restorandan bahçeye?	s,s	1 4
+1 restoran bahçenin doğusunda.
+2 bahçe koridorun kuzeyinde.
+3 park koridorun güneyinde.
+4 bahçe doğusunda Banyo.
+5 Nasıl gidilir restorandan banyoya?	e,e	1 4
+1 koridor okulun batısında.
+2 kitapçı okulun doğusunda.
+3 Banyo güneyinde kütapçının.
+4 Okul parkın güneyinde.
+5 Nasıl gidilir kitapçıdan parka?	e,s	2 4
+1 salon mutfağın doğusunda.
+2 salon kuzeyinde restoranın.
+3 kitapçı kütüphanenin güneyinde.
+4 salon güneyinde kütapçının.
+5 Nasıl gidilir restorandan mutfağa?	s,e	1 2
+1 koridor salonun batısında.
+2 mutfak güneyinde salon.
+3 ev mutfağın doğusunda.
+4 koridor banyonun güneyinde.
+5 Nasıl gidilir mutfaktan koridora?	s,e	1 2
+1 mutfak bahçenin kuzeyinde.
+2 Banyo salonun kuzeyinde.
+3 mutfak salonun doğusunda.
+4 restoran banyonun batısında.
+5 Nasıl gidilir salondan restorana?	s,e	2 4
+1 kitapçı mutfağın batısında.
+2 kitapçı ofisin kuzeyinde.
+3 Banyo kuzeyinde kütapçının.
+4 park batısında kütapçının.
+5 Nasıl gidilir mutfaktan parka?	e,e	1 4
+1 kitapçı bahçenin doğusunda.
+2 kitapçı kuzeyinde ev.
+3 ofis evin doğusunda.
+4 Okul bahçenin batısında.
+5 Nasıl gidilir evden bahçeye?	s,e	1 2
+1 salon kütüphanenin kuzeyinde.
+2 ofis bahçenin doğusunda.
+3 kütüphane parkın kuzeyinde.
+4 ofis parkın güneyinde.
+5 Nasıl gidilir kütüphaneden ofise?	n,n	3 4
+1 Okul kütüphanenin doğusunda.
+2 koridor okulun doğusunda.
+3 Okul kuzeyinde ev.
+4 Okul parkın güneyinde.
+5 Nasıl gidilir evden kütüphaneye?	s,e	1 3
+1 salon mutfağın kuzeyinde.
+2 restoran ofisin doğusunda.
+3 mutfak ofisin batısında.
+4 kütüphane güneyinde restoranın.
+5 Nasıl gidilir mutfaktan restorana?	w,w	2 3
+1 ofis mutfağın kuzeyinde.
+2 mutfak parkın kuzeyinde.
+3 park bahçenin batısında.
+4 bahçe koridorun batısında.
+5 Nasıl gidilir mutfaktan bahçeye?	n,w	2 3
+1 ofis parkın kuzeyinde.
+2 kütüphanenin güneyinde.
+3 ofis banyonun batısında.
+4 kütüphane güneyinde salon.
+5 Nasıl gidilir banyodan kütüphaneye?	e,s	2 3
+1 kitapçı koridorun batısında.
+2 ev ofisin doğusunda.
+3 koridor güneyinde restoranın.
+4 ofis koridorun doğusunda.
+5 Nasıl gidilir koridordan eve?	w,w	2 4
+1 kütüphane salonun doğusunda.
+2 kütüphane batısında restoranın.
+3 koridor okulun doğusunda.
+4 Okul doğusunda restoranın.
+5 Nasıl gidilir kütüphaneden okula?	w,w	2 4
+1 restoran doğusunda kütapçının.
+2 bahçe ofisin kuzeyinde.
+3 ofisin kuzeyinde restoranın.
+4 Banyo doğusunda restoranın.
+5 Nasıl gidilir restorandan bahçeye?	s,s	2 3
+1 park banyonun batısında.
+2 restoran banyonun kuzeyinde.
+3 kütüphane banyonun güneyinde.
+4 Banyo ofisin batısında.
+5 Nasıl gidilir parktan ofise?	w,w	1 4
+1 salon batısında restoranın.
+2 mutfak koridorun doğusunda.
+3 koridor bahçenin doğusunda.
+4 restoran bahçenin batısında.
+5 Nasıl gidilir koridordan restorana?	e,e	3 4
+1 koridor kütüphanenin güneyinde.
+2 Okul kuzeyinde ev.
+3 ev kütüphanenin batısında.
+4 Okul güneyinde mutfak.
+5 Nasıl gidilir mutfaktan eve?	n,n	2 4
+1 ev banyonun batısında.
+2 ev parkın güneyinde.
+3 Banyo koridorun batısında.
+4 Okul parkın kuzeyinde.
+5 Nasıl gidilir evden okula?	s,s	2 4
+1 bahçe banyonun güneyinde.
+2 kitapçı banyonun kuzeyinde.
+3 bahçe evin doğusunda.
+4 bahçe parkın batısında.
+5 Nasıl gidilir banyodan eve?	n,e	1 3
+1 bahçe koridorun güneyinde.
+2 mutfak koridorun kuzeyinde.
+3 mutfak salonun batısında.
+4 park salonun kuzeyinde.
+5 Nasıl gidilir salondan koridora?	e,n	2 3
+1 ev güneyinde kütapçının.
+2 kütüphanenin kuzeyinde.
+3 koridor evin güneyinde.
+4 ofis koridorun doğusunda.
+5 Nasıl gidilir ofisten eve?	e,s	3 4
+1 restoran banyonun güneyinde.
+2 mutfak kuzeyinde ev.
+3 restoran koridorun batısında.
+4 Banyo evin doğusunda.
+5 Nasıl gidilir evden restorana?	w,n	1 4
+1 Banyo kuzeyinde restoranın.
+2 bahçe doğusunda Banyo.
+3 salon evin güneyinde.
+4 salon banyonun batısında.
+5 Nasıl gidilir restorandan salona?	s,e	1 4
+1 restoran koridorun kuzeyinde.
+2 ev bahçenin kuzeyinde.
+3 koridor doğusunda kütapçının.
+4 ev batısında kütapçının.
+5 Nasıl gidilir kitapçıdan restorana?	w,s	1 3
+1 bahçe kütüphanenin kuzeyinde.
+2 Okul kütüphanenin güneyinde.
+3 kütüphane mutfağın doğusunda.
+4 kütüphane koridorun batısında.
+5 Nasıl gidilir mutfaktan okula?	w,n	2 3
+1 Okul batısında restoranın.
+2 ev okulun güneyinde.
+3 restoran ofisin güneyinde.
+4 ev bahçenin doğusunda.
+5 Nasıl gidilir evden restorana?	s,w	1 2
+1 ev koridorun güneyinde.
+2 bahçe batısında restoranın.
+3 bahçe okulun güneyinde.
+4 koridor bahçenin güneyinde.
+5 Nasıl gidilir koridordan restorana?	s,w	2 4
+1 bahçe doğusunda kütapçının.
+2 kitapçı parkın kuzeyinde.
+3 restoran parkın güneyinde.
+4 restoran evin doğusunda.
+5 Nasıl gidilir evden parka?	w,s	3 4
+1 bahçe kütüphanenin kuzeyinde.
+2 bahçe parkın batısında.
+3 Okul bahçenin kuzeyinde.
+4 Banyo kütüphanenin batısında.
+5 Nasıl gidilir kütüphaneden okula?	s,s	1 3
+1 salon mutfağın batısında.
+2 park güneyinde mutfak.
+3 koridor kuzeyinde restoranın.
+4 mutfak batısında restoranın.
+5 Nasıl gidilir koridordan mutfağa?	n,e	3 4
+1 kütüphane mutfağın doğusunda.
+2 mutfak doğusunda restoranın.
+3 restoran bahçenin doğusunda.
+4 salon mutfağın kuzeyinde.
+5 Nasıl gidilir restorandan salona?	w,s	2 4
+1 park salonun batısında.
+2 kütüphane parkın kuzeyinde.
+3 kütüphane bahçenin doğusunda.
+4 bahçe ofisin güneyinde.
+5 Nasıl gidilir kütüphaneden ofise?	e,s	3 4
+1 salon okulun güneyinde.
+2 restoran parkın doğusunda.
+3 kitapçı parkın kuzeyinde.
+4 park okulun doğusunda.
+5 Nasıl gidilir parktan salona?	e,n	1 4
+1 ofis evin doğusunda.
+2 restoran koridorun doğusunda.
+3 ev güneyinde restoranın.
+4 salon evin güneyinde.
+5 Nasıl gidilir ofisten restorana?	e,s	1 3
+1 kitapçı parkın doğusunda.
+2 restoran kütüphanenin kuzeyinde.
+3 bahçe doğusunda restoranın.
+4 park bahçenin kuzeyinde.
+5 Nasıl gidilir bahçeden kütüphaneye?	e,n	2 3
+1 kitapçı doğusunda Banyo.
+2 Okul banyonun güneyinde.
+3 kitapçı mutfağın batısında.
+4 Okul parkın kuzeyinde.
+5 Nasıl gidilir okuldan kitapçıya?	s,w	1 2
+1 park mutfağın doğusunda.
+2 salon mutfağın batısında.
+3 salon banyonun güneyinde.
+4 Okul salonun batısında.
+5 Nasıl gidilir salondan parka?	w,w	1 2
+1 ev salonun batısında.
+2 salon koridorun batısında.
+3 ev bahçenin kuzeyinde.
+4 restoran bahçenin güneyinde.
+5 Nasıl gidilir koridordan eve?	e,e	1 2
+1 Banyo okulun güneyinde.
+2 Okul güneyinde salon.
+3 salon bahçenin batısında.
+4 ev okulun batısında.
+5 Nasıl gidilir salondan banyoya?	n,n	1 2
+1 salon koridorun doğusunda.
+2 salon ofisin batısında.
+3 salon okulun kuzeyinde.
+4 kitapçı salonun kuzeyinde.
+5 Nasıl gidilir kitapçıdan ofise?	n,w	2 4
+1 koridor okulun doğusunda.
+2 koridor güneyinde salon.
+3 Okul kuzeyinde kütapçının.
+4 salon parkın batısında.
+5 Nasıl gidilir salondan okula?	n,e	1 2
+1 mutfak batısında kütapçının.
+2 mutfak bahçenin kuzeyinde.
+3 ev doğusunda kütapçının.
+4 kütüphane mutfağın kuzeyinde.
+5 Nasıl gidilir kütüphaneden bahçeye?	n,n	2 4
+1 Okul koridorun güneyinde.
+2 bahçe okulun güneyinde.
+3 bahçe ofisin doğusunda.
+4 mutfak koridorun batısında.
+5 Nasıl gidilir ofisten okula?	w,s	2 3
+1 kütüphane salonun kuzeyinde.
+2 Banyo salonun batısında.
+3 koridor güneyinde salon.
+4 bahçe salonun doğusunda.
+5 Nasıl gidilir banyodan kütüphaneye?	w,s	1 2
+1 park salonun batısında.
+2 ev doğusunda kütapçının.
+3 kütüphane parkın kuzeyinde.
+4 kütüphane güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan parka?	n,n	3 4
+1 Banyo kuzeyinde ev.
+2 Banyo mutfağın batısında.
+3 Banyo güneyinde restoranın.
+4 restoran güneyinde kütapçının.
+5 Nasıl gidilir mutfaktan restorana?	e,s	2 3
+1 ofis parkın kuzeyinde.
+2 park evin doğusunda.
+3 ev bahçenin doğusunda.
+4 Okul ofisin kuzeyinde.
+5 Nasıl gidilir ofisten eve?	n,e	1 2
+1 Okul ofisin batısında.
+2 ev banyonun kuzeyinde.
+3 salon banyonun batısında.
+4 Banyo okulun batısında.
+5 Nasıl gidilir evden okula?	n,w	2 4
+1 Banyo kuzeyinde kütapçının.
+2 kitapçı bahçenin kuzeyinde.
+3 salon doğusunda kütapçının.
+4 park batısında kütapçının.
+5 Nasıl gidilir parktan banyoya?	w,s	1 4
+1 kitapçı ofisin kuzeyinde.
+2 salon batısında kütapçının.
+3 kitapçı koridorun güneyinde.
+4 ofis mutfağın kuzeyinde.
+5 Nasıl gidilir ofisten salona?	s,e	1 2
+1 kütüphane güneyinde restoranın.
+2 ev kütüphanenin güneyinde.
+3 ev kuzeyinde kütapçının.
+4 park kütüphanenin batısında.
+5 Nasıl gidilir evden parka?	s,e	2 4
+1 Banyo bahçenin kuzeyinde.
+2 kitapçı güneyinde salon.
+3 Banyo batısında kütapçının.
+4 kitapçı koridorun batısında.
+5 Nasıl gidilir koridordan banyoya?	e,e	3 4
+1 Okul kuzeyinde kütapçının.
+2 ofis okulun kuzeyinde.
+3 ofis bahçenin batısında.
+4 salon batısında kütapçının.
+5 Nasıl gidilir kitapçıdan ofise?	s,s	1 2
+1 salon mutfağın batısında.
+2 koridor doğusunda Banyo.
+3 Banyo kuzeyinde kütapçının.
+4 koridor salonun batısında.
+5 Nasıl gidilir banyodan salona?	w,w	2 4
+1 park bahçenin güneyinde.
+2 ofis bahçenin kuzeyinde.
+3 park okulun doğusunda.
+4 park salonun kuzeyinde.
+5 Nasıl gidilir okuldan bahçeye?	w,s	1 3
+1 ofis evin batısında.
+2 ofis bahçenin kuzeyinde.
+3 ev kütüphanenin batısında.
+4 koridor kütüphanenin doğusunda.
+5 Nasıl gidilir koridordan eve?	e,e	3 4
+1 koridor güneyinde mutfak.
+2 salon parkın kuzeyinde.
+3 park ofisin doğusunda.
+4 koridor ofisin batısında.
+5 Nasıl gidilir mutfaktan ofise?	n,w	1 4
+1 mutfak parkın güneyinde.
+2 ev koridorun doğusunda.
+3 ev güneyinde mutfak.
+4 kütüphane parkın batısında.
+5 Nasıl gidilir parktan eve?	n,n	1 3
+1 koridor parkın kuzeyinde.
+2 park banyonun kuzeyinde.
+3 koridor mutfağın doğusunda.
+4 kütüphane koridorun doğusunda.
+5 Nasıl gidilir mutfaktan parka?	w,n	1 3
+1 kütüphane güneyinde mutfak.
+2 kütüphane doğusunda Banyo.
+3 koridor banyonun batısında.
+4 park banyonun güneyinde.
+5 Nasıl gidilir koridordan kütüphaneye?	w,w	2 3
+1 restoran kütüphanenin kuzeyinde.
+2 restoran ofisin doğusunda.
+3 ofis parkın güneyinde.
+4 park koridorun doğusunda.
+5 Nasıl gidilir kütüphaneden ofise?	s,e	1 2
+1 restoran parkın güneyinde.
+2 restoran kuzeyinde kütapçının.
+3 kütüphane doğusunda kütapçının.
+4 park bahçenin batısında.
+5 Nasıl gidilir bahçeden restorana?	e,n	1 4
+1 restoran güneyinde mutfak.
+2 Okul güneyinde restoranın.
+3 mutfak güneyinde salon.
+4 ofbatısında restoranın.
+5 Nasıl gidilir ofisten mutfağa?	w,s	1 4
+1 Banyo doğusunda kütapçının.
+2 bahçe salonun batısında.
+3 mutfak kuzeyinde kütapçının.
+4 kitapçı salonun kuzeyinde.
+5 Nasıl gidilir bahçeden kitapçıya?	w,s	2 4
+1 ofis banyonun kuzeyinde.
+2 salon banyonun güneyinde.
+3 bahçe ofisin doğusunda.
+4 salon parkın batısında.
+5 Nasıl gidilir bahçeden banyoya?	e,n	1 3
+1 mutfak güneyinde restoranın.
+2 koridor kuzeyinde restoranın.
+3 restoran evin doğusunda.
+4 bahçe evin batısında.
+5 Nasıl gidilir mutfaktan eve?	s,e	1 3
+1 park okulun batısında.
+2 Okul kuzeyinde kütapçının.
+3 bahçe parkın batısında.
+4 mutfak bahçenin kuzeyinde.
+5 Nasıl gidilir parktan mutfağa?	e,s	3 4
+1 kitapçı parkın doğusunda.
+2 mutfak okulun güneyinde.
+3 park okulun kuzeyinde.
+4 Okul koridorun doğusunda.
+5 Nasıl gidilir koridordan parka?	w,s	3 4
+1 ofis güneyinde kütapçının.
+2 bahçe kütüphanenin kuzeyinde.
+3 ofis okulun batısında.
+4 Okul kütüphanenin batısında.
+5 Nasıl gidilir kitapçıdan okula?	n,w	1 3
+1 ofis mutfağın doğusunda.
+2 bahçe banyonun kuzeyinde.
+3 mutfak güneyinde restoranın.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir ofisten bahçeye?	e,e	1 4
+1 mutfak parkın güneyinde.
+2 koridor kuzeyinde ev.
+3 park doğusunda kütapçının.
+4 mutfak koridorun batısında.
+5 Nasıl gidilir evden mutfağa?	s,e	2 4
+1 restoran koridorun güneyinde.
+2 Okul parkın kuzeyinde.
+3 kütüphane parkın doğusunda.
+4 restoran okulun batısında.
+5 Nasıl gidilir kütüphaneden okula?	e,s	2 3
+1 ev salonun doğusunda.
+2 kitapçı ofisin batısında.
+3 salon güneyinde mutfak.
+4 ofis mutfağın kuzeyinde.
+5 Nasıl gidilir mutfaktan kitapçıya?	s,e	2 4
+1 ofis bahçenin batısında.
+2 koridor mutfağın kuzeyinde.
+3 bahçe güneyinde mutfak.
+4 ev koridorun batısında.
+5 Nasıl gidilir koridordan bahçeye?	n,n	2 3
+1 restoran okulun kuzeyinde.
+2 ofis evin doğusunda.
+3 restoran banyonun güneyinde.
+4 ofis okulun güneyinde.
+5 Nasıl gidilir restorandan ofise?	n,n	1 4
+1 ofis parkın güneyinde.
+2 kütüphane parkın kuzeyinde.
+3 salon ofisin doğusunda.
+4 kütüphane bahçenin güneyinde.
+5 Nasıl gidilir kütüphaneden ofise?	n,n	1 2
+1 ev mutfağın doğusunda.
+2 kitapçı güneyinde restoranın.
+3 bahçe doğusunda restoranın.
+4 restoran evin güneyinde.
+5 Nasıl gidilir evden bahçeye?	n,w	3 4
+1 Okul kütüphanenin doğusunda.
+2 koridor evin güneyinde.
+3 kitapçı okulun doğusunda.
+4 kitapçı koridorun batısında.
+5 Nasıl gidilir kütüphaneden kitapçıya?	w,w	1 3
+1 restoran parkın kuzeyinde.
+2 park ofisin kuzeyinde.
+3 bahçe evin batısında.
+4 ofis evin doğusunda.
+5 Nasıl gidilir parktan eve?	n,e	2 4
+1 koridor ofisin doğusunda.
+2 koridor evin batısında.
+3 kütüphane parkın güneyinde.
+4 koridor kütüphanenin güneyinde.
+5 Nasıl gidilir ofisten kütüphaneye?	w,s	1 4
+1 kitapçı koridorun doğusunda.
+2 koridor doğusunda Banyo.
+3 kitapçı mutfağın kuzeyinde.
+4 mutfak bahçenin batısında.
+5 Nasıl gidilir koridordan mutfağa?	w,n	1 3
+1 salon banyonun kuzeyinde.
+2 Banyo doğusunda kütapçının.
+3 kitapçı bahçenin doğusunda.
+4 ev güneyinde kütapçının.
+5 Nasıl gidilir salondan kitapçıya?	n,e	1 2
+1 restoran evin güneyinde.
+2 bahçe parkın doğusunda.
+3 bahçe güneyinde restoranın.
+4 kitapçı doğusunda restoranın.
+5 Nasıl gidilir restorandan parka?	n,e	2 3
+1 Banyo kütüphanenin güneyinde.
+2 bahçe kuzeyinde kütapçının.
+3 Banyo mutfağın batısında.
+4 mutfak bahçenin kuzeyinde.
+5 Nasıl gidilir mutfaktan kütüphaneye?	e,s	1 3
+1 ofis koridorun güneyinde.
+2 ofis salonun doğusunda.
+3 restoran ofisin güneyinde.
+4 ofis evin batısında.
+5 Nasıl gidilir evden koridora?	e,s	1 4
+1 park okulun güneyinde.
+2 ev okulun batısında.
+3 salon ofisin doğusunda.
+4 ofis okulun kuzeyinde.
+5 Nasıl gidilir ofisten parka?	n,n	1 4
+1 bahçe doğusunda restoranın.
+2 salon batısında restoranın.
+3 salon banyonun kuzeyinde.
+4 salon parkın güneyinde.
+5 Nasıl gidilir restorandan parka?	e,s	2 4
+1 park evin güneyinde.
+2 ev mutfağın batısında.
+3 ev bahçenin doğusunda.
+4 ofis bahçenin kuzeyinde.
+5 Nasıl gidilir evden ofise?	e,s	3 4
+1 kitapçı bahçenin batısında.
+2 bahçe kütüphanenin güneyinde.
+3 mutfak parkın batısında.
+4 kitapçı parkın kuzeyinde.
+5 Nasıl gidilir mutfaktan kitapçıya?	w,s	3 4
+1 kütüphane batısında restoranın.
+2 park bahçenin güneyinde.
+3 kütüphane parkın güneyinde.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir parktan restorana?	n,w	1 3
+1 Banyo evin güneyinde.
+2 restoran banyonun batısında.
+3 park güneyinde restoranın.
+4 ev bahçenin güneyinde.
+5 Nasıl gidilir restorandan eve?	w,s	1 2
+1 koridor kütüphanenin doğusunda.
+2 kütüphane kuzeyinde ev.
+3 restoran bahçenin batısında.
+4 ev kuzeyinde restoranın.
+5 Nasıl gidilir koridordan eve?	e,n	1 2
+1 ev okulun batısında.
+2 Okul koridorun batısında.
+3 salon okulun kuzeyinde.
+4 ev mutfağın doğusunda.
+5 Nasıl gidilir mutfaktan okula?	w,w	1 4
+1 ev banyonun kuzeyinde.
+2 Banyo batısında kütapçının.
+3 kitapçı parkın batısında.
+4 salon parkın güneyinde.
+5 Nasıl gidilir kitapçıdan salona?	w,n	3 4
+1 bahçe parkın batısında.
+2 kitapçı parkın kuzeyinde.
+3 kitapçı kütüphanenin güneyinde.
+4 Banyo bahçenin batısında.
+5 Nasıl gidilir bahçeden kitapçıya?	w,s	1 2
+1 restoran ofisin güneyinde.
+2 koridor kütüphanenin doğusunda.
+3 park güneyinde restoranın.
+4 koridor parkın güneyinde.
+5 Nasıl gidilir ofisten parka?	n,n	1 3
+1 mutfak doğusunda restoranın.
+2 restoran bahçenin doğusunda.
+3 bahçe ofisin güneyinde.
+4 koridor mutfağın kuzeyinde.
+5 Nasıl gidilir bahçeden mutfağa?	w,w	1 2
+1 koridor kuzeyinde ev.
+2 kütüphane evin doğusunda.
+3 Banyo evin batısında.
+4 salon kütüphanenin doğusunda.
+5 Nasıl gidilir kütüphaneden banyoya?	e,e	2 3
+1 ev bahçenin güneyinde.
+2 restoran ofisin kuzeyinde.
+3 Banyo evin doğusunda.
+4 ev doğusunda restoranın.
+5 Nasıl gidilir restorandan bahçeye?	w,s	1 4
+1 kitapçı parkın güneyinde.
+2 koridor doğusunda kütapçının.
+3 park doğusunda Banyo.
+4 mutfak parkın kuzeyinde.
+5 Nasıl gidilir mutfaktan banyoya?	n,e	3 4
+1 bahçe koridorun kuzeyinde.
+2 ofis doğusunda Banyo.
+3 koridor banyonun kuzeyinde.
+4 Banyo doğusunda restoranın.
+5 Nasıl gidilir restorandan koridora?	w,s	3 4
+1 mutfak banyonun güneyinde.
+2 bahçe parkın batısında.
+3 mutfak parkın doğusunda.
+4 koridor parkın güneyinde.
+5 Nasıl gidilir bahçeden mutfağa?	w,w	2 3
+1 Okul salonun kuzeyinde.
+2 bahçe parkın batısında.
+3 restoran parkın doğusunda.
+4 salon parkın kuzeyinde.
+5 Nasıl gidilir salondan restorana?	n,w	3 4
+1 restoran kütüphanenin kuzeyinde.
+2 kütüphane kuzeyinde kütapçının.
+3 kitapçı mutfağın batısında.
+4 Okul batısında restoranın.
+5 Nasıl gidilir kütüphaneden mutfağa?	n,w	2 3
+1 Banyo doğusunda restoranın.
+2 mutfak evin güneyinde.
+3 kitapçı evin batısında.
+4 restoran mutfağın doğusunda.
+5 Nasıl gidilir kitapçıdan mutfağa?	w,n	2 3
+1 bahçe koridorun güneyinde.
+2 mutfak güneyinde kütapçının.
+3 Okul mutfağın batısında.
+4 koridor okulun güneyinde.
+5 Nasıl gidilir mutfaktan koridora?	e,n	3 4
+1 park güneyinde kütapçının.
+2 mutfak doğusunda kütapçının.
+3 koridor parkın batısında.
+4 ev parkın güneyinde.
+5 Nasıl gidilir koridordan kitapçıya?	w,s	1 3
+1 bahçe koridorun doğusunda.
+2 ev koridorun güneyinde.
+3 salon evin batısında.
+4 kütüphane koridorun kuzeyinde.
+5 Nasıl gidilir evden kütüphaneye?	s,s	2 4
+1 kütüphane okulun doğusunda.
+2 ev okulun kuzeyinde.
+3 koridor kuzeyinde ev.
+4 Okul doğusunda Banyo.
+5 Nasıl gidilir banyodan kütüphaneye?	w,w	1 4
+1 koridor ofisin batısında.
+2 Okul mutfağın doğusunda.
+3 mutfak evin doğusunda.
+4 Okul koridorun batısında.
+5 Nasıl gidilir okuldan eve?	e,e	2 3
+1 kütüphanenin güneyinde.
+2 kütüphane mutfağın batısında.
+3 Okul kuzeyinde restoranın.
+4 ofis okulun doğusunda.
+5 Nasıl gidilir restorandan ofise?	s,w	3 4
+1 ofis doğusunda restoranın.
+2 kitapçı güneyinde mutfak.
+3 ev batısında restoranın.
+4 kitapçı ofisin kuzeyinde.
+5 Nasıl gidilir restorandan kitapçıya?	w,s	1 4
+1 salon kuzeyinde ev.
+2 mutfak evin doğusunda.
+3 Okul evin güneyinde.
+4 restoran evin batısında.
+5 Nasıl gidilir mutfaktan restorana?	e,e	2 4
+1 kütüphane batısında kütapçının.
+2 kitapçı mutfağın kuzeyinde.
+3 mutfak okulun kuzeyinde.
+4 bahçe mutfağın doğusunda.
+5 Nasıl gidilir okuldan bahçeye?	s,w	3 4
+1 restoran parkın kuzeyinde.
+2 ofbatısında restoranın.
+3 kütüphane parkın güneyinde.
+4 restoran batısında kütapçının.
+5 Nasıl gidilir kitapçıdan parka?	e,n	1 4
+1 salon koridorun kuzeyinde.
+2 kütüphane bahçenin kuzeyinde.
+3 bahçe salonun kuzeyinde.
+4 kütüphane banyonun güneyinde.
+5 Nasıl gidilir koridordan bahçeye?	s,s	1 3
+1 ev doğusunda restoranın.
+2 restoran parkın kuzeyinde.
+3 park koridorun doğusunda.
+4 ev güneyinde salon.
+5 Nasıl gidilir parktan eve?	s,w	1 2
+1 mutfak okulun batısında.
+2 Okul kütüphanenin batısında.
+3 kitapçı okulun güneyinde.
+4 kitapçı kuzeyinde ev.
+5 Nasıl gidilir kütüphaneden kitapçıya?	e,n	2 3
+1 ofis güneyinde kütapçının.
+2 mutfak salonun batısında.
+3 ofis okulun doğusunda.
+4 mutfak ofisin doğusunda.
+5 Nasıl gidilir kitapçıdan mutfağa?	n,w	1 4
+1 Banyo okulun doğusunda.
+2 Banyo ofisin kuzeyinde.
+3 mutfak okulun kuzeyinde.
+4 Banyo kütüphanenin batısında.
+5 Nasıl gidilir okuldan ofise?	w,n	1 2
+1 restoran kuzeyinde kütapçının.
+2 restoran koridorun batısında.
+3 Banyo kuzeyinde restoranın.
+4 koridor evin batısında.
+5 Nasıl gidilir restorandan eve?	w,w	2 4
+1 Okul ofisin doğusunda.
+2 Okul kuzeyinde restoranın.
+3 kütüphane batısında kütapçının.
+4 kitapçı güneyinde restoranın.
+5 Nasıl gidilir okuldan kitapçıya?	n,n	2 4
+1 koridor ofisin doğusunda.
+2 ofis okulun kuzeyinde.
+3 ofis bahçenin doğusunda.
+4 ofis banyonun güneyinde.
+5 Nasıl gidilir banyodan bahçeye?	n,e	3 4
+1 ofis güneyinde kütapçının.
+2 restoran evin batısında.
+3 kitapçı bahçenin batısında.
+4 ev batısında kütapçının.
+5 Nasıl gidilir ofisten eve?	s,e	1 4
+1 bahçe kütüphanenin doğusunda.
+2 salon banyonun kuzeyinde.
+3 bahçe banyonun güneyinde.
+4 kitapçı bahçenin güneyinde.
+5 Nasıl gidilir kütüphaneden banyoya?	w,s	1 3
+1 restoran evin doğusunda.
+2 Okul bahçenin kuzeyinde.
+3 park doğusunda restoranın.
+4 bahçe evin batısında.
+5 Nasıl gidilir parktan eve?	e,e	1 3
+1 ev kütüphanenin doğusunda.
+2 mutfak güneyinde salon.
+3 salon okulun güneyinde.
+4 kütüphane okulun kuzeyinde.
+5 Nasıl gidilir mutfaktan okula?	s,s	2 3
+1 koridor ofisin batısında.
+2 park ofisin doğusunda.
+3 mutfak doğusunda kütapçının.
+4 kitapçı parkın güneyinde.
+5 Nasıl gidilir ofisten kitapçıya?	w,n	2 4
+1 ev okulun batısında.
+2 Okul kütüphanenin batısında.
+3 kütüphanenin güneyinde.
+4 Okul koridorun güneyinde.
+5 Nasıl gidilir koridordan eve?	n,e	1 4
+1 salon batısında restoranın.
+2 kitapçı okulun güneyinde.
+3 kitapçı kütüphanenin doğusunda.
+4 kitapçı salonun batısında.
+5 Nasıl gidilir kütüphaneden salona?	w,w	3 4
+1 ofbatısında kütapçının.
+2 ofis koridorun kuzeyinde.
+3 kütüphane koridorun batısında.
+4 bahçe koridorun güneyinde.
+5 Nasıl gidilir kütüphaneden ofise?	w,s	2 3
+1 salon okulun batısında.
+2 koridor banyonun kuzeyinde.
+3 koridor okulun güneyinde.
+4 ofis koridorun doğusunda.
+5 Nasıl gidilir ofisten okula?	e,s	3 4
+1 Banyo koridorun güneyinde.
+2 Banyo kuzeyinde restoranın.
+3 park koridorun kuzeyinde.
+4 koridor ofisin doğusunda.
+5 Nasıl gidilir koridordan restorana?	n,n	1 2
+1 restoran güneyinde kütapçının.
+2 ofis parkın kuzeyinde.
+3 Okul doğusunda restoranın.
+4 restoran ofisin doğusunda.
+5 Nasıl gidilir restorandan parka?	e,n	2 4
+1 salon mutfağın batısında.
+2 koridor kütüphanenin güneyinde.
+3 mutfak güneyinde restoranın.
+4 koridor doğusunda restoranın.
+5 Nasıl gidilir koridordan mutfağa?	e,n	3 4
+1 koridor doğusunda Banyo.
+2 ev koridorun doğusunda.
+3 koridor kuzeyinde restoranın.
+4 Banyo salonun doğusunda.
+5 Nasıl gidilir restorandan banyoya?	s,e	1 3
+1 mutfak batısında restoranın.
+2 restoran salonun batısında.
+3 ev kuzeyinde restoranın.
+4 bahçe güneyinde restoranın.
+5 Nasıl gidilir bahçeden eve?	s,s	3 4
+1 ev batısında kütapçının.
+2 koridor evin batısında.
+3 ev banyonun kuzeyinde.
+4 ofisin kuzeyinde ev.
+5 Nasıl gidilir banyodan koridora?	s,e	2 3
+1 restoran salonun kuzeyinde.
+2 park doğusunda restoranın.
+3 mutfak kuzeyinde kütapçının.
+4 park güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan restorana?	n,e	2 4
+1 Okul ofisin kuzeyinde.
+2 koridor okulun doğusunda.
+3 kitapçı okulun batısında.
+4 Okul güneyinde mutfak.
+5 Nasıl gidilir ofisten koridora?	s,w	1 2
+1 park kütüphanenin batısında.
+2 ev batısında restoranın.
+3 park bahçenin kuzeyinde.
+4 kütüphane evin güneyinde.
+5 Nasıl gidilir kütüphaneden bahçeye?	e,n	1 3
+1 Banyo parkın güneyinde.
+2 mutfak ofisin kuzeyinde.
+3 park güneyinde salon.
+4 salon ofisin doğusunda.
+5 Nasıl gidilir ofisten parka?	w,n	3 4
+1 salon kuzeyinde kütapçının.
+2 restoran okulun güneyinde.
+3 kitapçı okulun kuzeyinde.
+4 Okul mutfağın doğusunda.
+5 Nasıl gidilir mutfaktan restorana?	w,n	2 4
+1 kitapçı salonun doğusunda.
+2 salon evin doğusunda.
+3 Banyo koridorun batısında.
+4 Banyo güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan eve?	e,e	1 2
+1 ofis doğusunda Banyo.
+2 kütüphane kuzeyinde ev.
+3 bahçe banyonun batısında.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir ofisten eve?	e,s	1 4
+1 Okul güneyinde salon.
+2 ofis salonun kuzeyinde.
+3 mutfak salonun doğusunda.
+4 ofis bahçenin doğusunda.
+5 Nasıl gidilir okuldan ofise?	s,s	1 2
+1 park okulun güneyinde.
+2 kitapçı batısında restoranın.
+3 kitapçı salonun doğusunda.
+4 Okul güneyinde restoranın.
+5 Nasıl gidilir okuldan kitapçıya?	s,e	2 4
+1 bahçe güneyinde restoranın.
+2 Banyo doğusunda restoranın.
+3 Banyo güneyinde salon.
+4 salon evin güneyinde.
+5 Nasıl gidilir restorandan salona?	w,s	2 3
+1 bahçe güneyinde mutfak.
+2 kütüphane bahçenin batısında.
+3 bahçe salonun batısında.
+4 park salonun doğusunda.
+5 Nasıl gidilir kütüphaneden mutfağa?	w,s	1 2
+1 kütüphane bahçenin güneyinde.
+2 ev bahçenin batısında.
+3 ev doğusunda kütapçının.
+4 ofisin kuzeyinde ev.
+5 Nasıl gidilir kitapçıdan ofise?	w,s	3 4
+1 kütüphane mutfağın doğusunda.
+2 kütüphane güneyinde kütapçının.
+3 park doğusunda Banyo.
+4 mutfak parkın kuzeyinde.
+5 Nasıl gidilir mutfaktan banyoya?	n,e	3 4
+1 salon okulun kuzeyinde.
+2 Okul bahçenin kuzeyinde.
+3 Okul banyonun batısında.
+4 ofis salonun batısında.
+5 Nasıl gidilir ofisten okula?	w,n	1 4
+1 kütüphane parkın doğusunda.
+2 mutfak koridorun batısında.
+3 mutfak kütüphanenin doğusunda.
+4 bahçe kütüphanenin güneyinde.
+5 Nasıl gidilir mutfaktan bahçeye?	e,n	3 4
+1 kitapçı salonun batısında.
+2 kitapçı doğusunda Banyo.
+3 ofis okulun güneyinde.
+4 Okul salonun doğusunda.
+5 Nasıl gidilir kitapçıdan okula?	w,w	1 4
+1 salon mutfağın doğusunda.
+2 bahçe okulun doğusunda.
+3 bahçe kütüphanenin kuzeyinde.
+4 salon okulun kuzeyinde.
+5 Nasıl gidilir salondan bahçeye?	n,w	2 4
+1 kütüphanenin güneyinde.
+2 restoran evin batısında.
+3 park kütüphanenin doğusunda.
+4 kütüphane evin doğusunda.
+5 Nasıl gidilir evden ofise?	w,n	1 4
+1 Banyo kütüphanenin kuzeyinde.
+2 park banyonun batısında.
+3 koridor doğusunda Banyo.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir koridordan kütüphaneye?	e,n	1 3
+1 bahçe okulun batısında.
+2 bahçe salonun doğusunda.
+3 Okul güneyinde mutfak.
+4 kitapçı okulun doğusunda.
+5 Nasıl gidilir bahçeden kitapçıya?	w,w	1 4
+1 Okul ofisin batısında.
+2 kitapçı parkın doğusunda.
+3 Banyo ofisin doğusunda.
+4 kitapçı okulun güneyinde.
+5 Nasıl gidilir okuldan banyoya?	w,w	1 3
+1 koridor batısında kütapçının.
+2 Banyo koridorun batısında.
+3 Banyo evin doğusunda.
+4 Banyo güneyinde restoranın.
+5 Nasıl gidilir restorandan koridora?	n,w	2 4
+1 bahçe doğusunda Banyo.
+2 bahçe kuzeyinde restoranın.
+3 Okul bahçenin doğusunda.
+4 kitapçı okulun kuzeyinde.
+5 Nasıl gidilir bahçeden kitapçıya?	w,s	3 4
+1 restoran okulun güneyinde.
+2 ofis okulun doğusunda.
+3 ev okulun kuzeyinde.
+4 kütüphanenin batısında.
+5 Nasıl gidilir ofisten eve?	e,s	2 3
+1 kitapçı banyonun güneyinde.
+2 salon doğusunda restoranın.
+3 salon kütüphanenin batısında.
+4 salon güneyinde kütapçının.
+5 Nasıl gidilir salondan banyoya?	s,s	1 4
+1 park bahçenin doğusunda.
+2 bahçe koridorun doğusunda.
+3 koridor okulun güneyinde.
+4 bahçe kuzeyinde ev.
+5 Nasıl gidilir parktan eve?	e,n	1 4
+1 Okul kütüphanenin güneyinde.
+2 kütüphane evin güneyinde.
+3 ev koridorun güneyinde.
+4 ev bahçenin batısında.
+5 Nasıl gidilir okuldan eve?	s,s	1 2
+1 ofisin kuzeyinde kütapçının.
+2 mutfak okulun doğusunda.
+3 Okul parkın kuzeyinde.
+4 kitapçı okulun batısında.
+5 Nasıl gidilir ofisten okula?	n,w	1 4
+1 koridor mutfağın doğusunda.
+2 ofis koridorun doğusunda.
+3 koridor banyonun kuzeyinde.
+4 ev banyonun güneyinde.
+5 Nasıl gidilir mutfaktan banyoya?	w,n	1 3
+1 park güneyinde restoranın.
+2 park okulun batısında.
+3 restoran doğusunda Banyo.
+4 Okul bahçenin kuzeyinde.
+5 Nasıl gidilir bahçeden parka?	s,e	2 4
+1 salon güneyinde restoranın.
+2 park güneyinde salon.
+3 restoran güneyinde kütapçının.
+4 koridor parkın doğusunda.
+5 Nasıl gidilir parktan restorana?	s,s	1 2
+1 Okul parkın güneyinde.
+2 ofisin kuzeyinde ev.
+3 Okul salonun kuzeyinde.
+4 ev parkın doğusunda.
+5 Nasıl gidilir okuldan eve?	s,w	1 4
+1 ofis evin doğusunda.
+2 ev bahçenin kuzeyinde.
+3 kütüphane banyonun kuzeyinde.
+4 Banyo evin batısında.
+5 Nasıl gidilir banyodan bahçeye?	w,n	2 4
+1 bahçe ofisin güneyinde.
+2 salon evin doğusunda.
+3 restoran güneyinde salon.
+4 restoran ofisin batısında.
+5 Nasıl gidilir restorandan bahçeye?	w,n	1 4
+1 Banyo bahçenin güneyinde.
+2 park doğusunda Banyo.
+3 bahçe salonun doğusunda.
+4 park mutfağın kuzeyinde.
+5 Nasıl gidilir banyodan mutfağa?	w,n	2 4
+1 Okul banyonun kuzeyinde.
+2 ofis güneyinde kütapçının.
+3 Okul ofisin güneyinde.
+4 Banyo mutfağın kuzeyinde.
+5 Nasıl gidilir banyodan ofise?	s,s	1 3
+1 Banyo koridorun güneyinde.
+2 kütüphane koridorun batısında.
+3 Banyo parkın kuzeyinde.
+4 mutfak kütüphanenin batısında.
+5 Nasıl gidilir kütüphaneden banyoya?	w,n	1 2
+1 park bahçenin güneyinde.
+2 bahçe güneyinde mutfak.
+3 park doğusunda kütapçının.
+4 mutfak evin doğusunda.
+5 Nasıl gidilir parktan mutfağa?	s,s	1 2
+1 restoran mutfağın doğusunda.
+2 bahçe koridorun kuzeyinde.
+3 Banyo bahçenin kuzeyinde.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir restorandan bahçeye?	e,e	1 4
+1 bahçe parkın batısında.
+2 kitapçı parkın kuzeyinde.
+3 koridor kütüphanenin kuzeyinde.
+4 park koridorun kuzeyinde.
+5 Nasıl gidilir koridordan bahçeye?	s,e	1 4
+1 mutfak ofisin kuzeyinde.
+2 ev ofisin doğusunda.
+3 Banyo batısında restoranın.
+4 mutfak güneyinde restoranın.
+5 Nasıl gidilir restorandan ofise?	n,n	1 4
+1 Banyo okulun batısında.
+2 ofis okulun güneyinde.
+3 kütüphanenin kuzeyinde.
+4 park okulun kuzeyinde.
+5 Nasıl gidilir kütüphaneden okula?	s,s	2 3
+1 park doğusunda kütapçının.
+2 salon evin doğusunda.
+3 Okul salonun doğusunda.
+4 park kuzeyinde ev.
+5 Nasıl gidilir parktan salona?	n,w	2 4
+1 mutfak banyonun güneyinde.
+2 Banyo kütüphanenin güneyinde.
+3 kütüphane bahçenin doğusunda.
+4 mutfak ofisin doğusunda.
+5 Nasıl gidilir mutfaktan kütüphaneye?	s,s	1 2
+1 restoran mutfağın kuzeyinde.
+2 mutfak parkın doğusunda.
+3 Okul parkın güneyinde.
+4 park doğusunda Banyo.
+5 Nasıl gidilir restorandan parka?	n,e	1 2
+1 kütüphane mutfağın kuzeyinde.
+2 restoran güneyinde mutfak.
+3 restoran okulun kuzeyinde.
+4 koridor mutfağın doğusunda.
+5 Nasıl gidilir kütüphaneden koridora?	n,w	1 4
+1 Okul parkın batısında.
+2 mutfak banyonun batısında.
+3 ev parkın güneyinde.
+4 mutfak evin doğusunda.
+5 Nasıl gidilir mutfaktan parka?	e,s	3 4
+1 ev banyonun batısında.
+2 Banyo kütüphanenin güneyinde.
+3 Banyo salonun batısında.
+4 ev kuzeyinde restoranın.
+5 Nasıl gidilir kütüphaneden salona?	n,w	2 3
+1 park doğusunda kütapçının.
+2 Banyo okulun doğusunda.
+3 ev banyonun güneyinde.
+4 kitapçı evin güneyinde.
+5 Nasıl gidilir kitapçıdan banyoya?	s,s	3 4
+1 ev güneyinde salon.
+2 ev mutfağın kuzeyinde.
+3 salon banyonun güneyinde.
+4 park salonun doğusunda.
+5 Nasıl gidilir evden parka?	s,w	1 4
+1 kütüphane koridorun kuzeyinde.
+2 koridor okulun doğusunda.
+3 koridor banyonun kuzeyinde.
+4 kütüphane ofisin güneyinde.
+5 Nasıl gidilir okuldan banyoya?	w,n	2 3
+1 park banyonun kuzeyinde.
+2 Banyo salonun doğusunda.
+3 Banyo evin batısında.
+4 salon koridorun doğusunda.
+5 Nasıl gidilir parktan eve?	n,w	1 3
+1 Banyo bahçenin batısında.
+2 mutfak parkın güneyinde.
+3 ev parkın kuzeyinde.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir banyodan mutfağa?	w,w	1 4
+1 Banyo güneyinde salon.
+2 mutfak banyonun güneyinde.
+3 ofis doğusunda Banyo.
+4 Banyo okulun doğusunda.
+5 Nasıl gidilir okuldan ofise?	w,w	3 4
+1 Banyo bahçenin doğusunda.
+2 Banyo mutfağın batısında.
+3 park bahçenin batısında.
+4 kitapçı parkın güneyinde.
+5 Nasıl gidilir kitapçıdan bahçeye?	s,w	3 4
+1 Banyo koridorun kuzeyinde.
+2 salon doğusunda Banyo.
+3 kütüphane banyonun batısında.
+4 Banyo güneyinde restoranın.
+5 Nasıl gidilir kütüphaneden salona?	w,w	2 3
+1 kitapçı mutfağın kuzeyinde.
+2 salon banyonun batısında.
+3 kitapçı doğusunda Banyo.
+4 bahçe banyonun kuzeyinde.
+5 Nasıl gidilir kitapçıdan bahçeye?	e,s	3 4
+1 ev banyonun batısında.
+2 Banyo bahçenin kuzeyinde.
+3 kütüphane evin batısında.
+4 bahçe batısında restoranın.
+5 Nasıl gidilir restorandan banyoya?	e,s	2 4
+1 ev okulun batısında.
+2 bahçe kütüphanenin güneyinde.
+3 kütüphane parkın doğusunda.
+4 kütüphane evin batısında.
+5 Nasıl gidilir parktan bahçeye?	w,n	2 3
+1 mutfak ofisin güneyinde.
+2 bahçe ofisin batısında.
+3 bahçe kütüphanenin doğusunda.
+4 Banyo ofisin doğusunda.
+5 Nasıl gidilir bahçeden banyoya?	w,w	2 4
+1 kitapçı parkın güneyinde.
+2 bahçe okulun doğusunda.
+3 bahçe mutfağın batısında.
+4 park mutfağın doğusunda.
+5 Nasıl gidilir mutfaktan kitapçıya?	w,n	1 4
+1 Banyo bahçenin batısında.
+2 mutfak ofisin batısında.
+3 restoran bahçenin kuzeyinde.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir banyodan mutfağa?	w,w	1 4
+1 salon bahçenin doğusunda.
+2 Banyo okulun batısında.
+3 bahçe okulun doğusunda.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir bahçeden banyoya?	e,e	2 3
+1 restoran doğusunda kütapçının.
+2 ofis evin doğusunda.
+3 kitapçı kütüphanenin doğusunda.
+4 ev kuzeyinde restoranın.
+5 Nasıl gidilir kitapçıdan eve?	w,s	1 4
+1 salon mutfağın kuzeyinde.
+2 salon kütüphanenin batısında.
+3 park kütüphanenin doğusunda.
+4 salon doğusunda restoranın.
+5 Nasıl gidilir kütüphaneden mutfağa?	e,n	1 2
+1 restoran okulun güneyinde.
+2 koridor güneyinde restoranın.
+3 restoran banyonun batısında.
+4 bahçe batısında restoranın.
+5 Nasıl gidilir okuldan banyoya?	n,w	1 3
+1 ev salonun batısında.
+2 bahçe doğusunda kütapçının.
+3 mutfak güneyinde kütapçının.
+4 salon güneyinde mutfak.
+5 Nasıl gidilir kitapçıdan salona?	n,n	3 4
+1 kütüphane evin güneyinde.
+2 kütüphane banyonun kuzeyinde.
+3 koridor evin batısında.
+4 koridor güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan eve?	n,w	3 4
+1 restoran parkın doğusunda.
+2 restoran ofisin batısında.
+3 kütüphane parkın kuzeyinde.
+4 ofis koridorun batısında.
+5 Nasıl gidilir parktan ofise?	w,w	1 2
+1 kitapçı ofisin doğusunda.
+2 ofis güneyinde salon.
+3 kitapçı koridorun batısında.
+4 restoran salonun batısında.
+5 Nasıl gidilir koridordan ofise?	e,e	1 3
+1 ofisin kuzeyinde restoranın.
+2 koridor parkın doğusunda.
+3 restoran parkın batısında.
+4 kütüphane koridorun doğusunda.
+5 Nasıl gidilir restorandan koridora?	w,w	2 3
+1 bahçe ofisin doğusunda.
+2 kitapçı ofisin güneyinde.
+3 ofis doğusunda restoranın.
+4 kütüphanenin güneyinde.
+5 Nasıl gidilir restorandan bahçeye?	w,w	1 3
+1 restoran banyonun güneyinde.
+2 salon batısında restoranın.
+3 Banyo kütüphanenin batısında.
+4 mutfak banyonun kuzeyinde.
+5 Nasıl gidilir restorandan mutfağa?	s,s	1 4
+1 kitapçı güneyinde restoranın.
+2 Banyo kütüphanenin kuzeyinde.
+3 Banyo salonun doğusunda.
+4 kitapçı banyonun kuzeyinde.
+5 Nasıl gidilir kitapçıdan salona?	n,e	3 4
+1 park güneyinde restoranın.
+2 ofis parkın doğusunda.
+3 restoran kütüphanenin doğusunda.
+4 ev kütüphanenin batısında.
+5 Nasıl gidilir kütüphaneden parka?	w,n	1 3
+1 mutfak banyonun kuzeyinde.
+2 kütüphanenin kuzeyinde.
+3 restoran mutfağın doğusunda.
+4 mutfak kütüphanenin güneyinde.
+5 Nasıl gidilir ofisten mutfağa?	n,n	2 4
+1 salon banyonun güneyinde.
+2 park banyonun batısında.
+3 park bahçenin doğusunda.
+4 koridor bahçenin güneyinde.
+5 Nasıl gidilir koridordan parka?	s,w	3 4
+1 restoran parkın güneyinde.
+2 kütüphane okulun batısında.
+3 bahçe okulun doğusunda.
+4 restoran okulun kuzeyinde.
+5 Nasıl gidilir kütüphaneden restorana?	w,s	2 4
+1 mutfak koridorun güneyinde.
+2 ofis evin güneyinde.
+3 salon mutfağın doğusunda.
+4 ev salonun doğusunda.
+5 Nasıl gidilir salondan ofise?	w,n	2 4
+1 park mutfağın kuzeyinde.
+2 ev parkın kuzeyinde.
+3 salon ofisin güneyinde.
+4 salon evin doğusunda.
+5 Nasıl gidilir ofisten eve?	n,e	3 4
+1 Okul kuzeyinde restoranın.
+2 Okul banyonun batısında.
+3 kütüphane ofisin batısında.
+4 Banyo kütüphanenin güneyinde.
+5 Nasıl gidilir ofisten banyoya?	e,n	3 4
+1 kütüphane parkın doğusunda.
+2 park okulun güneyinde.
+3 kütüphane banyonun kuzeyinde.
+4 kütüphane batısında kütapçının.
+5 Nasıl gidilir banyodan parka?	s,e	1 3
+1 ev bahçenin doğusunda.
+2 kütüphane evin doğusunda.
+3 park kütüphanenin güneyinde.
+4 bahçe kuzeyinde kütapçının.
+5 Nasıl gidilir kitapçıdan eve?	s,w	1 4
+1 ev batısında restoranın.
+2 mutfak ofisin doğusunda.
+3 ofis güneyinde restoranın.
+4 bahçe evin batısında.
+5 Nasıl gidilir mutfaktan restorana?	e,s	2 3
+1 Okul kütüphanenin batısında.
+2 salon ofisin doğusunda.
+3 kütüphanenin kuzeyinde.
+4 kütüphane koridorun kuzeyinde.
+5 Nasıl gidilir ofisten koridora?	n,n	3 4
+1 mutfak doğusunda restoranın.
+2 mutfak koridorun kuzeyinde.
+3 restoran okulun güneyinde.
+4 ev okulun batısında.
+5 Nasıl gidilir okuldan mutfağa?	n,w	1 3
+1 koridor okulun batısında.
+2 Okul mutfağın batısında.
+3 Okul ofisin güneyinde.
+4 koridor parkın kuzeyinde.
+5 Nasıl gidilir ofisten mutfağa?	n,w	2 3
+1 kütüphane okulun batısında.
+2 Banyo kütüphanenin batısında.
+3 ev banyonun kuzeyinde.
+4 Banyo doğusunda restoranın.
+5 Nasıl gidilir kütüphaneden restorana?	e,e	2 4
+1 restoran kuzeyinde ev.
+2 ev bahçenin doğusunda.
+3 salon koridorun batısında.
+4 salon evin güneyinde.
+5 Nasıl gidilir koridordan eve?	e,s	3 4
+1 ev koridorun güneyinde.
+2 ev banyonun batısında.
+3 salon koridorun kuzeyinde.
+4 restoran koridorun batısında.
+5 Nasıl gidilir evden salona?	s,s	1 3
+1 mutfak bahçenin kuzeyinde.
+2 mutfak parkın doğusunda.
+3 kütüphane parkın batısında.
+4 restoran mutfağın kuzeyinde.
+5 Nasıl gidilir bahçeden parka?	s,e	1 2
+1 koridor doğusunda restoranın.
+2 restoran okulun güneyinde.
+3 Okul güneyinde salon.
+4 Okul parkın doğusunda.
+5 Nasıl gidilir okuldan koridora?	n,w	1 2
+1 kütüphanenin güneyinde.
+2 restoran ofisin batısında.
+3 mutfak ofisin doğusunda.
+4 salon güneyinde mutfak.
+5 Nasıl gidilir restorandan mutfağa?	w,w	2 3
+1 bahçe parkın doğusunda.
+2 ofis parkın batısında.
+3 restoran bahçenin kuzeyinde.
+4 koridor bahçenin güneyinde.
+5 Nasıl gidilir parktan koridora?	w,n	1 4
+1 Banyo mutfağın kuzeyinde.
+2 koridor banyonun kuzeyinde.
+3 restoran ofisin güneyinde.
+4 mutfak ofisin batısında.
+5 Nasıl gidilir mutfaktan koridora?	s,s	1 2
+1 mutfak salonun doğusunda.
+2 kitapçı okulun batısında.
+3 salon okulun doğusunda.
+4 bahçe okulun kuzeyinde.
+5 Nasıl gidilir salondan kitapçıya?	e,e	2 3
+1 Okul mutfağın doğusunda.
+2 ofis koridorun kuzeyinde.
+3 restoran ofisin kuzeyinde.
+4 restoran güneyinde mutfak.
+5 Nasıl gidilir mutfaktan ofise?	n,n	3 4
+1 ofis koridorun doğusunda.
+2 Okul salonun batısında.
+3 koridor güneyinde salon.
+4 mutfak salonun kuzeyinde.
+5 Nasıl gidilir okuldan koridora?	w,n	2 3
+1 Banyo mutfağın batısında.
+2 bahçe doğusunda restoranın.
+3 salon banyonun güneyinde.
+4 bahçe banyonun kuzeyinde.
+5 Nasıl gidilir mutfaktan salona?	e,n	1 3
+1 kütüphane doğusunda kütapçının.
+2 kütüphane mutfağın batısında.
+3 kitapçı evin doğusunda.
+4 kitapçı bahçenin kuzeyinde.
+5 Nasıl gidilir evden kütüphaneye?	w,w	1 3
+1 Banyo bahçenin güneyinde.
+2 mutfak koridorun batısında.
+3 restoran mutfağın batısında.
+4 koridor banyonun batısında.
+5 Nasıl gidilir restorandan koridora?	w,w	2 3
+1 mutfak güneyinde salon.
+2 ofis salonun kuzeyinde.
+3 Banyo okulun doğusunda.
+4 salon doğusunda Banyo.
+5 Nasıl gidilir banyodan mutfağa?	w,n	1 4
+1 bahçe kütüphanenin doğusunda.
+2 ofis bahçenin kuzeyinde.
+3 mutfak okulun kuzeyinde.
+4 ofis okulun güneyinde.
+5 Nasıl gidilir kütüphaneden ofise?	w,s	1 2
+1 Banyo ofisin batısında.
+2 ofis evin güneyinde.
+3 kütüphane koridorun doğusunda.
+4 koridor ofisin doğusunda.
+5 Nasıl gidilir evden koridora?	n,w	2 4
+1 park okulun doğusunda.
+2 mutfak güneyinde kütapçının.
+3 park ofisin güneyinde.
+4 ofis güneyinde mutfak.
+5 Nasıl gidilir kitapçıdan ofise?	n,n	2 4
+1 Okul kütüphanenin güneyinde.
+2 Okul ofisin batısında.
+3 park banyonun batısında.
+4 kütüphane doğusunda Banyo.
+5 Nasıl gidilir kütüphaneden parka?	e,e	3 4
+1 ofis güneyinde salon.
+2 ofis mutfağın kuzeyinde.
+3 mutfak okulun batısında.
+4 kütüphane ofisin batısında.
+5 Nasıl gidilir kütüphaneden mutfağa?	w,n	2 4
+1 Banyo kütüphanenin doğusunda.
+2 restoran koridorun kuzeyinde.
+3 restoran banyonun güneyinde.
+4 kütüphane bahçenin güneyinde.
+5 Nasıl gidilir restorandan kütüphaneye?	s,e	1 3
+1 Okul bahçenin doğusunda.
+2 restoran bahçenin batısında.
+3 ofisin kuzeyinde restoranın.
+4 Okul kuzeyinde kütapçının.
+5 Nasıl gidilir okuldan restorana?	e,e	1 2
+1 ev güneyinde kütapçının.
+2 koridor parkın güneyinde.
+3 koridor doğusunda kütapçının.
+4 ev ofisin kuzeyinde.
+5 Nasıl gidilir parktan kitapçıya?	n,e	2 3
+1 Banyo bahçenin kuzeyinde.
+2 restoran koridorun doğusunda.
+3 Banyo ofisin güneyinde.
+4 Banyo koridorun batısında.
+5 Nasıl gidilir bahçeden koridora?	s,w	1 4
+1 restoran okulun güneyinde.
+2 Okul mutfağın doğusunda.
+3 koridor okulun doğusunda.
+4 koridor banyonun batısında.
+5 Nasıl gidilir koridordan mutfağa?	e,e	2 3
+1 ofis bahçenin güneyinde.
+2 Okul bahçenin kuzeyinde.
+3 kütüphane ofisin doğusunda.
+4 kütüphane banyonun batısında.
+5 Nasıl gidilir bahçeden kütüphaneye?	n,w	1 3
+1 kütüphane banyonun güneyinde.
+2 restoran parkın kuzeyinde.
+3 kütüphane kuzeyinde restoranın.
+4 Banyo mutfağın doğusunda.
+5 Nasıl gidilir banyodan restorana?	n,n	1 3
+1 ev parkın batısında.
+2 ev kütüphanenin doğusunda.
+3 park güneyinde salon.
+4 kitapçı parkın güneyinde.
+5 Nasıl gidilir evden salona?	w,s	1 3
+1 koridor mutfağın doğusunda.
+2 ev koridorun doğusunda.
+3 park okulun kuzeyinde.
+4 koridor parkın kuzeyinde.
+5 Nasıl gidilir mutfaktan parka?	w,n	1 4
+1 restoran mutfağın kuzeyinde.
+2 ofis mutfağın doğusunda.
+3 koridor mutfağın batısında.
+4 Banyo güneyinde mutfak.
+5 Nasıl gidilir restorandan ofise?	n,w	1 2
+1 Okul koridorun güneyinde.
+2 ev doğusunda Banyo.
+3 ev koridorun kuzeyinde.
+4 Banyo mutfağın doğusunda.
+5 Nasıl gidilir okuldan eve?	s,s	1 3
+1 Banyo okulun güneyinde.
+2 kitapçı doğusunda Banyo.
+3 kütüphane okulun batısında.
+4 Okul güneyinde mutfak.
+5 Nasıl gidilir kitapçıdan okula?	e,s	1 2
+1 kütüphane ofisin güneyinde.
+2 Banyo parkın doğusunda.
+3 park koridorun güneyinde.
+4 kütüphane doğusunda Banyo.
+5 Nasıl gidilir koridordan banyoya?	n,w	2 3
+1 kitapçı koridorun güneyinde.
+2 koridor evin batısında.
+3 koridor ofisin doğusunda.
+4 Banyo koridorun kuzeyinde.
+5 Nasıl gidilir banyodan ofise?	n,e	3 4
+1 kitapçı güneyinde salon.
+2 restoran bahçenin batısında.
+3 restoran ofisin güneyinde.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir ofisten bahçeye?	n,w	2 3
+1 kitapçı ofisin batısında.
+2 bahçe batısında kütapçının.
+3 ofis banyonun kuzeyinde.
+4 kitapçı okulun güneyinde.
+5 Nasıl gidilir okuldan ofise?	n,w	1 4
+1 ofis bahçenin doğusunda.
+2 koridor ofisin kuzeyinde.
+3 koridor banyonun batısında.
+4 ofisin kuzeyinde restoranın.
+5 Nasıl gidilir bahçeden koridora?	w,s	1 2
+1 ev mutfağın kuzeyinde.
+2 Okul parkın güneyinde.
+3 park mutfağın doğusunda.
+4 park bahçenin batısında.
+5 Nasıl gidilir evden parka?	n,w	1 3
+1 restoran ofisin kuzeyinde.
+2 mutfak salonun batısında.
+3 kitapçı ofisin batısında.
+4 mutfak ofisin doğusunda.
+5 Nasıl gidilir restorandan kitapçıya?	n,e	1 3
+1 ev güneyinde kütapçının.
+2 restoran doğusunda kütapçının.
+3 Okul bahçenin güneyinde.
+4 Okul kuzeyinde restoranın.
+5 Nasıl gidilir restorandan eve?	e,n	1 2
+1 restoran evin güneyinde.
+2 koridor kuzeyinde ev.
+3 salon koridorun doğusunda.
+4 restoran batısında kütapçının.
+5 Nasıl gidilir koridordan restorana?	n,n	1 2
+1 mutfak kütüphanenin doğusunda.
+2 Okul kütüphanenin güneyinde.
+3 kütüphane güneyinde kütapçının.
+4 ev mutfağın doğusunda.
+5 Nasıl gidilir okuldan kitapçıya?	s,s	2 3
+1 koridor ofisin güneyinde.
+2 kitapçı koridorun güneyinde.
+3 ev ofisin batısında.
+4 kitapçı kuzeyinde restoranın.
+5 Nasıl gidilir koridordan eve?	s,e	1 3
+1 mutfak banyonun güneyinde.
+2 ev doğusunda Banyo.
+3 mutfak parkın doğusunda.
+4 ev okulun batısında.
+5 Nasıl gidilir mutfaktan eve?	s,w	1 2
+1 mutfak kuzeyinde restoranın.
+2 koridor banyonun kuzeyinde.
+3 salon koridorun kuzeyinde.
+4 mutfak doğusunda Banyo.
+5 Nasıl gidilir banyodan restorana?	w,n	1 4
+1 mutfak doğusunda Banyo.
+2 kütüphanenin doğusunda.
+3 ofis güneyinde salon.
+4 mutfak kütüphanenin güneyinde.
+5 Nasıl gidilir ofisten mutfağa?	e,n	2 4
+1 mutfak salonun batısında.
+2 mutfak parkın güneyinde.
+3 park evin güneyinde.
+4 salon banyonun batısında.
+5 Nasıl gidilir parktan salona?	n,w	1 2
+1 bahçe parkın güneyinde.
+2 bahçe mutfağın batısında.
+3 ev koridorun kuzeyinde.
+4 mutfak kuzeyinde ev.
+5 Nasıl gidilir mutfaktan koridora?	n,n	3 4
+1 koridor batısında restoranın.
+2 Banyo doğusunda restoranın.
+3 koridor ofisin kuzeyinde.
+4 Banyo güneyinde kütapçının.
+5 Nasıl gidilir banyodan koridora?	e,e	1 2
+1 kütüphane doğusunda Banyo.
+2 Banyo doğusunda kütapçının.
+3 ev batısında kütapçının.
+4 kütüphanenin doğusunda.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	w,w	1 2
+1 ofbatısında kütapçının.
+2 koridor kuzeyinde kütapçının.
+3 koridor banyonun batısında.
+4 park koridorun kuzeyinde.
+5 Nasıl gidilir koridordan ofise?	n,e	1 2
+1 Okul kütüphanenin kuzeyinde.
+2 kitapçı okulun kuzeyinde.
+3 kütüphane kuzeyinde restoranın.
+4 bahçe okulun batısında.
+5 Nasıl gidilir bahçeden kütüphaneye?	w,n	1 4
+1 kütüphane bahçenin güneyinde.
+2 koridor bahçenin kuzeyinde.
+3 bahçe mutfağın batısında.
+4 koridor parkın güneyinde.
+5 Nasıl gidilir koridordan kütüphaneye?	n,n	1 2
+1 ev ofisin batısında.
+2 mutfak kütüphanenin güneyinde.
+3 salon evin güneyinde.
+4 mutfak ofisin kuzeyinde.
+5 Nasıl gidilir mutfaktan eve?	n,e	1 4
+1 ev doğusunda Banyo.
+2 ev ofisin güneyinde.
+3 Okul banyonun güneyinde.
+4 ofis salonun batısında.
+5 Nasıl gidilir evden salona?	s,w	2 4
+1 ofis koridorun güneyinde.
+2 ev bahçenin doğusunda.
+3 koridor evin doğusunda.
+4 koridor salonun batısında.
+5 Nasıl gidilir evden ofise?	w,n	1 3
+1 Okul koridorun batısında.
+2 kitapçı bahçenin güneyinde.
+3 kitapçı koridorun doğusunda.
+4 Okul kuzeyinde ev.
+5 Nasıl gidilir kitapçıdan okula?	e,e	1 3
+1 koridor okulun doğusunda.
+2 ev bahçenin batısında.
+3 Okul güneyinde kütapçının.
+4 Okul bahçenin kuzeyinde.
+5 Nasıl gidilir bahçeden koridora?	s,w	1 4
+1 restoran kütüphanenin güneyinde.
+2 ev bahçenin güneyinde.
+3 salon doğusunda restoranın.
+4 restoran bahçenin doğusunda.
+5 Nasıl gidilir restorandan eve?	e,n	2 4
+1 restoran parkın kuzeyinde.
+2 ev mutfağın batısında.
+3 mutfak parkın batısında.
+4 kütüphane parkın güneyinde.
+5 Nasıl gidilir kütüphaneden mutfağa?	s,e	3 4
+1 kütüphane evin batısında.
+2 Okul kütüphanenin batısında.
+3 kitapçı bahçenin kuzeyinde.
+4 Okul bahçenin doğusunda.
+5 Nasıl gidilir bahçeden kütüphaneye?	w,w	2 4
+1 ev salonun batısında.
+2 kütüphane salonun doğusunda.
+3 kütüphane bahçenin batısında.
+4 ofis bahçenin kuzeyinde.
+5 Nasıl gidilir kütüphaneden ofise?	w,s	3 4
+1 ev güneyinde mutfak.
+2 mutfak doğusunda kütapçının.
+3 ev kütüphanenin batısında.
+4 kitapçı parkın doğusunda.
+5 Nasıl gidilir parktan mutfağa?	w,w	2 4
+1 Banyo salonun kuzeyinde.
+2 Okul salonun batısında.
+3 Okul mutfağın kuzeyinde.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir salondan mutfağa?	e,n	2 3
+1 bahçe banyonun güneyinde.
+2 park bahçenin güneyinde.
+3 ev parkın doğusunda.
+4 Okul parkın batısında.
+5 Nasıl gidilir parktan banyoya?	s,s	1 2
+1 ev okulun doğusunda.
+2 salon parkın doğusunda.
+3 bahçe parkın kuzeyinde.
+4 Okul salonun doğusunda.
+5 Nasıl gidilir salondan bahçeye?	e,s	2 3
+1 kitapçı doğusunda Banyo.
+2 Banyo salonun kuzeyinde.
+3 Okul banyonun batısında.
+4 Okul koridorun güneyinde.
+5 Nasıl gidilir banyodan koridora?	e,s	3 4
+1 ev koridorun doğusunda.
+2 ev okulun batısında.
+3 kitapçı okulun kuzeyinde.
+4 salon okulun güneyinde.
+5 Nasıl gidilir evden salona?	w,n	2 4
+1 Banyo parkın güneyinde.
+2 park salonun batısında.
+3 kitapçı kuzeyinde restoranın.
+4 restoran parkın batısında.
+5 Nasıl gidilir parktan kitapçıya?	e,s	3 4
+1 restoran ofisin kuzeyinde.
+2 restoran parkın batısında.
+3 park koridorun güneyinde.
+4 kütüphanenin kuzeyinde.
+5 Nasıl gidilir restorandan koridora?	w,s	2 3
+1 koridor salonun doğusunda.
+2 koridor mutfağın kuzeyinde.
+3 bahçe doğusunda kütapçının.
+4 mutfak bahçenin kuzeyinde.
+5 Nasıl gidilir mutfaktan kitapçıya?	n,e	3 4
+1 kütüphane evin batısında.
+2 Banyo parkın kuzeyinde.
+3 kütüphane banyonun kuzeyinde.
+4 kütüphane koridorun doğusunda.
+5 Nasıl gidilir parktan kütüphaneye?	s,s	2 3
+1 Okul güneyinde kütapçının.
+2 kütüphane evin doğusunda.
+3 ev güneyinde restoranın.
+4 kitapçı kütüphanenin doğusunda.
+5 Nasıl gidilir kütüphaneden restorana?	e,s	2 3
+1 kitapçı parkın kuzeyinde.
+2 ofis doğusunda kütapçının.
+3 mutfak batısında kütapçının.
+4 mutfak bahçenin güneyinde.
+5 Nasıl gidilir ofisten mutfağa?	e,e	2 3
+1 mutfak doğusunda restoranın.
+2 restoran doğusunda Banyo.
+3 mutfak koridorun batısında.
+4 kitapçı güneyinde mutfak.
+5 Nasıl gidilir koridordan restorana?	e,e	1 3
+1 restoran ofisin güneyinde.
+2 Okul ofisin doğusunda.
+3 restoran parkın kuzeyinde.
+4 koridor parkın batısında.
+5 Nasıl gidilir koridordan restorana?	w,s	3 4
+1 ofis salonun batısında.
+2 park bahçenin güneyinde.
+3 salon güneyinde mutfak.
+4 salon bahçenin batısında.
+5 Nasıl gidilir parktan salona?	s,e	2 4
+1 restoran bahçenin kuzeyinde.
+2 Banyo kuzeyinde restoranın.
+3 salon kütüphanenin batısında.
+4 salon doğusunda restoranın.
+5 Nasıl gidilir banyodan salona?	n,w	2 4
+1 Okul banyonun batısında.
+2 park güneyinde restoranın.
+3 Okul ofisin kuzeyinde.
+4 restoran ofisin batısında.
+5 Nasıl gidilir okuldan restorana?	n,e	3 4
+1 Okul kütüphanenin doğusunda.
+2 kitapçı okulun güneyinde.
+3 Okul mutfağın batısında.
+4 ofis güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	s,e	1 2
+1 kütüphanenin kuzeyinde.
+2 bahçe ofisin batısında.
+3 kitapçı kütüphanenin doğusunda.
+4 salon ofisin kuzeyinde.
+5 Nasıl gidilir kitapçıdan ofise?	e,s	1 3
+1 kitapçı kuzeyinde restoranın.
+2 Okul mutfağın doğusunda.
+3 salon mutfağın batısında.
+4 restoran salonun kuzeyinde.
+5 Nasıl gidilir mutfaktan restorana?	e,s	3 4
+1 bahçe kütüphanenin doğusunda.
+2 salon kütüphanenin güneyinde.
+3 kütüphane banyonun güneyinde.
+4 Okul güneyinde salon.
+5 Nasıl gidilir salondan bahçeye?	s,w	1 2
+1 Banyo batısında restoranın.
+2 mutfak banyonun batısında.
+3 Okul mutfağın kuzeyinde.
+4 Banyo kütüphanenin kuzeyinde.
+5 Nasıl gidilir banyodan okula?	e,s	2 3
+1 salon doğusunda Banyo.
+2 park salonun doğusunda.
+3 salon kütüphanenin kuzeyinde.
+4 Okul kütüphanenin güneyinde.
+5 Nasıl gidilir kütüphaneden banyoya?	s,e	1 3
+1 restoran mutfağın kuzeyinde.
+2 Banyo kütüphanenin güneyinde.
+3 kütüphane güneyinde mutfak.
+4 kütüphane salonun batısında.
+5 Nasıl gidilir restorandan kütüphaneye?	n,n	1 3
+1 restoran güneyinde salon.
+2 restoran okulun kuzeyinde.
+3 park evin batısında.
+4 salon evin güneyinde.
+5 Nasıl gidilir restorandan eve?	s,s	1 4
+1 koridor mutfağın batısında.
+2 Banyo ofisin güneyinde.
+3 ofis koridorun güneyinde.
+4 mutfak batısında restoranın.
+5 Nasıl gidilir mutfaktan ofise?	e,n	1 3
+1 mutfak bahçenin doğusunda.
+2 park okulun kuzeyinde.
+3 mutfak kuzeyinde restoranın.
+4 mutfak okulun güneyinde.
+5 Nasıl gidilir parktan mutfağa?	n,n	2 4
+1 koridor doğusunda restoranın.
+2 bahçe koridorun güneyinde.
+3 Okul koridorun doğusunda.
+4 restoran kütüphanenin doğusunda.
+5 Nasıl gidilir okuldan bahçeye?	e,n	2 3
+1 mutfak parkın batısında.
+2 mutfak güneyinde restoranın.
+3 mutfak doğusunda kütapçının.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir restorandan kitapçıya?	n,e	2 3
+1 bahçe banyonun güneyinde.
+2 bahçe kuzeyinde kütapçının.
+3 kitapçı kütüphanenin batısında.
+4 kitapçı okulun kuzeyinde.
+5 Nasıl gidilir kitapçıdan banyoya?	s,s	1 2
+1 koridor ofisin kuzeyinde.
+2 mutfak doğusunda restoranın.
+3 koridor güneyinde mutfak.
+4 mutfak güneyinde kütapçının.
+5 Nasıl gidilir restorandan koridora?	w,n	2 3
+1 mutfak salonun kuzeyinde.
+2 bahçe parkın kuzeyinde.
+3 kitapçı salonun doğusunda.
+4 bahçe güneyinde kütapçının.
+5 Nasıl gidilir bahçeden salona?	s,e	3 4
+1 salon kuzeyinde ev.
+2 Banyo salonun doğusunda.
+3 salon ofisin doğusunda.
+4 Okul banyonun kuzeyinde.
+5 Nasıl gidilir ofisten eve?	w,n	1 3
+1 restoran ofisin kuzeyinde.
+2 ev mutfağın batısında.
+3 ofis koridorun doğusunda.
+4 restoran güneyinde mutfak.
+5 Nasıl gidilir restorandan koridora?	n,e	1 3
+1 Banyo batısında restoranın.
+2 bahçe okulun kuzeyinde.
+3 bahçe koridorun doğusunda.
+4 Banyo bahçenin kuzeyinde.
+5 Nasıl gidilir bahçeden restorana?	s,w	1 4
+1 Banyo ofisin doğusunda.
+2 Banyo bahçenin güneyinde.
+3 Okul banyonun güneyinde.
+4 salon okulun doğusunda.
+5 Nasıl gidilir okuldan ofise?	s,e	1 3
+1 koridor kuzeyinde kütapçının.
+2 kitapçı kütüphanenin kuzeyinde.
+3 Okul koridorun kuzeyinde.
+4 ev doğusunda kütapçının.
+5 Nasıl gidilir okuldan kitapçıya?	n,n	1 3
+1 Okul banyonun batısında.
+2 kitapçı okulun batısında.
+3 Okul koridorun güneyinde.
+4 ofis banyonun güneyinde.
+5 Nasıl gidilir banyodan koridora?	e,s	1 3
+1 koridor evin güneyinde.
+2 park koridorun batısında.
+3 mutfak koridorun güneyinde.
+4 bahçe koridorun doğusunda.
+5 Nasıl gidilir mutfaktan bahçeye?	s,w	3 4
+1 Banyo koridorun doğusunda.
+2 kütüphane doğusunda Banyo.
+3 bahçe banyonun kuzeyinde.
+4 Okul koridorun güneyinde.
+5 Nasıl gidilir koridordan bahçeye?	w,s	1 3
+1 mutfak güneyinde salon.
+2 Okul güneyinde mutfak.
+3 mutfak parkın doğusunda.
+4 kütüphane mutfağın doğusunda.
+5 Nasıl gidilir okuldan kütüphaneye?	s,w	2 4
+1 park banyonun kuzeyinde.
+2 park koridorun batısında.
+3 koridor okulun güneyinde.
+4 ev okulun doğusunda.
+5 Nasıl gidilir parktan okula?	w,s	2 3
+1 kütüphane evin batısında.
+2 ev bahçenin kuzeyinde.
+3 restoran ofisin batısında.
+4 kütüphane ofisin güneyinde.
+5 Nasıl gidilir kütüphaneden bahçeye?	w,n	1 2
+1 mutfak salonun doğusunda.
+2 kütüphane kuzeyinde ev.
+3 Banyo evin doğusunda.
+4 mutfak evin batısında.
+5 Nasıl gidilir kütüphaneden banyoya?	n,w	2 3
+1 mutfak parkın güneyinde.
+2 koridor mutfağın batısında.
+3 mutfak banyonun kuzeyinde.
+4 Banyo okulun batısında.
+5 Nasıl gidilir banyodan parka?	s,s	1 3
+1 park koridorun güneyinde.
+2 salon batısında restoranın.
+3 restoran okulun kuzeyinde.
+4 salon parkın güneyinde.
+5 Nasıl gidilir parktan restorana?	n,w	2 4
+1 park doğusunda Banyo.
+2 salon güneyinde kütapçının.
+3 mutfak parkın doğusunda.
+4 salon parkın kuzeyinde.
+5 Nasıl gidilir salondan banyoya?	n,e	1 4
+1 kitapçı ofisin güneyinde.
+2 kitapçı okulun batısında.
+3 Banyo doğusunda restoranın.
+4 Banyo ofisin batısında.
+5 Nasıl gidilir kitapçıdan banyoya?	s,e	1 4
+1 kitapçı ofisin kuzeyinde.
+2 restoran kütüphanenin kuzeyinde.
+3 kitapçı banyonun güneyinde.
+4 ofis doğusunda restoranın.
+5 Nasıl gidilir banyodan ofise?	n,n	1 3
+1 park okulun kuzeyinde.
+2 Banyo mutfağın batısında.
+3 Okul doğusunda restoranın.
+4 Banyo parkın kuzeyinde.
+5 Nasıl gidilir parktan restorana?	n,e	1 3
+1 Banyo koridorun batısında.
+2 park banyonun kuzeyinde.
+3 restoran bahçenin güneyinde.
+4 bahçe banyonun güneyinde.
+5 Nasıl gidilir parktan bahçeye?	n,n	2 4
+1 mutfak salonun kuzeyinde.
+2 restoran mutfağın kuzeyinde.
+3 Okul koridorun batısında.
+4 Okul kuzeyinde restoranın.
+5 Nasıl gidilir okuldan mutfağa?	n,n	2 4
+1 ev kütüphanenin batısında.
+2 restoran evin güneyinde.
+3 kütüphane mutfağın batısında.
+4 Banyo güneyinde mutfak.
+5 Nasıl gidilir banyodan kütüphaneye?	s,e	3 4
+1 kütüphane banyonun güneyinde.
+2 kütüphane parkın kuzeyinde.
+3 salon parkın doğusunda.
+4 ev doğusunda Banyo.
+5 Nasıl gidilir parktan banyoya?	s,s	1 2
+1 koridor kütüphanenin doğusunda.
+2 salon okulun batısında.
+3 salon koridorun kuzeyinde.
+4 koridor banyonun kuzeyinde.
+5 Nasıl gidilir banyodan salona?	s,s	3 4
+1 kitapçı bahçenin kuzeyinde.
+2 ev doğusunda kütapçının.
+3 salon okulun kuzeyinde.
+4 Okul kuzeyinde ev.
+5 Nasıl gidilir okuldan kitapçıya?	n,e	2 4
+1 ev bahçenin güneyinde.
+2 restoran bahçenin doğusunda.
+3 Banyo bahçenin batısında.
+4 salon bahçenin kuzeyinde.
+5 Nasıl gidilir evden restorana?	s,w	1 2
+1 bahçe banyonun güneyinde.
+2 bahçe ofisin doğusunda.
+3 ofisin kuzeyinde kütapçının.
+4 Banyo kütüphanenin batısında.
+5 Nasıl gidilir ofisten banyoya?	w,s	1 2
+1 Banyo koridorun güneyinde.
+2 mutfak kuzeyinde restoranın.
+3 mutfak banyonun batısında.
+4 kütüphane doğusunda Banyo.
+5 Nasıl gidilir mutfaktan koridora?	w,s	1 3
+1 kitapçı mutfağın kuzeyinde.
+2 ofis mutfağın doğusunda.
+3 mutfak doğusunda Banyo.
+4 mutfak koridorun kuzeyinde.
+5 Nasıl gidilir koridordan ofise?	s,w	2 4
+1 salon kütüphanenin güneyinde.
+2 ev kütüphanenin kuzeyinde.
+3 Okul kütüphanenin batısında.
+4 Okul parkın doğusunda.
+5 Nasıl gidilir okuldan salona?	w,n	1 3
+1 mutfak bahçenin güneyinde.
+2 kitapçı mutfağın batısında.
+3 restoran mutfağın doğusunda.
+4 kütüphane güneyinde kütapçının.
+5 Nasıl gidilir kütüphaneden mutfağa?	s,w	2 4
+1 restoran parkın güneyinde.
+2 park evin doğusunda.
+3 park kütüphanenin güneyinde.
+4 ofis evin batısında.
+5 Nasıl gidilir kütüphaneden restorana?	n,n	1 3
+1 Okul güneyinde mutfak.
+2 park okulun doğusunda.
+3 mutfak salonun doğusunda.
+4 kitapçı okulun güneyinde.
+5 Nasıl gidilir mutfaktan parka?	n,w	1 2
+1 park okulun batısında.
+2 mutfak okulun güneyinde.
+3 park koridorun doğusunda.
+4 koridor evin doğusunda.
+5 Nasıl gidilir okuldan koridora?	e,e	1 3
+1 park salonun doğusunda.
+2 bahçe parkın kuzeyinde.
+3 bahçe batısında restoranın.
+4 restoran koridorun güneyinde.
+5 Nasıl gidilir salondan bahçeye?	w,s	1 2
+1 salon okulun güneyinde.
+2 kütüphane evin batısında.
+3 salon ofisin kuzeyinde.
+4 ofis evin doğusunda.
+5 Nasıl gidilir salondan eve?	n,e	3 4
+1 Okul doğusunda Banyo.
+2 ev parkın güneyinde.
+3 mutfak okulun güneyinde.
+4 mutfak parkın kuzeyinde.
+5 Nasıl gidilir mutfaktan banyoya?	s,e	1 3
+1 bahçe ofisin güneyinde.
+2 Banyo ofisin kuzeyinde.
+3 ofis mutfağın batısında.
+4 Banyo okulun güneyinde.
+5 Nasıl gidilir mutfaktan banyoya?	e,s	2 3
+1 Okul mutfağın batısında.
+2 bahçe parkın batısında.
+3 mutfak bahçenin güneyinde.
+4 kütüphane parkın doğusunda.
+5 Nasıl gidilir mutfaktan parka?	s,w	2 3
+1 park güneyinde kütapçının.
+2 salon güneyinde mutfak.
+3 park mutfağın kuzeyinde.
+4 park batısında restoranın.
+5 Nasıl gidilir mutfaktan restorana?	s,w	3 4
+1 koridor batısında restoranın.
+2 koridor doğusunda Banyo.
+3 Banyo okulun kuzeyinde.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir koridordan okula?	e,n	2 3
+1 bahçe koridorun batısında.
+2 salon kütüphanenin güneyinde.
+3 bahçe kütüphanenin kuzeyinde.
+4 bahçe güneyinde mutfak.
+5 Nasıl gidilir mutfaktan kütüphaneye?	n,n	3 4
+1 Okul kütüphanenin batısında.
+2 ev kütüphanenin doğusunda.
+3 ofis okulun güneyinde.
+4 ofis banyonun kuzeyinde.
+5 Nasıl gidilir kütüphaneden ofise?	e,n	1 3
+1 restoran kütüphanenin güneyinde.
+2 koridor bahçenin doğusunda.
+3 kütüphane bahçenin batısında.
+4 kütüphanenin kuzeyinde.
+5 Nasıl gidilir bahçeden ofise?	e,s	3 4
+1 ofis evin güneyinde.
+2 ofis okulun kuzeyinde.
+3 ev doğusunda kütapçının.
+4 koridor kuzeyinde kütapçının.
+5 Nasıl gidilir ofisten kitapçıya?	s,e	1 3
+1 mutfak kuzeyinde ev.
+2 ev koridorun doğusunda.
+3 koridor okulun kuzeyinde.
+4 park mutfağın kuzeyinde.
+5 Nasıl gidilir evden parka?	s,s	1 4
+1 Banyo doğusunda restoranın.
+2 ofis parkın doğusunda.
+3 restoran ofisin kuzeyinde.
+4 ofis salonun kuzeyinde.
+5 Nasıl gidilir ofisten banyoya?	s,w	1 3
+1 ofis parkın batısında.
+2 ev ofisin batısında.
+3 ofis salonun kuzeyinde.
+4 ofis güneyinde mutfak.
+5 Nasıl gidilir evden mutfağa?	w,s	2 4
+1 salon güneyinde kütapçının.
+2 mutfak kuzeyinde restoranın.
+3 mutfak kütüphanenin doğusunda.
+4 restoran kuzeyinde kütapçının.
+5 Nasıl gidilir mutfaktan kitapçıya?	n,n	2 4
+1 park ofisin kuzeyinde.
+2 bahçe batısında kütapçının.
+3 mutfak parkın doğusunda.
+4 park güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan ofise?	n,n	1 4
+1 restoran evin doğusunda.
+2 mutfak batısında kütapçının.
+3 Banyo kuzeyinde ev.
+4 kitapçı evin batısında.
+5 Nasıl gidilir kitapçıdan restorana?	w,w	1 4
+1 Banyo kütüphanenin güneyinde.
+2 Banyo mutfağın kuzeyinde.
+3 kütüphane batısında kütapçının.
+4 kitapçı okulun batısında.
+5 Nasıl gidilir kitapçıdan banyoya?	e,n	1 3
+1 mutfak kütüphanenin kuzeyinde.
+2 mutfak doğusunda kütapçının.
+3 ev mutfağın doğusunda.
+4 ofis mutfağın kuzeyinde.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	w,n	1 2
+1 ev parkın batısında.
+2 Banyo evin güneyinde.
+3 bahçe banyonun batısında.
+4 bahçe mutfağın doğusunda.
+5 Nasıl gidilir bahçeden eve?	w,s	2 3
+1 koridor evin batısında.
+2 salon kuzeyinde restoranın.
+3 restoran bahçenin batısında.
+4 koridor bahçenin güneyinde.
+5 Nasıl gidilir restorandan koridora?	w,n	3 4
+1 restoran okulun doğusunda.
+2 salon doğusunda restoranın.
+3 Banyo güneyinde salon.
+4 salon evin güneyinde.
+5 Nasıl gidilir banyodan restorana?	s,e	2 3
+1 bahçe ofisin doğusunda.
+2 bahçe batısında kütapçının.
+3 koridor bahçenin kuzeyinde.
+4 mutfak ofisin batısında.
+5 Nasıl gidilir kitapçıdan ofise?	e,e	1 2
+1 kitapçı kuzeyinde ev.
+2 Okul ofisin doğusunda.
+3 Okul evin batısında.
+4 kitapçı bahçenin güneyinde.
+5 Nasıl gidilir bahçeden eve?	n,n	1 4
+1 bahçe mutfağın doğusunda.
+2 bahçe kütüphanenin kuzeyinde.
+3 mutfak salonun doğusunda.
+4 mutfak banyonun güneyinde.
+5 Nasıl gidilir mutfaktan kütüphaneye?	w,n	1 2
+1 park güneyinde restoranın.
+2 salon bahçenin doğusunda.
+3 kitapçı doğusunda restoranın.
+4 kitapçı bahçenin güneyinde.
+5 Nasıl gidilir kitapçıdan parka?	e,n	1 3
+1 Okul koridorun doğusunda.
+2 kütüphane okulun güneyinde.
+3 ofis koridorun kuzeyinde.
+4 kütüphane parkın kuzeyinde.
+5 Nasıl gidilir ofisten okula?	n,w	1 3
+1 Banyo mutfağın kuzeyinde.
+2 mutfak kuzeyinde ev.
+3 Banyo ofisin batısında.
+4 bahçe evin doğusunda.
+5 Nasıl gidilir mutfaktan bahçeye?	n,w	2 4
+1 ev okulun batısında.
+2 salon okulun doğusunda.
+3 salon güneyinde restoranın.
+4 ev bahçenin kuzeyinde.
+5 Nasıl gidilir evden salona?	w,w	1 2
+1 Okul salonun doğusunda.
+2 Banyo ofisin batısında.
+3 Okul banyonun güneyinde.
+4 salon mutfağın kuzeyinde.
+5 Nasıl gidilir ofisten okula?	e,n	2 3
+1 Banyo güneyinde mutfak.
+2 Banyo kütüphanenin batısında.
+3 bahçe banyonun güneyinde.
+4 salon banyonun batısında.
+5 Nasıl gidilir salondan bahçeye?	w,n	3 4
+1 kitapçı evin doğusunda.
+2 ofis evin batısında.
+3 Banyo kuzeyinde kütapçının.
+4 kitapçı bahçenin batısında.
+5 Nasıl gidilir banyodan eve?	n,e	1 3
+1 ofis doğusunda kütapçının.
+2 koridor mutfağın kuzeyinde.
+3 ofis bahçenin kuzeyinde.
+4 kitapçı mutfağın doğusunda.
+5 Nasıl gidilir mutfaktan ofise?	w,w	1 4
+1 bahçe güneyinde mutfak.
+2 kütüphane mutfağın batısında.
+3 salon kütüphanenin kuzeyinde.
+4 salon okulun doğusunda.
+5 Nasıl gidilir kütüphaneden okula?	s,e	3 4
+1 Banyo kütüphanenin batısında.
+2 salon güneyinde kütapçının.
+3 kitapçı evin batısında.
+4 kütüphane salonun batısında.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	n,e	2 4
+1 kütüphane bahçenin güneyinde.
+2 ofis mutfağın batısında.
+3 kütüphane evin batısında.
+4 mutfak kütüphanenin batısında.
+5 Nasıl gidilir bahçeden eve?	n,w	1 3
+1 bahçe banyonun batısında.
+2 koridor kütüphanenin batısında.
+3 Banyo güneyinde salon.
+4 koridor salonun kuzeyinde.
+5 Nasıl gidilir salondan kütüphaneye?	s,w	2 4
+1 mutfak doğusunda kütapçının.
+2 Okul güneyinde kütapçının.
+3 Okul parkın kuzeyinde.
+4 Okul ofisin doğusunda.
+5 Nasıl gidilir okuldan mutfağa?	s,w	1 2
+1 ev bahçenin kuzeyinde.
+2 mutfak evin batısında.
+3 kütüphane evin doğusunda.
+4 kütüphane koridorun güneyinde.
+5 Nasıl gidilir mutfaktan bahçeye?	w,n	1 2
+1 koridor parkın kuzeyinde.
+2 kütüphane koridorun doğusunda.
+3 bahçe parkın güneyinde.
+4 koridor güneyinde mutfak.
+5 Nasıl gidilir parktan mutfağa?	s,s	1 4
+1 mutfak okulun güneyinde.
+2 restoran okulun doğusunda.
+3 mutfak bahçenin kuzeyinde.
+4 Okul parkın doğusunda.
+5 Nasıl gidilir parktan mutfağa?	w,n	1 4
+1 bahçe kütüphanenin doğusunda.
+2 ev doğusunda restoranın.
+3 bahçe güneyinde restoranın.
+4 restoran okulun güneyinde.
+5 Nasıl gidilir bahçeden eve?	s,w	2 3
+1 ofbatısında restoranın.
+2 ofis banyonun güneyinde.
+3 ofis bahçenin doğusunda.
+4 kütüphanenin kuzeyinde.
+5 Nasıl gidilir bahçeden banyoya?	w,s	2 3
+1 salon güneyinde restoranın.
+2 kitapçı evin doğusunda.
+3 kitapçı parkın güneyinde.
+4 restoran evin güneyinde.
+5 Nasıl gidilir kitapçıdan restorana?	e,n	2 4
+1 park kuzeyinde ev.
+2 ev batısında restoranın.
+3 bahçe salonun kuzeyinde.
+4 ev bahçenin doğusunda.
+5 Nasıl gidilir evden salona?	e,n	3 4
+1 ofis parkın doğusunda.
+2 kütüphane parkın kuzeyinde.
+3 park evin doğusunda.
+4 kütüphane güneyinde kütapçının.
+5 Nasıl gidilir kütüphaneden eve?	n,e	2 3
+1 kütüphane koridorun batısında.
+2 Banyo kütüphanenin kuzeyinde.
+3 kütüphane mutfağın kuzeyinde.
+4 kütüphane ofisin doğusunda.
+5 Nasıl gidilir koridordan banyoya?	e,s	1 2
+1 park mutfağın doğusunda.
+2 park okulun güneyinde.
+3 park kuzeyinde restoranın.
+4 bahçe okulun kuzeyinde.
+5 Nasıl gidilir parktan bahçeye?	s,s	2 4
+1 restoran kütüphanenin doğusunda.
+2 mutfak kuzeyinde restoranın.
+3 bahçe kütüphanenin batısında.
+4 mutfak evin güneyinde.
+5 Nasıl gidilir kütüphaneden mutfağa?	w,s	1 2
+1 restoran mutfağın kuzeyinde.
+2 mutfak parkın kuzeyinde.
+3 restoran ofisin batısında.
+4 bahçe ofisin kuzeyinde.
+5 Nasıl gidilir restorandan parka?	n,n	1 2
+1 salon güneyinde mutfak.
+2 salon batısında restoranın.
+3 salon okulun kuzeyinde.
+4 bahçe okulun güneyinde.
+5 Nasıl gidilir okuldan restorana?	s,w	2 3
+1 bahçe okulun doğusunda.
+2 kitapçı banyonun kuzeyinde.
+3 Banyo bahçenin doğusunda.
+4 mutfak bahçenin güneyinde.
+5 Nasıl gidilir kitapçıdan bahçeye?	n,e	2 3
+1 bahçe kuzeyinde kütapçının.
+2 salon okulun kuzeyinde.
+3 salon batısında kütapçının.
+4 ofis doğusunda kütapçının.
+5 Nasıl gidilir ofisten bahçeye?	e,s	1 4
+1 park okulun kuzeyinde.
+2 Okul ofisin doğusunda.
+3 mutfak ofisin güneyinde.
+4 mutfak koridorun kuzeyinde.
+5 Nasıl gidilir mutfaktan okula?	s,w	2 3
+1 kütüphane salonun kuzeyinde.
+2 salon koridorun kuzeyinde.
+3 koridor evin batısında.
+4 Banyo salonun batısında.
+5 Nasıl gidilir banyodan kütüphaneye?	w,s	1 4
+1 park kütüphanenin kuzeyinde.
+2 salon parkın batısında.
+3 Okul bahçenin doğusunda.
+4 kütüphane okulun kuzeyinde.
+5 Nasıl gidilir kütüphaneden salona?	s,e	1 2
+1 mutfak ofisin güneyinde.
+2 ofis koridorun batısında.
+3 kitapçı mutfağın batısında.
+4 park koridorun doğusunda.
+5 Nasıl gidilir koridordan mutfağa?	e,n	1 2
+1 Okul bahçenin batısında.
+2 ofis mutfağın batısında.
+3 ofis bahçenin güneyinde.
+4 ev ofisin güneyinde.
+5 Nasıl gidilir evden bahçeye?	s,s	3 4
+1 mutfak banyonun batısında.
+2 ev kuzeyinde restoranın.
+3 Banyo güneyinde restoranın.
+4 kütüphane mutfağın batısında.
+5 Nasıl gidilir restorandan mutfağa?	n,e	1 3
+1 kütüphane kuzeyinde ev.
+2 kitapçı evin batısında.
+3 Okul kuzeyinde restoranın.
+4 ev okulun batısında.
+5 Nasıl gidilir restorandan eve?	s,e	3 4
+1 salon batısında restoranın.
+2 Banyo kütüphanenin güneyinde.
+3 salon kütüphanenin kuzeyinde.
+4 mutfak salonun batısında.
+5 Nasıl gidilir restorandan kütüphaneye?	e,n	1 3
+1 kitapçı salonun doğusunda.
+2 park salonun kuzeyinde.
+3 restoran salonun batısında.
+4 restoran ofisin doğusunda.
+5 Nasıl gidilir ofisten salona?	w,w	3 4
+1 restoran bahçenin batısında.
+2 mutfak bahçenin kuzeyinde.
+3 kitapçı salonun kuzeyinde.
+4 kitapçı bahçenin güneyinde.
+5 Nasıl gidilir kitapçıdan restorana?	s,e	1 4
+1 park koridorun doğusunda.
+2 park bahçenin batısında.
+3 restoran parkın güneyinde.
+4 bahçe kütüphanenin batısında.
+5 Nasıl gidilir koridordan bahçeye?	w,w	1 2
+1 ev parkın kuzeyinde.
+2 salon güneyinde mutfak.
+3 ofis parkın doğusunda.
+4 mutfak parkın batısında.
+5 Nasıl gidilir salondan parka?	s,w	2 4
+1 salon ofisin kuzeyinde.
+2 salon parkın doğusunda.
+3 park koridorun doğusunda.
+4 Okul salonun doğusunda.
+5 Nasıl gidilir ofisten okula?	s,w	1 4
+1 restoran ofisin doğusunda.
+2 restoran bahçenin batısında.
+3 mutfak ofisin kuzeyinde.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir kitapçıdan restorana?	e,e	2 4
+1 bahçe salonun doğusunda.
+2 kütüphane ofisin güneyinde.
+3 mutfak bahçenin kuzeyinde.
+4 mutfak kütüphanenin batısında.
+5 Nasıl gidilir bahçeden kütüphaneye?	s,w	3 4
+1 ev banyonun kuzeyinde.
+2 park banyonun batısında.
+3 restoran doğusunda Banyo.
+4 bahçe kuzeyinde ev.
+5 Nasıl gidilir banyodan bahçeye?	s,s	1 4
+1 kitapçı salonun doğusunda.
+2 salon koridorun güneyinde.
+3 Banyo salonun batısında.
+4 park güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan banyoya?	e,e	1 3
+1 restoran bahçenin güneyinde.
+2 ofis okulun doğusunda.
+3 ofbatısında restoranın.
+4 Okul mutfağın kuzeyinde.
+5 Nasıl gidilir bahçeden ofise?	n,e	1 3
+1 ev banyonun batısında.
+2 mutfak evin batısında.
+3 kitapçı kütüphanenin kuzeyinde.
+4 kitapçı evin güneyinde.
+5 Nasıl gidilir mutfaktan banyoya?	w,w	1 2
+1 kütüphane güneyinde mutfak.
+2 kitapçı kütüphanenin doğusunda.
+3 Okul kütüphanenin batısında.
+4 ofis güneyinde kütapçının.
+5 Nasıl gidilir okuldan mutfağa?	w,s	1 3
+1 ev güneyinde kütapçının.
+2 restoran parkın kuzeyinde.
+3 bahçe parkın güneyinde.
+4 ev doğusunda restoranın.
+5 Nasıl gidilir bahçeden restorana?	s,s	2 3
+1 salon banyonun batısında.
+2 mutfak okulun batısında.
+3 salon okulun doğusunda.
+4 kitapçı salonun kuzeyinde.
+5 Nasıl gidilir kitapçıdan banyoya?	n,w	1 4
+1 park güneyinde restoranın.
+2 ev okulun kuzeyinde.
+3 ev parkın batısında.
+4 restoran banyonun batısında.
+5 Nasıl gidilir banyodan parka?	e,n	1 4
+1 koridor bahçenin kuzeyinde.
+2 park mutfağın batısında.
+3 mutfak koridorun kuzeyinde.
+4 Banyo parkın batısında.
+5 Nasıl gidilir parktan koridora?	w,n	2 3
+1 koridor parkın kuzeyinde.
+2 ev salonun doğusunda.
+3 bahçe evin güneyinde.
+4 ev parkın güneyinde.
+5 Nasıl gidilir koridordan eve?	n,n	1 4
+1 restoran batısında kütapçının.
+2 kitapçı kütüphanenin kuzeyinde.
+3 salon doğusunda Banyo.
+4 kitapçı banyonun güneyinde.
+5 Nasıl gidilir banyodan restorana?	n,e	1 4
+1 ev kütüphanenin batısında.
+2 ofis parkın güneyinde.
+3 ev ofisin doğusunda.
+4 ev koridorun kuzeyinde.
+5 Nasıl gidilir koridordan ofise?	s,e	3 4
+1 kütüphane doğusunda kütapçının.
+2 kitapçı doğusunda restoranın.
+3 restoran banyonun güneyinde.
+4 salon güneyinde restoranın.
+5 Nasıl gidilir kitapçıdan salona?	e,n	2 4
+1 ev güneyinde mutfak.
+2 ofis salonun batısında.
+3 salon koridorun güneyinde.
+4 ev koridorun doğusunda.
+5 Nasıl gidilir ofisten koridora?	w,s	2 3
+1 kitapçı salonun kuzeyinde.
+2 Okul kütüphanenin güneyinde.
+3 kütüphane evin batısında.
+4 kitapçı okulun batısında.
+5 Nasıl gidilir kütüphaneden kitapçıya?	n,e	2 4
+1 restoran banyonun batısında.
+2 mutfak batısında restoranın.
+3 Banyo okulun batısında.
+4 kitapçı banyonun güneyinde.
+5 Nasıl gidilir restorandan kitapçıya?	w,n	1 4
+1 kitapçı mutfağın kuzeyinde.
+2 park koridorun batısında.
+3 koridor banyonun güneyinde.
+4 Banyo mutfağın batısında.
+5 Nasıl gidilir kitapçıdan banyoya?	n,e	1 4
+1 bahçe banyonun güneyinde.
+2 bahçe parkın kuzeyinde.
+3 salon parkın doğusunda.
+4 salon kuzeyinde ev.
+5 Nasıl gidilir banyodan parka?	n,n	1 2
+1 koridor doğusunda Banyo.
+2 salon banyonun batısında.
+3 Okul banyonun güneyinde.
+4 koridor evin güneyinde.
+5 Nasıl gidilir banyodan eve?	w,s	1 4
+1 kitapçı parkın kuzeyinde.
+2 salon parkın doğusunda.
+3 park kütüphanenin kuzeyinde.
+4 salon mutfağın batısında.
+5 Nasıl gidilir parktan mutfağa?	w,w	2 4
+1 ofis okulun kuzeyinde.
+2 ofis koridorun batısında.
+3 restoran okulun batısında.
+4 restoran doğusunda kütapçının.
+5 Nasıl gidilir restorandan ofise?	w,s	1 3
+1 bahçe kuzeyinde restoranın.
+2 bahçe evin doğusunda.
+3 ev parkın doğusunda.
+4 ofisin kuzeyinde ev.
+5 Nasıl gidilir parktan bahçeye?	w,w	2 3
+1 restoran banyonun kuzeyinde.
+2 ev kuzeyinde restoranın.
+3 ev bahçenin doğusunda.
+4 ev kütüphanenin güneyinde.
+5 Nasıl gidilir restorandan bahçeye?	s,e	2 3
+1 bahçe okulun güneyinde.
+2 Banyo ofisin doğusunda.
+3 kütüphane ofisin kuzeyinde.
+4 ofis okulun doğusunda.
+5 Nasıl gidilir banyodan okula?	e,e	2 4
+1 bahçe okulun güneyinde.
+2 kütüphane bahçenin güneyinde.
+3 Okul güneyinde salon.
+4 bahçe doğusunda Banyo.
+5 Nasıl gidilir banyodan okula?	w,s	1 4
+1 Banyo kütüphanenin kuzeyinde.
+2 salon kuzeyinde ev.
+3 Banyo evin doğusunda.
+4 Banyo okulun batısında.
+5 Nasıl gidilir kütüphaneden okula?	s,w	1 4
+1 bahçe banyonun batısında.
+2 ev bahçenin güneyinde.
+3 restoran koridorun kuzeyinde.
+4 bahçe koridorun güneyinde.
+5 Nasıl gidilir banyodan eve?	e,n	1 2
+1 park salonun batısında.
+2 kütüphane batısında restoranın.
+3 Banyo salonun doğusunda.
+4 kütüphane doğusunda Banyo.
+5 Nasıl gidilir kütüphaneden salona?	e,e	3 4
+1 salon batısında kütapçının.
+2 kitapçı mutfağın batısında.
+3 bahçe ofisin batısında.
+4 bahçe güneyinde mutfak.
+5 Nasıl gidilir mutfaktan ofise?	n,w	3 4
+1 Banyo mutfağın doğusunda.
+2 kütüphane güneyinde mutfak.
+3 bahçe banyonun kuzeyinde.
+4 Banyo parkın batısında.
+5 Nasıl gidilir parktan mutfağa?	e,e	1 4
+1 koridor banyonun batısında.
+2 koridor ofisin kuzeyinde.
+3 ofis evin doğusunda.
+4 koridor bahçenin güneyinde.
+5 Nasıl gidilir ofisten banyoya?	s,w	1 2
+1 ofis evin doğusunda.
+2 mutfak evin güneyinde.
+3 salon kuzeyinde ev.
+4 restoran salonun batısında.
+5 Nasıl gidilir salondan mutfağa?	n,n	2 3
+1 restoran banyonun kuzeyinde.
+2 restoran koridorun batısında.
+3 mutfak koridorun doğusunda.
+4 Okul banyonun batısında.
+5 Nasıl gidilir banyodan koridora?	s,w	1 2
+1 Banyo parkın batısında.
+2 bahçe banyonun batısında.
+3 koridor banyonun kuzeyinde.
+4 park salonun batısında.
+5 Nasıl gidilir parktan koridora?	e,s	1 3
+1 ev batısında restoranın.
+2 ev doğusunda Banyo.
+3 ofisin kuzeyinde ev.
+4 kitapçı banyonun güneyinde.
+5 Nasıl gidilir restorandan banyoya?	e,e	1 2
+1 Okul evin batısında.
+2 kütüphane parkın batısında.
+3 park koridorun güneyinde.
+4 Okul parkın doğusunda.
+5 Nasıl gidilir parktan eve?	w,w	1 4
+1 ofis okulun batısında.
+2 restoran mutfağın kuzeyinde.
+3 restoran okulun güneyinde.
+4 ofis salonun doğusunda.
+5 Nasıl gidilir salondan okula?	w,w	1 4
+1 kitapçı bahçenin kuzeyinde.
+2 park bahçenin batısında.
+3 Okul parkın güneyinde.
+4 bahçe evin batısında.
+5 Nasıl gidilir okuldan bahçeye?	s,w	2 3
+1 Okul güneyinde mutfak.
+2 ev koridorun güneyinde.
+3 mutfak evin doğusunda.
+4 mutfak batısında kütapçının.
+5 Nasıl gidilir okuldan kitapçıya?	s,w	1 4
+1 ev ofisin güneyinde.
+2 mutfak ofisin kuzeyinde.
+3 park mutfağın kuzeyinde.
+4 restoran mutfağın doğusunda.
+5 Nasıl gidilir evden mutfağa?	s,s	1 2
+1 koridor doğusunda kütapçının.
+2 mutfak batısında kütapçının.
+3 mutfak okulun doğusunda.
+4 restoran kuzeyinde kütapçının.
+5 Nasıl gidilir restorandan mutfağa?	n,e	2 4
+1 kütüphane evin güneyinde.
+2 restoran salonun batısında.
+3 salon mutfağın batısında.
+4 mutfak evin batısında.
+5 Nasıl gidilir mutfaktan kütüphaneye?	w,n	1 4
+1 bahçe kütüphanenin doğusunda.
+2 Banyo kütüphanenin kuzeyinde.
+3 salon banyonun kuzeyinde.
+4 restoran salonun doğusunda.
+5 Nasıl gidilir banyodan restorana?	s,w	3 4
+1 koridor batısında kütapçının.
+2 ev ofisin doğusunda.
+3 ofis doğusunda kütapçının.
+4 ofis mutfağın kuzeyinde.
+5 Nasıl gidilir kitapçıdan mutfağa?	w,n	3 4
+1 bahçe mutfağın batısında.
+2 Banyo güneyinde mutfak.
+3 park okulun batısında.
+4 park mutfağın kuzeyinde.
+5 Nasıl gidilir bahçeden parka?	w,s	1 4
+1 salon kuzeyinde kütapçının.
+2 kitapçı koridorun doğusunda.
+3 Okul salonun doğusunda.
+4 Okul ofisin batısında.
+5 Nasıl gidilir kitapçıdan okula?	s,w	1 3
+1 Okul mutfağın kuzeyinde.
+2 Banyo parkın güneyinde.
+3 park güneyinde mutfak.
+4 koridor okulun batısında.
+5 Nasıl gidilir koridordan mutfağa?	w,n	1 4
+1 mutfak bahçenin güneyinde.
+2 kütüphane koridorun kuzeyinde.
+3 koridor ofisin doğusunda.
+4 bahçe koridorun doğusunda.
+5 Nasıl gidilir koridordan mutfağa?	w,n	1 4
+1 bahçe doğusunda Banyo.
+2 Okul salonun kuzeyinde.
+3 Okul koridorun güneyinde.
+4 Banyo okulun doğusunda.
+5 Nasıl gidilir salondan banyoya?	s,w	2 4
+1 Okul mutfağın doğusunda.
+2 koridor evin güneyinde.
+3 salon okulun doğusunda.
+4 mutfak koridorun güneyinde.
+5 Nasıl gidilir evden mutfağa?	n,n	2 4
+1 mutfak evin doğusunda.
+2 mutfak kuzeyinde restoranın.
+3 restoran koridorun kuzeyinde.
+4 Banyo mutfağın kuzeyinde.
+5 Nasıl gidilir evden restorana?	w,n	1 2
+1 ev banyonun batısında.
+2 koridor okulun doğusunda.
+3 koridor kuzeyinde ev.
+4 Okul güneyinde mutfak.
+5 Nasıl gidilir banyodan koridora?	e,s	1 3
+1 restoran kütüphanenin güneyinde.
+2 kitapçı kütüphanenin batısında.
+3 park batısında kütapçının.
+4 kitapçı evin güneyinde.
+5 Nasıl gidilir parktan kütüphaneye?	w,w	2 3
+1 kütüphane batısında restoranın.
+2 ofis salonun batısında.
+3 restoran ofisin batısında.
+4 restoran banyonun kuzeyinde.
+5 Nasıl gidilir kütüphaneden banyoya?	w,n	1 4
+1 salon evin güneyinde.
+2 ev bahçenin doğusunda.
+3 salon okulun batısında.
+4 salon ofisin kuzeyinde.
+5 Nasıl gidilir bahçeden salona?	w,n	1 2
+1 salon kütüphanenin güneyinde.
+2 kütüphane mutfağın batısında.
+3 park kütüphanenin kuzeyinde.
+4 kitapçı kütüphanenin batısında.
+5 Nasıl gidilir mutfaktan salona?	e,n	1 2
+1 mutfak güneyinde kütapçının.
+2 mutfak bahçenin batısında.
+3 kütüphane okulun güneyinde.
+4 mutfak okulun doğusunda.
+5 Nasıl gidilir kütüphaneden mutfağa?	s,w	3 4
+1 kitapçı kuzeyinde restoranın.
+2 Banyo batısında restoranın.
+3 park banyonun güneyinde.
+4 kitapçı evin güneyinde.
+5 Nasıl gidilir banyodan kitapçıya?	w,s	1 2
+1 ev güneyinde restoranın.
+2 ev bahçenin batısında.
+3 ev mutfağın kuzeyinde.
+4 kitapçı kuzeyinde restoranın.
+5 Nasıl gidilir mutfaktan restorana?	s,s	1 3
+1 Okul kütüphanenin güneyinde.
+2 kütüphane doğusunda Banyo.
+3 salon okulun güneyinde.
+4 Okul parkın batısında.
+5 Nasıl gidilir salondan kütüphaneye?	s,s	1 3
+1 salon doğusunda Banyo.
+2 koridor banyonun kuzeyinde.
+3 restoran banyonun güneyinde.
+4 Banyo bahçenin doğusunda.
+5 Nasıl gidilir bahçeden salona?	w,w	1 4
+1 ofis bahçenin doğusunda.
+2 Okul evin güneyinde.
+3 ofis okulun batısında.
+4 bahçe mutfağın kuzeyinde.
+5 Nasıl gidilir ofisten eve?	w,s	2 3
+1 park salonun kuzeyinde.
+2 Banyo ofisin doğusunda.
+3 kütüphanenin kuzeyinde.
+4 ofis salonun doğusunda.
+5 Nasıl gidilir kütüphaneden banyoya?	s,w	2 3
+1 ofis salonun kuzeyinde.
+2 ev güneyinde salon.
+3 salon parkın batısında.
+4 ofis güneyinde restoranın.
+5 Nasıl gidilir evden parka?	s,w	2 3
+1 Banyo güneyinde mutfak.
+2 mutfak güneyinde restoranın.
+3 mutfak koridorun doğusunda.
+4 restoran parkın güneyinde.
+5 Nasıl gidilir koridordan restorana?	w,s	2 3
+1 kitapçı ofisin güneyinde.
+2 kitapçı kuzeyinde ev.
+3 bahçe doğusunda kütapçının.
+4 salon evin batısında.
+5 Nasıl gidilir evden ofise?	s,s	1 2
+1 kitapçı güneyinde salon.
+2 ev doğusunda kütapçının.
+3 kitapçı ofisin kuzeyinde.
+4 ofis koridorun doğusunda.
+5 Nasıl gidilir evden ofise?	e,n	2 3
+1 park kuzeyinde ev.
+2 bahçe mutfağın batısında.
+3 salon güneyinde mutfak.
+4 mutfak evin batısında.
+5 Nasıl gidilir bahçeden salona?	w,n	2 3
+1 park banyonun güneyinde.
+2 ev kütüphanenin doğusunda.
+3 park kütüphanenin kuzeyinde.
+4 park doğusunda kütapçının.
+5 Nasıl gidilir banyodan kitapçıya?	n,e	1 4
+1 koridor salonun batısında.
+2 mutfak doğusunda kütapçının.
+3 salon parkın kuzeyinde.
+4 kitapçı salonun doğusunda.
+5 Nasıl gidilir mutfaktan salona?	e,e	2 4
+1 salon mutfağın kuzeyinde.
+2 koridor güneyinde mutfak.
+3 kitapçı bahçenin güneyinde.
+4 kitapçı salonun doğusunda.
+5 Nasıl gidilir bahçeden salona?	n,e	3 4
+1 koridor ofisin güneyinde.
+2 ofis evin doğusunda.
+3 ofbatısında kütapçının.
+4 salon doğusunda kütapçının.
+5 Nasıl gidilir evden kitapçıya?	w,w	2 3
+1 ev mutfağın doğusunda.
+2 mutfak okulun güneyinde.
+3 salon parkın doğusunda.
+4 Okul güneyinde salon.
+5 Nasıl gidilir mutfaktan salona?	s,s	2 4
+1 koridor güneyinde kütapçının.
+2 kitapçı bahçenin güneyinde.
+3 restoran bahçenin batısında.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir kitapçıdan restorana?	s,e	2 3
+1 ofis banyonun kuzeyinde.
+2 Okul salonun kuzeyinde.
+3 koridor okulun batısında.
+4 koridor ofisin doğusunda.
+5 Nasıl gidilir salondan koridora?	s,e	2 3
+1 restoran batısında kütapçının.
+2 mutfak güneyinde restoranın.
+3 mutfak kütüphanenin kuzeyinde.
+4 ev batısında restoranın.
+5 Nasıl gidilir evden kitapçıya?	w,w	1 4
+1 ev güneyinde restoranın.
+2 kitapçı evin doğusunda.
+3 ev koridorun kuzeyinde.
+4 Okul batısında restoranın.
+5 Nasıl gidilir koridordan restorana?	s,s	1 3
+1 Banyo evin batısında.
+2 kütüphane banyonun güneyinde.
+3 restoran bahçenin kuzeyinde.
+4 bahçe banyonun batısında.
+5 Nasıl gidilir kütüphaneden bahçeye?	s,e	2 4
+1 mutfak parkın doğusunda.
+2 koridor güneyinde mutfak.
+3 Okul banyonun güneyinde.
+4 koridor banyonun batısında.
+5 Nasıl gidilir okuldan koridora?	s,e	3 4
+1 Banyo batısında restoranın.
+2 Banyo ofisin doğusunda.
+3 Okul kütüphanenin batısında.
+4 kütüphane ofisin kuzeyinde.
+5 Nasıl gidilir banyodan kütüphaneye?	e,s	2 4
+1 restoran bahçenin doğusunda.
+2 Okul evin doğusunda.
+3 bahçe okulun doğusunda.
+4 Okul kuzeyinde kütapçının.
+5 Nasıl gidilir bahçeden eve?	e,e	2 3
+1 ofis banyonun güneyinde.
+2 ev batısında kütapçının.
+3 Banyo güneyinde kütapçının.
+4 ofis bahçenin batısında.
+5 Nasıl gidilir evden banyoya?	w,n	2 3
+1 Banyo parkın doğusunda.
+2 kütüphane parkın kuzeyinde.
+3 kitapçı doğusunda Banyo.
+4 kütüphane güneyinde mutfak.
+5 Nasıl gidilir banyodan kütüphaneye?	e,s	1 2
+1 ev salonun doğusunda.
+2 restoran salonun batısında.
+3 Banyo güneyinde salon.
+4 ev kütüphanenin güneyinde.
+5 Nasıl gidilir restorandan eve?	w,w	1 2
+1 restoran bahçenin güneyinde.
+2 bahçe okulun güneyinde.
+3 bahçe kütüphanenin doğusunda.
+4 koridor okulun doğusunda.
+5 Nasıl gidilir okuldan kütüphaneye?	n,e	2 3
+1 restoran salonun kuzeyinde.
+2 ev okulun doğusunda.
+3 mutfak kuzeyinde restoranın.
+4 salon evin doğusunda.
+5 Nasıl gidilir restorandan eve?	n,e	1 4
+1 restoran ofisin batısında.
+2 Okul bahçenin batısında.
+3 bahçe parkın batısında.
+4 ofis okulun kuzeyinde.
+5 Nasıl gidilir ofisten bahçeye?	n,w	2 4
+1 kütüphanenin batısında.
+2 ev bahçenin güneyinde.
+3 kütüphane bahçenin batısında.
+4 salon evin doğusunda.
+5 Nasıl gidilir evden kütüphaneye?	s,e	2 3
+1 kitapçı evin güneyinde.
+2 kütüphane koridorun doğusunda.
+3 Banyo koridorun batısında.
+4 Banyo evin doğusunda.
+5 Nasıl gidilir koridordan eve?	e,e	3 4
+1 bahçe mutfağın batısında.
+2 mutfak ofisin batısında.
+3 Banyo kütüphanenin kuzeyinde.
+4 kütüphane bahçenin batısında.
+5 Nasıl gidilir kütüphaneden mutfağa?	w,w	1 4
+1 park ofisin güneyinde.
+2 Banyo koridorun doğusunda.
+3 kütüphanenin güneyinde.
+4 ofis koridorun batısında.
+5 Nasıl gidilir kütüphaneden koridora?	n,w	3 4
+1 koridor güneyinde mutfak.
+2 Banyo mutfağın kuzeyinde.
+3 koridor kütüphanenin kuzeyinde.
+4 restoran banyonun batısında.
+5 Nasıl gidilir mutfaktan kütüphaneye?	n,n	1 3
+1 bahçe okulun doğusunda.
+2 mutfak ofisin güneyinde.
+3 mutfak parkın doğusunda.
+4 mutfak okulun batısında.
+5 Nasıl gidilir ofisten parka?	n,e	2 3
+1 koridor salonun kuzeyinde.
+2 restoran güneyinde salon.
+3 bahçe doğusunda restoranın.
+4 salon evin doğusunda.
+5 Nasıl gidilir bahçeden salona?	e,s	2 3
+1 restoran salonun batısında.
+2 restoran banyonun güneyinde.
+3 Banyo kütüphanenin doğusunda.
+4 Banyo okulun güneyinde.
+5 Nasıl gidilir banyodan salona?	n,w	1 2
+1 salon banyonun kuzeyinde.
+2 mutfak salonun doğusunda.
+3 ev salonun kuzeyinde.
+4 kütüphane salonun batısında.
+5 Nasıl gidilir mutfaktan banyoya?	e,n	1 2
+1 Banyo batısında restoranın.
+2 bahçe evin batısında.
+3 Banyo okulun güneyinde.
+4 Okul evin güneyinde.
+5 Nasıl gidilir evden banyoya?	n,n	3 4
+1 salon kuzeyinde kütapçının.
+2 restoran doğusunda kütapçının.
+3 ev okulun batısında.
+4 Okul güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan eve?	n,e	3 4
+1 salon mutfağın batısında.
+2 restoran salonun kuzeyinde.
+3 bahçe okulun güneyinde.
+4 mutfak okulun kuzeyinde.
+5 Nasıl gidilir salondan okula?	w,n	1 4
+1 park evin batısında.
+2 Okul güneyinde kütapçının.
+3 park okulun doğusunda.
+4 ev koridorun batısında.
+5 Nasıl gidilir parktan kitapçıya?	e,s	2 3
+1 koridor okulun kuzeyinde.
+2 ofis koridorun batısında.
+3 kütüphane mutfağın batısında.
+4 Okul kütüphanenin kuzeyinde.
+5 Nasıl gidilir koridordan kütüphaneye?	n,n	1 4
+1 kütüphane okulun güneyinde.
+2 Okul batısında kütapçının.
+3 mutfak kütüphanenin batısında.
+4 salon kütüphanenin güneyinde.
+5 Nasıl gidilir kütüphaneden kitapçıya?	s,w	1 2
+1 Banyo doğusunda restoranın.
+2 kütüphane parkın doğusunda.
+3 Banyo bahçenin güneyinde.
+4 park banyonun güneyinde.
+5 Nasıl gidilir parktan restorana?	s,e	1 4
+1 mutfak salonun batısında.
+2 koridor mutfağın kuzeyinde.
+3 kitapçı güneyinde salon.
+4 Banyo koridorun batısında.
+5 Nasıl gidilir koridordan salona?	n,w	1 2
+1 ofis parkın kuzeyinde.
+2 mutfak koridorun güneyinde.
+3 restoran koridorun doğusunda.
+4 ofis mutfağın batısında.
+5 Nasıl gidilir mutfaktan restorana?	s,w	2 3
+1 ev bahçenin batısında.
+2 ofis parkın batısında.
+3 park evin batısında.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir bahçeden parka?	e,e	1 3
+1 park ofisin batısında.
+2 kitapçı ofisin kuzeyinde.
+3 restoran doğusunda kütapçının.
+4 bahçe ofisin güneyinde.
+5 Nasıl gidilir kitapçıdan parka?	n,e	1 2
+1 ev koridorun batısında.
+2 koridor ofisin batısında.
+3 restoran koridorun kuzeyinde.
+4 koridor kuzeyinde kütapçının.
+5 Nasıl gidilir evden restorana?	w,s	1 3
+1 kütüphane güneyinde kütapçının.
+2 mutfak doğusunda kütapçının.
+3 kütüphane doğusunda Banyo.
+4 mutfak okulun güneyinde.
+5 Nasıl gidilir kitapçıdan banyoya?	n,e	1 3
+1 bahçe koridorun kuzeyinde.
+2 park bahçenin doğusunda.
+3 Okul koridorun güneyinde.
+4 Okul banyonun kuzeyinde.
+5 Nasıl gidilir parktan koridora?	e,n	1 2
+1 mutfak ofisin güneyinde.
+2 park mutfağın doğusunda.
+3 park kütüphanenin batısında.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir parktan bahçeye?	e,e	2 4
+1 koridor mutfağın doğusunda.
+2 koridor parkın güneyinde.
+3 salon parkın doğusunda.
+4 ev salonun doğusunda.
+5 Nasıl gidilir evden parka?	e,e	3 4
+1 Banyo ofisin batısında.
+2 koridor salonun kuzeyinde.
+3 Banyo güneyinde salon.
+4 ofis parkın kuzeyinde.
+5 Nasıl gidilir ofisten salona?	e,s	1 3
+1 bahçe kuzeyinde kütapçının.
+2 park doğusunda kütapçının.
+3 Okul banyonun batısında.
+4 Banyo bahçenin batısında.
+5 Nasıl gidilir banyodan kitapçıya?	w,n	1 4
+1 koridor parkın güneyinde.
+2 mutfak parkın doğusunda.
+3 park ofisin doğusunda.
+4 bahçe parkın kuzeyinde.
+5 Nasıl gidilir mutfaktan ofise?	e,e	2 3
+1 salon kütüphanenin güneyinde.
+2 bahçe salonun doğusunda.
+3 kütüphane koridorun güneyinde.
+4 ofis güneyinde salon.
+5 Nasıl gidilir ofisten bahçeye?	s,w	2 4
+1 ofisin kuzeyinde ev.
+2 ofis okulun güneyinde.
+3 ofis bahçenin batısında.
+4 mutfak okulun batısında.
+5 Nasıl gidilir mutfaktan ofise?	w,n	2 4
+1 Banyo güneyinde mutfak.
+2 bahçe kütüphanenin doğusunda.
+3 kitapçı banyonun güneyinde.
+4 kütüphane doğusunda Banyo.
+5 Nasıl gidilir banyodan bahçeye?	w,w	2 4
+1 koridor bahçenin güneyinde.
+2 ev parkın güneyinde.
+3 ev ofisin doğusunda.
+4 ofis koridorun doğusunda.
+5 Nasıl gidilir bahçeden ofise?	n,w	1 4
+1 Okul kütüphanenin doğusunda.
+2 kitapçı kütüphanenin kuzeyinde.
+3 Banyo kütüphanenin batısında.
+4 park kuzeyinde kütapçının.
+5 Nasıl gidilir parktan kütüphaneye?	n,n	2 4
+1 Okul koridorun kuzeyinde.
+2 Banyo okulun kuzeyinde.
+3 salon koridorun doğusunda.
+4 Banyo evin güneyinde.
+5 Nasıl gidilir banyodan koridora?	n,n	1 2
+1 koridor bahçenin doğusunda.
+2 park bahçenin kuzeyinde.
+3 ev bahçenin güneyinde.
+4 kitapçı bahçenin batısında.
+5 Nasıl gidilir evden koridora?	s,w	1 3
+1 ev doğusunda restoranın.
+2 ev koridorun güneyinde.
+3 koridor kütüphanenin güneyinde.
+4 restoran bahçenin kuzeyinde.
+5 Nasıl gidilir evden kütüphaneye?	s,s	2 3
+1 restoran salonun kuzeyinde.
+2 mutfak kuzeyinde restoranın.
+3 salon doğusunda Banyo.
+4 ofis doğusunda restoranın.
+5 Nasıl gidilir salondan ofise?	s,w	1 4
+1 koridor kuzeyinde kütapçının.
+2 park batısında kütapçının.
+3 park bahçenin kuzeyinde.
+4 kütüphane bahçenin batısında.
+5 Nasıl gidilir parktan kütüphaneye?	n,e	3 4
+1 park kuzeyinde restoranın.
+2 ofis parkın kuzeyinde.
+3 kitapçı ofisin batısında.
+4 park kütüphanenin batısında.
+5 Nasıl gidilir kitapçıdan parka?	w,n	2 3
+1 ev mutfağın doğusunda.
+2 mutfak parkın doğusunda.
+3 park okulun doğusunda.
+4 park koridorun güneyinde.
+5 Nasıl gidilir mutfaktan okula?	e,e	2 3
+1 kitapçı ofisin doğusunda.
+2 ofis mutfağın doğusunda.
+3 restoran kütüphanenin güneyinde.
+4 kitapçı kütüphanenin kuzeyinde.
+5 Nasıl gidilir kitapçıdan restorana?	n,n	3 4
+1 ev okulun kuzeyinde.
+2 mutfak evin doğusunda.
+3 ev güneyinde restoranın.
+4 koridor batısında restoranın.
+5 Nasıl gidilir restorandan okula?	n,n	1 3
+1 kütüphane koridorun batısında.
+2 Banyo güneyinde kütapçının.
+3 Okul batısında kütapçının.
+4 kitapçı kütüphanenin batısında.
+5 Nasıl gidilir kütüphaneden banyoya?	e,n	2 4
+1 ev bahçenin güneyinde.
+2 koridor evin güneyinde.
+3 mutfak koridorun doğusunda.
+4 Okul evin batısında.
+5 Nasıl gidilir bahçeden okula?	n,e	1 4
+1 kitapçı mutfağın kuzeyinde.
+2 Banyo ofisin doğusunda.
+3 Banyo mutfağın batısında.
+4 mutfak okulun kuzeyinde.
+5 Nasıl gidilir okuldan banyoya?	s,e	3 4
+1 restoran güneyinde kütapçının.
+2 kitapçı koridorun batısında.
+3 ev parkın doğusunda.
+4 kitapçı evin güneyinde.
+5 Nasıl gidilir parktan kitapçıya?	w,n	3 4
+1 ev batısında restoranın.
+2 restoran ofisin batısında.
+3 bahçe ofisin kuzeyinde.
+4 kütüphane kuzeyinde ev.
+5 Nasıl gidilir ofisten eve?	e,e	1 2
+1 kitapçı okulun güneyinde.
+2 Okul evin batısında.
+3 salon parkın güneyinde.
+4 salon evin doğusunda.
+5 Nasıl gidilir evden parka?	w,s	3 4
+1 ev okulun doğusunda.
+2 bahçe koridorun batısında.
+3 koridor okulun kuzeyinde.
+4 salon evin güneyinde.
+5 Nasıl gidilir bahçeden okula?	w,n	2 3
+1 kütüphane parkın doğusunda.
+2 mutfak parkın kuzeyinde.
+3 kütüphane banyonun batısında.
+4 park kuzeyinde kütapçının.
+5 Nasıl gidilir kütüphaneden mutfağa?	e,s	1 2
+1 bahçe doğusunda Banyo.
+2 kütüphane banyonun güneyinde.
+3 salon banyonun batısında.
+4 Banyo güneyinde mutfak.
+5 Nasıl gidilir kütüphaneden salona?	s,e	2 3
+1 Okul güneyinde restoranın.
+2 restoran koridorun güneyinde.
+3 Okul mutfağın doğusunda.
+4 koridor doğusunda kütapçının.
+5 Nasıl gidilir restorandan kitapçıya?	s,e	2 4
+1 Okul koridorun güneyinde.
+2 ofis salonun doğusunda.
+3 park okulun batısında.
+4 ofis parkın güneyinde.
+5 Nasıl gidilir koridordan parka?	n,e	1 3
+1 kütüphane güneyinde restoranın.
+2 restoran bahçenin doğusunda.
+3 Okul koridorun batısında.
+4 kütüphane okulun batısında.
+5 Nasıl gidilir restorandan okula?	n,w	1 4
+1 restoran salonun doğusunda.
+2 kütüphane parkın güneyinde.
+3 ev güneyinde restoranın.
+4 kütüphane kuzeyinde restoranın.
+5 Nasıl gidilir kütüphaneden eve?	n,n	3 4
+1 kütüphane salonun doğusunda.
+2 park koridorun güneyinde.
+3 ev güneyinde salon.
+4 park kütüphanenin doğusunda.
+5 Nasıl gidilir kütüphaneden koridora?	w,s	2 4
+1 kütüphane parkın güneyinde.
+2 park batısında kütapçının.
+3 bahçe doğusunda kütapçının.
+4 park evin doğusunda.
+5 Nasıl gidilir kütüphaneden eve?	s,e	1 4
+1 Banyo salonun doğusunda.
+2 kütüphane doğusunda restoranın.
+3 kitapçı salonun kuzeyinde.
+4 kitapçı kütüphanenin güneyinde.
+5 Nasıl gidilir restorandan kitapçıya?	w,n	2 4
+1 restoran ofisin batısında.
+2 restoran parkın doğusunda.
+3 mutfak parkın güneyinde.
+4 mutfak bahçenin kuzeyinde.
+5 Nasıl gidilir parktan ofise?	w,w	1 2
+1 koridor evin güneyinde.
+2 park kütüphanenin doğusunda.
+3 park batısında restoranın.
+4 restoran koridorun batısında.
+5 Nasıl gidilir restorandan eve?	w,s	1 4
+1 kitapçı bahçenin doğusunda.
+2 Banyo evin batısında.
+3 ev bahçenin güneyinde.
+4 ev kütüphanenin kuzeyinde.
+5 Nasıl gidilir bahçeden kütüphaneye?	n,n	3 4
+1 kitapçı ofisin güneyinde.
+2 mutfak ofisin batısında.
+3 ofis bahçenin batısında.
+4 mutfak okulun doğusunda.
+5 Nasıl gidilir kitapçıdan mutfağa?	s,e	1 2
+1 park kütüphanenin doğusunda.
+2 bahçe koridorun kuzeyinde.
+3 koridor banyonun batısında.
+4 park koridorun batısında.
+5 Nasıl gidilir kütüphaneden koridora?	w,w	1 4
+1 kütüphane parkın batısında.
+2 mutfak parkın kuzeyinde.
+3 park okulun batısında.
+4 Banyo okulun doğusunda.
+5 Nasıl gidilir mutfaktan okula?	n,w	2 3
+1 koridor parkın güneyinde.
+2 koridor okulun doğusunda.
+3 restoran okulun batısında.
+4 kitapçı batısında restoranın.
+5 Nasıl gidilir okuldan kitapçıya?	e,e	3 4
+1 koridor parkın güneyinde.
+2 ofis mutfağın doğusunda.
+3 park doğusunda Banyo.
+4 mutfak parkın doğusunda.
+5 Nasıl gidilir koridordan banyoya?	s,e	1 3
+1 Banyo mutfağın kuzeyinde.
+2 Banyo koridorun doğusunda.
+3 koridor güneyinde kütapçının.
+4 mutfak ofisin kuzeyinde.
+5 Nasıl gidilir mutfaktan koridora?	s,e	1 2
+1 koridor evin batısında.
+2 mutfak güneyinde kütapçının.
+3 kitapçı kütüphanenin güneyinde.
+4 kitapçı evin doğusunda.
+5 Nasıl gidilir kitapçıdan koridora?	e,e	1 4
+1 Banyo kütüphanenin güneyinde.
+2 mutfak okulun batısında.
+3 Okul kütüphanenin kuzeyinde.
+4 Banyo batısında kütapçının.
+5 Nasıl gidilir okuldan banyoya?	n,n	1 3
+1 mutfak kütüphanenin doğusunda.
+2 kütüphane ofisin kuzeyinde.
+3 kütüphane güneyinde kütapçının.
+4 ev batısında kütapçının.
+5 Nasıl gidilir kütüphaneden eve?	s,e	3 4
+1 kütüphane salonun batısında.
+2 ev kuzeyinde restoranın.
+3 salon parkın güneyinde.
+4 kütüphane doğusunda restoranın.
+5 Nasıl gidilir kütüphaneden eve?	e,s	2 4
+1 Okul doğusunda Banyo.
+2 salon batısında kütapçının.
+3 salon okulun kuzeyinde.
+4 Banyo kuzeyinde ev.
+5 Nasıl gidilir salondan banyoya?	n,e	1 3
+1 restoran koridorun kuzeyinde.
+2 ev koridorun doğusunda.
+3 park kuzeyinde restoranın.
+4 kitapçı evin doğusunda.
+5 Nasıl gidilir restorandan eve?	n,w	1 2
+1 ev kütüphanenin doğusunda.
+2 Okul ofisin güneyinde.
+3 ofis parkın doğusunda.
+4 kütüphanenin güneyinde.
+5 Nasıl gidilir okuldan kütüphaneye?	s,s	2 4
+1 restoran evin güneyinde.
+2 ev ofisin batısında.
+3 mutfak batısında restoranın.
+4 bahçe mutfağın batısında.
+5 Nasıl gidilir ofisten restorana?	e,n	1 2
+1 kütüphane salonun batısında.
+2 salon mutfağın batısında.
+3 ev okulun doğusunda.
+4 mutfak okulun güneyinde.
+5 Nasıl gidilir okuldan salona?	n,e	2 4
+1 ev kütüphanenin güneyinde.
+2 kitapçı evin batısında.
+3 bahçe kütüphanenin doğusunda.
+4 kütüphane koridorun güneyinde.
+5 Nasıl gidilir evden bahçeye?	s,w	1 3
+1 salon doğusunda Banyo.
+2 Banyo okulun kuzeyinde.
+3 Banyo mutfağın doğusunda.
+4 Banyo güneyinde restoranın.
+5 Nasıl gidilir restorandan okula?	n,n	2 4
+1 restoran evin batısında.
+2 ev kuzeyinde kütapçının.
+3 bahçe parkın kuzeyinde.
+4 ev parkın güneyinde.
+5 Nasıl gidilir parktan restorana?	n,e	1 4
+1 kitapçı ofisin kuzeyinde.
+2 mutfak kütüphanenin doğusunda.
+3 park kütüphanenin güneyinde.
+4 park doğusunda kütapçının.
+5 Nasıl gidilir parktan mutfağa?	s,w	2 3
+1 bahçe evin batısında.
+2 park bahçenin batısında.
+3 park okulun doğusunda.
+4 ofisin kuzeyinde ev.
+5 Nasıl gidilir evden parka?	e,e	1 2
+1 restoran kütüphanenin kuzeyinde.
+2 restoran evin güneyinde.
+3 Banyo batısında kütapçının.
+4 kitapçı evin batısında.
+5 Nasıl gidilir kitapçıdan restorana?	w,n	2 4
+1 ev ofisin doğusunda.
+2 ev koridorun güneyinde.
+3 ofis mutfağın doğusunda.
+4 park mutfağın kuzeyinde.
+5 Nasıl gidilir mutfaktan eve?	w,w	1 3
+1 restoran salonun batısında.
+2 mutfak ofisin batısında.
+3 park mutfağın kuzeyinde.
+4 salon parkın batısında.
+5 Nasıl gidilir mutfaktan salona?	s,e	3 4
+1 ev doğusunda Banyo.
+2 ofis koridorun kuzeyinde.
+3 koridor evin doğusunda.
+4 salon banyonun güneyinde.
+5 Nasıl gidilir evden salona?	e,n	1 4
+1 salon güneyinde restoranın.
+2 koridor batısında restoranın.
+3 Banyo doğusunda restoranın.
+4 kütüphane banyonun kuzeyinde.
+5 Nasıl gidilir salondan banyoya?	s,w	1 3
+1 kitapçı bahçenin batısında.
+2 bahçe koridorun güneyinde.
+3 koridor salonun batısında.
+4 Okul batısında kütapçının.
+5 Nasıl gidilir bahçeden salona?	s,w	2 3
+1 salon bahçenin batısında.
+2 bahçe banyonun kuzeyinde.
+3 bahçe parkın batısında.
+4 ofis parkın doğusunda.
+5 Nasıl gidilir banyodan parka?	s,w	2 3
+1 ofis banyonun batısında.
+2 salon ofisin güneyinde.
+3 ofis evin güneyinde.
+4 koridor ofisin batısında.
+5 Nasıl gidilir salondan koridora?	s,e	2 4
+1 Banyo ofisin güneyinde.
+2 bahçe doğusunda Banyo.
+3 ofis koridorun güneyinde.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir banyodan parka?	w,n	2 4
+1 salon kuzeyinde restoranın.
+2 Banyo doğusunda kütapçının.
+3 restoran banyonun kuzeyinde.
+4 koridor doğusunda restoranın.
+5 Nasıl gidilir restorandan kitapçıya?	n,e	2 3
+1 restoran ofisin güneyinde.
+2 koridor doğusunda Banyo.
+3 bahçe koridorun güneyinde.
+4 koridor batısında restoranın.
+5 Nasıl gidilir bahçeden restorana?	s,w	3 4
+1 kitapçı koridorun kuzeyinde.
+2 salon doğusunda Banyo.
+3 ofis güneyinde salon.
+4 ofbatısında kütapçının.
+5 Nasıl gidilir ofisten koridora?	w,n	1 4
+1 koridor evin doğusunda.
+2 salon evin güneyinde.
+3 ev doğusunda Banyo.
+4 koridor kütüphanenin güneyinde.
+5 Nasıl gidilir evden kütüphaneye?	w,s	1 4
+1 kitapçı mutfağın batısında.
+2 mutfak evin güneyinde.
+3 Okul mutfağın doğusunda.
+4 mutfak kütüphanenin kuzeyinde.
+5 Nasıl gidilir kütüphaneden eve?	s,s	2 4
+1 ev güneyinde restoranın.
+2 ofis evin güneyinde.
+3 salon okulun kuzeyinde.
+4 Okul kuzeyinde restoranın.
+5 Nasıl gidilir okuldan eve?	n,n	1 4
+1 kitapçı kütüphanenin kuzeyinde.
+2 mutfak kuzeyinde kütapçının.
+3 kütüphane ofisin kuzeyinde.
+4 kitapçı banyonun batısında.
+5 Nasıl gidilir mutfaktan kütüphaneye?	n,n	1 2
+1 park mutfağın batısında.
+2 mutfak güneyinde restoranın.
+3 restoran ofisin güneyinde.
+4 mutfak koridorun batısında.
+5 Nasıl gidilir restorandan koridora?	n,w	2 4
+1 ofis mutfağın batısında.
+2 mutfak bahçenin batısında.
+3 kütüphane mutfağın kuzeyinde.
+4 kitapçı güneyinde mutfak.
+5 Nasıl gidilir kitapçıdan ofise?	s,e	1 4
+1 kitapçı evin doğusunda.
+2 kitapçı mutfağın batısında.
+3 ev kütüphanenin güneyinde.
+4 ev koridorun doğusunda.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	e,s	1 3
+1 koridor kütüphanenin doğusunda.
+2 kitapçı mutfağın kuzeyinde.
+3 kütüphane güneyinde restoranın.
+4 kütüphane kuzeyinde kütapçının.
+5 Nasıl gidilir koridordan kitapçıya?	e,n	1 4
+1 Banyo doğusunda kütapçının.
+2 kütüphane banyonun kuzeyinde.
+3 Banyo okulun batısında.
+4 park kütüphanenin kuzeyinde.
+5 Nasıl gidilir kitapçıdan okula?	w,w	1 3
+1 salon ofisin batısında.
+2 ofis bahçenin kuzeyinde.
+3 salon doğusunda kütapçının.
+4 salon banyonun güneyinde.
+5 Nasıl gidilir salondan bahçeye?	w,n	1 2
+1 kütüphane evin güneyinde.
+2 bahçe mutfağın doğusunda.
+3 ev doğusunda kütapçının.
+4 mutfak kütüphanenin güneyinde.
+5 Nasıl gidilir mutfaktan eve?	s,s	1 4
+1 restoran kütüphanenin kuzeyinde.
+2 Okul güneyinde mutfak.
+3 kütüphane ofisin kuzeyinde.
+4 restoran okulun doğusunda.
+5 Nasıl gidilir restorandan mutfağa?	e,s	2 4
+1 koridor ofisin doğusunda.
+2 ev güneyinde kütapçının.
+3 ev ofisin batısında.
+4 koridor banyonun kuzeyinde.
+5 Nasıl gidilir evden koridora?	w,w	1 3
+1 ev okulun kuzeyinde.
+2 Okul salonun batısında.
+3 koridor güneyinde salon.
+4 salon ofisin batısında.
+5 Nasıl gidilir ofisten okula?	e,e	2 4
+1 salon doğusunda kütapçının.
+2 salon evin güneyinde.
+3 salon koridorun batısında.
+4 koridor bahçenin kuzeyinde.
+5 Nasıl gidilir koridordan eve?	e,s	2 3
+1 park doğusunda restoranın.
+2 kitapçı okulun batısında.
+3 park banyonun kuzeyinde.
+4 kitapçı doğusunda Banyo.
+5 Nasıl gidilir parktan kitapçıya?	n,w	3 4
+1 restoran salonun kuzeyinde.
+2 ofis okulun kuzeyinde.
+3 ofis salonun batısında.
+4 Okul mutfağın doğusunda.
+5 Nasıl gidilir restorandan ofise?	n,e	1 3
+1 salon evin doğusunda.
+2 bahçe kuzeyinde ev.
+3 salon batısında kütapçının.
+4 park kuzeyinde kütapçının.
+5 Nasıl gidilir evden kitapçıya?	w,w	1 3
+1 restoran koridorun kuzeyinde.
+2 park koridorun batısında.
+3 restoran güneyinde kütapçının.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir kitapçıdan koridora?	n,n	1 3
+1 Banyo koridorun kuzeyinde.
+2 Banyo kütüphanenin batısında.
+3 mutfak kütüphanenin doğusunda.
+4 ev mutfağın doğusunda.
+5 Nasıl gidilir banyodan mutfağa?	w,w	2 3
+1 ev koridorun kuzeyinde.
+2 park ofisin doğusunda.
+3 bahçe parkın doğusunda.
+4 bahçe kuzeyinde ev.
+5 Nasıl gidilir parktan eve?	w,n	3 4
+1 kitapçı mutfağın kuzeyinde.
+2 park salonun doğusunda.
+3 restoran doğusunda kütapçının.
+4 kitapçı parkın doğusunda.
+5 Nasıl gidilir parktan mutfağa?	w,n	1 4
+1 Banyo bahçenin güneyinde.
+2 bahçe koridorun batısında.
+3 bahçe güneyinde mutfak.
+4 Banyo doğusunda restoranın.
+5 Nasıl gidilir bahçeden restorana?	n,e	1 4
+1 ofis okulun doğusunda.
+2 Okul kuzeyinde restoranın.
+3 restoran salonun kuzeyinde.
+4 ev okulun batısında.
+5 Nasıl gidilir evden ofise?	w,w	1 4
+1 koridor parkın batısında.
+2 kitapçı ofisin batısında.
+3 restoran güneyinde kütapçının.
+4 park batısında restoranın.
+5 Nasıl gidilir parktan kitapçıya?	w,s	3 4
+1 kitapçı bahçenin batısında.
+2 kitapçı okulun güneyinde.
+3 Okul kütüphanenin güneyinde.
+4 kitapçı doğusunda Banyo.
+5 Nasıl gidilir okuldan bahçeye?	n,w	1 2
+1 restoran ofisin doğusunda.
+2 restoran banyonun güneyinde.
+3 koridor banyonun kuzeyinde.
+4 Banyo parkın batısında.
+5 Nasıl gidilir restorandan parka?	s,w	2 4
+1 Okul kuzeyinde restoranın.
+2 restoran doğusunda kütapçının.
+3 Banyo batısında kütapçının.
+4 kütüphane okulun doğusunda.
+5 Nasıl gidilir okuldan kitapçıya?	n,e	1 2
+1 ev güneyinde kütapçının.
+2 mutfak koridorun doğusunda.
+3 kitapçı kütüphanenin doğusunda.
+4 mutfak evin güneyinde.
+5 Nasıl gidilir koridordan eve?	w,s	2 4
+1 Banyo bahçenin batısında.
+2 ofis koridorun kuzeyinde.
+3 Banyo evin güneyinde.
+4 bahçe ofisin kuzeyinde.
+5 Nasıl gidilir ofisten banyoya?	s,e	1 4
+1 kütüphane ofisin kuzeyinde.
+2 park bahçenin batısında.
+3 bahçe evin batısında.
+4 bahçe kütüphanenin kuzeyinde.
+5 Nasıl gidilir evden kütüphaneye?	e,n	3 4
+1 ev batısında kütapçının.
+2 salon evin güneyinde.
+3 koridor salonun batısında.
+4 park güneyinde salon.
+5 Nasıl gidilir koridordan eve?	w,s	2 3
+1 bahçe evin güneyinde.
+2 mutfak doğusunda kütapçının.
+3 bahçe kuzeyinde kütapçının.
+4 kitapçı koridorun kuzeyinde.
+5 Nasıl gidilir mutfaktan bahçeye?	e,s	2 3
+1 salon güneyinde mutfak.
+2 kitapçı salonun doğusunda.
+3 salon okulun doğusunda.
+4 kütüphane güneyinde salon.
+5 Nasıl gidilir mutfaktan okula?	n,e	1 3
+1 kitapçı batısında restoranın.
+2 kitapçı kuzeyinde ev.
+3 kütüphane banyonun kuzeyinde.
+4 ev kütüphanenin kuzeyinde.
+5 Nasıl gidilir evden banyoya?	n,n	3 4
+1 Okul güneyinde salon.
+2 bahçe evin doğusunda.
+3 ev kütüphanenin kuzeyinde.
+4 Okul bahçenin kuzeyinde.
+5 Nasıl gidilir evden okula?	w,s	2 4
+1 koridor okulun güneyinde.
+2 salon doğusunda kütapçının.
+3 kitapçı ofisin doğusunda.
+4 Okul güneyinde salon.
+5 Nasıl gidilir koridordan salona?	s,s	1 4
+1 koridor parkın batısında.
+2 salon banyonun kuzeyinde.
+3 kütüphane parkın güneyinde.
+4 salon koridorun batısında.
+5 Nasıl gidilir parktan salona?	e,e	1 4
+1 kitapçı ofisin doğusunda.
+2 kitapçı okulun kuzeyinde.
+3 Okul mutfağın batısında.
+4 ofis bahçenin doğusunda.
+5 Nasıl gidilir bahçeden kitapçıya?	w,w	1 4
+1 Banyo koridorun güneyinde.
+2 kitapçı mutfağın kuzeyinde.
+3 mutfak kütüphanenin kuzeyinde.
+4 koridor kütüphanenin güneyinde.
+5 Nasıl gidilir koridordan mutfağa?	s,s	3 4
+1 Okul parkın batısında.
+2 mutfak koridorun güneyinde.
+3 park güneyinde salon.
+4 Okul koridorun kuzeyinde.
+5 Nasıl gidilir parktan koridora?	e,n	1 4
+1 park ofisin kuzeyinde.
+2 salon ofisin doğusunda.
+3 park okulun güneyinde.
+4 Okul güneyinde kütapçının.
+5 Nasıl gidilir okuldan ofise?	n,n	1 3
+1 koridor güneyinde salon.
+2 ofis koridorun batısında.
+3 koridor banyonun kuzeyinde.
+4 koridor bahçenin batısında.
+5 Nasıl gidilir bahçeden salona?	e,s	1 4
+1 mutfak kuzeyinde restoranın.
+2 restoran parkın kuzeyinde.
+3 mutfak güneyinde kütapçının.
+4 bahçe batısında restoranın.
+5 Nasıl gidilir bahçeden parka?	w,n	2 4
+1 ev koridorun doğusunda.
+2 koridor doğusunda kütapçının.
+3 Banyo güneyinde kütapçının.
+4 kitapçı kütüphanenin güneyinde.
+5 Nasıl gidilir banyodan koridora?	s,w	2 3
+1 ofis mutfağın doğusunda.
+2 restoran koridorun kuzeyinde.
+3 koridor mutfağın batısında.
+4 salon güneyinde mutfak.
+5 Nasıl gidilir ofisten salona?	e,n	1 4
+1 kütüphane bahçenin kuzeyinde.
+2 koridor kütüphanenin doğusunda.
+3 koridor banyonun batısında.
+4 kütüphanenin batısında.
+5 Nasıl gidilir koridordan bahçeye?	e,n	1 2
+1 mutfak bahçenin doğusunda.
+2 mutfak parkın batısında.
+3 restoran bahçenin güneyinde.
+4 mutfak kütüphanenin güneyinde.
+5 Nasıl gidilir kütüphaneden bahçeye?	n,e	1 4
+1 salon koridorun güneyinde.
+2 ofis mutfağın kuzeyinde.
+3 koridor doğusunda kütapçının.
+4 koridor mutfağın batısında.
+5 Nasıl gidilir ofisten koridora?	n,e	2 4
+1 ev salonun doğusunda.
+2 kitapçı güneyinde salon.
+3 Banyo salonun batısında.
+4 koridor salonun kuzeyinde.
+5 Nasıl gidilir kitapçıdan koridora?	s,s	2 4
+1 kütüphane doğusunda Banyo.
+2 mutfak doğusunda kütapçının.
+3 kütüphane kuzeyinde kütapçının.
+4 koridor kütüphanenin kuzeyinde.
+5 Nasıl gidilir mutfaktan kütüphaneye?	e,s	2 3
+1 kütüphane batısında kütapçının.
+2 kitapçı okulun batısında.
+3 restoran güneyinde kütapçının.
+4 kütüphane banyonun güneyinde.
+5 Nasıl gidilir kütüphaneden okula?	w,w	1 2
+1 restoran doğusunda Banyo.
+2 Okul banyonun kuzeyinde.
+3 koridor bahçenin güneyinde.
+4 bahçe banyonun güneyinde.
+5 Nasıl gidilir koridordan banyoya?	s,s	3 4
+1 ev parkın doğusunda.
+2 ev bahçenin kuzeyinde.
+3 Okul güneyinde restoranın.
+4 ev okulun güneyinde.
+5 Nasıl gidilir parktan okula?	w,s	1 4
+1 salon ofisin batısında.
+2 koridor mutfağın doğusunda.
+3 ofis okulun kuzeyinde.
+4 mutfak ofisin kuzeyinde.
+5 Nasıl gidilir okuldan salona?	s,e	1 3
+1 bahçe parkın kuzeyinde.
+2 kütüphane evin güneyinde.
+3 salon evin doğusunda.
+4 bahçe salonun doğusunda.
+5 Nasıl gidilir parktan salona?	s,e	1 4
+1 kitapçı batısında restoranın.
+2 Okul banyonun kuzeyinde.
+3 Okul güneyinde restoranın.
+4 Banyo ofisin doğusunda.
+5 Nasıl gidilir restorandan banyoya?	n,n	2 3
+1 ev okulun kuzeyinde.
+2 restoran parkın kuzeyinde.
+3 mutfak doğusunda restoranın.
+4 mutfak okulun batısında.
+5 Nasıl gidilir mutfaktan parka?	e,n	2 3
+1 bahçe mutfağın batısında.
+2 mutfak batısında restoranın.
+3 salon güneyinde mutfak.
+4 kütüphane bahçenin batısında.
+5 Nasıl gidilir salondan restorana?	s,w	2 3
+1 restoran bahçenin batısında.
+2 mutfak koridorun güneyinde.
+3 bahçe koridorun kuzeyinde.
+4 ev bahçenin doğusunda.
+5 Nasıl gidilir mutfaktan bahçeye?	s,s	2 3
+1 mutfak parkın kuzeyinde.
+2 salon koridorun doğusunda.
+3 kütüphane güneyinde salon.
+4 kütüphane mutfağın kuzeyinde.
+5 Nasıl gidilir kütüphaneden parka?	n,n	1 4
+1 Okul evin güneyinde.
+2 ev banyonun batısında.
+3 ev ofisin güneyinde.
+4 Banyo salonun batısında.
+5 Nasıl gidilir ofisten banyoya?	n,w	2 3
+1 kitapçı bahçenin batısında.
+2 ofis bahçenin güneyinde.
+3 ofis koridorun batısında.
+4 bahçe okulun güneyinde.
+5 Nasıl gidilir okuldan ofise?	n,n	2 4
+1 koridor parkın kuzeyinde.
+2 Banyo koridorun kuzeyinde.
+3 restoran koridorun doğusunda.
+4 park evin doğusunda.
+5 Nasıl gidilir parktan restorana?	s,w	1 3
+1 salon banyonun batısında.
+2 ev okulun güneyinde.
+3 salon evin doğusunda.
+4 Okul güneyinde mutfak.
+5 Nasıl gidilir banyodan eve?	e,e	1 3
+1 ofisin kuzeyinde ev.
+2 Okul ofisin doğusunda.
+3 Banyo okulun kuzeyinde.
+4 Banyo güneyinde mutfak.
+5 Nasıl gidilir banyodan ofise?	n,e	2 3
+1 salon koridorun doğusunda.
+2 restoran parkın doğusunda.
+3 Banyo salonun kuzeyinde.
+4 park banyonun kuzeyinde.
+5 Nasıl gidilir banyodan koridora?	n,e	1 3
+1 kitapçı koridorun batısında.
+2 ofis okulun batısında.
+3 koridor banyonun kuzeyinde.
+4 Okul banyonun güneyinde.
+5 Nasıl gidilir kitapçıdan banyoya?	w,n	1 3
+1 Okul doğusunda Banyo.
+2 restoran okulun doğusunda.
+3 kütüphane doğusunda restoranın.
+4 bahçe okulun güneyinde.
+5 Nasıl gidilir kütüphaneden okula?	e,e	2 3
+1 ofis okulun güneyinde.
+2 ofis banyonun batısında.
+3 Okul parkın doğusunda.
+4 Banyo bahçenin kuzeyinde.
+5 Nasıl gidilir parktan ofise?	w,n	1 3
+1 park ofisin kuzeyinde.
+2 ofis evin doğusunda.
+3 kitapçı mutfağın doğusunda.
+4 park güneyinde kütapçının.
+5 Nasıl gidilir parktan mutfağa?	s,e	3 4
+1 Banyo kuzeyinde restoranın.
+2 Banyo kütüphanenin batısında.
+3 Banyo güneyinde mutfak.
+4 park banyonun batısında.
+5 Nasıl gidilir parktan kütüphaneye?	w,w	2 4
+1 Okul evin güneyinde.
+2 restoran batısında kütapçının.
+3 park evin batısında.
+4 park güneyinde kütapçının.
+5 Nasıl gidilir kitapçıdan eve?	n,w	3 4
+1 park banyonun batısında.
+2 salon banyonun kuzeyinde.
+3 bahçe banyonun güneyinde.
+4 kütüphane bahçenin güneyinde.
+5 Nasıl gidilir bahçeden parka?	s,e	1 3
+1 kütüphane kuzeyinde ev.
+2 restoran salonun doğusunda.
+3 restoran kütüphanenin batısında.
+4 kütüphane parkın güneyinde.
+5 Nasıl gidilir salondan kütüphaneye?	w,w	2 3
+1 park kütüphanenin güneyinde.
+2 bahçe okulun batısında.
+3 park bahçenin batısında.
+4 kütüphane güneyinde mutfak.
+5 Nasıl gidilir kütüphaneden bahçeye?	n,w	1 3
+1 mutfak kütüphanenin kuzeyinde.
+2 mutfak evin güneyinde.
+3 ofis güneyinde kütapçının.
+4 kitapçı kütüphanenin doğusunda.
+5 Nasıl gidilir kitapçıdan mutfağa?	e,s	1 4
+1 ev bahçenin doğusunda.
+2 bahçe doğusunda restoranın.
+3 restoran güneyinde kütapçının.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir evden parka?	e,n	1 4
+1 park evin doğusunda.
+2 ev kütüphanenin doğusunda.
+3 ev salonun kuzeyinde.
+4 Banyo parkın kuzeyinde.
+5 Nasıl gidilir parktan kütüphaneye?	e,e	1 2
+1 park doğusunda Banyo.
+2 restoran parkın doğusunda.
+3 ev banyonun güneyinde.
+4 restoran güneyinde kütapçının.
+5 Nasıl gidilir restorandan banyoya?	e,e	1 2
+1 Banyo kütüphanenin doğusunda.
+2 mutfak kütüphanenin batısında.
+3 restoran mutfağın batısında.
+4 kitapçı güneyinde mutfak.
+5 Nasıl gidilir banyodan mutfağa?	e,e	1 2
+1 Banyo parkın güneyinde.
+2 koridor banyonun güneyinde.
+3 kitapçı banyonun batısında.
+4 Banyo ofisin batısında.
+5 Nasıl gidilir ofisten koridora?	e,n	2 4
+1 Okul parkın doğusunda.
+2 kitapçı parkın kuzeyinde.
+3 ofis mutfağın kuzeyinde.
+4 Okul mutfağın batısında.
+5 Nasıl gidilir kitapçıdan okula?	n,w	1 2
+1 salon güneyinde mutfak.
+2 salon kuzeyinde ev.
+3 salon banyonun batısında.
+4 kütüphane mutfağın batısında.
+5 Nasıl gidilir evden mutfağa?	s,s	1 2
+1 bahçe evin batısında.
+2 bahçe doğusunda Banyo.
+3 mutfak kuzeyinde ev.
+4 kitapçı evin güneyinde.
+5 Nasıl gidilir bahçeden mutfağa?	w,s	1 3
+1 restoran banyonun güneyinde.
+2 mutfak batısında restoranın.
+3 restoran kuzeyinde ev.
+4 bahçe evin güneyinde.
+5 Nasıl gidilir evden mutfağa?	s,e	2 3
+1 kütüphane kuzeyinde ev.
+2 restoran koridorun güneyinde.
+3 ev kuzeyinde kütapçının.
+4 kitapçı koridorun doğusunda.
+5 Nasıl gidilir evden koridora?	n,e	3 4
+1 park okulun batısında.
+2 mutfak batısında kütapçının.
+3 kitapçı koridorun kuzeyinde.
+4 kitapçı parkın batısında.
+5 Nasıl gidilir mutfaktan parka?	w,w	2 4
+1 kütüphane banyonun batısında.
+2 Okul doğusunda Banyo.
+3 Banyo kuzeyinde ev.
+4 Banyo parkın güneyinde.
+5 Nasıl gidilir parktan okula?	n,w	2 4
+1 koridor mutfağın batısında.
+2 kitapçı okulun doğusunda.
+3 Okul mutfağın kuzeyinde.
+4 salon güneyinde mutfak.
+5 Nasıl gidilir salondan koridora?	s,e	1 4
+1 ev kütüphanenin güneyinde.
+2 restoran koridorun doğusunda.
+3 ev bahçenin doğusunda.
+4 koridor evin güneyinde.
+5 Nasıl gidilir kütüphaneden bahçeye?	n,e	1 3
+1 kütüphane banyonun kuzeyinde.
+2 Banyo mutfağın batısında.
+3 bahçe banyonun batısında.
+4 Banyo kuzeyinde restoranın.
+5 Nasıl gidilir restorandan mutfağa?	s,w	2 4
+1 ev kuzeyinde kütapçının.
+2 Okul kuzeyinde ev.
+3 koridor doğusunda kütapçının.
+4 park evin batısında.
+5 Nasıl gidilir okuldan kitapçıya?	n,n	1 2
+1 ofis doğusunda restoranın.
+2 Banyo ofisin güneyinde.
+3 ofis okulun güneyinde.
+4 ofis bahçenin batısında.
+5 Nasıl gidilir okuldan bahçeye?	n,w	3 4
+1 salon parkın güneyinde.
+2 bahçe evin batısında.
+3 ev parkın batısında.
+4 restoran parkın kuzeyinde.
+5 Nasıl gidilir restorandan salona?	n,n	1 4
+1 mutfak evin güneyinde.
+2 ev güneyinde restoranın.
+3 kütüphane salonun doğusunda.
+4 restoran kütüphanenin doğusunda.
+5 Nasıl gidilir kütüphaneden eve?	w,n	2 4
+1 mutfak kuzeyinde restoranın.
+2 kitapçı ofisin batısında.
+3 ofis güneyinde restoranın.
+4 bahçe ofisin doğusunda.
+5 Nasıl gidilir kitapçıdan restorana?	w,s	2 3
+1 bahçe evin güneyinde.
+2 koridor parkın doğusunda.
+3 koridor bahçenin güneyinde.
+4 Banyo koridorun doğusunda.
+5 Nasıl gidilir parktan bahçeye?	w,s	2 3
+1 Okul güneyinde restoranın.
+2 koridor parkın güneyinde.
+3 kütüphane okulun güneyinde.
+4 koridor batısında restoranın.
+5 Nasıl gidilir koridordan okula?	w,n	1 4
+1 bahçe evin doğusunda.
+2 kütüphane bahçenin kuzeyinde.
+3 ev koridorun kuzeyinde.
+4 kütüphane parkın güneyinde.
+5 Nasıl gidilir bahçeden koridora?	e,n	1 3
+1 kitapçı kütüphanenin güneyinde.
+2 koridor kütüphanenin batısında.
+3 kitapçı salonun kuzeyinde.
+4 kütüphane evin batısında.
+5 Nasıl gidilir kitapçıdan koridora?	s,e	1 2
+1 salon okulun güneyinde.
+2 restoran okulun doğusunda.
+3 mutfak kütüphanenin güneyinde.
+4 Okul güneyinde mutfak.
+5 Nasıl gidilir salondan mutfağa?	s,s	1 4
+1 kütüphanenin kuzeyinde.
+2 kitapçı ofisin kuzeyinde.
+3 salon kütüphanenin doğusunda.
+4 ev kütüphanenin batısında.
+5 Nasıl gidilir kütüphaneden kitapçıya?	s,s	1 2
+1 mutfak kütüphanenin güneyinde.
+2 salon banyonun güneyinde.
+3 kütüphane güneyinde salon.
+4 salon parkın batısında.
+5 Nasıl gidilir kütüphaneden banyoya?	s,s	2 3
+1 Banyo evin batısında.
+2 ev parkın kuzeyinde.
+3 park mutfağın kuzeyinde.
+4 ev bahçenin batısında.
+5 Nasıl gidilir mutfaktan eve?	s,s	2 3
+1 bahçe okulun kuzeyinde.
+2 kitapçı salonun batısında.
+3 kitapçı evin güneyinde.
+4 kitapçı bahçenin doğusunda.
+5 Nasıl gidilir okuldan kitapçıya?	s,w	1 4
+1 salon okulun doğusunda.
+2 kütüphane bahçenin batısında.
+3 koridor okulun batısında.
+4 koridor bahçenin güneyinde.
+5 Nasıl gidilir okuldan bahçeye?	e,s	3 4
+1 mutfak koridorun batısında.
+2 mutfak doğusunda kütapçının.
+3 koridor bahçenin güneyinde.
+4 restoran bahçenin doğusunda.
+5 Nasıl gidilir restorandan koridora?	e,n	3 4
+1 ofis parkın güneyinde.
+2 park güneyinde restoranın.
+3 Okul parkın batısında.
+4 salon okulun batısında.
+5 Nasıl gidilir okuldan ofise?	w,n	1 3
+1 salon mutfağın doğusunda.
+2 park salonun kuzeyinde.
+3 mutfak doğusunda kütapçının.
+4 salon banyonun kuzeyinde.
+5 Nasıl gidilir banyodan mutfağa?	s,e	1 4
+1 koridor kütüphanenin güneyinde.
+2 ev koridorun doğusunda.
+3 ev salonun kuzeyinde.
+4 mutfak güneyinde salon.
+5 Nasıl gidilir salondan koridora?	s,e	2 3
+1 Okul parkın kuzeyinde.
+2 kütüphane kuzeyinde ev.
+3 ev mutfağın batısında.
+4 park kütüphanenin batısında.
+5 Nasıl gidilir evden parka?	s,e	2 4
+1 kütüphane bahçenin kuzeyinde.
+2 park kütüphanenin doğusunda.
+3 Banyo ofisin kuzeyinde.
+4 kütüphane ofisin güneyinde.
+5 Nasıl gidilir banyodan kütüphaneye?	n,n	3 4
+1 salon banyonun batısında.
+2 Okul kuzeyinde ev.
+3 salon okulun doğusunda.
+4 Okul güneyinde kütapçının.
+5 Nasıl gidilir evden salona?	s,w	2 3
+1 Banyo parkın doğusunda.
+2 park kuzeyinde restoranın.
+3 ev bahçenin güneyinde.
+4 ev parkın kuzeyinde.
+5 Nasıl gidilir banyodan restorana?	e,n	1 2
+1 kütüphanenin doğusunda.
+2 ev kütüphanenin güneyinde.
+3 park ofisin kuzeyinde.
+4 park güneyinde salon.
+5 Nasıl gidilir salondan ofise?	n,n	3 4
+1 mutfak güneyinde kütapçının.
+2 bahçe okulun batısında.
+3 kitapçı bahçenin batısında.
+4 restoran batısında kütapçının.
+5 Nasıl gidilir kitapçıdan okula?	w,w	2 3
+1 mutfak koridorun güneyinde.
+2 park salonun doğusunda.
+3 park koridorun batısında.
+4 mutfak okulun batısında.
+5 Nasıl gidilir koridordan salona?	e,e	2 3
+1 restoran okulun doğusunda.
+2 restoran parkın kuzeyinde.
+3 restoran koridorun batısında.
+4 koridor banyonun güneyinde.
+5 Nasıl gidilir okuldan koridora?	w,w	1 3
+1 mutfak salonun batısında.
+2 Okul salonun doğusunda.
+3 kütüphane güneyinde salon.
+4 restoran mutfağın batısında.
+5 Nasıl gidilir salondan restorana?	e,e	1 4
+1 bahçe evin batısında.
+2 mutfak okulun güneyinde.
+3 mutfak kuzeyinde restoranın.
+4 restoran evin doğusunda.
+5 Nasıl gidilir evden mutfağa?	w,s	3 4
+1 bahçe güneyinde restoranın.
+2 bahçe kütüphanenin batısında.
+3 kitapçı bahçenin güneyinde.
+4 bahçe parkın doğusunda.
+5 Nasıl gidilir kitapçıdan restorana?	s,s	1 3
+1 Banyo kuzeyinde ev.
+2 koridor evin doğusunda.
+3 kitapçı banyonun kuzeyinde.
+4 restoran koridorun güneyinde.
+5 Nasıl gidilir koridordan banyoya?	e,s	1 2
+1 Okul bahçenin doğusunda.
+2 koridor doğusunda kütapçının.
+3 koridor ofisin kuzeyinde.
+4 kitapçı okulun güneyinde.
+5 Nasıl gidilir bahçeden kitapçıya?	w,n	1 4
+1 park koridorun batısında.
+2 park ofisin kuzeyinde.
+3 restoran kütüphanenin kuzeyinde.
+4 kütüphane koridorun kuzeyinde.
+5 Nasıl gidilir parktan kütüphaneye?	w,s	1 4
+1 restoran bahçenin doğusunda.
+2 ofis koridorun doğusunda.
+3 restoran koridorun batısında.
+4 restoran banyonun güneyinde.
+5 Nasıl gidilir koridordan banyoya?	e,s	3 4
+1 kitapçı parkın doğusunda.
+2 koridor okulun kuzeyinde.
+3 koridor güneyinde kütapçının.
+4 Okul ofisin batısında.
+5 Nasıl gidilir parktan koridora?	w,n	1 3
+1 park okulun kuzeyinde.
+2 Okul evin batısında.
+3 Okul koridorun kuzeyinde.
+4 kütüphane koridorun batısında.
+5 Nasıl gidilir koridordan parka?	s,s	1 3
+1 salon koridorun güneyinde.
+2 ev mutfağın kuzeyinde.
+3 mutfak koridorun doğusunda.
+4 mutfak kütüphanenin batısında.
+5 Nasıl gidilir mutfaktan salona?	e,n	1 3
+1 mutfak bahçenin batısında.
+2 mutfak doğusunda Banyo.
+3 koridor evin batısında.
+4 ev banyonun kuzeyinde.
+5 Nasıl gidilir banyodan koridora?	s,e	3 4
+1 kitapçı koridorun batısında.
+2 mutfak ofisin güneyinde.
+3 Okul ofisin kuzeyinde.
+4 Okul batısında kütapçının.
+5 Nasıl gidilir mutfaktan okula?	s,s	2 3
+1 park bahçenin güneyinde.
+2 ofisin kuzeyinde ev.
+3 park ofisin kuzeyinde.
+4 park banyonun batısında.
+5 Nasıl gidilir parktan eve?	n,n	2 3
+1 restoran koridorun kuzeyinde.
+2 ofis koridorun doğusunda.
+3 Okul kuzeyinde ev.
+4 ev ofisin doğusunda.
+5 Nasıl gidilir ofisten restorana?	e,s	1 2
+1 bahçe mutfağın doğusunda.
+2 mutfak güneyinde kütapçının.
+3 Okul kütüphanenin kuzeyinde.
+4 mutfak okulun doğusunda.
+5 Nasıl gidilir okuldan kitapçıya?	w,s	2 4
+1 Banyo okulun güneyinde.
+2 Okul güneyinde restoranın.
+3 kitapçı kuzeyinde restoranın.
+4 kitapçı evin batısında.
+5 Nasıl gidilir restorandan eve?	s,w	3 4
+1 salon bahçenin kuzeyinde.
+2 ofis bahçenin doğusunda.
+3 Banyo okulun doğusunda.
+4 salon okulun güneyinde.
+5 Nasıl gidilir salondan ofise?	n,w	1 2
+1 park kuzeyinde kütapçının.
+2 Banyo parkın doğusunda.
+3 park güneyinde mutfak.
+4 park salonun doğusunda.
+5 Nasıl gidilir banyodan kitapçıya?	e,n	1 2
+1 park bahçenin güneyinde.
+2 park batısında kütapçının.
+3 kitapçı ofisin kuzeyinde.
+4 restoran bahçenin kuzeyinde.
+5 Nasıl gidilir parktan ofise?	w,n	2 3
+1 ev koridorun doğusunda.
+2 Banyo koridorun batısında.
+3 restoran salonun batısında.
+4 Banyo güneyinde salon.
+5 Nasıl gidilir banyodan restorana?	s,e	3 4
+1 bahçe ofisin doğusunda.
+2 kütüphane bahçenin kuzeyinde.
+3 koridor kütüphanenin kuzeyinde.
+4 bahçe salonun kuzeyinde.
+5 Nasıl gidilir ofisten salona?	w,n	1 4
+1 ev ofisin kuzeyinde.
+2 ofis banyonun batısında.
+3 koridor batısında restoranın.
+4 ev güneyinde restoranın.
+5 Nasıl gidilir restorandan ofise?	n,n	1 4
+1 Banyo kütüphanenin batısında.
+2 bahçe banyonun batısında.
+3 Okul kütüphanenin doğusunda.
+4 kütüphane kuzeyinde ev.
+5 Nasıl gidilir banyodan eve?	w,n	1 4
+1 kitapçı güneyinde salon.
+2 Okul güneyinde kütapçının.
+3 Banyo koridorun güneyinde.
+4 salon doğusunda Banyo.
+5 Nasıl gidilir banyodan kitapçıya?	w,n	1 4
+1 salon evin güneyinde.
+2 salon okulun doğusunda.
+3 park salonun doğusunda.
+4 salon ofisin kuzeyinde.
+5 Nasıl gidilir ofisten parka?	s,w	3 4
+1 salon bahçenin güneyinde.
+2 kütüphane okulun batısında.
+3 koridor kütüphanenin kuzeyinde.
+4 Okul bahçenin batısında.
+5 Nasıl gidilir koridordan okula?	n,w	2 3
+1 park evin batısında.
+2 Okul koridorun kuzeyinde.
+3 ev koridorun güneyinde.
+4 ev mutfağın batısında.
+5 Nasıl gidilir parktan koridora?	w,s	1 3
+1 salon koridorun güneyinde.
+2 bahçe banyonun batısında.
+3 Banyo salonun batısında.
+4 Banyo kütüphanenin kuzeyinde.
+5 Nasıl gidilir bahçeden kütüphaneye?	w,n	2 4
+1 ofis bahçenin batısında.
+2 bahçe kuzeyinde restoranın.
+3 bahçe parkın güneyinde.
+4 park banyonun batısında.
+5 Nasıl gidilir bahçeden banyoya?	s,w	3 4
+1 bahçe kütüphanenin güneyinde.
+2 mutfak bahçenin doğusunda.
+3 mutfak batısında restoranın.
+4 ofis güneyinde mutfak.
+5 Nasıl gidilir ofisten bahçeye?	s,e	2 4
+1 Banyo parkın doğusunda.
+2 Okul parkın kuzeyinde.
+3 park ofisin kuzeyinde.
+4 Okul bahçenin doğusunda.
+5 Nasıl gidilir okuldan ofise?	n,n	2 3
+1 ofis mutfağın kuzeyinde.
+2 mutfak okulun doğusunda.
+3 mutfak kuzeyinde restoranın.
+4 ev güneyinde restoranın.
+5 Nasıl gidilir mutfaktan eve?	n,n	3 4
+1 koridor ofisin batısında.
+2 koridor mutfağın doğusunda.
+3 koridor evin güneyinde.
+4 restoran ofisin doğusunda.
+5 Nasıl gidilir restorandan koridora?	e,e	1 4
+1 Okul kuzeyinde kütapçının.
+2 restoran batısında kütapçının.
+3 Banyo güneyinde kütapçının.
+4 kitapçı bahçenin batısında.
+5 Nasıl gidilir bahçeden restorana?	e,e	2 4
+1 mutfak evin doğusunda.
+2 ev kütüphanenin doğusunda.
+3 restoran evin güneyinde.
+4 ofisin kuzeyinde ev.
+5 Nasıl gidilir mutfaktan ofise?	e,s	1 4
+1 park salonun doğusunda.
+2 bahçe salonun kuzeyinde.
+3 koridor kütüphanenin kuzeyinde.
+4 salon koridorun doğusunda.
+5 Nasıl gidilir bahçeden koridora?	n,e	2 4
+1 Okul mutfağın doğusunda.
+2 Okul koridorun kuzeyinde.
+3 Okul salonun batısında.
+4 salon banyonun güneyinde.
+5 Nasıl gidilir salondan mutfağa?	e,e	1 3
+1 restoran doğusunda kütapçının.
+2 kütüphane evin güneyinde.
+3 kütüphane batısında kütapçının.
+4 restoran parkın kuzeyinde.
+5 Nasıl gidilir kitapçıdan eve?	e,s	2 3
+1 kitapçı mutfağın doğusunda.
+2 kütüphane evin güneyinde.
+3 Okul evin doğusunda.
+4 mutfak kütüphanenin güneyinde.
+5 Nasıl gidilir evden mutfağa?	n,n	2 4
+1 ofis koridorun güneyinde.
+2 koridor kütüphanenin doğusunda.
+3 Banyo mutfağın batısında.
+4 kütüphane güneyinde mutfak.
+5 Nasıl gidilir kütüphaneden banyoya?	s,e	3 4
+1 ofis mutfağın doğusunda.
+2 mutfak güneyinde kütapçının.
+3 Okul salonun kuzeyinde.
+4 mutfak okulun doğusunda.
+5 Nasıl gidilir okuldan kitapçıya?	w,s	2 4
+1 kitapçı salonun doğusunda.
+2 kütüphane bahçenin güneyinde.
+3 kütüphane salonun batısında.
+4 kitapçı parkın kuzeyinde.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	e,e	1 3
+1 restoran evin batısında.
+2 ev mutfağın kuzeyinde.
+3 ev batısında kütapçının.
+4 restoran doğusunda Banyo.
+5 Nasıl gidilir evden banyoya?	e,e	1 4
+1 ev ofisin kuzeyinde.
+2 salon kuzeyinde ev.
+3 park evin batısında.
+4 park bahçenin doğusunda.
+5 Nasıl gidilir parktan ofise?	w,n	1 3
+1 ev koridorun güneyinde.
+2 ofis koridorun batısında.
+3 koridor salonun batısında.
+4 salon bahçenin güneyinde.
+5 Nasıl gidilir ofisten salona?	w,w	2 3
+1 koridor doğusunda Banyo.
+2 Banyo doğusunda restoranın.
+3 mutfak kütüphanenin güneyinde.
+4 restoran kütüphanenin doğusunda.
+5 Nasıl gidilir mutfaktan restorana?	s,w	3 4
+1 park mutfağın kuzeyinde.
+2 Banyo kuzeyinde restoranın.
+3 Banyo bahçenin güneyinde.
+4 park doğusunda restoranın.
+5 Nasıl gidilir banyodan parka?	n,w	2 4
+1 salon doğusunda kütapçının.
+2 ev ofisin güneyinde.
+3 ev banyonun kuzeyinde.
+4 salon ofisin batısında.
+5 Nasıl gidilir banyodan ofise?	s,s	2 3
+1 Banyo evin batısında.
+2 mutfak güneyinde salon.
+3 salon koridorun doğusunda.
+4 ev koridorun batısında.
+5 Nasıl gidilir banyodan koridora?	w,w	1 4
+1 ofis parkın doğusunda.
+2 ev doğusunda restoranın.
+3 ofisin kuzeyinde restoranın.
+4 Okul güneyinde restoranın.
+5 Nasıl gidilir okuldan eve?	s,w	2 4
+1 bahçe okulun batısında.
+2 mutfak parkın güneyinde.
+3 park okulun doğusunda.
+4 kütüphane mutfağın doğusunda.
+5 Nasıl gidilir mutfaktan okula?	s,e	2 3
+1 park güneyinde restoranın.
+2 Okul güneyinde mutfak.
+3 park mutfağın doğusunda.
+4 mutfak bahçenin doğusunda.
+5 Nasıl gidilir mutfaktan restorana?	w,s	1 3
+1 koridor batısında restoranın.
+2 koridor parkın kuzeyinde.
+3 salon koridorun kuzeyinde.
+4 Okul koridorun batısında.
+5 Nasıl gidilir restorandan parka?	e,n	1 2
+1 ofis doğusunda restoranın.
+2 Okul kütüphanenin güneyinde.
+3 bahçe okulun güneyinde.
+4 Okul batısında restoranın.
+5 Nasıl gidilir restorandan kütüphaneye?	e,s	2 4
+1 kütüphane salonun doğusunda.
+2 kütüphane banyonun batısında.
+3 kütüphane okulun güneyinde.
+4 mutfak banyonun güneyinde.
+5 Nasıl gidilir mutfaktan kütüphaneye?	s,e	2 4
+1 park ofisin batısında.
+2 Okul parkın kuzeyinde.
+3 salon kuzeyinde restoranın.
+4 park salonun kuzeyinde.
+5 Nasıl gidilir salondan ofise?	s,w	1 4
+1 salon kuzeyinde restoranın.
+2 Banyo güneyinde restoranın.
+3 kitapçı banyonun batısında.
+4 ev doğusunda Banyo.
+5 Nasıl gidilir banyodan salona?	s,s	1 2
+1 bahçe salonun doğusunda.
+2 Banyo bahçenin güneyinde.
+3 Okul koridorun kuzeyinde.
+4 bahçe koridorun batısında.
+5 Nasıl gidilir koridordan banyoya?	e,n	2 4
+1 salon güneyinde restoranın.
+2 kütüphane okulun batısında.
+3 Okul kuzeyinde restoranın.
+4 park okulun kuzeyinde.
+5 Nasıl gidilir kütüphaneden parka?	w,s	2 4
+1 kitapçı mutfağın kuzeyinde.
+2 mutfak kütüphanenin batısında.
+3 bahçe kütüphanenin güneyinde.
+4 bahçe batısında restoranın.
+5 Nasıl gidilir restorandan kütüphaneye?	e,s	3 4
+1 mutfak parkın kuzeyinde.
+2 park okulun doğusunda.
+3 bahçe okulun batısında.
+4 ev bahçenin güneyinde.
+5 Nasıl gidilir bahçeden parka?	w,w	2 3
+1 bahçe kuzeyinde restoranın.
+2 mutfak kütüphanenin doğusunda.
+3 restoran mutfağın doğusunda.
+4 restoran koridorun kuzeyinde.
+5 Nasıl gidilir bahçeden mutfağa?	n,e	1 3
+1 salon güneyinde restoranın.
+2 mutfak okulun doğusunda.
+3 salon okulun batısında.
+4 salon banyonun kuzeyinde.
+5 Nasıl gidilir banyodan okula?	s,w	3 4
+1 koridor parkın doğusunda.
+2 koridor güneyinde salon.
+3 kütüphane parkın batısında.
+4 park bahçenin kuzeyinde.
+5 Nasıl gidilir salondan parka?	n,e	1 2
+1 Banyo ofisin batısında.
+2 ofisin kuzeyinde restoranın.
+3 kitapçı güneyinde restoranın.
+4 Okul ofisin doğusunda.
+5 Nasıl gidilir banyodan okula?	w,w	1 4
+1 koridor güneyinde kütapçının.
+2 Okul salonun batısında.
+3 restoran okulun batısında.
+4 koridor salonun doğusunda.
+5 Nasıl gidilir kitapçıdan salona?	n,e	1 4
+1 salon kuzeyinde ev.
+2 ev koridorun batısında.
+3 Banyo bahçenin doğusunda.
+4 salon banyonun güneyinde.
+5 Nasıl gidilir banyodan eve?	n,n	1 4
+1 ev güneyinde mutfak.
+2 salon koridorun batısında.
+3 mutfak parkın batısında.
+4 salon parkın doğusunda.
+5 Nasıl gidilir koridordan parka?	e,e	2 4
+1 kütüphane parkın güneyinde.
+2 Okul doğusunda restoranın.
+3 park batısında kütapçının.
+4 restoran kuzeyinde kütapçının.
+5 Nasıl gidilir parktan restorana?	w,s	3 4
+1 kitapçı okulun kuzeyinde.
+2 Okul parkın doğusunda.
+3 Okul batısında restoranın.
+4 Okul kuzeyinde ev.
+5 Nasıl gidilir evden parka?	s,e	2 4
+1 Banyo mutfağın kuzeyinde.
+2 ev okulun doğusunda.
+3 salon evin doğusunda.
+4 mutfak okulun kuzeyinde.
+5 Nasıl gidilir salondan okula?	e,e	2 3
+1 restoran ofisin batısında.
+2 kitapçı koridorun doğusunda.
+3 kitapçı batısında restoranın.
+4 bahçe koridorun güneyinde.
+5 Nasıl gidilir koridordan restorana?	w,w	2 3
+1 Okul mutfağın doğusunda.
+2 Okul kuzeyinde restoranın.
+3 restoran kuzeyinde kütapçının.
+4 Okul evin güneyinde.
+5 Nasıl gidilir okuldan kitapçıya?	n,n	2 3
+1 koridor bahçenin kuzeyinde.
+2 kitapçı okulun güneyinde.
+3 koridor batısında kütapçının.
+4 kitapçı evin batısında.
+5 Nasıl gidilir koridordan eve?	w,w	3 4
+1 Banyo okulun güneyinde.
+2 ofis okulun doğusunda.
+3 mutfak okulun kuzeyinde.
+4 koridor okulun batısında.
+5 Nasıl gidilir banyodan koridora?	s,e	1 4
+1 koridor okulun güneyinde.
+2 Okul güneyinde kütapçının.
+3 mutfak kuzeyinde ev.
+4 mutfak koridorun batısında.
+5 Nasıl gidilir okuldan mutfağa?	n,e	1 4
+1 park doğusunda Banyo.
+2 kitapçı banyonun batısında.
+3 park evin güneyinde.
+4 ofis banyonun güneyinde.
+5 Nasıl gidilir ofisten parka?	s,w	1 4
+1 Banyo kütüphanenin doğusunda.
+2 Okul banyonun kuzeyinde.
+3 salon doğusunda Banyo.
+4 salon kuzeyinde restoranın.
+5 Nasıl gidilir salondan okula?	e,s	2 3
+1 Okul mutfağın kuzeyinde.
+2 mutfak bahçenin doğusunda.
+3 ofis salonun batısında.
+4 ofis güneyinde mutfak.
+5 Nasıl gidilir bahçeden ofise?	w,n	2 4
+1 restoran mutfağın doğusunda.
+2 kütüphane evin güneyinde.
+3 ev mutfağın batısında.
+4 Okul kuzeyinde restoranın.
+5 Nasıl gidilir evden restorana?	w,w	1 3
+1 ofis doğusunda restoranın.
+2 mutfak ofisin kuzeyinde.
+3 restoran bahçenin kuzeyinde.
+4 Banyo bahçenin batısında.
+5 Nasıl gidilir ofisten bahçeye?	e,n	1 3
+1 ofis bahçenin kuzeyinde.
+2 kitapçı ofisin kuzeyinde.
+3 ev kütüphanenin güneyinde.
+4 ev doğusunda kütapçının.
+5 Nasıl gidilir evden ofise?	e,n	2 4
+1 koridor okulun doğusunda.
+2 kitapçı kütüphanenin kuzeyinde.
+3 Okul banyonun kuzeyinde.
+4 koridor kütüphanenin güneyinde.
+5 Nasıl gidilir koridordan banyoya?	e,n	1 3
+1 kütüphane doğusunda Banyo.
+2 bahçe banyonun kuzeyinde.
+3 Okul evin güneyinde.
+4 ev banyonun batısında.
+5 Nasıl gidilir bahçeden eve?	n,e	2 4
+1 kitapçı doğusunda restoranın.
+2 ofisin kuzeyinde kütapçının.
+3 ev parkın kuzeyinde.
+4 park ofisin doğusunda.
+5 Nasıl gidilir parktan kitapçıya?	e,n	2 4
+1 Banyo koridorun güneyinde.
+2 koridor evin güneyinde.
+3 koridor okulun doğusunda.
+4 mutfak banyonun güneyinde.
+5 Nasıl gidilir banyodan okula?	s,e	1 3
+1 Okul koridorun doğusunda.
+2 bahçe evin güneyinde.
+3 koridor bahçenin doğusunda.
+4 koridor kuzeyinde kütapçının.
+5 Nasıl gidilir koridordan eve?	e,s	2 3
+1 salon kuzeyinde kütapçının.
+2 bahçe ofisin güneyinde.
+3 salon bahçenin batısında.
+4 ev ofisin doğusunda.
+5 Nasıl gidilir ofisten salona?	n,e	2 3
+1 mutfak güneyinde restoranın.
+2 ofis bahçenin doğusunda.
+3 ofis okulun güneyinde.
+4 restoran ofisin güneyinde.
+5 Nasıl gidilir restorandan bahçeye?	s,e	2 4
+1 ofis okulun kuzeyinde.
+2 Banyo kütüphanenin kuzeyinde.
+3 Banyo okulun doğusunda.
+4 ofis koridorun güneyinde.
+5 Nasıl gidilir koridordan okula?	n,n	1 4
+1 kütüphanenin batısında.
+2 ev ofisin güneyinde.
+3 kütüphane batısında restoranın.
+4 Okul evin güneyinde.
+5 Nasıl gidilir evden kütüphaneye?	s,w	1 2
+1 Okul batısında restoranın.
+2 Okul kütüphanenin kuzeyinde.
+3 kütüphanenin güneyinde.
+4 Banyo okulun batısında.
+5 Nasıl gidilir kütüphaneden banyoya?	s,e	2 4
+1 restoran mutfağın doğusunda.
+2 ev ofisin güneyinde.
+3 ofis okulun güneyinde.
+4 ofis mutfağın batısında.
+5 Nasıl gidilir okuldan mutfağa?	n,w	3 4
+1 Okul kütüphanenin güneyinde.
+2 Okul doğusunda restoranın.
+3 kütüphane güneyinde kütapçının.
+4 Okul ofisin batısında.
+5 Nasıl gidilir kitapçıdan okula?	n,n	1 3
+1 Banyo ofisin güneyinde.
+2 kütüphanenin batısında.
+3 ofis okulun doğusunda.
+4 kitapçı ofisin kuzeyinde.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	n,w	2 4
+1 bahçe parkın doğusunda.
+2 Okul banyonun güneyinde.
+3 Banyo salonun doğusunda.
+4 park banyonun kuzeyinde.
+5 Nasıl gidilir okuldan parka?	s,s	2 4
+1 bahçe ofisin güneyinde.
+2 restoran okulun doğusunda.
+3 ofis salonun batısında.
+4 ofis güneyinde restoranın.
+5 Nasıl gidilir salondan restorana?	e,s	3 4
+1 ev parkın kuzeyinde.
+2 restoran ofisin doğusunda.
+3 ev ofisin batısında.
+4 mutfak kuzeyinde ev.
+5 Nasıl gidilir parktan ofise?	s,w	1 3
+1 mutfak kütüphanenin kuzeyinde.
+2 bahçe mutfağın doğusunda.
+3 bahçe batısında kütapçının.
+4 mutfak parkın doğusunda.
+5 Nasıl gidilir kütüphaneden bahçeye?	s,w	1 2
+1 Okul batısında restoranın.
+2 koridor parkın güneyinde.
+3 mutfak koridorun batısında.
+4 Okul koridorun güneyinde.
+5 Nasıl gidilir restorandan koridora?	e,s	1 4
+1 salon mutfağın doğusunda.
+2 salon evin güneyinde.
+3 Okul güneyinde salon.
+4 Banyo mutfağın batısında.
+5 Nasıl gidilir banyodan salona?	w,w	1 4
+1 park evin güneyinde.
+2 ev okulun doğusunda.
+3 Banyo salonun kuzeyinde.
+4 salon okulun batısında.
+5 Nasıl gidilir salondan eve?	w,w	2 4
+1 ofisin kuzeyinde kütapçının.
+2 ev mutfağın doğusunda.
+3 ev batısında kütapçının.
+4 koridor doğusunda kütapçının.
+5 Nasıl gidilir mutfaktan kitapçıya?	w,w	2 3
+1 salon koridorun batısında.
+2 Okul güneyinde restoranın.
+3 mutfak güneyinde salon.
+4 Okul koridorun doğusunda.
+5 Nasıl gidilir salondan okula?	w,w	1 4
+1 bahçe ofisin kuzeyinde.
+2 koridor ofisin batısında.
+3 kütüphane banyonun kuzeyinde.
+4 bahçe banyonun batısında.
+5 Nasıl gidilir banyodan ofise?	e,n	1 4
+1 salon doğusunda kütapçının.
+2 salon mutfağın batısında.
+3 kütüphane güneyinde kütapçının.
+4 Banyo salonun kuzeyinde.
+5 Nasıl gidilir banyodan mutfağa?	n,w	2 4
+1 Okul batısında kütapçının.
+2 Banyo ofisin doğusunda.
+3 Okul doğusunda Banyo.
+4 kitapçı mutfağın kuzeyinde.
+5 Nasıl gidilir banyodan kitapçıya?	w,w	1 3
+1 kütüphane parkın kuzeyinde.
+2 Banyo kütüphanenin batısında.
+3 bahçe parkın güneyinde.
+4 Okul bahçenin güneyinde.
+5 Nasıl gidilir parktan banyoya?	s,e	1 2
+1 bahçe koridorun doğusunda.
+2 koridor kuzeyinde ev.
+3 koridor güneyinde restoranın.
+4 kitapçı evin batısında.
+5 Nasıl gidilir kitapçıdan koridora?	w,s	2 4
+1 kütüphanenin kuzeyinde.
+2 bahçe okulun güneyinde.
+3 ofis bahçenin batısında.
+4 kitapçı ofisin batısında.
+5 Nasıl gidilir kitapçıdan kütüphaneye?	w,n	1 4
+1 Okul kuzeyinde kütapçının.
+2 kitapçı evin batısında.
+3 kitapçı doğusunda Banyo.
+4 ev mutfağın batısında.
+5 Nasıl gidilir kitapçıdan mutfağa?	w,w	2 4
+1 restoran bahçenin batısında.
+2 mutfak koridorun güneyinde.
+3 restoran koridorun doğusunda.
+4 salon kuzeyinde restoranın.
+5 Nasıl gidilir koridordan bahçeye?	w,w	1 3
+1 bahçe kütüphanenin doğusunda.
+2 ev ofisin batısında.
+3 kütüphanenin batısında.
+4 restoran ofisin kuzeyinde.
+5 Nasıl gidilir restorandan eve?	n,e	2 4
+1 kitapçı koridorun kuzeyinde.
+2 Banyo parkın doğusunda.
+3 park koridorun güneyinde.
+4 restoran doğusunda Banyo.
+5 Nasıl gidilir restorandan parka?	e,e	2 4
+1 kitapçı evin batısında.
+2 restoran bahçenin kuzeyinde.
+3 kitapçı bahçenin doğusunda.
+4 bahçe salonun doğusunda.
+5 Nasıl gidilir evden bahçeye?	e,e	1 3
+1 salon güneyinde restoranın.
+2 salon okulun kuzeyinde.
+3 kütüphanenin doğusunda.
+4 kütüphane salonun doğusunda.
+5 Nasıl gidilir kütüphaneden okula?	e,n	2 4
+1 bahçe ofisin güneyinde.
+2 kütüphane bahçenin batısında.
+3 restoran ofisin kuzeyinde.
+4 Banyo kuzeyinde restoranın.
+5 Nasıl gidilir bahçeden restorana?	s,s	1 3
+1 koridor evin doğusunda.
+2 koridor parkın güneyinde.
+3 ev ofisin doğusunda.
+4 ofis güneyinde mutfak.
+5 Nasıl gidilir koridordan ofise?	e,e	1 3
+1 salon güneyinde restoranın.
+2 koridor güneyinde salon.
+3 kütüphane koridorun güneyinde.
+4 kütüphane bahçenin doğusunda.
+5 Nasıl gidilir koridordan restorana?	s,s	1 2
+1 restoran ofisin doğusunda.
+2 Okul ofisin güneyinde.
+3 kütüphane doğusunda restoranın.
+4 Banyo kuzeyinde restoranın.
+5 Nasıl gidilir kütüphaneden ofise?	e,e	1 3
+1 ofis bahçenin batısında.
+2 park ofisin kuzeyinde.
+3 restoran doğusunda kütapçının.
+4 kitapçı bahçenin güneyinde.
+5 Nasıl gidilir ofisten kitapçıya?	w,n	1 4
+1 koridor banyonun batısında.
+2 salon ofisin güneyinde.
+3 restoran ofisin doğusunda.
+4 ofis doğusunda Banyo.
+5 Nasıl gidilir ofisten koridora?	e,e	1 4
+1 restoran kütüphanenin güneyinde.
+2 kütüphane okulun güneyinde.
+3 ev parkın kuzeyinde.
+4 restoran kuzeyinde ev.
+5 Nasıl gidilir restorandan okula?	s,s	1 2
+1 ev okulun batısında.
+2 Banyo parkın doğusunda.
+3 salon evin güneyinde.
+4 Okul parkın güneyinde.
+5 Nasıl gidilir parktan eve?	n,e	1 4
+1 bahçe koridorun batısında.
+2 koridor evin batısında.
+3 koridor okulun kuzeyinde.
+4 kütüphane bahçenin kuzeyinde.
+5 Nasıl gidilir okuldan bahçeye?	s,e	1 3
+1 bahçe batısında restoranın.
+2 restoran kütüphanenin güneyinde.
+3 bahçe kuzeyinde ev.
+4 bahçe doğusunda kütapçının.
+5 Nasıl gidilir evden kitapçıya?	s,e	3 4
+1 bahçe mutfağın kuzeyinde.
+2 kitapçı mutfağın batısında.
+3 koridor güneyinde mutfak.
+4 bahçe kütüphanenin güneyinde.
+5 Nasıl gidilir kitapçıdan koridora?	w,n	2 3
+1 kitapçı kütüphanenin batısında.
+2 salon güneyinde mutfak.
+3 salon kütüphanenin doğusunda.
+4 salon parkın kuzeyinde.
+5 Nasıl gidilir parktan kütüphaneye?	s,e	3 4
+1 koridor parkın batısında.
+2 mutfak kuzeyinde restoranın.
+3 salon mutfağın batısında.
+4 koridor doğusunda restoranın.
+5 Nasıl gidilir parktan restorana?	e,e	1 4
+1 ofisin kuzeyinde ev.
+2 Okul ofisin kuzeyinde.
+3 koridor ofisin doğusunda.
+4 bahçe koridorun doğusunda.
+5 Nasıl gidilir bahçeden ofise?	e,e	3 4
+1 Okul salonun batısında.
+2 park banyonun kuzeyinde.
+3 park evin güneyinde.
+4 ev güneyinde salon.
+5 Nasıl gidilir parktan salona?	s,s	3 4
+1 Okul doğusunda kütapçının.
+2 restoran kütüphanenin batısında.
+3 salon kütüphanenin kuzeyinde.
+4 restoran okulun kuzeyinde.
+5 Nasıl gidilir kütüphaneden okula?	e,n	2 4
+1 kütüphane koridorun güneyinde.
+2 Banyo kütüphanenin batısında.
+3 Okul kütüphanenin güneyinde.
+4 koridor güneyinde restoranın.
+5 Nasıl gidilir kütüphaneden restorana?	s,s	1 4
+1 ev salonun batısında.
+2 ofis koridorun güneyinde.
+3 ofis salonun doğusunda.
+4 kitapçı ofisin doğusunda.
+5 Nasıl gidilir koridordan kitapçıya?	n,w	2 4
+1 Okul parkın batısında.
+2 Okul doğusunda restoranın.
+3 kütüphane bahçenin doğusunda.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir kütüphaneden parka?	e,n	3 4
+1 Okul ofisin güneyinde.
+2 koridor okulun batısında.
+3 kütüphane parkın kuzeyinde.
+4 ofis parkın güneyinde.
+5 Nasıl gidilir ofisten koridora?	n,e	1 2
+1 ofis mutfağın doğusunda.
+2 kitapçı mutfağın kuzeyinde.
+3 ofis koridorun kuzeyinde.
+4 koridor salonun batısında.
+5 Nasıl gidilir ofisten kitapçıya?	e,s	1 2
+1 kütüphane güneyinde mutfak.
+2 kütüphane doğusunda Banyo.
+3 salon kütüphanenin doğusunda.
+4 ofis salonun doğusunda.
+5 Nasıl gidilir banyodan mutfağa?	w,s	1 2
+1 bahçe kuzeyinde ev.
+2 mutfak banyonun güneyinde.
+3 ev banyonun kuzeyinde.
+4 Okul evin batısında.
+5 Nasıl gidilir bahçeden banyoya?	n,n	1 3
+1 ofisin kuzeyinde ev.
+2 salon evin doğusunda.
+3 ofis güneyinde kütapçının.
+4 restoran evin batısında.
+5 Nasıl gidilir salondan ofise?	e,s	1 2
+1 ev kütüphanenin kuzeyinde.
+2 koridor kütüphanenin batısında.
+3 kütüphanenin güneyinde.
+4 mutfak kütüphanenin doğusunda.
+5 Nasıl gidilir evden koridora?	n,e	1 2
+1 salon parkın doğusunda.
+2 salon okulun kuzeyinde.
+3 park doğusunda kütapçının.
+4 park bahçenin güneyinde.
+5 Nasıl gidilir salondan kitapçıya?	e,e	1 3
+1 restoran doğusunda Banyo.
+2 Okul mutfağın kuzeyinde.
+3 restoran okulun batısında.
+4 Okul parkın batısında.
+5 Nasıl gidilir banyodan okula?	w,w	1 3
+1 bahçe okulun batısında.
+2 koridor bahçenin kuzeyinde.
+3 Okul ofisin kuzeyinde.
+4 salon koridorun batısında.
+5 Nasıl gidilir bahçeden salona?	s,e	2 4
+1 salon güneyinde kütapçının.
+2 koridor güneyinde restoranın.
+3 kitapçı banyonun güneyinde.
+4 restoran salonun batısında.
+5 Nasıl gidilir koridordan salona?	s,w	2 4
+1 ev doğusunda restoranın.
+2 park batısında restoranın.
+3 salon mutfağın kuzeyinde.
+4 ev mutfağın batısında.
+5 Nasıl gidilir mutfaktan restorana?	e,e	1 4
+1 kitapçı parkın batısında.
+2 Okul güneyinde kütapçının.
+3 mutfak okulun batısında.
+4 kitapçı ofisin güneyinde.
+5 Nasıl gidilir parktan okula?	e,n	1 2
+1 bahçe mutfağın kuzeyinde.
+2 mutfak koridorun kuzeyinde.
+3 kitapçı koridorun doğusunda.
+4 park mutfağın batısında.
+5 Nasıl gidilir parktan bahçeye?	w,s	1 4
+1 restoran salonun kuzeyinde.
+2 kütüphanenin doğusunda.
+3 Banyo salonun doğusunda.
+4 kütüphane doğusunda Banyo.
+5 Nasıl gidilir kütüphaneden salona?	e,e	3 4
+1 bahçe ofisin batısında.
+2 bahçe salonun doğusunda.
+3 Okul bahçenin kuzeyinde.
+4 ofisin kuzeyinde ev.
+5 Nasıl gidilir bahçeden eve?	w,n	1 4
+1 kütüphane salonun doğusunda.
+2 mutfak salonun kuzeyinde.
+3 park banyonun batısında.
+4 kütüphane parkın kuzeyinde.
+5 Nasıl gidilir banyodan kütüphaneye?	e,s	3 4
+1 park kütüphanenin doğusunda.
+2 restoran ofisin batısında.
+3 ofis koridorun güneyinde.
+4 kütüphane ofisin doğusunda.
+5 Nasıl gidilir koridordan kütüphaneye?	n,w	3 4
+1 ev okulun güneyinde.
+2 mutfak parkın güneyinde.
+3 restoran parkın batısında.
+4 ev batısında restoranın.
+5 Nasıl gidilir parktan eve?	e,e	3 4
+1 mutfak evin güneyinde.
+2 ev kütüphanenin batısında.
+3 Banyo batısında restoranın.
+4 mutfak doğusunda restoranın.
+5 Nasıl gidilir restorandan eve?	w,s	1 4
+1 Banyo kütüphanenin kuzeyinde.
+2 kütüphane parkın doğusunda.
+3 Banyo okulun batısında.
+4 bahçe banyonun kuzeyinde.
+5 Nasıl gidilir kütüphaneden bahçeye?	s,s	1 4
+1 ev ofisin batısında.
+2 ofis bahçenin kuzeyinde.
+3 park güneyinde mutfak.
+4 mutfak bahçenin doğusunda.
+5 Nasıl gidilir mutfaktan ofise?	e,s	2 4
+1 koridor salonun doğusunda.
+2 park salonun batısında.
+3 salon kuzeyinde restoranın.
+4 Okul parkın batısında.
+5 Nasıl gidilir restorandan koridora?	s,w	1 3
+1 Banyo güneyinde restoranın.
+2 Banyo evin batısında.
+3 bahçe ofisin güneyinde.
+4 ofis evin doğusunda.
+5 Nasıl gidilir evden bahçeye?	w,n	3 4
+1 bahçe doğusunda restoranın.
+2 salon bahçenin kuzeyinde.
+3 mutfak salonun kuzeyinde.
+4 Okul bahçenin doğusunda.
+5 Nasıl gidilir restorandan salona?	w,s	1 2
+1 ofis okulun doğusunda.
+2 ofis güneyinde restoranın.
+3 ofis bahçenin kuzeyinde.
+4 ev kuzeyinde restoranın.
+5 Nasıl gidilir okuldan bahçeye?	w,n	1 3
+1 restoran bahçenin doğusunda.
+2 Banyo evin güneyinde.
+3 Banyo doğusunda restoranın.
+4 ofis bahçenin kuzeyinde.
+5 Nasıl gidilir bahçeden banyoya?	w,w	1 3
+1 mutfak kütüphanenin kuzeyinde.
+2 kitapçı koridorun doğusunda.
+3 koridor mutfağın doğusunda.
+4 kitapçı kuzeyinde restoranın.
+5 Nasıl gidilir kütüphaneden koridora?	s,w	1 3
+1 ev parkın kuzeyinde.
+2 salon kütüphanenin kuzeyinde.
+3 bahçe kütüphanenin batısında.
+4 park salonun kuzeyinde.
+5 Nasıl gidilir kütüphaneden parka?	s,s	2 4
+1 ofis parkın batısında.
+2 koridor güneyinde salon.
+3 Okul parkın doğusunda.
+4 ofis salonun kuzeyinde.
+5 Nasıl gidilir parktan salona?	e,n	1 4

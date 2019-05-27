@@ -1,0 +1,3470 @@
+1 Mary oradaki sütü aldı.
+2 John salona gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Sandra banyoya geri döndü.
+5 John oradaki topu aldı.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 Mary banyoya gitti.
+8 Mary sütü Sandra'ya verdi.
+9 Mary kaç tane eşya taşıyor? 	hiç	1 8
+10 John banyoya geri döndü.
+11 John topu bıraktı.
+12 John kaç tane eşya taşıyor? 	hiç	5 11
+13 Sandra sütü John'a verdi.
+14 John bahçeye gitti.
+15 John kaç tane eşya taşıyor? 	bir	5 11 13
+1 Daniel oradaki sütü aldı.
+2 John koridora gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Daniel sütü bıraktı.
+5 Daniel ofise gitti.
+6 Daniel kaç tane eşya taşıyor? 	hiç	1 4
+7 John ofise geri döndü.
+8 John koridora gitti.
+9 Daniel kaç tane eşya taşıyor? 	hiç	1 4
+10 Mary salona gitti.
+11 Mary oradaki topu aldı.
+12 Mary kaç tane eşya taşıyor? 	bir	11
+13 Sandra mutfağa geri döndü.
+14 Daniel mutfağa gitti.
+15 Mary kaç tane eşya taşıyor? 	bir	11
+1 Sandra koridora gitti.
+2 Sandra elmayı oraya aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Daniel mutfağa gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra kaç tane eşya taşıyor? 	iki	2 5
+7 Mary oradaki topu aldı.
+8 Sandra ofise geri döndü.
+9 Mary kaç tane eşya taşıyor? 	bir	7
+10 Sandra elmayı bıraktı.
+11 Daniel koridora gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	2 5 10
+13 Daniel mutfağa geri döndü.
+14 Mary koridora gitti.
+15 Sandra kaç tane eşya taşıyor? 	bir	2 5 10
+1 Sandra banyoya gitti.
+2 Daniel salona gitti.
+3 Daniel koridora gitti.
+4 Sandra koridora gitti.
+5 Daniel salona geri döndü.
+6 John bahçeye gitti.
+7 Daniel koridora gitti.
+8 John elmayı oraya aldı.
+9 John kaç tane eşya taşıyor? 	bir	8
+10 John elmayı Mary'e verdi.
+11 Mary elmayı John'a verdi.
+12 John kaç tane eşya taşıyor? 	bir	8 10 11
+13 Mary koridora gitti.
+14 John elmayı bıraktı.
+15 John kaç tane eşya taşıyor? 	hiç	8 10 11 14
+16 Sandra bahçeye gitti.
+17 Mary mutfağa gitti.
+18 Mary kaç tane eşya taşıyor? 	hiç	10 11
+19 Mary oradaki topu aldı.
+20 Mary oradaki sütü aldı.
+21 Mary kaç tane eşya taşıyor? 	iki	10 11 19 20
+1 John koridora gitti.
+2 Mary oradaki sütü aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 John mutfağa geri döndü.
+5 Sandra oradaki topu aldı.
+6 Sandra kaç tane eşya taşıyor? 	bir	5
+7 Mary oradaki elmayı aldı.
+8 Mary sütü bıraktı.
+9 Mary kaç tane eşya taşıyor? 	bir	2 7 8
+10 John koridora gitti.
+11 Sandra topu bıraktı.
+12 Mary kaç tane eşya taşıyor? 	bir	2 7 8
+13 John bahçeye gitti.
+14 John mutfağa geri döndü.
+15 Sandra kaç tane eşya taşıyor? 	hiç	5 11
+1 Daniel banyoya gitti.
+2 John ofise gitti.
+3 Daniel mutfağa gitti.
+4 John oradaki elmayı aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John elmayı bıraktı.
+7 Mary oradaki topu aldı.
+8 Mary kaç tane eşya taşıyor? 	bir	7
+9 John koridora gitti.
+10 Mary topu bıraktı.
+11 Mary kaç tane eşya taşıyor? 	hiç	7 10
+12 Daniel koridora gitti.
+13 Sandra koridora gitti.
+14 Mary kaç tane eşya taşıyor? 	hiç	7 10
+15 Mary oradaki topu aldı.
+16 Mary topu bıraktı.
+17 Mary kaç tane eşya taşıyor? 	hiç	7 10 15 16
+1 Mary bahçeye gitti.
+2 Sandra banyoya geri döndü.
+3 Sandra mutfağa gitti.
+4 Sandra salona geri döndü.
+5 Mary oradaki elmayı aldı.
+6 Mary elmayı bıraktı.
+7 Mary kaç tane eşya taşıyor? 	hiç	5 6
+8 Sandra mutfağa geri döndü.
+9 Mary oradaki elmayı aldı.
+10 Mary kaç tane eşya taşıyor? 	bir	5 6 9
+11 Mary salona gitti.
+12 Mary koridora gitti.
+13 Mary kaç tane eşya taşıyor? 	bir	5 6 9
+14 Daniel salona gitti.
+15 Mary oradaki sütü aldı.
+16 Mary kaç tane eşya taşıyor? 	iki	5 6 9 15
+17 Sandra ofise gitti.
+18 Sandra salona gitti.
+19 Mary kaç tane eşya taşıyor? 	iki	5 6 9 15
+1 John elmayı oraya aldı.
+2 John elmayı Mary'e verdi.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary elmayı John'a verdi.
+5 John elmayı bıraktı.
+6 John kaç tane eşya taşıyor? 	hiç	1 2 4 5
+7 John ofise geri döndü.
+8 Daniel koridora gitti.
+9 John kaç tane eşya taşıyor? 	hiç	1 2 4 5
+10 Mary oradaki elmayı aldı.
+11 Mary elmayı Daniel'e verdi.
+12 Mary kaç tane eşya taşıyor? 	hiç	2 4 10 11
+13 Daniel elmayı Mary'e verdi.
+14 Mary elmayı Daniel'e verdi.
+15 Mary kaç tane eşya taşıyor? 	hiç	2 4 10 11 13 14
+1 Sandra oradaki elmayı aldı.
+2 Daniel ofise gitti.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Sandra elmayı oraya bıraktı.
+5 Daniel mutfağa geri döndü.
+6 Sandra kaç tane eşya taşıyor? 	hiç	1 4
+7 Sandra salona gitti.
+8 Sandra koridora geri döndü.
+9 Sandra kaç tane eşya taşıyor? 	hiç	1 4
+10 Mary mutfağa gitti.
+11 Sandra ofise gitti.
+12 John ofise gitti.
+13 Sandra banyoya geri döndü.
+14 John banyoya geri döndü.
+15 Sandra salona gitti.
+16 Sandra koridora geri döndü.
+17 Daniel bahçeye gitti.
+18 Mary koridora gitti.
+19 John oradaki topu aldı.
+20 John kaç tane eşya taşıyor? 	bir	19
+21 Mary mutfağa geri döndü.
+22 John topu bıraktı.
+23 John kaç tane eşya taşıyor? 	hiç	19 22
+1 John koridora gitti.
+2 Mary salona geri döndü.
+3 Mary salona gitti.
+4 Daniel oradaki sütü aldı.
+5 Daniel kaç tane eşya taşıyor? 	bir	4
+6 John banyoya gitti.
+7 John oradaki elmayı aldı.
+8 Daniel kaç tane eşya taşıyor? 	bir	4
+9 Sandra koridora gitti.
+10 Daniel sütü bıraktı.
+11 Daniel kaç tane eşya taşıyor? 	hiç	4 10
+12 Daniel banyoya gitti.
+13 Daniel mutfağa geri döndü.
+14 Daniel kaç tane eşya taşıyor? 	hiç	4 10
+15 Mary banyoya geri döndü.
+16 John elmayı Mary'e verdi.
+17 Daniel kaç tane eşya taşıyor? 	hiç	4 10
+1 Mary bahçeye gitti.
+2 John mutfağa gitti.
+3 John koridora gitti.
+4 Daniel salona geri döndü.
+5 Daniel ofise gitti.
+6 Mary topu oradan aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 John bahçeye gitti.
+9 Mary topu John'a verdi.
+10 Mary kaç tane eşya taşıyor? 	hiç	6 9
+11 Daniel koridora gitti.
+12 John topu Mary'e verdi.
+13 Mary kaç tane eşya taşıyor? 	bir	6 9 12
+14 Sandra salona gitti.
+15 Mary topu John'a verdi.
+16 Mary kaç tane eşya taşıyor? 	hiç	6 9 12 15
+17 John mutfağa gitti.
+18 Mary banyoya gitti.
+19 Mary kaç tane eşya taşıyor? 	hiç	6 9 12 15
+1 Sandra bahçeye gitti.
+2 John oradaki elmayı aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Mary koridora geri döndü.
+5 John koridora gitti.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 John bahçeye gitti.
+8 Daniel banyoya gitti.
+9 John kaç tane eşya taşıyor? 	bir	2
+10 John passed the apple to Sandra.
+11 Sandra elmayı John'a verdi.
+12 Sandra kaç tane eşya taşıyor? 	hiç	10 11
+13 John elmayı Sandra'ya verdi.
+14 Sandra ofise gitti.
+15 Sandra kaç tane eşya taşıyor? 	bir	10 11 13
+1 Sandra ofise gitti.
+2 Mary salona geri döndü.
+3 Mary mutfağa gitti.
+4 Mary koridora gitti.
+5 Mary oradaki elmayı aldı.
+6 Mary elmayı bıraktı.
+7 Mary kaç tane eşya taşıyor? 	hiç	5 6
+8 Daniel ofise gitti.
+9 Sandra salona geri döndü.
+10 Mary kaç tane eşya taşıyor? 	hiç	5 6
+11 Mary topu oraya aldı.
+12 Mary topu bıraktı.
+13 Mary kaç tane eşya taşıyor? 	hiç	5 6 11 12
+14 Sandra salona geri döndü.
+15 John mutfağa gitti.
+16 Mary kaç tane eşya taşıyor? 	hiç	5 6 11 12
+17 John koridora gitti.
+18 Mary salona geri döndü.
+19 Mary kaç tane eşya taşıyor? 	hiç	5 6 11 12
+1 John mutfağa gitti.
+2 Sandra elmayı oraya aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra elmayı Daniel'e verdi.
+5 Daniel elmayı bıraktı.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+7 Daniel oradaki elmayı aldı.
+8 Daniel elmayı Sandra'ya verdi.
+9 Sandra kaç tane eşya taşıyor? 	bir	2 4 8
+10 Sandra mutfağa gitti.
+11 Sandra elmayı John'a verdi.
+12 Daniel kaç tane eşya taşıyor? 	hiç	4 5 7 8
+13 John elmayı Sandra'ya verdi.
+14 John bahçeye gitti.
+15 Sandra kaç tane eşya taşıyor? 	bir	2 4 8 11 13
+1 Sandra oradaki sütü aldı.
+2 John koridora geri döndü.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Sandra bahçeye gitti.
+5 Sandra sütü oraya bıraktı.
+6 Sandra kaç tane eşya taşıyor? 	hiç	1 5
+7 Sandra oradaki sütü aldı.
+8 Mary salona gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	1 5 7
+10 Sandra koridora gitti.
+11 Daniel oradaki elmayı aldı.
+12 Daniel kaç tane eşya taşıyor? 	bir	11
+13 Daniel ofise gitti.
+14 Sandra sütü John'a verdi.
+15 Daniel kaç tane eşya taşıyor? 	bir	11
+1 Mary oradaki sütü aldı.
+2 John oradaki topu aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Sandra banyoya gitti.
+5 Mary sütü bıraktı.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 Sandra salona geri döndü.
+8 Sandra oradaki sütü aldı.
+9 Sandra kaç tane eşya taşıyor? 	bir	8
+10 Sandra sütü oraya bıraktı.
+11 Mary salona gitti.
+12 Sandra kaç tane eşya taşıyor? 	hiç	8 10
+13 John ofise gitti.
+14 John elmayı oraya aldı.
+15 Sandra kaç tane eşya taşıyor? 	hiç	8 10
+1 Mary oradaki sütü aldı.
+2 Mary banyoya gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 John koridora geri döndü.
+5 Mary elmayı oraya aldı.
+6 Mary kaç tane eşya taşıyor? 	iki	1 5
+7 Daniel koridora gitti.
+8 Sandra salona geri döndü.
+9 Mary kaç tane eşya taşıyor? 	iki	1 5
+10 Mary elmayı bıraktı.
+11 Mary oradaki elmayı aldı.
+12 Mary kaç tane eşya taşıyor? 	iki	1 5 10 11
+13 Mary ofise gitti.
+14 Mary elmayı oraya bıraktı.
+15 Mary kaç tane eşya taşıyor? 	bir	1 5 10 11 14
+1 Mary oradaki topu aldı.
+2 Daniel salona geri döndü.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Daniel banyoya geri döndü.
+5 Mary salona gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 Mary topu bıraktı.
+8 John mutfağa gitti.
+9 Mary kaç tane eşya taşıyor? 	hiç	1 7
+10 Mary ofise gitti.
+11 Daniel salona gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	1 7
+13 Mary koridora gitti.
+14 Mary banyoya gitti.
+15 Daniel mutfağa gitti.
+16 Mary oradaki sütü aldı.
+17 Mary kaç tane eşya taşıyor? 	bir	1 7 16
+1 Sandra bahçeye gitti.
+2 Daniel bahçeye gitti.
+3 Daniel banyoya gitti.
+4 John bahçeye gitti.
+5 Daniel salona gitti.
+6 Sandra ofise geri döndü.
+7 John mutfağa gitti.
+8 Daniel oradaki sütü aldı.
+9 Daniel kaç tane eşya taşıyor? 	bir	8
+10 Daniel bahçeye gitti.
+11 Mary mutfağa gitti.
+12 Daniel kaç tane eşya taşıyor? 	bir	8
+13 Sandra koridora gitti.
+14 Mary salona gitti.
+15 Daniel kaç tane eşya taşıyor? 	bir	8
+16 Daniel mutfağa gitti.
+17 Daniel sütü bıraktı.
+18 Daniel kaç tane eşya taşıyor? 	hiç	8 17
+19 Daniel banyoya geri döndü.
+20 Sandra salona gitti.
+21 Daniel kaç tane eşya taşıyor? 	hiç	8 17
+1 Sandra salona gitti.
+2 Sandra topu oradan aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 John koridora gitti.
+5 Mary bahçeye gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	2
+7 Sandra ofise geri döndü.
+8 John salona gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	2
+10 Sandra oradaki sütü aldı.
+11 Mary koridora gitti.
+12 Sandra kaç tane eşya taşıyor? 	iki	2 10
+13 John ofise gitti.
+14 Sandra topu John'a verdi.
+15 Sandra kaç tane eşya taşıyor? 	bir	2 10 14
+1 Mary oradaki sütü aldı.
+2 Mary ofise gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary koridora gitti.
+5 Sandra mutfağa gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 Sandra salona geri döndü.
+8 Daniel elmayı oraya aldı.
+9 Daniel kaç tane eşya taşıyor? 	bir	8
+10 Daniel elmayı bıraktı.
+11 Sandra salona gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	8 10
+13 Daniel koridora gitti.
+14 Mary salona gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	8 10
+1 John banyoya gitti.
+2 John topu oradan aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Daniel koridora gitti.
+5 Mary koridora gitti.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 Sandra oradaki elmayı aldı.
+8 John topu bıraktı.
+9 John kaç tane eşya taşıyor? 	hiç	2 8
+10 Mary salona gitti.
+11 Sandra mutfağa gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	7
+13 John oradaki topu aldı.
+14 Mary oradaki sütü aldı.
+15 Mary kaç tane eşya taşıyor? 	bir	14
+1 Mary oradaki sütü aldı.
+2 Sandra ofise gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary sütü Sandra'ya verdi.
+5 Sandra sütü bıraktı.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 4
+7 John ofise gitti.
+8 John oradaki sütü aldı.
+9 Mary kaç tane eşya taşıyor? 	hiç	1 4
+10 Daniel salona gitti.
+11 John Mary'e sütü verdi.
+12 Sandra kaç tane eşya taşıyor? 	hiç	4 5
+13 Mary sütü John'a verdi.
+14 Daniel bahçeye gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	1 4 11 13
+1 John ofise geri döndü.
+2 Daniel bahçeye gitti.
+3 Mary banyoya gitti.
+4 Mary salona gitti.
+5 Mary banyoya gitti.
+6 Mary koridora gitti.
+7 Mary ofise gitti.
+8 Mary koridora geri döndü.
+9 Mary oradaki elmayı aldı.
+10 Sandra koridora gitti.
+11 Mary kaç tane eşya taşıyor? 	bir	9
+12 Mary elmayı Sandra'ya verdi.
+13 Sandra elmayı Mary'e verdi.
+14 Mary kaç tane eşya taşıyor? 	bir	9 12 13
+15 Sandra mutfağa gitti.
+16 Sandra koridora gitti.
+17 Mary kaç tane eşya taşıyor? 	bir	9 12 13
+18 Mary elmayı oraya bıraktı.
+19 Sandra oradaki elmayı aldı.
+20 Sandra kaç tane eşya taşıyor? 	bir	12 13 19
+21 Sandra elmayı Mary'e verdi.
+22 Mary elmayı bıraktı.
+23 Mary kaç tane eşya taşıyor? 	hiç	9 12 13 18 21 22
+1 Mary oradaki topu aldı.
+2 Daniel banyoya gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 John koridora gitti.
+5 Sandra oradaki sütü aldı.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 Daniel oradaki elmayı aldı.
+8 Daniel elmayı bıraktı.
+9 Daniel kaç tane eşya taşıyor? 	hiç	7 8
+10 Daniel elmayı oraya aldı.
+11 Daniel elmayı bıraktı.
+12 Daniel kaç tane eşya taşıyor? 	hiç	7 8 10 11
+13 Mary ofise gitti.
+14 Sandra sütü bıraktı.
+15 Sandra kaç tane eşya taşıyor? 	hiç	5 14
+1 Mary ofise gitti.
+2 John oradaki topu aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John topu bıraktı.
+5 Sandra banyoya gitti.
+6 John kaç tane eşya taşıyor? 	hiç	2 4
+7 Sandra oradaki sütü aldı.
+8 Daniel oradaki elmayı aldı.
+9 John kaç tane eşya taşıyor? 	hiç	2 4
+10 Daniel elmayı oraya bıraktı.
+11 Daniel oradaki elmayı aldı.
+12 Sandra kaç tane eşya taşıyor? 	bir	7
+13 Sandra sütü oraya bıraktı.
+14 Sandra ofise gitti.
+15 Daniel kaç tane eşya taşıyor? 	bir	8 10 11
+1 John salona geri döndü.
+2 Daniel oradaki sütü aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel sütü John'a verdi.
+5 John sütü Daniel'e verdi.
+6 Daniel kaç tane eşya taşıyor? 	bir	2 4 5
+7 Daniel sütü John'a verdi.
+8 John oradaki elmayı aldı.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 4 5 7
+10 John elmayı Daniel'e verdi.
+11 Daniel elmayı John'a verdi.
+12 John kaç tane eşya taşıyor? 	iki	4 5 7 8 10 11
+13 Sandra mutfağa gitti.
+14 John elmayı Daniel'e verdi.
+15 John kaç tane eşya taşıyor? 	bir	4 5 7 8 10 11 14
+1 John oradaki sütü aldı.
+2 Daniel bahçeye gitti.
+3 John kaç tane eşya taşıyor? 	bir	1
+4 John ofise gitti.
+5 John sütü bıraktı.
+6 John kaç tane eşya taşıyor? 	hiç	1 5
+7 Mary elmayı oraya aldı.
+8 Mary elmayı bıraktı.
+9 Mary kaç tane eşya taşıyor? 	hiç	7 8
+10 Mary koridora geri döndü.
+11 Mary topu oradan aldı.
+12 Mary kaç tane eşya taşıyor? 	bir	7 8 11
+13 John oradaki sütü aldı.
+14 Mary topu bıraktı.
+15 Mary kaç tane eşya taşıyor? 	hiç	7 8 11 14
+1 Mary koridora gitti.
+2 John koridora gitti.
+3 Sandra koridora gitti.
+4 Sandra oradaki sütü aldı.
+5 Sandra kaç tane eşya taşıyor? 	bir	4
+6 Sandra sütü John'a verdi.
+7 John oradaki topu aldı.
+8 Sandra kaç tane eşya taşıyor? 	hiç	4 6
+9 John mutfağa gitti.
+10 Mary ofise geri döndü.
+11 John kaç tane eşya taşıyor? 	iki	6 7
+12 John topu Daniel'e verdi.
+13 Mary koridora gitti.
+14 John kaç tane eşya taşıyor? 	bir	6 7 12
+15 John oradaki elmayı aldı.
+16 John elmayı bıraktı.
+17 John kaç tane eşya taşıyor? 	bir	6 7 12 15 16
+1 John ofise geri döndü.
+2 Daniel mutfağa gitti.
+3 Sandra banyoya gitti.
+4 Sandra mutfağa gitti.
+5 Mary ofise gitti.
+6 Sandra banyoya gitti.
+7 John bahçeye gitti.
+8 John banyoya geri döndü.
+9 John oradaki topu aldı.
+10 Daniel oradaki elmayı aldı.
+11 Daniel kaç tane eşya taşıyor? 	bir	10
+12 John salona gitti.
+13 Daniel koridora gitti.
+14 Daniel kaç tane eşya taşıyor? 	bir	10
+15 Daniel banyoya gitti.
+16 John oradaki sütü aldı.
+17 Daniel kaç tane eşya taşıyor? 	bir	10
+18 Daniel bahçeye gitti.
+19 Daniel elmayı bıraktı.
+20 John kaç tane eşya taşıyor? 	iki	9 16
+21 John bahçeye gitti.
+22 John topu Daniel'e verdi.
+23 John kaç tane eşya taşıyor? 	bir	9 16 22
+1 Daniel mutfağa gitti.
+2 Daniel koridora gitti.
+3 John ofise gitti.
+4 John mutfağa gitti.
+5 Daniel banyoya gitti.
+6 John banyoya gitti.
+7 Daniel oradaki topu aldı.
+8 Daniel topu John'a verdi.
+9 Daniel kaç tane eşya taşıyor? 	hiç	7 8
+10 John topu Sandra'ya verdi.
+11 Sandra topu John'a verdi.
+12 Daniel kaç tane eşya taşıyor? 	hiç	7 8
+13 John topu Sandra'ya verdi.
+14 Sandra koridora geri döndü.
+15 Daniel kaç tane eşya taşıyor? 	hiç	7 8
+16 Sandra topu bıraktı.
+17 John salona geri döndü.
+18 John kaç tane eşya taşıyor? 	hiç	8 10 11 13
+19 John ofise gitti.
+20 Sandra oradaki topu aldı.
+21 Sandra kaç tane eşya taşıyor? 	bir	10 11 13 16 20
+1 Daniel topu oraya aldı.
+2 Daniel ofise gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Daniel topu Sandra'ya verdi.
+5 John elmayı oraya aldı.
+6 Daniel kaç tane eşya taşıyor? 	hiç	1 4
+7 Sandra topu Daniel'e verdi.
+8 John elmayı bıraktı.
+9 Daniel kaç tane eşya taşıyor? 	bir	1 4 7
+10 Daniel topu Sandra'ya verdi.
+11 Mary salona geri döndü.
+12 John kaç tane eşya taşıyor? 	hiç	5 8
+13 Sandra mutfağa gitti.
+14 Mary oradaki elmayı aldı.
+15 Mary kaç tane eşya taşıyor? 	bir	14
+1 Sandra mutfağa gitti.
+2 John salona gitti.
+3 Sandra bahçeye gitti.
+4 Sandra oradaki topu aldı.
+5 Sandra kaç tane eşya taşıyor? 	bir	4
+6 Sandra salona gitti.
+7 Sandra topu John'a verdi.
+8 Sandra kaç tane eşya taşıyor? 	hiç	4 7
+9 John topu Sandra'ya verdi.
+10 Sandra topu John'a verdi.
+11 John kaç tane eşya taşıyor? 	bir	7 9 10
+12 John topu bıraktı.
+13 John oradaki topu aldı.
+14 John kaç tane eşya taşıyor? 	bir	7 9 10 12 13
+15 John topu Sandra'ya verdi.
+16 John koridora gitti.
+17 Sandra kaç tane eşya taşıyor? 	bir	4 7 9 10 15
+1 Sandra koridora gitti.
+2 John ofise geri döndü.
+3 John salona gitti.
+4 John ofise gitti.
+5 Daniel salona gitti.
+6 Daniel banyoya gitti.
+7 Mary bahçeye gitti.
+8 Mary salona gitti.
+9 Sandra banyoya gitti.
+10 Daniel koridora gitti.
+11 Sandra koridora geri döndü.
+12 Sandra salona gitti.
+13 Sandra banyoya geri döndü.
+14 John salona gitti.
+15 John koridora gitti.
+16 Mary topu oradan aldı.
+17 Mary kaç tane eşya taşıyor? 	bir	16
+18 Mary topu bıraktı.
+19 Daniel bahçeye gitti.
+20 Mary kaç tane eşya taşıyor? 	hiç	16 18
+21 Sandra oradaki elmayı aldı.
+22 Sandra oradaki sütü aldı.
+23 Sandra kaç tane eşya taşıyor? 	iki	21 22
+24 John banyoya gitti.
+25 Daniel ofise geri döndü.
+26 Sandra kaç tane eşya taşıyor? 	iki	21 22
+27 Daniel salona gitti.
+28 John ofise gitti.
+29 Sandra kaç tane eşya taşıyor? 	iki	21 22
+1 John oradaki topu aldı.
+2 John topu bıraktı.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary ofise gitti.
+5 Daniel salona geri döndü.
+6 John kaç tane eşya taşıyor? 	hiç	1 2
+7 Sandra bahçeye gitti.
+8 Daniel bahçeye gitti.
+9 John kaç tane eşya taşıyor? 	hiç	1 2
+10 Daniel salona geri döndü.
+11 John topu oraya aldı.
+12 John kaç tane eşya taşıyor? 	bir	1 2 11
+13 John mutfağa gitti.
+14 Sandra ofise gitti.
+15 John kaç tane eşya taşıyor? 	bir	1 2 11
+1 Daniel salona geri döndü.
+2 Daniel mutfağa gitti.
+3 Mary ofise gitti.
+4 John salona gitti.
+5 John oradaki topu aldı.
+6 Sandra ofise gitti.
+7 John kaç tane eşya taşıyor? 	bir	5
+8 Mary koridora gitti.
+9 John oradaki sütü aldı.
+10 John kaç tane eşya taşıyor? 	iki	5 9
+11 Daniel koridora gitti.
+12 John mutfağa gitti.
+13 John kaç tane eşya taşıyor? 	iki	5 9
+14 John topu bıraktı.
+15 Daniel bahçeye gitti.
+16 John kaç tane eşya taşıyor? 	bir	5 9 14
+17 Daniel oradaki elmayı aldı.
+18 Daniel elmayı bıraktı.
+19 John kaç tane eşya taşıyor? 	bir	5 9 14
+1 Sandra bahçeye gitti.
+2 Sandra oradaki topu aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra topu bıraktı.
+5 John koridora gitti.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+7 Mary oradaki sütü aldı.
+8 John salona geri döndü.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+10 Daniel ofise geri döndü.
+11 Sandra banyoya geri döndü.
+12 Mary kaç tane eşya taşıyor? 	bir	7
+13 Daniel koridora gitti.
+14 Mary sütü Sandra'ya verdi.
+15 Mary kaç tane eşya taşıyor? 	hiç	7 14
+1 Sandra bahçeye gitti.
+2 Sandra salona gitti.
+3 Mary banyoya gitti.
+4 John oradaki sütü aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John sütü Daniel'e verdi.
+7 John salona gitti.
+8 John kaç tane eşya taşıyor? 	hiç	4 6
+9 Mary salona geri döndü.
+10 Daniel sütü bıraktı.
+11 John kaç tane eşya taşıyor? 	hiç	4 6
+12 Daniel banyoya geri döndü.
+13 Sandra bahçeye gitti.
+14 Daniel kaç tane eşya taşıyor? 	hiç	6 10
+15 Sandra koridora gitti.
+16 Sandra banyoya geri döndü.
+17 Daniel kaç tane eşya taşıyor? 	hiç	6 10
+1 Daniel oradaki elmayı aldı.
+2 John koridora gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 John salona gitti.
+5 Daniel elmayı bıraktı.
+6 Daniel kaç tane eşya taşıyor? 	hiç	1 5
+7 John mutfağa gitti.
+8 Mary topu oraya aldı.
+9 Mary kaç tane eşya taşıyor? 	bir	8
+10 Sandra bahçeye gitti.
+11 Mary topu bıraktı.
+12 Mary kaç tane eşya taşıyor? 	hiç	8 11
+13 Sandra ofise gitti.
+14 Sandra bahçeye gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	8 11
+1 John koridora geri döndü.
+2 Mary ofise geri döndü.
+3 Sandra mutfağa geri döndü.
+4 Sandra banyoya gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra sütü bıraktı.
+7 Sandra kaç tane eşya taşıyor? 	hiç	5 6
+8 Daniel salona gitti.
+9 Daniel banyoya gitti.
+10 Sandra kaç tane eşya taşıyor? 	hiç	5 6
+11 Daniel oradaki sütü aldı.
+12 Daniel sütü bıraktı.
+13 Sandra kaç tane eşya taşıyor? 	hiç	5 6
+14 John banyoya gitti.
+15 Daniel ofise geri döndü.
+16 Daniel kaç tane eşya taşıyor? 	hiç	11 12
+17 John ofise gitti.
+18 Mary koridora gitti.
+19 Daniel kaç tane eşya taşıyor? 	hiç	11 12
+1 Sandra ofise gitti.
+2 Mary mutfağa gitti.
+3 John elmayı oraya aldı.
+4 John elmayı Sandra'ya verdi.
+5 John kaç tane eşya taşıyor? 	hiç	3 4
+6 Mary koridora gitti.
+7 John salona geri döndü.
+8 John kaç tane eşya taşıyor? 	hiç	3 4
+9 Sandra topu oradan aldı.
+10 Sandra elmayı Daniel'e verdi.
+11 John kaç tane eşya taşıyor? 	hiç	3 4
+12 Daniel passed the apple to Sandra.
+13 Sandra elmayı Daniel'e verdi.
+14 Daniel kaç tane eşya taşıyor? 	bir	10 12 13
+15 Sandra topu bıraktı.
+16 Daniel elmayı Sandra'ya verdi.
+17 Daniel kaç tane eşya taşıyor? 	hiç	10 12 13 16
+1 Mary ofise gitti.
+2 Mary banyoya geri döndü.
+3 John oradaki sütü aldı.
+4 Sandra koridora gitti.
+5 John kaç tane eşya taşıyor? 	bir	3
+6 Mary topu oraya aldı.
+7 Mary koridora gitti.
+8 John kaç tane eşya taşıyor? 	bir	3
+9 John koridora gitti.
+10 Mary topu John'a verdi.
+11 Mary kaç tane eşya taşıyor? 	hiç	6 10
+12 John topu Mary'e verdi.
+13 Sandra salona gitti.
+14 John kaç tane eşya taşıyor? 	bir	3 10 12
+15 Sandra ofise gitti.
+16 Daniel ofise gitti.
+17 Mary kaç tane eşya taşıyor? 	bir	6 10 12
+1 Daniel koridora gitti.
+2 Daniel bahçeye gitti.
+3 Mary mutfağa geri döndü.
+4 John oradaki elmayı aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John bahçeye gitti.
+7 Daniel ofise geri döndü.
+8 John kaç tane eşya taşıyor? 	bir	4
+9 John koridora gitti.
+10 John elmayı bıraktı.
+11 John kaç tane eşya taşıyor? 	hiç	4 10
+12 Daniel topu oraya aldı.
+13 Sandra ofise gitti.
+14 John kaç tane eşya taşıyor? 	hiç	4 10
+15 Daniel topu Sandra'ya verdi.
+16 Sandra topu Daniel'e verdi.
+17 Daniel kaç tane eşya taşıyor? 	bir	12 15 16
+1 Mary salona gitti.
+2 Mary ofise gitti.
+3 Sandra oradaki sütü aldı.
+4 John salona geri döndü.
+5 Sandra kaç tane eşya taşıyor? 	bir	3
+6 Sandra bahçeye gitti.
+7 Sandra sütü John'a verdi.
+8 Sandra kaç tane eşya taşıyor? 	hiç	3 7
+9 John mutfağa gitti.
+10 Mary koridora gitti.
+11 Sandra kaç tane eşya taşıyor? 	hiç	3 7
+12 Sandra koridora gitti.
+13 Daniel mutfağa gitti.
+14 Sandra kaç tane eşya taşıyor? 	hiç	3 7
+15 John sütü Daniel'e verdi.
+16 Daniel sütü bıraktı.
+17 John kaç tane eşya taşıyor? 	hiç	7 15
+1 John banyoya gitti.
+2 Mary ofise gitti.
+3 Sandra banyoya geri döndü.
+4 John salona gitti.
+5 Mary koridora gitti.
+6 Mary oradaki elmayı aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 Sandra mutfağa gitti.
+9 Sandra oradaki topu aldı.
+10 Mary kaç tane eşya taşıyor? 	bir	6
+11 John ofise gitti.
+12 Sandra topu bıraktı.
+13 Sandra kaç tane eşya taşıyor? 	hiç	9 12
+14 Mary elmayı bıraktı.
+15 Sandra banyoya gitti.
+16 Sandra kaç tane eşya taşıyor? 	hiç	9 12
+17 Sandra mutfağa geri döndü.
+18 Sandra topu oradan aldı.
+19 Sandra kaç tane eşya taşıyor? 	bir	9 12 18
+1 Sandra ofise gitti.
+2 Sandra topu oradan aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Mary salona gitti.
+5 Mary banyoya gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	2
+7 Sandra salona geri döndü.
+8 John oradaki sütü aldı.
+9 Sandra kaç tane eşya taşıyor? 	bir	2
+10 Sandra topu John'a verdi.
+11 John sütü oraya bıraktı.
+12 Sandra kaç tane eşya taşıyor? 	hiç	2 10
+13 John oradaki sütü aldı.
+14 John topu Sandra'ya verdi.
+15 John kaç tane eşya taşıyor? 	bir	8 10 11 13 14
+1 Daniel salona gitti.
+2 Sandra mutfağa gitti.
+3 Sandra salona geri döndü.
+4 Mary mutfağa geri döndü.
+5 Daniel mutfağa gitti.
+6 Mary oradaki elmayı aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 Daniel banyoya gitti.
+9 Sandra mutfağa gitti.
+10 Mary kaç tane eşya taşıyor? 	bir	6
+11 Sandra topu oraya aldı.
+12 Sandra banyoya gitti.
+13 Mary kaç tane eşya taşıyor? 	bir	6
+14 Sandra topu bıraktı.
+15 Daniel ofise gitti.
+16 Sandra kaç tane eşya taşıyor? 	hiç	11 14
+17 Mary banyoya gitti.
+18 Mary elmayı Sandra'ya verdi.
+19 Sandra kaç tane eşya taşıyor? 	bir	11 14 18
+1 Daniel bahçeye gitti.
+2 Sandra koridora gitti.
+3 Sandra oradaki elmayı aldı.
+4 John bahçeye gitti.
+5 Sandra kaç tane eşya taşıyor? 	bir	3
+6 John banyoya gitti.
+7 John ofise gitti.
+8 Sandra kaç tane eşya taşıyor? 	bir	3
+9 Sandra ofise gitti.
+10 Daniel oradaki sütü aldı.
+11 Daniel kaç tane eşya taşıyor? 	bir	10
+12 Sandra oradaki topu aldı.
+13 Sandra elmayı John'a verdi.
+14 Daniel kaç tane eşya taşıyor? 	bir	10
+15 Mary banyoya gitti.
+16 Sandra banyoya gitti.
+17 Daniel kaç tane eşya taşıyor? 	bir	10
+1 John salona gitti.
+2 John mutfağa geri döndü.
+3 Mary mutfağa gitti.
+4 Daniel banyoya gitti.
+5 John koridora geri döndü.
+6 Daniel oradaki sütü aldı.
+7 Daniel kaç tane eşya taşıyor? 	bir	6
+8 Sandra banyoya gitti.
+9 Mary koridora geri döndü.
+10 Daniel kaç tane eşya taşıyor? 	bir	6
+11 Daniel ofise gitti.
+12 Mary ofise gitti.
+13 Daniel kaç tane eşya taşıyor? 	bir	6
+14 Mary oradaki elmayı aldı.
+15 Daniel sütü bıraktı.
+16 Daniel kaç tane eşya taşıyor? 	hiç	6 15
+17 Daniel bahçeye gitti.
+18 John bahçeye gitti.
+19 Daniel kaç tane eşya taşıyor? 	hiç	6 15
+1 Sandra oradaki elmayı aldı.
+2 Sandra elmayı Daniel'e verdi.
+3 Sandra kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary banyoya geri döndü.
+5 Sandra topu oraya aldı.
+6 Sandra kaç tane eşya taşıyor? 	bir	1 2 5
+7 Mary bahçeye gitti.
+8 John bahçeye gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	1 2 5
+10 Daniel elmayı Sandra'ya verdi.
+11 Sandra topu bıraktı.
+12 Sandra kaç tane eşya taşıyor? 	bir	1 2 5 10 11
+13 Daniel ofise gitti.
+14 Sandra elmayı oraya bıraktı.
+15 Sandra kaç tane eşya taşıyor? 	hiç	1 2 5 10 11 14
+1 Sandra ofise gitti.
+2 Sandra oradaki elmayı aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 John oradaki topu aldı.
+5 Sandra elmayı Daniel'e verdi.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 5
+7 Daniel elmayı bıraktı.
+8 Daniel oradaki elmayı aldı.
+9 Daniel kaç tane eşya taşıyor? 	bir	5 7 8
+10 Daniel elmayı Sandra'ya verdi.
+11 Sandra elmayı Daniel'e verdi.
+12 Daniel kaç tane eşya taşıyor? 	bir	5 7 8 10 11
+13 John banyoya geri döndü.
+14 John koridora gitti.
+15 Daniel kaç tane eşya taşıyor? 	bir	5 7 8 10 11
+1 Daniel banyoya gitti.
+2 Mary salona geri döndü.
+3 Mary koridora geri döndü.
+4 John oradaki elmayı aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 Daniel koridora gitti.
+7 Mary mutfağa gitti.
+8 John kaç tane eşya taşıyor? 	bir	4
+9 John elmayı bıraktı.
+10 John bahçeye gitti.
+11 John kaç tane eşya taşıyor? 	hiç	4 9
+12 Mary ofise gitti.
+13 Daniel bahçeye gitti.
+14 John kaç tane eşya taşıyor? 	hiç	4 9
+15 John banyoya gitti.
+16 Sandra koridora gitti.
+17 Daniel ofise gitti.
+18 John oradaki elmayı aldı.
+19 John kaç tane eşya taşıyor? 	bir	4 9 18
+1 Sandra koridora gitti.
+2 John bahçeye gitti.
+3 John koridora gitti.
+4 John banyoya geri döndü.
+5 John oradaki elmayı aldı.
+6 Daniel banyoya gitti.
+7 John kaç tane eşya taşıyor? 	bir	5
+8 John elmayı Daniel'e verdi.
+9 Daniel elmayı John'a verdi.
+10 John kaç tane eşya taşıyor? 	bir	5 8 9
+11 Daniel bahçeye gitti.
+12 Sandra banyoya gitti.
+13 Daniel kaç tane eşya taşıyor? 	hiç	8 9
+14 John salona gitti.
+15 Daniel koridora geri döndü.
+16 Daniel kaç tane eşya taşıyor? 	hiç	8 9
+17 John oradaki topu aldı.
+18 John ofise gitti.
+19 John kaç tane eşya taşıyor? 	iki	5 8 9 17
+1 John bahçeye gitti.
+2 Sandra elmayı oraya aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Mary koridora gitti.
+5 John salona geri döndü.
+6 Sandra kaç tane eşya taşıyor? 	bir	2
+7 Sandra bahçeye gitti.
+8 Sandra elmayı bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 8
+10 Sandra banyoya gitti.
+11 Daniel mutfağa gitti.
+12 Sandra kaç tane eşya taşıyor? 	hiç	2 8
+13 Sandra ofise gitti.
+14 John salona geri döndü.
+15 Sandra kaç tane eşya taşıyor? 	hiç	2 8
+1 Sandra koridora gitti.
+2 Mary mutfağa gitti.
+3 Daniel koridora gitti.
+4 John oradaki elmayı aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John elmayı bıraktı.
+7 Mary oradaki sütü aldı.
+8 Mary kaç tane eşya taşıyor? 	bir	7
+9 Mary sütü bıraktı.
+10 John salona gitti.
+11 John kaç tane eşya taşıyor? 	hiç	4 6
+12 Sandra salona gitti.
+13 John topu oradan aldı.
+14 Mary kaç tane eşya taşıyor? 	hiç	7 9
+15 John topu Sandra'ya verdi.
+16 John koridora geri döndü.
+17 John kaç tane eşya taşıyor? 	hiç	4 6 13 15
+1 Daniel salona gitti.
+2 Mary koridora gitti.
+3 Mary mutfağa geri döndü.
+4 Mary bahçeye gitti.
+5 Daniel bahçeye gitti.
+6 Daniel oradaki elmayı aldı.
+7 Daniel kaç tane eşya taşıyor? 	bir	6
+8 Sandra mutfağa gitti.
+9 Sandra bahçeye gitti.
+10 Daniel kaç tane eşya taşıyor? 	bir	6
+11 Daniel elmayı Mary'e verdi.
+12 John salona gitti.
+13 Daniel kaç tane eşya taşıyor? 	hiç	6 11
+14 Mary mutfağa geri döndü.
+15 Mary elmayı bıraktı.
+16 Mary kaç tane eşya taşıyor? 	hiç	11 15
+17 John koridora gitti.
+18 John ofise gitti.
+19 Mary kaç tane eşya taşıyor? 	hiç	11 15
+1 Mary mutfağa gitti.
+2 John oradaki elmayı aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John elmayı Mary'e verdi.
+5 Mary elmayı John'a verdi.
+6 Mary kaç tane eşya taşıyor? 	hiç	4 5
+7 John elmayı Mary'e verdi.
+8 Mary elmayı John'a verdi.
+9 Mary kaç tane eşya taşıyor? 	hiç	4 5 7 8
+10 John elmayı Mary'e verdi.
+11 Mary salona geri döndü.
+12 Mary kaç tane eşya taşıyor? 	bir	4 5 7 8 10
+13 Mary elmayı Sandra'ya verdi.
+14 Sandra ofise gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	4 5 7 8 10 13
+1 Daniel koridora geri döndü.
+2 Mary mutfağa gitti.
+3 Mary elmayı oraya aldı.
+4 Mary ofise gitti.
+5 Mary kaç tane eşya taşıyor? 	bir	3
+6 Mary elmayı Sandra'ya verdi.
+7 Sandra elmayı Mary'e verdi.
+8 Sandra kaç tane eşya taşıyor? 	hiç	6 7
+9 John salona geri döndü.
+10 Sandra topu oraya aldı.
+11 Sandra kaç tane eşya taşıyor? 	bir	6 7 10
+12 Daniel banyoya gitti.
+13 Mary passed the apple to Sandra.
+14 Mary kaç tane eşya taşıyor? 	hiç	3 6 7 13
+15 Mary oradaki sütü aldı.
+16 John mutfağa gitti.
+17 Mary kaç tane eşya taşıyor? 	bir	3 6 7 13 15
+1 Mary salona gitti.
+2 John bahçeye gitti.
+3 Mary banyoya gitti.
+4 Sandra banyoya geri döndü.
+5 Sandra koridora gitti.
+6 John ofise gitti.
+7 Mary oradaki sütü aldı.
+8 Sandra salona gitti.
+9 Mary kaç tane eşya taşıyor? 	bir	7
+10 Daniel salona geri döndü.
+11 Daniel oradaki elmayı aldı.
+12 Daniel kaç tane eşya taşıyor? 	bir	11
+13 Daniel passed the apple to Sandra.
+14 Sandra mutfağa gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	11 13
+16 Mary salona gitti.
+17 Mary sütü Daniel'e verdi.
+18 Daniel kaç tane eşya taşıyor? 	bir	11 13 17
+19 Sandra ofise gitti.
+20 Sandra koridora gitti.
+21 Mary kaç tane eşya taşıyor? 	hiç	7 17
+1 Sandra oradaki topu aldı.
+2 John banyoya geri döndü.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Daniel salona gitti.
+5 Daniel mutfağa gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	1
+7 Sandra topu Daniel'e verdi.
+8 Daniel topu Sandra'ya verdi.
+9 Sandra kaç tane eşya taşıyor? 	bir	1 7 8
+10 John mutfağa gitti.
+11 John salona gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	1 7 8
+13 Sandra topu Daniel'e verdi.
+14 Daniel topu Sandra'ya verdi.
+15 Daniel kaç tane eşya taşıyor? 	hiç	7 8 13 14
+1 John oradaki sütü aldı.
+2 Daniel bahçeye gitti.
+3 John kaç tane eşya taşıyor? 	bir	1
+4 Sandra ofise gitti.
+5 Mary koridora gitti.
+6 John kaç tane eşya taşıyor? 	bir	1
+7 John Mary'e sütü verdi.
+8 Mary sütü John'a verdi.
+9 John kaç tane eşya taşıyor? 	bir	1 7 8
+10 Mary mutfağa gitti.
+11 Mary ofise gitti.
+12 John kaç tane eşya taşıyor? 	bir	1 7 8
+13 Sandra salona geri döndü.
+14 Mary koridora gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	7 8
+1 Sandra salona gitti.
+2 John oradaki topu aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John banyoya geri döndü.
+5 John topu oraya bıraktı.
+6 John kaç tane eşya taşıyor? 	hiç	2 5
+7 John oradaki topu aldı.
+8 John topu bıraktı.
+9 John kaç tane eşya taşıyor? 	hiç	2 5 7 8
+10 Mary bahçeye gitti.
+11 Daniel ofise gitti.
+12 John kaç tane eşya taşıyor? 	hiç	2 5 7 8
+13 Daniel oradaki sütü aldı.
+14 Mary mutfağa gitti.
+15 John kaç tane eşya taşıyor? 	hiç	2 5 7 8
+1 Mary oradaki elmayı aldı.
+2 Sandra ofise geri döndü.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary elmayı bıraktı.
+5 John ofise gitti.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 4
+7 Daniel mutfağa gitti.
+8 John bahçeye gitti.
+9 Mary kaç tane eşya taşıyor? 	hiç	1 4
+10 Daniel banyoya gitti.
+11 Sandra mutfağa gitti.
+12 John koridora gitti.
+13 Mary oradaki elmayı aldı.
+14 Mary kaç tane eşya taşıyor? 	bir	1 4 13
+15 Mary elmayı oraya bıraktı.
+16 John bahçeye gitti.
+17 Mary kaç tane eşya taşıyor? 	hiç	1 4 13 15
+1 Mary salona geri döndü.
+2 Sandra koridora gitti.
+3 Mary ofise gitti.
+4 Sandra salona gitti.
+5 Sandra topu oradan aldı.
+6 Mary mutfağa gitti.
+7 Sandra kaç tane eşya taşıyor? 	bir	5
+8 Sandra oradaki sütü aldı.
+9 Sandra sütü bıraktı.
+10 Sandra kaç tane eşya taşıyor? 	bir	5 8 9
+11 Mary ofise gitti.
+12 Daniel bahçeye gitti.
+13 Sandra kaç tane eşya taşıyor? 	bir	5 8 9
+14 Daniel ofise geri döndü.
+15 Sandra koridora gitti.
+16 Sandra kaç tane eşya taşıyor? 	bir	5 8 9
+17 Sandra elmayı oraya aldı.
+18 John salona gitti.
+19 Sandra kaç tane eşya taşıyor? 	iki	5 8 9 17
+1 Daniel oradaki sütü aldı.
+2 Sandra banyoya gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Sandra ofise gitti.
+5 Daniel sütü John'a verdi.
+6 Daniel kaç tane eşya taşıyor? 	hiç	1 5
+7 John sütü oraya bıraktı.
+8 John salona geri döndü.
+9 John kaç tane eşya taşıyor? 	hiç	5 7
+10 Sandra mutfağa gitti.
+11 Sandra banyoya geri döndü.
+12 Daniel kaç tane eşya taşıyor? 	hiç	1 5
+13 John mutfağa gitti.
+14 Daniel oradaki sütü aldı.
+15 Daniel kaç tane eşya taşıyor? 	bir	1 5 14
+1 Mary salona gitti.
+2 Daniel koridora geri döndü.
+3 Mary koridora gitti.
+4 Mary ofise geri döndü.
+5 Mary banyoya geri döndü.
+6 Sandra salona gitti.
+7 Mary mutfağa gitti.
+8 Daniel salona geri döndü.
+9 Daniel salona gitti.
+10 John mutfağa gitti.
+11 Daniel mutfağa geri döndü.
+12 John bahçeye gitti.
+13 John mutfağa gitti.
+14 Daniel salona geri döndü.
+15 John bahçeye gitti.
+16 Sandra koridora geri döndü.
+17 Sandra ofise gitti.
+18 Sandra topu oraya aldı.
+19 Sandra kaç tane eşya taşıyor? 	bir	18
+20 Sandra topu bıraktı.
+21 John koridora gitti.
+22 Sandra kaç tane eşya taşıyor? 	hiç	18 20
+23 Sandra oradaki elmayı aldı.
+24 Mary koridora gitti.
+25 Sandra kaç tane eşya taşıyor? 	bir	18 20 23
+26 Sandra mutfağa gitti.
+27 John ofise gitti.
+28 Sandra kaç tane eşya taşıyor? 	bir	18 20 23
+29 John salona geri döndü.
+30 Mary ofise gitti.
+31 John salona geri döndü.
+32 Sandra bahçeye gitti.
+33 Sandra elmayı oraya bıraktı.
+34 Daniel elmayı oraya aldı.
+35 Daniel kaç tane eşya taşıyor? 	bir	34
+1 John koridora geri döndü.
+2 Mary koridora gitti.
+3 Sandra ofise geri döndü.
+4 Sandra salona geri döndü.
+5 Mary mutfağa gitti.
+6 Mary salona gitti.
+7 Daniel mutfağa gitti.
+8 Sandra banyoya gitti.
+9 Sandra salona geri döndü.
+10 Daniel koridora gitti.
+11 John bahçeye gitti.
+12 Daniel mutfağa gitti.
+13 Mary banyoya geri döndü.
+14 Daniel banyoya gitti.
+15 Daniel oradaki sütü aldı.
+16 Daniel Mary'e sütü verdi.
+17 Daniel kaç tane eşya taşıyor? 	hiç	15 16
+18 Mary sütü Daniel'e verdi.
+19 John oradaki elmayı aldı.
+20 Mary kaç tane eşya taşıyor? 	hiç	16 18
+21 Daniel sütü bıraktı.
+22 John elmayı bıraktı.
+23 Daniel kaç tane eşya taşıyor? 	hiç	15 16 18 21
+24 Mary oradaki sütü aldı.
+25 John mutfağa gitti.
+26 Daniel kaç tane eşya taşıyor? 	hiç	15 16 18 21
+27 Daniel salona geri döndü.
+28 Daniel salona gitti.
+29 Mary kaç tane eşya taşıyor? 	bir	16 18 24
+1 Sandra oradaki sütü aldı.
+2 Sandra bahçeye gitti.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Sandra sütü John'a verdi.
+5 John sütü Sandra'ya verdi.
+6 Sandra kaç tane eşya taşıyor? 	bir	1 4 5
+7 Sandra banyoya gitti.
+8 Daniel koridora gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	1 4 5
+10 Sandra sütü bıraktı.
+11 Sandra oradaki sütü aldı.
+12 Sandra kaç tane eşya taşıyor? 	bir	1 4 5 10 11
+13 Sandra sütü bıraktı.
+14 Mary mutfağa gitti.
+15 Sandra kaç tane eşya taşıyor? 	hiç	1 4 5 10 11 13
+1 Mary mutfağa gitti.
+2 John bahçeye gitti.
+3 Sandra mutfağa geri döndü.
+4 Sandra banyoya gitti.
+5 Daniel koridora gitti.
+6 Daniel bahçeye gitti.
+7 John oradaki sütü aldı.
+8 Mary bahçeye gitti.
+9 John kaç tane eşya taşıyor? 	bir	7
+10 John sütü oraya bıraktı.
+11 Daniel oradaki sütü aldı.
+12 John kaç tane eşya taşıyor? 	hiç	7 10
+13 Daniel sütü John'a verdi.
+14 Sandra koridora gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	11 13
+16 John Mary'e sütü verdi.
+17 Mary sütü John'a verdi.
+18 John kaç tane eşya taşıyor? 	bir	7 10 13 16 17
+19 Daniel ofise gitti.
+20 John mutfağa gitti.
+21 Mary kaç tane eşya taşıyor? 	hiç	16 17
+1 Sandra salona gitti.
+2 Mary oradaki topu aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 Daniel salona geri döndü.
+5 Mary mutfağa gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	2
+7 Mary topu bıraktı.
+8 John koridora gitti.
+9 Mary kaç tane eşya taşıyor? 	hiç	2 7
+10 Mary salona geri döndü.
+11 Mary koridora gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	2 7
+13 Daniel banyoya gitti.
+14 Daniel elmayı oraya aldı.
+15 Daniel kaç tane eşya taşıyor? 	bir	14
+1 Mary mutfağa gitti.
+2 Sandra elmayı oraya aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 John koridora geri döndü.
+5 Daniel mutfağa geri döndü.
+6 Sandra kaç tane eşya taşıyor? 	bir	2
+7 Sandra ofise geri döndü.
+8 John bahçeye gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	2
+10 Daniel ofise gitti.
+11 Daniel mutfağa gitti.
+12 John banyoya geri döndü.
+13 John oradaki sütü aldı.
+14 John kaç tane eşya taşıyor? 	bir	13
+15 John ofise gitti.
+16 Sandra elmayı bıraktı.
+17 John kaç tane eşya taşıyor? 	bir	13
+1 John salona geri döndü.
+2 Daniel salona gitti.
+3 Mary ofise gitti.
+4 Daniel ofise gitti.
+5 Daniel koridora gitti.
+6 Mary oradaki elmayı aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 John oradaki topu aldı.
+9 Daniel salona gitti.
+10 John kaç tane eşya taşıyor? 	bir	8
+11 John topu Daniel'e verdi.
+12 Daniel banyoya gitti.
+13 John kaç tane eşya taşıyor? 	hiç	8 11
+14 Mary elmayı bıraktı.
+15 Daniel oradaki sütü aldı.
+16 John kaç tane eşya taşıyor? 	hiç	8 11
+17 John ofise gitti.
+18 John oradaki elmayı aldı.
+19 Mary kaç tane eşya taşıyor? 	hiç	6 14
+1 Sandra bahçeye gitti.
+2 John koridora gitti.
+3 Mary ofise geri döndü.
+4 Daniel koridora gitti.
+5 Daniel oradaki sütü aldı.
+6 Daniel sütü bıraktı.
+7 Daniel kaç tane eşya taşıyor? 	hiç	5 6
+8 Daniel oradaki sütü aldı.
+9 Daniel salona gitti.
+10 Daniel kaç tane eşya taşıyor? 	bir	5 6 8
+11 Mary oradaki topu aldı.
+12 Daniel bahçeye gitti.
+13 Daniel kaç tane eşya taşıyor? 	bir	5 6 8
+14 Daniel banyoya geri döndü.
+15 John banyoya gitti.
+16 Mary kaç tane eşya taşıyor? 	bir	11
+17 Daniel elmayı oraya aldı.
+18 Daniel elmayı John'a verdi.
+19 Daniel kaç tane eşya taşıyor? 	bir	5 6 8 17 18
+1 Daniel oradaki topu aldı.
+2 Daniel bahçeye gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Daniel topu bıraktı.
+5 Mary banyoya gitti.
+6 Daniel kaç tane eşya taşıyor? 	hiç	1 4
+7 Sandra ofise gitti.
+8 Mary salona geri döndü.
+9 Daniel kaç tane eşya taşıyor? 	hiç	1 4
+10 John bahçeye gitti.
+11 Daniel oradaki topu aldı.
+12 Daniel kaç tane eşya taşıyor? 	bir	1 4 11
+13 Daniel topu John'a verdi.
+14 John oraya topu bıraktı.
+15 John kaç tane eşya taşıyor? 	hiç	13 14
+1 Mary oradaki elmayı aldı.
+2 Sandra mutfağa gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Daniel topu oradan aldı.
+5 Sandra bahçeye gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 Mary elmayı bıraktı.
+8 Sandra mutfağa gitti.
+9 Daniel kaç tane eşya taşıyor? 	bir	4
+10 Daniel topu bıraktı.
+11 John bahçeye gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	4 10
+13 Mary bahçeye gitti.
+14 Daniel mutfağa gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	4 10
+1 Sandra salona gitti.
+2 Mary koridora gitti.
+3 John bahçeye gitti.
+4 Sandra koridora gitti.
+5 Daniel banyoya gitti.
+6 Mary salona geri döndü.
+7 Mary oradaki elmayı aldı.
+8 Sandra banyoya gitti.
+9 Mary kaç tane eşya taşıyor? 	bir	7
+10 Daniel koridora geri döndü.
+11 Mary elmayı bıraktı.
+12 Mary kaç tane eşya taşıyor? 	hiç	7 11
+13 Daniel ofise gitti.
+14 John salona gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	7 11
+16 Sandra oradaki sütü aldı.
+17 Mary oradaki elmayı aldı.
+18 Mary kaç tane eşya taşıyor? 	bir	7 11 17
+19 Mary elmayı bıraktı.
+20 Mary elmayı oraya aldı.
+21 Sandra kaç tane eşya taşıyor? 	bir	16
+1 John ofise gitti.
+2 Sandra oradaki elmayı aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Daniel salona gitti.
+5 Daniel oradaki sütü aldı.
+6 Daniel kaç tane eşya taşıyor? 	bir	5
+7 Daniel sütü bıraktı.
+8 Sandra elmayı bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 8
+10 John mutfağa gitti.
+11 Sandra oradaki sütü aldı.
+12 Daniel kaç tane eşya taşıyor? 	hiç	5 7
+13 Sandra sütü Daniel'e verdi.
+14 John salona geri döndü.
+15 Sandra kaç tane eşya taşıyor? 	hiç	2 8 11 13
+1 John oradaki sütü aldı.
+2 John Mary'e sütü verdi.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary sütü oraya bıraktı.
+5 Mary bahçeye gitti.
+6 John kaç tane eşya taşıyor? 	hiç	1 2
+7 John salona geri döndü.
+8 John bahçeye gitti.
+9 John kaç tane eşya taşıyor? 	hiç	1 2
+10 Sandra bahçeye gitti.
+11 Daniel oradaki sütü aldı.
+12 Daniel kaç tane eşya taşıyor? 	bir	11
+13 Daniel sütü bıraktı.
+14 Sandra mutfağa geri döndü.
+15 Daniel kaç tane eşya taşıyor? 	hiç	11 13
+1 John elmayı oraya aldı.
+2 Daniel topu oraya aldı.
+3 John kaç tane eşya taşıyor? 	bir	1
+4 Daniel banyoya gitti.
+5 Daniel topu bıraktı.
+6 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+7 Sandra koridora gitti.
+8 John elmayı Sandra'ya verdi.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+10 Sandra bahçeye gitti.
+11 Sandra ofise gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+13 Sandra banyoya geri döndü.
+14 Sandra elmayı Mary'e verdi.
+15 John kaç tane eşya taşıyor? 	hiç	1 8
+1 Mary salona gitti.
+2 John ofise geri döndü.
+3 John oradaki topu aldı.
+4 Daniel salona geri döndü.
+5 John kaç tane eşya taşıyor? 	bir	3
+6 Sandra mutfağa gitti.
+7 Mary oradaki elmayı aldı.
+8 John kaç tane eşya taşıyor? 	bir	3
+9 Sandra salona gitti.
+10 John salona gitti.
+11 Mary kaç tane eşya taşıyor? 	bir	7
+12 Mary elmayı John'a verdi.
+13 John topu bıraktı.
+14 Mary kaç tane eşya taşıyor? 	hiç	7 12
+15 John bahçeye gitti.
+16 John elmayı Daniel'e verdi.
+17 Mary kaç tane eşya taşıyor? 	hiç	7 12
+1 Daniel oradaki sütü aldı.
+2 John banyoya gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Mary salona gitti.
+5 Sandra mutfağa gitti.
+6 Daniel kaç tane eşya taşıyor? 	bir	1
+7 Sandra oradaki topu aldı.
+8 John salona gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	7
+10 John banyoya gitti.
+11 John koridora geri döndü.
+12 Sandra kaç tane eşya taşıyor? 	bir	7
+13 Sandra salona gitti.
+14 Sandra topu Mary'e verdi.
+15 Sandra kaç tane eşya taşıyor? 	hiç	7 14
+1 John elmayı oraya aldı.
+2 Sandra oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	1
+4 Mary oradaki topu aldı.
+5 John elmayı bıraktı.
+6 John kaç tane eşya taşıyor? 	hiç	1 5
+7 John banyoya gitti.
+8 Mary topu bıraktı.
+9 Mary kaç tane eşya taşıyor? 	hiç	4 8
+10 Sandra sütü John'a verdi.
+11 John sütü oraya bıraktı.
+12 John kaç tane eşya taşıyor? 	hiç	1 5 10 11
+13 Sandra oradaki sütü aldı.
+14 Sandra sütü bıraktı.
+15 Sandra kaç tane eşya taşıyor? 	hiç	2 10 13 14
+1 Mary bahçeye gitti.
+2 Daniel koridora gitti.
+3 John oradaki topu aldı.
+4 John bahçeye gitti.
+5 John kaç tane eşya taşıyor? 	bir	3
+6 John topu Mary'e verdi.
+7 Mary topu John'a verdi.
+8 John kaç tane eşya taşıyor? 	bir	3 6 7
+9 John koridora gitti.
+10 John topu Daniel'e verdi.
+11 John kaç tane eşya taşıyor? 	hiç	3 6 7 10
+12 Sandra mutfağa geri döndü.
+13 Daniel topu John'a verdi.
+14 Mary kaç tane eşya taşıyor? 	hiç	6 7
+15 John topu Daniel'e verdi.
+16 Mary koridora geri döndü.
+17 Daniel kaç tane eşya taşıyor? 	bir	10 13 15
+1 John salona geri döndü.
+2 John banyoya gitti.
+3 Mary ofise geri döndü.
+4 Sandra mutfağa gitti.
+5 Sandra topu oradan aldı.
+6 Daniel koridora gitti.
+7 Sandra kaç tane eşya taşıyor? 	bir	5
+8 Daniel bahçeye gitti.
+9 Sandra topu bıraktı.
+10 Sandra kaç tane eşya taşıyor? 	hiç	5 9
+11 Daniel oradaki elmayı aldı.
+12 Sandra oradaki topu aldı.
+13 Sandra kaç tane eşya taşıyor? 	bir	5 9 12
+14 Sandra topu oraya bıraktı.
+15 Mary salona gitti.
+16 Sandra kaç tane eşya taşıyor? 	hiç	5 9 12 14
+17 John ofise gitti.
+18 Sandra oradaki topu aldı.
+19 Sandra kaç tane eşya taşıyor? 	bir	5 9 12 14 18
+1 John koridora geri döndü.
+2 Daniel koridora gitti.
+3 Mary mutfağa geri döndü.
+4 John salona gitti.
+5 Daniel bahçeye gitti.
+6 Mary oradaki elmayı aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 Mary elmayı Sandra'ya verdi.
+9 Mary oradaki topu aldı.
+10 Mary kaç tane eşya taşıyor? 	bir	6 8 9
+11 Sandra elmayı Mary'e verdi.
+12 Mary elmayı Sandra'ya verdi.
+13 Sandra kaç tane eşya taşıyor? 	bir	8 11 12
+14 John ofise gitti.
+15 Sandra elmayı Mary'e verdi.
+16 Sandra kaç tane eşya taşıyor? 	hiç	8 11 12 15
+17 Mary elmayı Sandra'ya verdi.
+18 Sandra ofise geri döndü.
+19 Mary kaç tane eşya taşıyor? 	bir	6 8 9 11 12 15 17
+1 Daniel koridora gitti.
+2 Daniel oradaki sütü aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Sandra topu oraya aldı.
+5 Sandra mutfağa gitti.
+6 Daniel kaç tane eşya taşıyor? 	bir	2
+7 John oradaki elmayı aldı.
+8 Daniel Mary'e sütü verdi.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 8
+10 Mary sütü Daniel'e verdi.
+11 Mary ofise gitti.
+12 John kaç tane eşya taşıyor? 	bir	7
+13 John elmayı Mary'e verdi.
+14 Daniel banyoya gitti.
+15 John kaç tane eşya taşıyor? 	hiç	7 13
+1 John salona gitti.
+2 Sandra koridora gitti.
+3 Mary koridora gitti.
+4 Sandra oradaki sütü aldı.
+5 Sandra kaç tane eşya taşıyor? 	bir	4
+6 Sandra Mary'e sütü verdi.
+7 John mutfağa gitti.
+8 Sandra kaç tane eşya taşıyor? 	hiç	4 6
+9 Sandra oradaki topu aldı.
+10 Sandra topu Mary'e verdi.
+11 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10
+12 Mary sütü bıraktı.
+13 Mary topu Sandra'ya verdi.
+14 Sandra kaç tane eşya taşıyor? 	bir	4 6 9 10 13
+15 Sandra topu Mary'e verdi.
+16 Mary topu Sandra'ya verdi.
+17 Mary kaç tane eşya taşıyor? 	hiç	6 10 12 13 15 16
+1 Mary oradaki sütü aldı.
+2 Sandra topu oradan aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 John koridora gitti.
+5 Sandra topu oraya bıraktı.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 5
+7 Mary koridora gitti.
+8 Mary sütü John'a verdi.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 5
+10 Mary banyoya gitti.
+11 Mary koridora gitti.
+12 Sandra kaç tane eşya taşıyor? 	hiç	2 5
+13 John salona gitti.
+14 John sütü Daniel'e verdi.
+15 John kaç tane eşya taşıyor? 	hiç	8 14
+1 Sandra salona gitti.
+2 Sandra koridora gitti.
+3 John salona gitti.
+4 John koridora geri döndü.
+5 Mary mutfağa gitti.
+6 Daniel banyoya gitti.
+7 Sandra ofise geri döndü.
+8 Daniel salona gitti.
+9 Sandra topu oradan aldı.
+10 Mary banyoya gitti.
+11 Sandra kaç tane eşya taşıyor? 	bir	9
+12 Daniel ofise gitti.
+13 John ofise gitti.
+14 Sandra kaç tane eşya taşıyor? 	bir	9
+15 Sandra topu John'a verdi.
+16 Daniel koridora gitti.
+17 Sandra kaç tane eşya taşıyor? 	hiç	9 15
+18 Daniel mutfağa geri döndü.
+19 John topu bıraktı.
+20 Sandra kaç tane eşya taşıyor? 	hiç	9 15
+21 John koridora gitti.
+22 John banyoya gitti.
+23 John kaç tane eşya taşıyor? 	hiç	15 19
+1 Mary oradaki sütü aldı.
+2 Sandra salona gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary sütü Daniel'e verdi.
+5 Daniel Mary'e sütü verdi.
+6 Mary kaç tane eşya taşıyor? 	bir	1 4 5
+7 Daniel mutfağa gitti.
+8 Mary sütü bıraktı.
+9 Daniel kaç tane eşya taşıyor? 	hiç	4 5
+10 Daniel oradaki topu aldı.
+11 Daniel ofise gitti.
+12 Daniel kaç tane eşya taşıyor? 	bir	4 5 10
+13 Daniel topu bıraktı.
+14 Mary oradaki sütü aldı.
+15 Daniel kaç tane eşya taşıyor? 	hiç	4 5 10 13
+1 Daniel oradaki sütü aldı.
+2 Sandra ofise geri döndü.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Daniel elmayı oraya aldı.
+5 Daniel elmayı Sandra'ya verdi.
+6 Daniel kaç tane eşya taşıyor? 	bir	1 4 5
+7 Sandra elmayı Daniel'e verdi.
+8 Daniel passed the apple to Sandra.
+9 Daniel kaç tane eşya taşıyor? 	bir	1 4 5 7 8
+10 Sandra mutfağa geri döndü.
+11 Sandra elmayı John'a verdi.
+12 Sandra kaç tane eşya taşıyor? 	hiç	5 7 8 11
+13 John elmayı bıraktı.
+14 Daniel koridora gitti.
+15 John kaç tane eşya taşıyor? 	hiç	11 13
+1 John salona gitti.
+2 John banyoya geri döndü.
+3 Mary koridora gitti.
+4 Sandra ofise geri döndü.
+5 Daniel salona geri döndü.
+6 Daniel ofise gitti.
+7 Mary banyoya gitti.
+8 Mary bahçeye gitti.
+9 Daniel koridora geri döndü.
+10 Sandra elmayı oraya aldı.
+11 Sandra kaç tane eşya taşıyor? 	bir	10
+12 Sandra banyoya gitti.
+13 Sandra elmayı John'a verdi.
+14 Sandra kaç tane eşya taşıyor? 	hiç	10 13
+15 John passed the apple to Sandra.
+16 Sandra elmayı John'a verdi.
+17 Sandra kaç tane eşya taşıyor? 	hiç	10 13 15 16
+18 John passed the apple to Sandra.
+19 Sandra elmayı John'a verdi.
+20 Sandra kaç tane eşya taşıyor? 	hiç	10 13 15 16 18 19
+21 John passed the apple to Sandra.
+22 Sandra elmayı John'a verdi.
+23 Sandra kaç tane eşya taşıyor? 	hiç	10 13 15 16 18 19 21 22
+1 Mary mutfağa gitti.
+2 Daniel bahçeye gitti.
+3 Mary salona gitti.
+4 Mary banyoya gitti.
+5 Sandra koridora geri döndü.
+6 Daniel salona gitti.
+7 Mary oradaki topu aldı.
+8 Daniel oradaki sütü aldı.
+9 Mary kaç tane eşya taşıyor? 	bir	7
+10 Daniel sütü bıraktı.
+11 Sandra elmayı oraya aldı.
+12 Daniel kaç tane eşya taşıyor? 	hiç	8 10
+13 Sandra elmayı John'a verdi.
+14 John elmayı Sandra'ya verdi.
+15 Daniel kaç tane eşya taşıyor? 	hiç	8 10
+16 Mary mutfağa geri döndü.
+17 Mary salona geri döndü.
+18 Sandra kaç tane eşya taşıyor? 	bir	11 13 14
+19 Sandra elmayı bıraktı.
+20 Mary topu Daniel'e verdi.
+21 Sandra kaç tane eşya taşıyor? 	hiç	11 13 14 19
+1 Mary oradaki topu aldı.
+2 John banyoya geri döndü.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Sandra oradaki sütü aldı.
+5 Sandra sütü John'a verdi.
+6 Sandra kaç tane eşya taşıyor? 	hiç	4 5
+7 John passed the milk to Sandra.
+8 Sandra sütü John'a verdi.
+9 Sandra kaç tane eşya taşıyor? 	hiç	4 5 7 8
+10 John passed the milk to Sandra.
+11 Mary koridora gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	4 5 7 8 10
+13 Mary banyoya gitti.
+14 Daniel salona gitti.
+15 John kaç tane eşya taşıyor? 	hiç	5 7 8 10
+1 Sandra koridora gitti.
+2 Mary ofise gitti.
+3 John oradaki sütü aldı.
+4 John sütü bıraktı.
+5 John kaç tane eşya taşıyor? 	hiç	3 4
+6 Sandra bahçeye gitti.
+7 Daniel bahçeye gitti.
+8 John kaç tane eşya taşıyor? 	hiç	3 4
+9 John ofise gitti.
+10 John topu oraya aldı.
+11 John kaç tane eşya taşıyor? 	bir	3 4 10
+12 John koridora gitti.
+13 John banyoya gitti.
+14 John kaç tane eşya taşıyor? 	bir	3 4 10
+15 Daniel elmayı oraya aldı.
+16 Daniel banyoya gitti.
+17 Daniel kaç tane eşya taşıyor? 	bir	15
+1 Daniel ofise gitti.
+2 Daniel elmayı oraya aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Sandra ofise gitti.
+5 Daniel elmayı Sandra'ya verdi.
+6 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+7 John bahçeye gitti.
+8 Sandra elmayı Daniel'e verdi.
+9 Daniel kaç tane eşya taşıyor? 	bir	2 5 8
+10 Daniel passed the apple to Sandra.
+11 Daniel salona geri döndü.
+12 Sandra kaç tane eşya taşıyor? 	bir	5 8 10
+13 Sandra salona geri döndü.
+14 Sandra elmayı John'a verdi.
+15 Sandra kaç tane eşya taşıyor? 	hiç	5 8 10 14
+1 Sandra topu oraya aldı.
+2 Daniel koridora gitti.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 John oradaki sütü aldı.
+5 John bahçeye gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	1
+7 Daniel elmayı oraya aldı.
+8 Daniel elmayı Mary'e verdi.
+9 Daniel kaç tane eşya taşıyor? 	hiç	7 8
+10 Daniel banyoya gitti.
+11 John koridora gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	7 8
+13 Mary elmayı John'a verdi.
+14 Sandra salona gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	8 13
+1 Mary oradaki topu aldı.
+2 Sandra elmayı oraya aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Mary topu bıraktı.
+5 Mary topu oradan aldı.
+6 Mary kaç tane eşya taşıyor? 	bir	1 4 5
+7 Sandra elmayı Daniel'e verdi.
+8 John salona gitti.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 7
+10 Daniel elmayı Sandra'ya verdi.
+11 John bahçeye gitti.
+12 Mary kaç tane eşya taşıyor? 	bir	1 4 5
+13 Sandra banyoya gitti.
+14 Mary topu bıraktı.
+15 Mary kaç tane eşya taşıyor? 	hiç	1 4 5 14
+1 Daniel salona gitti.
+2 Daniel oradaki elmayı aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel oradaki sütü aldı.
+5 Daniel elmayı Sandra'ya verdi.
+6 Daniel kaç tane eşya taşıyor? 	bir	2 4 5
+7 Sandra elmayı Daniel'e verdi.
+8 Sandra banyoya gitti.
+9 Daniel kaç tane eşya taşıyor? 	iki	2 4 5 7
+10 Daniel ofise gitti.
+11 Daniel sütü bıraktı.
+12 Daniel kaç tane eşya taşıyor? 	bir	2 4 5 7 11
+13 Daniel oradaki sütü aldı.
+14 John koridora gitti.
+15 Daniel kaç tane eşya taşıyor? 	iki	2 4 5 7 11 13
+1 Sandra oradaki elmayı aldı.
+2 Sandra elmayı bıraktı.
+3 Sandra kaç tane eşya taşıyor? 	hiç	1 2
+4 Sandra oradaki topu aldı.
+5 John banyoya gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	1 2 4
+7 Sandra topu John'a verdi.
+8 Sandra salona geri döndü.
+9 Sandra kaç tane eşya taşıyor? 	hiç	1 2 4 7
+10 Daniel mutfağa geri döndü.
+11 Daniel oradaki sütü aldı.
+12 Sandra kaç tane eşya taşıyor? 	hiç	1 2 4 7
+13 John oradaki elmayı aldı.
+14 John elmayı bıraktı.
+15 Daniel kaç tane eşya taşıyor? 	bir	11
+1 Mary elmayı oraya aldı.
+2 Mary elmayı John'a verdi.
+3 Mary kaç tane eşya taşıyor? 	hiç	1 2
+4 John oradaki topu aldı.
+5 Mary ofise geri döndü.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 2
+7 Daniel koridora gitti.
+8 Sandra bahçeye gitti.
+9 John kaç tane eşya taşıyor? 	iki	2 4
+10 Daniel mutfağa geri döndü.
+11 Daniel koridora gitti.
+12 Daniel mutfağa gitti.
+13 John bahçeye gitti.
+14 John elmayı Sandra'ya verdi.
+15 Sandra elmayı John'a verdi.
+16 John kaç tane eşya taşıyor? 	iki	2 4 14 15
+17 Sandra banyoya geri döndü.
+18 John banyoya gitti.
+19 Sandra kaç tane eşya taşıyor? 	hiç	14 15
+1 Mary oradaki topu aldı.
+2 Sandra salona geri döndü.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary oraya topu bıraktı.
+5 Daniel salona gitti.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 4
+7 Mary koridora geri döndü.
+8 Daniel oradaki elmayı aldı.
+9 Mary kaç tane eşya taşıyor? 	hiç	1 4
+10 Sandra ofise gitti.
+11 Sandra salona gitti.
+12 Daniel kaç tane eşya taşıyor? 	bir	8
+13 Daniel passed the apple to Sandra.
+14 Sandra elmayı Daniel'e verdi.
+15 Sandra kaç tane eşya taşıyor? 	hiç	13 14
+1 Mary oradaki sütü aldı.
+2 Daniel oradaki elmayı aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary mutfağa gitti.
+5 Daniel elmayı Mary'e verdi.
+6 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+7 Mary elmayı Sandra'ya verdi.
+8 Sandra elmayı bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	hiç	7 8
+10 Mary sütü bıraktı.
+11 Daniel salona gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	1 5 7 10
+13 Sandra oradaki sütü aldı.
+14 Mary bahçeye gitti.
+15 Sandra kaç tane eşya taşıyor? 	bir	7 8 13
+1 Sandra banyoya gitti.
+2 Sandra ofise gitti.
+3 Daniel banyoya gitti.
+4 Daniel koridora gitti.
+5 Daniel oradaki sütü aldı.
+6 John oradaki elmayı aldı.
+7 John kaç tane eşya taşıyor? 	bir	6
+8 Mary ofise gitti.
+9 John banyoya gitti.
+10 Daniel kaç tane eşya taşıyor? 	bir	5
+11 Mary koridora geri döndü.
+12 Mary ofise geri döndü.
+13 John kaç tane eşya taşıyor? 	bir	6
+14 Mary salona geri döndü.
+15 Daniel sütü bıraktı.
+16 Daniel kaç tane eşya taşıyor? 	hiç	5 15
+17 Mary ofise gitti.
+18 John elmayı bıraktı.
+19 John kaç tane eşya taşıyor? 	hiç	6 18
+1 John oradaki elmayı aldı.
+2 John banyoya gitti.
+3 John kaç tane eşya taşıyor? 	bir	1
+4 Daniel ofise gitti.
+5 Mary bahçeye gitti.
+6 John kaç tane eşya taşıyor? 	bir	1
+7 Daniel banyoya geri döndü.
+8 Sandra koridora gitti.
+9 Mary topu oraya aldı.
+10 Mary ofise gitti.
+11 Mary kaç tane eşya taşıyor? 	bir	9
+12 John elmayı Daniel'e verdi.
+13 John salona geri döndü.
+14 Mary kaç tane eşya taşıyor? 	bir	9
+15 Mary topu bıraktı.
+16 Mary oradaki sütü aldı.
+17 Mary kaç tane eşya taşıyor? 	bir	9 15 16
+1 Sandra ofise geri döndü.
+2 Daniel bahçeye gitti.
+3 Daniel koridora gitti.
+4 Mary bahçeye gitti.
+5 Sandra banyoya geri döndü.
+6 Sandra oradaki sütü aldı.
+7 Sandra kaç tane eşya taşıyor? 	bir	6
+8 Sandra ofise gitti.
+9 Sandra sütü John'a verdi.
+10 Sandra kaç tane eşya taşıyor? 	hiç	6 9
+11 John passed the milk to Sandra.
+12 Mary banyoya geri döndü.
+13 Sandra kaç tane eşya taşıyor? 	bir	6 9 11
+14 John mutfağa gitti.
+15 Daniel ofise geri döndü.
+16 Sandra kaç tane eşya taşıyor? 	bir	6 9 11
+17 John koridora gitti.
+18 Sandra sütü Daniel'e verdi.
+19 Sandra kaç tane eşya taşıyor? 	hiç	6 9 11 18
+1 Mary koridora gitti.
+2 Daniel oradaki elmayı aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel banyoya gitti.
+5 Daniel elmayı bıraktı.
+6 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+7 John koridora gitti.
+8 Daniel oradaki elmayı aldı.
+9 Daniel kaç tane eşya taşıyor? 	bir	2 5 8
+10 Mary oradaki sütü aldı.
+11 Mary sütü John'a verdi.
+12 Daniel kaç tane eşya taşıyor? 	bir	2 5 8
+13 John Mary'e sütü verdi.
+14 John banyoya gitti.
+15 Mary kaç tane eşya taşıyor? 	bir	10 11 13
+1 John bahçeye gitti.
+2 Sandra bahçeye gitti.
+3 Mary ofise gitti.
+4 Sandra oradaki elmayı aldı.
+5 Sandra kaç tane eşya taşıyor? 	bir	4
+6 Sandra elmayı John'a verdi.
+7 John elmayı bıraktı.
+8 Sandra kaç tane eşya taşıyor? 	hiç	4 6
+9 Sandra oradaki elmayı aldı.
+10 Sandra elmayı John'a verdi.
+11 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10
+12 John banyoya gitti.
+13 John elmayı bıraktı.
+14 John kaç tane eşya taşıyor? 	hiç	6 7 10 13
+15 John oradaki elmayı aldı.
+16 John elmayı bıraktı.
+17 John kaç tane eşya taşıyor? 	hiç	6 7 10 13 15 16
+1 Sandra bahçeye gitti.
+2 Sandra ofise gitti.
+3 Mary ofise gitti.
+4 John mutfağa gitti.
+5 Sandra koridora gitti.
+6 Daniel salona gitti.
+7 Mary mutfağa gitti.
+8 Daniel mutfağa gitti.
+9 Sandra elmayı oraya aldı.
+10 Sandra elmayı bıraktı.
+11 Sandra kaç tane eşya taşıyor? 	hiç	9 10
+12 Sandra salona gitti.
+13 Mary ofise gitti.
+14 Sandra kaç tane eşya taşıyor? 	hiç	9 10
+15 Daniel koridora gitti.
+16 Sandra oradaki topu aldı.
+17 Sandra kaç tane eşya taşıyor? 	bir	9 10 16
+18 Mary salona geri döndü.
+19 Sandra topu Mary'e verdi.
+20 Sandra kaç tane eşya taşıyor? 	hiç	9 10 16 19
+21 Mary topu Sandra'ya verdi.
+22 Sandra topu bıraktı.
+23 Sandra kaç tane eşya taşıyor? 	hiç	9 10 16 19 21 22
+1 Daniel oradaki topu aldı.
+2 Daniel topu John'a verdi.
+3 Daniel kaç tane eşya taşıyor? 	hiç	1 2
+4 Sandra bahçeye gitti.
+5 John topu Daniel'e verdi.
+6 John kaç tane eşya taşıyor? 	hiç	2 5
+7 Mary mutfağa gitti.
+8 John salona geri döndü.
+9 John kaç tane eşya taşıyor? 	hiç	2 5
+10 Daniel topu bıraktı.
+11 Daniel banyoya gitti.
+12 John kaç tane eşya taşıyor? 	hiç	2 5
+13 Daniel bahçeye gitti.
+14 Sandra salona geri döndü.
+15 Daniel kaç tane eşya taşıyor? 	hiç	1 2 5 10
+1 John salona geri döndü.
+2 John banyoya gitti.
+3 Daniel oradaki sütü aldı.
+4 Sandra banyoya gitti.
+5 Daniel kaç tane eşya taşıyor? 	bir	3
+6 Daniel sütü bıraktı.
+7 Daniel mutfağa gitti.
+8 Daniel kaç tane eşya taşıyor? 	hiç	3 6
+9 Mary salona gitti.
+10 Daniel banyoya gitti.
+11 Daniel kaç tane eşya taşıyor? 	hiç	3 6
+12 Sandra koridora gitti.
+13 Sandra oradaki sütü aldı.
+14 Sandra kaç tane eşya taşıyor? 	bir	13
+15 Sandra oradaki elmayı aldı.
+16 Mary bahçeye gitti.
+17 Sandra kaç tane eşya taşıyor? 	iki	13 15
+1 Sandra oradaki sütü aldı.
+2 John oradaki elmayı aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 John elmayı oraya bıraktı.
+5 John elmayı oraya aldı.
+6 John kaç tane eşya taşıyor? 	bir	2 4 5
+7 John elmayı Daniel'e verdi.
+8 Mary koridora gitti.
+9 John kaç tane eşya taşıyor? 	hiç	2 4 5 7
+10 Daniel elmayı bıraktı.
+11 Sandra Mary'e sütü verdi.
+12 John kaç tane eşya taşıyor? 	hiç	2 4 5 7
+13 Daniel bahçeye gitti.
+14 Daniel ofise geri döndü.
+15 Sandra kaç tane eşya taşıyor? 	hiç	1 11
+1 Sandra mutfağa gitti.
+2 Daniel oradaki elmayı aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel elmayı bıraktı.
+5 Daniel oradaki elmayı aldı.
+6 Daniel kaç tane eşya taşıyor? 	bir	2 4 5
+7 Sandra topu oraya aldı.
+8 John oradaki sütü aldı.
+9 Daniel kaç tane eşya taşıyor? 	bir	2 4 5
+10 Daniel elmayı bıraktı.
+11 Sandra koridora gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	2 4 5 10
+13 Mary bahçeye gitti.
+14 Sandra topu John'a verdi.
+15 Daniel kaç tane eşya taşıyor? 	hiç	2 4 5 10
+1 John salona geri döndü.
+2 Daniel oradaki elmayı aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel elmayı bıraktı.
+5 Sandra banyoya gitti.
+6 Daniel kaç tane eşya taşıyor? 	hiç	2 4
+7 Daniel mutfağa geri döndü.
+8 Mary banyoya geri döndü.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 4
+10 Sandra oradaki elmayı aldı.
+11 Sandra bahçeye gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	10
+13 John salona gitti.
+14 Sandra elmayı bıraktı.
+15 Sandra kaç tane eşya taşıyor? 	hiç	10 14
+1 Mary bahçeye gitti.
+2 Mary banyoya geri döndü.
+3 John topu oradan aldı.
+4 John oradaki sütü aldı.
+5 John kaç tane eşya taşıyor? 	iki	3 4
+6 Mary koridora gitti.
+7 Mary banyoya geri döndü.
+8 John kaç tane eşya taşıyor? 	iki	3 4
+9 John sütü bıraktı.
+10 Daniel mutfağa gitti.
+11 John kaç tane eşya taşıyor? 	bir	3 4 9
+12 John ofise geri döndü.
+13 John topu bıraktı.
+14 John kaç tane eşya taşıyor? 	hiç	3 4 9 13
+15 Sandra bahçeye gitti.
+16 Daniel oradaki elmayı aldı.
+17 Daniel kaç tane eşya taşıyor? 	bir	16
+1 Sandra bahçeye gitti.
+2 Mary salona gitti.
+3 John koridora gitti.
+4 Daniel koridora gitti.
+5 Daniel ofise geri döndü.
+6 Daniel bahçeye gitti.
+7 John banyoya gitti.
+8 Mary koridora gitti.
+9 Daniel ofise gitti.
+10 Daniel salona gitti.
+11 Mary bahçeye gitti.
+12 John salona geri döndü.
+13 John salona gitti.
+14 Daniel salona geri döndü.
+15 Mary mutfağa gitti.
+16 Mary koridora gitti.
+17 Mary salona geri döndü.
+18 John bahçeye gitti.
+19 Mary mutfağa gitti.
+20 Daniel banyoya gitti.
+21 John ofise geri döndü.
+22 John bahçeye gitti.
+23 Daniel salona gitti.
+24 Mary banyoya gitti.
+25 Daniel banyoya gitti.
+26 Mary oradaki sütü aldı.
+27 Mary kaç tane eşya taşıyor? 	bir	26
+28 Mary sütü Daniel'e verdi.
+29 Daniel Mary'e sütü verdi.
+30 Mary kaç tane eşya taşıyor? 	bir	26 28 29
+31 Mary sütü Daniel'e verdi.
+32 Daniel Mary'e sütü verdi.
+33 Mary kaç tane eşya taşıyor? 	bir	26 28 29 31 32
+34 Sandra salona gitti.
+35 Daniel mutfağa gitti.
+36 Daniel kaç tane eşya taşıyor? 	hiç	28 29 31 32
+37 Daniel koridora gitti.
+38 John ofise gitti.
+39 Daniel kaç tane eşya taşıyor? 	hiç	28 29 31 32
+1 Mary oradaki elmayı aldı.
+2 John mutfağa geri döndü.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 John bahçeye gitti.
+5 Mary elmayı oraya bıraktı.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 5
+7 John banyoya gitti.
+8 Mary elmayı oraya aldı.
+9 Mary kaç tane eşya taşıyor? 	bir	1 5 8
+10 John bahçeye gitti.
+11 Mary elmayı bıraktı.
+12 Mary kaç tane eşya taşıyor? 	hiç	1 5 8 11
+13 Sandra salona gitti.
+14 Mary mutfağa gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	1 5 8 11
+1 Mary koridora gitti.
+2 John oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John Mary'e sütü verdi.
+5 Mary sütü John'a verdi.
+6 John kaç tane eşya taşıyor? 	bir	2 4 5
+7 Daniel salona gitti.
+8 Mary salona gitti.
+9 John kaç tane eşya taşıyor? 	bir	2 4 5
+10 John bahçeye gitti.
+11 John sütü bıraktı.
+12 John kaç tane eşya taşıyor? 	hiç	2 4 5 11
+13 Sandra ofise geri döndü.
+14 Daniel ofise gitti.
+15 John kaç tane eşya taşıyor? 	hiç	2 4 5 11
+1 Sandra bahçeye gitti.
+2 John oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Daniel elmayı oraya aldı.
+5 Mary bahçeye gitti.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 Mary banyoya geri döndü.
+8 Daniel elmayı bıraktı.
+9 Daniel kaç tane eşya taşıyor? 	hiç	4 8
+10 John sütü Daniel'e verdi.
+11 Daniel elmayı oraya aldı.
+12 Daniel kaç tane eşya taşıyor? 	iki	4 8 10 11
+13 Daniel elmayı John'a verdi.
+14 John elmayı Daniel'e verdi.
+15 John kaç tane eşya taşıyor? 	hiç	2 10 13 14
+1 Daniel oradaki topu aldı.
+2 Daniel elmayı oraya aldı.
+3 Daniel kaç tane eşya taşıyor? 	iki	1 2
+4 Daniel elmayı bıraktı.
+5 Daniel topu bıraktı.
+6 Daniel kaç tane eşya taşıyor? 	hiç	1 2 4 5
+7 Daniel banyoya gitti.
+8 Sandra bahçeye gitti.
+9 Daniel kaç tane eşya taşıyor? 	hiç	1 2 4 5
+10 John bahçeye gitti.
+11 John mutfağa gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	1 2 4 5
+13 Mary salona gitti.
+14 Mary banyoya gitti.
+15 Daniel salona geri döndü.
+16 Sandra koridora gitti.
+17 John koridora geri döndü.
+18 John bahçeye gitti.
+19 John ofise gitti.
+20 Mary koridora gitti.
+21 John salona gitti.
+22 Mary oradaki sütü aldı.
+23 Mary kaç tane eşya taşıyor? 	bir	22
+1 Mary oradaki sütü aldı.
+2 Daniel ofise gitti.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary sütü bıraktı.
+5 Daniel salona geri döndü.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 4
+7 Mary oradaki sütü aldı.
+8 Daniel oradaki topu aldı.
+9 Daniel kaç tane eşya taşıyor? 	bir	8
+10 Daniel topu bıraktı.
+11 John banyoya gitti.
+12 Mary kaç tane eşya taşıyor? 	bir	1 4 7
+13 Mary mutfağa gitti.
+14 Daniel koridora gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	8 10
+1 John ofise geri döndü.
+2 Sandra oradaki elmayı aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Mary koridora geri döndü.
+5 Daniel oradaki topu aldı.
+6 Sandra kaç tane eşya taşıyor? 	bir	2
+7 John banyoya gitti.
+8 John koridora geri döndü.
+9 Sandra kaç tane eşya taşıyor? 	bir	2
+10 Daniel banyoya gitti.
+11 Daniel topu bıraktı.
+12 Daniel kaç tane eşya taşıyor? 	hiç	5 11
+13 Sandra oradaki sütü aldı.
+14 Sandra elmayı Daniel'e verdi.
+15 Sandra kaç tane eşya taşıyor? 	bir	2 13 14
+1 Mary salona gitti.
+2 Daniel elmayı oraya aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel topu oradan aldı.
+5 Daniel elmayı John'a verdi.
+6 Daniel kaç tane eşya taşıyor? 	bir	2 4 5
+7 Mary koridora geri döndü.
+8 Daniel topu bıraktı.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 4 5 8
+10 John elmayı oraya bıraktı.
+11 Sandra mutfağa gitti.
+12 John kaç tane eşya taşıyor? 	hiç	5 10
+13 Mary oradaki elmayı aldı.
+14 Mary elmayı John'a verdi.
+15 Mary kaç tane eşya taşıyor? 	hiç	13 14
+1 Daniel koridora gitti.
+2 Sandra banyoya gitti.
+3 Sandra koridora gitti.
+4 John banyoya gitti.
+5 Sandra salona geri döndü.
+6 Daniel salona gitti.
+7 Sandra banyoya geri döndü.
+8 Mary salona gitti.
+9 Mary banyoya gitti.
+10 John salona geri döndü.
+11 Sandra koridora geri döndü.
+12 John banyoya gitti.
+13 John bahçeye gitti.
+14 John oradaki topu aldı.
+15 John kaç tane eşya taşıyor? 	bir	14
+16 Sandra banyoya gitti.
+17 John topu oraya bıraktı.
+18 John kaç tane eşya taşıyor? 	hiç	14 17
+19 John oradaki topu aldı.
+20 Daniel elmayı oraya aldı.
+21 John kaç tane eşya taşıyor? 	bir	14 17 19
+22 Daniel elmayı oraya bıraktı.
+23 Daniel koridora gitti.
+24 John kaç tane eşya taşıyor? 	bir	14 17 19
+25 Mary ofise gitti.
+26 John topu bıraktı.
+27 John kaç tane eşya taşıyor? 	hiç	14 17 19 26
+1 Sandra oradaki elmayı aldı.
+2 Sandra elmayı bıraktı.
+3 Sandra kaç tane eşya taşıyor? 	hiç	1 2
+4 Sandra oradaki elmayı aldı.
+5 Sandra elmayı bıraktı.
+6 Sandra kaç tane eşya taşıyor? 	hiç	1 2 4 5
+7 Daniel bahçeye gitti.
+8 John koridora gitti.
+9 Sandra kaç tane eşya taşıyor? 	hiç	1 2 4 5
+10 Sandra oradaki elmayı aldı.
+11 Sandra elmayı bıraktı.
+12 Sandra kaç tane eşya taşıyor? 	hiç	1 2 4 5 10 11
+13 Sandra salona geri döndü.
+14 Daniel salona gitti.
+15 Sandra kaç tane eşya taşıyor? 	hiç	1 2 4 5 10 11
+1 Daniel koridora gitti.
+2 Mary ofise gitti.
+3 Daniel salona geri döndü.
+4 Daniel oradaki topu aldı.
+5 Daniel kaç tane eşya taşıyor? 	bir	4
+6 Daniel banyoya gitti.
+7 John oradaki sütü aldı.
+8 Daniel kaç tane eşya taşıyor? 	bir	4
+9 Daniel ofise gitti.
+10 John koridora gitti.
+11 Daniel kaç tane eşya taşıyor? 	bir	4
+12 Daniel topu Mary'e verdi.
+13 Mary salona gitti.
+14 John kaç tane eşya taşıyor? 	bir	7
+15 John sütü bıraktı.
+16 John oradaki elmayı aldı.
+17 John kaç tane eşya taşıyor? 	bir	7 15 16
+1 Sandra koridora gitti.
+2 John elmayı oraya aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John elmayı Sandra'ya verdi.
+5 Sandra elmayı John'a verdi.
+6 John kaç tane eşya taşıyor? 	bir	2 4 5
+7 John passed the apple to Sandra.
+8 Sandra banyoya gitti.
+9 John kaç tane eşya taşıyor? 	hiç	2 4 5 7
+10 John ofise gitti.
+11 Daniel koridora gitti.
+12 John kaç tane eşya taşıyor? 	hiç	2 4 5 7
+13 Mary banyoya gitti.
+14 Sandra salona geri döndü.
+15 John mutfağa gitti.
+16 Sandra elmayı bıraktı.
+17 Sandra kaç tane eşya taşıyor? 	hiç	4 5 7 16
+1 Sandra salona gitti.
+2 Sandra banyoya gitti.
+3 Daniel koridora gitti.
+4 Mary salona gitti.
+5 Mary mutfağa gitti.
+6 Mary salona gitti.
+7 John banyoya gitti.
+8 Mary oradaki sütü aldı.
+9 Mary kaç tane eşya taşıyor? 	bir	8
+10 John ofise geri döndü.
+11 Mary mutfağa gitti.
+12 Mary kaç tane eşya taşıyor? 	bir	8
+13 Mary sütü bıraktı.
+14 Mary salona gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	8 13
+16 Daniel ofise gitti.
+17 Mary banyoya gitti.
+18 Mary kaç tane eşya taşıyor? 	hiç	8 13
+19 Mary salona gitti.
+20 Sandra mutfağa geri döndü.
+21 John salona gitti.
+22 Sandra elmayı oraya aldı.
+23 Sandra kaç tane eşya taşıyor? 	bir	22
+1 Daniel salona gitti.
+2 Mary topu oraya aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 John oradaki sütü aldı.
+5 Mary topu John'a verdi.
+6 Mary kaç tane eşya taşıyor? 	hiç	2 5
+7 John topu bıraktı.
+8 Daniel mutfağa geri döndü.
+9 Mary kaç tane eşya taşıyor? 	hiç	2 5
+10 Daniel oradaki topu aldı.
+11 Daniel topu John'a verdi.
+12 John kaç tane eşya taşıyor? 	iki	4 5 7 11
+13 John topu Mary'e verdi.
+14 Mary topu John'a verdi.
+15 Daniel kaç tane eşya taşıyor? 	hiç	10 11
+1 Mary ofise gitti.
+2 Daniel oradaki sütü aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 John koridora gitti.
+5 Daniel salona gitti.
+6 Daniel kaç tane eşya taşıyor? 	bir	2
+7 Daniel sütü Sandra'ya verdi.
+8 Mary bahçeye gitti.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 7
+10 Daniel bahçeye gitti.
+11 Daniel banyoya gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	2 7
+13 Sandra sütü bıraktı.
+14 John banyoya gitti.
+15 Sandra kaç tane eşya taşıyor? 	hiç	7 13
+1 Sandra topu oradan aldı.
+2 John bahçeye gitti.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Daniel koridora geri döndü.
+5 Mary mutfağa gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	1
+7 Mary oradaki elmayı aldı.
+8 Sandra topu bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	hiç	1 8
+10 Mary elmayı bıraktı.
+11 Sandra topu oraya aldı.
+12 Mary kaç tane eşya taşıyor? 	hiç	7 10
+13 Daniel mutfağa gitti.
+14 Daniel oradaki elmayı aldı.
+15 Daniel kaç tane eşya taşıyor? 	bir	14
+1 John ofise gitti.
+2 John oradaki topu aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John topu bıraktı.
+5 John topu oradan aldı.
+6 John kaç tane eşya taşıyor? 	bir	2 4 5
+7 John mutfağa gitti.
+8 Sandra ofise gitti.
+9 John kaç tane eşya taşıyor? 	bir	2 4 5
+10 Daniel oradaki elmayı aldı.
+11 John topu bıraktı.
+12 John kaç tane eşya taşıyor? 	hiç	2 4 5 11
+13 Mary bahçeye gitti.
+14 Daniel elmayı bıraktı.
+15 Daniel kaç tane eşya taşıyor? 	hiç	10 14
+1 Sandra ofise gitti.
+2 John koridora gitti.
+3 Sandra topu oraya aldı.
+4 Daniel bahçeye gitti.
+5 Sandra kaç tane eşya taşıyor? 	bir	3
+6 John oradaki elmayı aldı.
+7 Sandra topu Mary'e verdi.
+8 Sandra kaç tane eşya taşıyor? 	hiç	3 7
+9 John elmayı oraya bıraktı.
+10 Mary topu Sandra'ya verdi.
+11 Sandra kaç tane eşya taşıyor? 	bir	3 7 10
+12 John oradaki sütü aldı.
+13 Sandra topu bıraktı.
+14 Mary kaç tane eşya taşıyor? 	hiç	7 10
+15 Mary mutfağa gitti.
+16 John mutfağa gitti.
+17 Sandra kaç tane eşya taşıyor? 	hiç	3 7 10 13
+1 Sandra bahçeye gitti.
+2 Mary mutfağa gitti.
+3 Sandra koridora gitti.
+4 Daniel salona gitti.
+5 John banyoya gitti.
+6 Mary koridora geri döndü.
+7 Mary salona geri döndü.
+8 John bahçeye gitti.
+9 John koridora geri döndü.
+10 Sandra salona gitti.
+11 Mary oradaki sütü aldı.
+12 John ofise gitti.
+13 Mary kaç tane eşya taşıyor? 	bir	11
+14 Sandra bahçeye gitti.
+15 Mary sütü bıraktı.
+16 Mary kaç tane eşya taşıyor? 	hiç	11 15
+17 Mary oradaki sütü aldı.
+18 Mary sütü Sandra'ya verdi.
+19 Mary kaç tane eşya taşıyor? 	hiç	11 15 17 18
+20 Sandra sütü oraya bıraktı.
+21 Daniel ofise gitti.
+22 Mary kaç tane eşya taşıyor? 	hiç	11 15 17 18
+23 Daniel oradaki topu aldı.
+24 Sandra oradaki sütü aldı.
+25 Sandra kaç tane eşya taşıyor? 	bir	18 20 24
+1 Daniel banyoya gitti.
+2 John koridora gitti.
+3 Mary ofise gitti.
+4 John elmayı oraya aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John oradaki sütü aldı.
+7 John elmayı bıraktı.
+8 John kaç tane eşya taşıyor? 	bir	4 6 7
+9 Mary topu oradan aldı.
+10 Daniel koridora gitti.
+11 John kaç tane eşya taşıyor? 	bir	4 6 7
+12 Mary salona gitti.
+13 John elmayı oraya aldı.
+14 John kaç tane eşya taşıyor? 	iki	4 6 7 13
+15 John ofise gitti.
+16 Sandra bahçeye gitti.
+17 John kaç tane eşya taşıyor? 	iki	4 6 7 13
+1 Mary banyoya gitti.
+2 Daniel banyoya gitti.
+3 John oradaki topu aldı.
+4 John topu bıraktı.
+5 John kaç tane eşya taşıyor? 	hiç	3 4
+6 Sandra koridora gitti.
+7 John oradaki topu aldı.
+8 John kaç tane eşya taşıyor? 	bir	3 4 7
+9 John elmayı oraya aldı.
+10 Sandra bahçeye gitti.
+11 John kaç tane eşya taşıyor? 	iki	3 4 7 9
+12 John ofise gitti.
+13 Mary koridora gitti.
+14 John kaç tane eşya taşıyor? 	iki	3 4 7 9
+15 Daniel salona geri döndü.
+16 John koridora gitti.
+17 Mary banyoya gitti.
+18 Daniel koridora gitti.
+19 Sandra salona gitti.
+20 John elmayı Daniel'e verdi.
+21 John kaç tane eşya taşıyor? 	bir	3 4 7 9 20
+1 Sandra bahçeye gitti.
+2 Mary bahçeye gitti.
+3 Mary elmayı oraya aldı.
+4 Sandra topu oraya aldı.
+5 Mary kaç tane eşya taşıyor? 	bir	3
+6 Mary passed the apple to Sandra.
+7 Daniel ofise gitti.
+8 Sandra kaç tane eşya taşıyor? 	iki	4 6
+9 Sandra elmayı bıraktı.
+10 Sandra topu bıraktı.
+11 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10
+12 Sandra elmayı oraya aldı.
+13 Sandra elmayı bıraktı.
+14 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10 12 13
+15 Sandra topu oradan aldı.
+16 Sandra oradaki elmayı aldı.
+17 Sandra kaç tane eşya taşıyor? 	iki	4 6 9 10 12 13 15 16
+1 Daniel koridora geri döndü.
+2 Sandra salona gitti.
+3 John topu oraya aldı.
+4 Sandra oradaki sütü aldı.
+5 John kaç tane eşya taşıyor? 	bir	3
+6 John topu Mary'e verdi.
+7 Mary topu bıraktı.
+8 John kaç tane eşya taşıyor? 	hiç	3 6
+9 Mary banyoya gitti.
+10 Sandra bahçeye gitti.
+11 John kaç tane eşya taşıyor? 	hiç	3 6
+12 Daniel banyoya gitti.
+13 Sandra topu oradan aldı.
+14 Sandra kaç tane eşya taşıyor? 	iki	4 13
+15 Sandra salona gitti.
+16 Mary ofise gitti.
+17 Sandra kaç tane eşya taşıyor? 	iki	4 13
+1 Sandra bahçeye gitti.
+2 Sandra koridora gitti.
+3 Daniel bahçeye gitti.
+4 John topu oradan aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 Mary bahçeye gitti.
+7 John oraya topu bıraktı.
+8 John kaç tane eşya taşıyor? 	hiç	4 7
+9 Daniel mutfağa gitti.
+10 Sandra banyoya gitti.
+11 John kaç tane eşya taşıyor? 	hiç	4 7
+12 Sandra oradaki elmayı aldı.
+13 Sandra elmayı bıraktı.
+14 Sandra kaç tane eşya taşıyor? 	hiç	12 13
+15 Mary oradaki sütü aldı.
+16 Daniel koridora geri döndü.
+17 Sandra kaç tane eşya taşıyor? 	hiç	12 13
+1 Mary salona gitti.
+2 Sandra oradaki sütü aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra sütü oraya bıraktı.
+5 Mary mutfağa gitti.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+7 Daniel banyoya gitti.
+8 John ofise gitti.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+10 Sandra banyoya gitti.
+11 Mary banyoya geri döndü.
+12 Daniel mutfağa gitti.
+13 Mary oradaki elmayı aldı.
+14 Mary kaç tane eşya taşıyor? 	bir	13
+15 Sandra koridora geri döndü.
+16 Sandra topu oraya aldı.
+17 Sandra kaç tane eşya taşıyor? 	bir	2 4 16
+1 Mary salona geri döndü.
+2 Sandra ofise gitti.
+3 Mary salona geri döndü.
+4 Sandra banyoya geri döndü.
+5 Sandra oradaki elmayı aldı.
+6 Daniel koridora gitti.
+7 Sandra kaç tane eşya taşıyor? 	bir	5
+8 Sandra elmayı bıraktı.
+9 Daniel mutfağa geri döndü.
+10 Sandra kaç tane eşya taşıyor? 	hiç	5 8
+11 Sandra oradaki elmayı aldı.
+12 Sandra koridora gitti.
+13 Sandra kaç tane eşya taşıyor? 	bir	5 8 11
+14 Daniel banyoya gitti.
+15 Mary mutfağa gitti.
+16 Sandra kaç tane eşya taşıyor? 	bir	5 8 11
+17 Sandra elmayı bıraktı.
+18 John oradaki elmayı aldı.
+19 Sandra kaç tane eşya taşıyor? 	hiç	5 8 11 17
+1 Daniel salona gitti.
+2 Mary banyoya gitti.
+3 Sandra koridora gitti.
+4 Daniel mutfağa geri döndü.
+5 Sandra banyoya gitti.
+6 Mary koridora geri döndü.
+7 Mary salona geri döndü.
+8 Sandra salona gitti.
+9 Sandra koridora gitti.
+10 Sandra banyoya gitti.
+11 Daniel banyoya gitti.
+12 Daniel koridora gitti.
+13 John bahçeye gitti.
+14 John mutfağa gitti.
+15 Daniel salona gitti.
+16 Mary banyoya gitti.
+17 Sandra salona gitti.
+18 Daniel banyoya gitti.
+19 Daniel bahçeye gitti.
+20 Sandra banyoya geri döndü.
+21 Sandra koridora gitti.
+22 Daniel oradaki elmayı aldı.
+23 Daniel kaç tane eşya taşıyor? 	bir	22
+24 Sandra ofise geri döndü.
+25 Daniel topu oraya aldı.
+26 Daniel kaç tane eşya taşıyor? 	iki	22 25
+27 Daniel oradaki sütü aldı.
+28 Daniel koridora geri döndü.
+29 Daniel kaç tane eşya taşıyor? 	üç	22 25 27
+30 John banyoya geri döndü.
+31 Sandra salona gitti.
+32 Daniel kaç tane eşya taşıyor? 	üç	22 25 27
+33 Daniel ofise gitti.
+34 Daniel topu bıraktı.
+35 Daniel kaç tane eşya taşıyor? 	iki	22 25 27 34
+1 John topu oradan aldı.
+2 John topu Daniel'e verdi.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Daniel topu John'a verdi.
+5 John topu Daniel'e verdi.
+6 John kaç tane eşya taşıyor? 	hiç	1 2 4 5
+7 Daniel topu John'a verdi.
+8 John topu Daniel'e verdi.
+9 John kaç tane eşya taşıyor? 	hiç	1 2 4 5 7 8
+10 Daniel topu John'a verdi.
+11 Mary bahçeye gitti.
+12 John kaç tane eşya taşıyor? 	bir	1 2 4 5 7 8 10
+13 John topu bıraktı.
+14 Sandra koridora gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	2 4 5 7 8 10
+1 John ofise gitti.
+2 John oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Daniel elmayı oraya aldı.
+5 John sütü bıraktı.
+6 John kaç tane eşya taşıyor? 	hiç	2 5
+7 Sandra salona gitti.
+8 Daniel banyoya gitti.
+9 John kaç tane eşya taşıyor? 	hiç	2 5
+10 Sandra bahçeye gitti.
+11 John oradaki sütü aldı.
+12 John kaç tane eşya taşıyor? 	bir	2 5 11
+13 John sütü bıraktı.
+14 Daniel elmayı bıraktı.
+15 John kaç tane eşya taşıyor? 	hiç	2 5 11 13
+1 Sandra koridora gitti.
+2 Mary mutfağa gitti.
+3 Daniel banyoya gitti.
+4 Sandra ofise geri döndü.
+5 Mary oradaki topu aldı.
+6 Mary topu bıraktı.
+7 Mary kaç tane eşya taşıyor? 	hiç	5 6
+8 Daniel ofise gitti.
+9 Sandra oradaki sütü aldı.
+10 Sandra kaç tane eşya taşıyor? 	bir	9
+11 Mary oradaki topu aldı.
+12 Sandra sütü Daniel'e verdi.
+13 Mary kaç tane eşya taşıyor? 	bir	5 6 11
+14 Daniel sütü Sandra'ya verdi.
+15 Sandra sütü Daniel'e verdi.
+16 Daniel kaç tane eşya taşıyor? 	bir	12 14 15
+17 Daniel sütü Sandra'ya verdi.
+18 John ofise geri döndü.
+19 Daniel kaç tane eşya taşıyor? 	hiç	12 14 15 17
+1 Sandra bahçeye gitti.
+2 Daniel topu oradan aldı.
+3 Daniel kaç tane eşya taşıyor? 	bir	2
+4 Daniel bahçeye gitti.
+5 Daniel topu Sandra'ya verdi.
+6 Daniel kaç tane eşya taşıyor? 	hiç	2 5
+7 Sandra topu Daniel'e verdi.
+8 Daniel topu Sandra'ya verdi.
+9 Sandra kaç tane eşya taşıyor? 	bir	5 7 8
+10 John bahçeye gitti.
+11 Sandra topu John'a verdi.
+12 Sandra kaç tane eşya taşıyor? 	hiç	5 7 8 11
+13 Sandra mutfağa gitti.
+14 John topu Daniel'e verdi.
+15 Daniel kaç tane eşya taşıyor? 	bir	2 5 7 8 14
+1 Mary oradaki elmayı aldı.
+2 Mary passed the apple to Sandra.
+3 Mary kaç tane eşya taşıyor? 	hiç	1 2
+4 Sandra bahçeye gitti.
+5 John banyoya geri döndü.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 2
+7 John koridora gitti.
+8 John mutfağa gitti.
+9 Mary kaç tane eşya taşıyor? 	hiç	1 2
+10 John bahçeye gitti.
+11 Mary mutfağa gitti.
+12 Sandra elmayı John'a verdi.
+13 John elmayı Sandra'ya verdi.
+14 John kaç tane eşya taşıyor? 	hiç	12 13
+15 Mary oradaki topu aldı.
+16 Sandra elmayı John'a verdi.
+17 Sandra kaç tane eşya taşıyor? 	hiç	2 12 13 16
+1 Mary salona gitti.
+2 John ofise gitti.
+3 Daniel salona geri döndü.
+4 John oradaki sütü aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John salona gitti.
+7 John Mary'e sütü verdi.
+8 John kaç tane eşya taşıyor? 	hiç	4 7
+9 Daniel mutfağa gitti.
+10 Sandra bahçeye gitti.
+11 John kaç tane eşya taşıyor? 	hiç	4 7
+12 Mary sütü John'a verdi.
+13 John Mary'e sütü verdi.
+14 John kaç tane eşya taşıyor? 	hiç	4 7 12 13
+15 Mary sütü John'a verdi.
+16 Sandra oradaki elmayı aldı.
+17 Sandra kaç tane eşya taşıyor? 	bir	16
+1 Daniel banyoya gitti.
+2 Mary oradaki sütü aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 John banyoya geri döndü.
+5 Daniel ofise gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	2
+7 Daniel elmayı oraya aldı.
+8 Daniel mutfağa gitti.
+9 Daniel kaç tane eşya taşıyor? 	bir	7
+10 Mary sütü bıraktı.
+11 John mutfağa geri döndü.
+12 Daniel kaç tane eşya taşıyor? 	bir	7
+13 Mary ofise geri döndü.
+14 Daniel elmayı bıraktı.
+15 Mary kaç tane eşya taşıyor? 	hiç	2 10
+1 John oradaki sütü aldı.
+2 John passed the milk to Sandra.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary salona gitti.
+5 Sandra sütü John'a verdi.
+6 John kaç tane eşya taşıyor? 	bir	1 2 5
+7 John sütü Sandra'ya verdi.
+8 Daniel banyoya gitti.
+9 John kaç tane eşya taşıyor? 	hiç	1 2 5 7
+10 Sandra sütü John'a verdi.
+11 John sütü bıraktı.
+12 John kaç tane eşya taşıyor? 	hiç	1 2 5 7 10 11
+13 Mary ofise gitti.
+14 Sandra mutfağa geri döndü.
+15 Sandra kaç tane eşya taşıyor? 	hiç	2 5 7 10
+1 Daniel oradaki sütü aldı.
+2 John salona gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Sandra salona gitti.
+5 Mary oradaki elmayı aldı.
+6 Mary kaç tane eşya taşıyor? 	bir	5
+7 Sandra banyoya gitti.
+8 Daniel banyoya gitti.
+9 Mary kaç tane eşya taşıyor? 	bir	5
+10 Daniel sütü oraya bıraktı.
+11 Daniel salona gitti.
+12 Daniel kaç tane eşya taşıyor? 	hiç	1 10
+13 Sandra oradaki topu aldı.
+14 Mary ofise gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	1 10
+1 John mutfağa gitti.
+2 Mary oradaki topu aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 John koridora gitti.
+5 Daniel banyoya gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	2
+7 Mary topu bıraktı.
+8 Daniel bahçeye gitti.
+9 Mary kaç tane eşya taşıyor? 	hiç	2 7
+10 Sandra banyoya gitti.
+11 John mutfağa gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	2 7
+13 Daniel ofise gitti.
+14 John ofise gitti.
+15 Sandra salona geri döndü.
+16 Mary oradaki topu aldı.
+17 Mary kaç tane eşya taşıyor? 	bir	2 7 16
+1 Mary oradaki topu aldı.
+2 John oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Daniel koridora gitti.
+5 John sütü oraya bıraktı.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 John banyoya geri döndü.
+8 Sandra mutfağa gitti.
+9 John kaç tane eşya taşıyor? 	hiç	2 5
+10 Sandra oradaki elmayı aldı.
+11 Sandra bahçeye gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	10
+13 Daniel salona gitti.
+14 Mary topu Daniel'e verdi.
+15 Mary kaç tane eşya taşıyor? 	hiç	1 14
+1 Daniel salona geri döndü.
+2 John salona gitti.
+3 Sandra bahçeye gitti.
+4 Sandra oradaki sütü aldı.
+5 Sandra kaç tane eşya taşıyor? 	bir	4
+6 John mutfağa gitti.
+7 Sandra Mary'e sütü verdi.
+8 Sandra kaç tane eşya taşıyor? 	hiç	4 7
+9 Mary sütü Sandra'ya verdi.
+10 Daniel banyoya gitti.
+11 Sandra kaç tane eşya taşıyor? 	bir	4 7 9
+12 Sandra Mary'e sütü verdi.
+13 Mary passed the milk to Sandra.
+14 Mary kaç tane eşya taşıyor? 	hiç	7 9 12 13
+15 Sandra sütü bıraktı.
+16 Daniel mutfağa gitti.
+17 Mary kaç tane eşya taşıyor? 	hiç	7 9 12 13
+1 John ofise gitti.
+2 John oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Mary topu oradan aldı.
+5 Mary topu Daniel'e verdi.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 Daniel mutfağa geri döndü.
+8 Sandra banyoya gitti.
+9 Mary kaç tane eşya taşıyor? 	hiç	4 5
+10 Sandra mutfağa gitti.
+11 Daniel salona gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	4 5
+13 Sandra koridora gitti.
+14 Daniel banyoya geri döndü.
+15 John banyoya geri döndü.
+16 John sütü bıraktı.
+17 John kaç tane eşya taşıyor? 	hiç	2 16
+1 Sandra salona gitti.
+2 Mary ofise gitti.
+3 John oradaki sütü aldı.
+4 John Mary'e sütü verdi.
+5 John kaç tane eşya taşıyor? 	hiç	3 4
+6 Sandra mutfağa geri döndü.
+7 Mary sütü bıraktı.
+8 John kaç tane eşya taşıyor? 	hiç	3 4
+9 Mary oradaki sütü aldı.
+10 Mary sütü John'a verdi.
+11 Mary kaç tane eşya taşıyor? 	hiç	4 7 9 10
+12 Daniel mutfağa gitti.
+13 John Mary'e sütü verdi.
+14 Mary kaç tane eşya taşıyor? 	bir	4 7 9 10 13
+15 Mary sütü John'a verdi.
+16 John salona geri döndü.
+17 Mary kaç tane eşya taşıyor? 	hiç	4 7 9 10 13 15
+1 Daniel mutfağa gitti.
+2 Sandra bahçeye gitti.
+3 Mary bahçeye gitti.
+4 John ofise gitti.
+5 Daniel salona geri döndü.
+6 Sandra oradaki sütü aldı.
+7 Sandra kaç tane eşya taşıyor? 	bir	6
+8 Sandra Mary'e sütü verdi.
+9 Sandra banyoya gitti.
+10 Sandra kaç tane eşya taşıyor? 	hiç	6 8
+11 Daniel ofise gitti.
+12 Sandra ofise gitti.
+13 Sandra kaç tane eşya taşıyor? 	hiç	6 8
+14 Sandra mutfağa gitti.
+15 John topu oraya aldı.
+16 John kaç tane eşya taşıyor? 	bir	15
+17 John topu Daniel'e verdi.
+18 Mary sütü oraya bıraktı.
+19 John kaç tane eşya taşıyor? 	hiç	15 17
+1 Daniel koridora gitti.
+2 Daniel salona geri döndü.
+3 Daniel bahçeye gitti.
+4 John koridora gitti.
+5 Sandra salona geri döndü.
+6 John ofise gitti.
+7 John oradaki topu aldı.
+8 Daniel koridora gitti.
+9 John kaç tane eşya taşıyor? 	bir	7
+10 Daniel oradaki elmayı aldı.
+11 Daniel oradaki sütü aldı.
+12 Daniel kaç tane eşya taşıyor? 	iki	10 11
+13 Sandra mutfağa gitti.
+14 Daniel sütü bıraktı.
+15 Daniel kaç tane eşya taşıyor? 	bir	10 11 14
+16 Sandra koridora gitti.
+17 Sandra bahçeye gitti.
+18 Daniel kaç tane eşya taşıyor? 	bir	10 11 14
+19 Sandra mutfağa gitti.
+20 Sandra banyoya geri döndü.
+21 Daniel kaç tane eşya taşıyor? 	bir	10 11 14
+1 John topu oraya aldı.
+2 Mary mutfağa gitti.
+3 John kaç tane eşya taşıyor? 	bir	1
+4 Daniel salona gitti.
+5 Daniel bahçeye gitti.
+6 John kaç tane eşya taşıyor? 	bir	1
+7 Daniel oradaki sütü aldı.
+8 John topu Sandra'ya verdi.
+9 John kaç tane eşya taşıyor? 	hiç	1 8
+10 Daniel sütü bıraktı.
+11 Sandra topu oraya bıraktı.
+12 John kaç tane eşya taşıyor? 	hiç	1 8
+13 John salona gitti.
+14 Daniel oradaki sütü aldı.
+15 John kaç tane eşya taşıyor? 	hiç	1 8
+1 Sandra oradaki sütü aldı.
+2 Sandra sütü bıraktı.
+3 Sandra kaç tane eşya taşıyor? 	hiç	1 2
+4 Daniel bahçeye gitti.
+5 Mary topu oradan aldı.
+6 Sandra kaç tane eşya taşıyor? 	hiç	1 2
+7 Mary topu bıraktı.
+8 Mary topu oraya aldı.
+9 Mary kaç tane eşya taşıyor? 	bir	5 7 8
+10 Mary banyoya gitti.
+11 Sandra koridora gitti.
+12 Mary kaç tane eşya taşıyor? 	bir	5 7 8
+13 Mary topu bıraktı.
+14 Mary oradaki topu aldı.
+15 Mary kaç tane eşya taşıyor? 	bir	5 7 8 13 14
+1 Sandra oradaki topu aldı.
+2 John oradaki elmayı aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Sandra oraya topu bıraktı.
+5 Sandra salona gitti.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 John elmayı Sandra'ya verdi.
+8 Sandra elmayı bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	hiç	1 4 7 8
+10 Mary mutfağa gitti.
+11 Sandra ofise geri döndü.
+12 John kaç tane eşya taşıyor? 	hiç	2 7
+13 Mary oradaki sütü aldı.
+14 Mary sütü oraya bıraktı.
+15 Mary kaç tane eşya taşıyor? 	hiç	13 14
+1 John banyoya gitti.
+2 Mary oradaki sütü aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 Sandra topu oraya aldı.
+5 Daniel ofise gitti.
+6 Mary kaç tane eşya taşıyor? 	bir	2
+7 Sandra bahçeye gitti.
+8 Sandra mutfağa geri döndü.
+9 Mary kaç tane eşya taşıyor? 	bir	2
+10 Mary sütü bıraktı.
+11 Sandra topu Mary'e verdi.
+12 Sandra kaç tane eşya taşıyor? 	hiç	4 11
+13 Mary topu Sandra'ya verdi.
+14 Mary bahçeye gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	2 10 11 13
+1 John banyoya gitti.
+2 John koridora gitti.
+3 John salona gitti.
+4 Daniel mutfağa gitti.
+5 Sandra topu oraya aldı.
+6 Sandra mutfağa gitti.
+7 Sandra kaç tane eşya taşıyor? 	bir	5
+8 Sandra salona gitti.
+9 Sandra topu John'a verdi.
+10 Sandra kaç tane eşya taşıyor? 	hiç	5 9
+11 John topu Mary'e verdi.
+12 Mary topu John'a verdi.
+13 John kaç tane eşya taşıyor? 	bir	9 11 12
+14 Daniel ofise geri döndü.
+15 John topu Mary'e verdi.
+16 Mary kaç tane eşya taşıyor? 	bir	11 12 15
+17 Mary topu John'a verdi.
+18 John topu Mary'e verdi.
+19 Mary kaç tane eşya taşıyor? 	bir	11 12 15 17 18
+1 John banyoya geri döndü.
+2 John koridora geri döndü.
+3 Mary koridora gitti.
+4 Daniel banyoya geri döndü.
+5 John topu oradan aldı.
+6 Mary banyoya gitti.
+7 John kaç tane eşya taşıyor? 	bir	5
+8 John topu bıraktı.
+9 Sandra bahçeye gitti.
+10 John kaç tane eşya taşıyor? 	hiç	5 8
+11 John topu oraya aldı.
+12 Sandra salona geri döndü.
+13 John kaç tane eşya taşıyor? 	bir	5 8 11
+14 Mary ofise gitti.
+15 Daniel salona geri döndü.
+16 John kaç tane eşya taşıyor? 	bir	5 8 11
+17 John topu bıraktı.
+18 Sandra banyoya geri döndü.
+19 John kaç tane eşya taşıyor? 	hiç	5 8 11 17
+1 Mary oradaki sütü aldı.
+2 Mary sütü Daniel'e verdi.
+3 Mary kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary salona geri döndü.
+5 Mary mutfağa gitti.
+6 Mary kaç tane eşya taşıyor? 	hiç	1 2
+7 Mary banyoya gitti.
+8 Daniel sütü bıraktı.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 8
+10 Sandra ofise gitti.
+11 Daniel oradaki sütü aldı.
+12 Daniel kaç tane eşya taşıyor? 	bir	2 8 11
+13 John koridora gitti.
+14 Daniel passed the milk to Sandra.
+15 Daniel kaç tane eşya taşıyor? 	hiç	2 8 11 14
+1 Mary banyoya gitti.
+2 Sandra oradaki sütü aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra sütü bıraktı.
+5 Mary mutfağa gitti.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+7 John bahçeye gitti.
+8 John topu oraya aldı.
+9 John kaç tane eşya taşıyor? 	bir	8
+10 John topu oraya bıraktı.
+11 Mary koridora gitti.
+12 John kaç tane eşya taşıyor? 	hiç	8 10
+13 Daniel ofise gitti.
+14 Daniel salona gitti.
+15 John kaç tane eşya taşıyor? 	hiç	8 10
+1 Daniel mutfağa gitti.
+2 John bahçeye gitti.
+3 Daniel koridora gitti.
+4 Daniel mutfağa gitti.
+5 Daniel koridora gitti.
+6 Mary topu oradan aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 Mary oraya topu bıraktı.
+9 Daniel salona gitti.
+10 Mary kaç tane eşya taşıyor? 	hiç	6 8
+11 Sandra bahçeye gitti.
+12 Sandra koridora gitti.
+13 Mary kaç tane eşya taşıyor? 	hiç	6 8
+14 Daniel oradaki elmayı aldı.
+15 Sandra banyoya gitti.
+16 Daniel kaç tane eşya taşıyor? 	bir	14
+17 Sandra oradaki sütü aldı.
+18 Daniel elmayı bıraktı.
+19 Daniel kaç tane eşya taşıyor? 	hiç	14 18
+1 Sandra salona geri döndü.
+2 Daniel mutfağa gitti.
+3 Daniel salona gitti.
+4 Mary koridora geri döndü.
+5 John ofise gitti.
+6 Mary salona gitti.
+7 Daniel ofise gitti.
+8 Daniel bahçeye gitti.
+9 Sandra banyoya gitti.
+10 Daniel topu oraya aldı.
+11 Daniel kaç tane eşya taşıyor? 	bir	10
+12 Sandra bahçeye gitti.
+13 Daniel topu Sandra'ya verdi.
+14 Daniel kaç tane eşya taşıyor? 	hiç	10 13
+15 Sandra topu Daniel'e verdi.
+16 Daniel topu Sandra'ya verdi.
+17 Sandra kaç tane eşya taşıyor? 	bir	13 15 16
+18 Sandra topu Daniel'e verdi.
+19 Daniel topu Sandra'ya verdi.
+20 Daniel kaç tane eşya taşıyor? 	hiç	10 13 15 16 18 19
+21 Sandra topu Daniel'e verdi.
+22 Daniel topu Sandra'ya verdi.
+23 Daniel kaç tane eşya taşıyor? 	hiç	10 13 15 16 18 19 21 22
+1 Sandra koridora gitti.
+2 Daniel koridora geri döndü.
+3 Daniel mutfağa gitti.
+4 John oradaki elmayı aldı.
+5 John kaç tane eşya taşıyor? 	bir	4
+6 John elmayı Mary'e verdi.
+7 Mary elmayı bıraktı.
+8 Mary kaç tane eşya taşıyor? 	hiç	6 7
+9 Mary elmayı oraya aldı.
+10 Sandra oradaki topu aldı.
+11 Mary kaç tane eşya taşıyor? 	bir	6 7 9
+12 John banyoya gitti.
+13 John salona geri döndü.
+14 Mary kaç tane eşya taşıyor? 	bir	6 7 9
+15 Mary elmayı oraya bıraktı.
+16 Sandra topu oraya bıraktı.
+17 Sandra kaç tane eşya taşıyor? 	hiç	10 16
+1 Mary bahçeye gitti.
+2 Daniel banyoya gitti.
+3 Daniel bahçeye gitti.
+4 John bahçeye gitti.
+5 Mary ofise gitti.
+6 Sandra mutfağa gitti.
+7 Mary bahçeye gitti.
+8 Sandra topu oraya aldı.
+9 Sandra kaç tane eşya taşıyor? 	bir	8
+10 Mary banyoya gitti.
+11 Sandra banyoya gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	8
+13 Sandra bahçeye gitti.
+14 Sandra topu John'a verdi.
+15 Sandra kaç tane eşya taşıyor? 	hiç	8 14
+16 John topu Sandra'ya verdi.
+17 Sandra topu John'a verdi.
+18 Sandra kaç tane eşya taşıyor? 	hiç	8 14 16 17
+19 Sandra mutfağa gitti.
+20 John topu Daniel'e verdi.
+21 Sandra kaç tane eşya taşıyor? 	hiç	8 14 16 17
+1 Daniel oradaki topu aldı.
+2 Sandra koridora gitti.
+3 Daniel kaç tane eşya taşıyor? 	bir	1
+4 Daniel banyoya gitti.
+5 Daniel elmayı oraya aldı.
+6 Daniel kaç tane eşya taşıyor? 	iki	1 5
+7 Mary salona gitti.
+8 John salona gitti.
+9 Daniel kaç tane eşya taşıyor? 	iki	1 5
+10 John mutfağa gitti.
+11 Daniel topu oraya bıraktı.
+12 Daniel kaç tane eşya taşıyor? 	bir	1 5 11
+13 John ofise gitti.
+14 Sandra ofise gitti.
+15 Daniel kaç tane eşya taşıyor? 	bir	1 5 11
+1 Sandra oradaki sütü aldı.
+2 John banyoya gitti.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Sandra sütü bıraktı.
+5 Sandra oradaki sütü aldı.
+6 Sandra kaç tane eşya taşıyor? 	bir	1 4 5
+7 John oradaki elmayı aldı.
+8 Sandra sütü bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	hiç	1 4 5 8
+10 Sandra topu oradan aldı.
+11 John elmayı Daniel'e verdi.
+12 John kaç tane eşya taşıyor? 	hiç	7 11
+13 Sandra ofise geri döndü.
+14 Daniel elmayı John'a verdi.
+15 Sandra kaç tane eşya taşıyor? 	bir	1 4 5 8 10
+1 Sandra koridora gitti.
+2 Sandra bahçeye gitti.
+3 Sandra mutfağa geri döndü.
+4 Mary mutfağa geri döndü.
+5 Sandra oradaki elmayı aldı.
+6 Daniel koridora gitti.
+7 Sandra kaç tane eşya taşıyor? 	bir	5
+8 Sandra elmayı Mary'e verdi.
+9 Mary elmayı Sandra'ya verdi.
+10 Sandra kaç tane eşya taşıyor? 	bir	5 8 9
+11 Sandra koridora geri döndü.
+12 Daniel mutfağa geri döndü.
+13 Sandra kaç tane eşya taşıyor? 	bir	5 8 9
+14 Mary ofise geri döndü.
+15 Mary mutfağa gitti.
+16 Mary kaç tane eşya taşıyor? 	hiç	8 9
+17 John salona gitti.
+18 John banyoya gitti.
+19 Sandra mutfağa gitti.
+20 Sandra elmayı Mary'e verdi.
+21 Sandra kaç tane eşya taşıyor? 	hiç	5 8 9 20
+1 Mary oradaki sütü aldı.
+2 Daniel topu oraya aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Mary sütü bıraktı.
+5 Mary oradaki sütü aldı.
+6 Daniel kaç tane eşya taşıyor? 	bir	2
+7 Daniel topu bıraktı.
+8 John banyoya gitti.
+9 Daniel kaç tane eşya taşıyor? 	hiç	2 7
+10 Daniel oradaki topu aldı.
+11 Daniel ofise gitti.
+12 Daniel kaç tane eşya taşıyor? 	bir	2 7 10
+13 Daniel topu Mary'e verdi.
+14 Mary topu Daniel'e verdi.
+15 Daniel kaç tane eşya taşıyor? 	bir	2 7 10 13 14
+1 Daniel oradaki elmayı aldı.
+2 John oradaki sütü aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 Daniel elmayı Mary'e verdi.
+5 Mary elmayı Daniel'e verdi.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 Daniel elmayı bıraktı.
+8 John sütü Sandra'ya verdi.
+9 John kaç tane eşya taşıyor? 	hiç	2 8
+10 Sandra sütü John'a verdi.
+11 Daniel salona geri döndü.
+12 Sandra kaç tane eşya taşıyor? 	hiç	8 10
+13 Sandra bahçeye gitti.
+14 John bahçeye gitti.
+15 Sandra kaç tane eşya taşıyor? 	hiç	8 10
+1 Sandra oradaki elmayı aldı.
+2 John salona geri döndü.
+3 Sandra kaç tane eşya taşıyor? 	bir	1
+4 Sandra ofise gitti.
+5 Mary mutfağa gitti.
+6 Sandra kaç tane eşya taşıyor? 	bir	1
+7 Sandra oradaki sütü aldı.
+8 Sandra sütü bıraktı.
+9 Sandra kaç tane eşya taşıyor? 	bir	1 7 8
+10 Daniel banyoya gitti.
+11 John koridora gitti.
+12 Sandra kaç tane eşya taşıyor? 	bir	1 7 8
+13 John salona gitti.
+14 Sandra elmayı bıraktı.
+15 Sandra kaç tane eşya taşıyor? 	hiç	1 7 8 14
+1 John oradaki sütü aldı.
+2 John sütü bıraktı.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Daniel oradaki topu aldı.
+5 Sandra koridora geri döndü.
+6 Daniel kaç tane eşya taşıyor? 	bir	4
+7 Sandra salona gitti.
+8 John koridora gitti.
+9 John kaç tane eşya taşıyor? 	hiç	1 2
+10 Daniel topu Sandra'ya verdi.
+11 Sandra topu bıraktı.
+12 Sandra kaç tane eşya taşıyor? 	hiç	10 11
+13 Mary banyoya gitti.
+14 Mary ofise gitti.
+15 Sandra kaç tane eşya taşıyor? 	hiç	10 11
+1 John topu oraya aldı.
+2 John topu oraya bıraktı.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Daniel bahçeye gitti.
+5 Daniel oradaki topu aldı.
+6 John kaç tane eşya taşıyor? 	hiç	1 2
+7 Daniel topu bıraktı.
+8 John koridora gitti.
+9 Daniel kaç tane eşya taşıyor? 	hiç	5 7
+10 Sandra ofise gitti.
+11 John salona geri döndü.
+12 Daniel kaç tane eşya taşıyor? 	hiç	5 7
+13 John ofise gitti.
+14 John banyoya gitti.
+15 Sandra koridora gitti.
+16 Mary ofise gitti.
+17 Sandra elmayı oraya aldı.
+18 Daniel topu oradan aldı.
+19 Daniel kaç tane eşya taşıyor? 	bir	5 7 18
+1 John oradaki topu aldı.
+2 John topu Mary'e verdi.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Sandra koridora gitti.
+5 Mary oraya topu bıraktı.
+6 Mary kaç tane eşya taşıyor? 	hiç	2 5
+7 Mary topu oraya aldı.
+8 Sandra ofise geri döndü.
+9 John kaç tane eşya taşıyor? 	hiç	1 2
+10 Mary topu John'a verdi.
+11 John topu Mary'e verdi.
+12 John kaç tane eşya taşıyor? 	hiç	1 2 10 11
+13 Mary topu John'a verdi.
+14 John topu bıraktı.
+15 Mary kaç tane eşya taşıyor? 	hiç	2 5 7 10 11 13
+1 Daniel mutfağa geri döndü.
+2 Mary banyoya gitti.
+3 John ofise gitti.
+4 Daniel salona gitti.
+5 Daniel mutfağa gitti.
+6 Daniel banyoya geri döndü.
+7 John koridora gitti.
+8 Mary oradaki elmayı aldı.
+9 Mary kaç tane eşya taşıyor? 	bir	8
+10 Mary elmayı Daniel'e verdi.
+11 Sandra banyoya gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	8 10
+13 Daniel elmayı Mary'e verdi.
+14 Mary passed the apple to Sandra.
+15 Daniel kaç tane eşya taşıyor? 	hiç	10 13
+16 Daniel mutfağa gitti.
+17 Mary koridora gitti.
+18 Daniel kaç tane eşya taşıyor? 	hiç	10 13
+19 Daniel bahçeye gitti.
+20 John ofise gitti.
+21 Mary kaç tane eşya taşıyor? 	hiç	8 10 13 14
+1 Sandra salona gitti.
+2 Sandra topu oradan aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra topu Daniel'e verdi.
+5 Daniel topu Sandra'ya verdi.
+6 Sandra kaç tane eşya taşıyor? 	bir	2 4 5
+7 Sandra topu Daniel'e verdi.
+8 Mary banyoya gitti.
+9 Sandra kaç tane eşya taşıyor? 	hiç	2 4 5 7
+10 Sandra koridora gitti.
+11 Mary salona gitti.
+12 Sandra kaç tane eşya taşıyor? 	hiç	2 4 5 7
+13 Daniel topu Mary'e verdi.
+14 Daniel ofise gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	4 5 7 13
+1 Daniel salona gitti.
+2 John banyoya gitti.
+3 Daniel oradaki sütü aldı.
+4 John koridora gitti.
+5 Daniel kaç tane eşya taşıyor? 	bir	3
+6 Daniel mutfağa gitti.
+7 Sandra ofise geri döndü.
+8 Daniel kaç tane eşya taşıyor? 	bir	3
+9 Daniel sütü bıraktı.
+10 Daniel salona geri döndü.
+11 Daniel kaç tane eşya taşıyor? 	hiç	3 9
+12 Daniel mutfağa geri döndü.
+13 John ofise gitti.
+14 Daniel kaç tane eşya taşıyor? 	hiç	3 9
+15 John elmayı oraya aldı.
+16 John elmayı oraya bıraktı.
+17 John kaç tane eşya taşıyor? 	hiç	15 16
+1 John salona gitti.
+2 Sandra oradaki sütü aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 John mutfağa gitti.
+5 Sandra topu oraya aldı.
+6 Sandra kaç tane eşya taşıyor? 	iki	2 5
+7 Sandra sütü bıraktı.
+8 John bahçeye gitti.
+9 Sandra kaç tane eşya taşıyor? 	bir	2 5 7
+10 Daniel ofise geri döndü.
+11 Daniel oradaki elmayı aldı.
+12 Sandra kaç tane eşya taşıyor? 	bir	2 5 7
+13 Sandra topu bıraktı.
+14 Mary ofise geri döndü.
+15 Sandra kaç tane eşya taşıyor? 	hiç	2 5 7 13
+1 John bahçeye gitti.
+2 Mary oradaki elmayı aldı.
+3 Mary kaç tane eşya taşıyor? 	bir	2
+4 John salona gitti.
+5 Mary elmayı bıraktı.
+6 Mary kaç tane eşya taşıyor? 	hiç	2 5
+7 Mary oradaki elmayı aldı.
+8 Mary salona gitti.
+9 Mary kaç tane eşya taşıyor? 	bir	2 5 7
+10 Mary elmayı John'a verdi.
+11 Daniel mutfağa gitti.
+12 Mary kaç tane eşya taşıyor? 	hiç	2 5 7 10
+13 Mary koridora geri döndü.
+14 Mary banyoya gitti.
+15 Mary kaç tane eşya taşıyor? 	hiç	2 5 7 10
+1 John banyoya gitti.
+2 Daniel koridora gitti.
+3 Mary mutfağa gitti.
+4 Daniel topu oradan aldı.
+5 Daniel kaç tane eşya taşıyor? 	bir	4
+6 Sandra koridora gitti.
+7 Daniel topu Sandra'ya verdi.
+8 Daniel kaç tane eşya taşıyor? 	hiç	4 7
+9 Sandra topu Daniel'e verdi.
+10 Daniel topu Sandra'ya verdi.
+11 Daniel kaç tane eşya taşıyor? 	hiç	4 7 9 10
+12 Sandra topu Daniel'e verdi.
+13 Mary bahçeye gitti.
+14 Daniel kaç tane eşya taşıyor? 	bir	4 7 9 10 12
+15 Daniel topu Sandra'ya verdi.
+16 John oradaki sütü aldı.
+17 Daniel kaç tane eşya taşıyor? 	hiç	4 7 9 10 12 15
+1 Mary banyoya gitti.
+2 Sandra oradaki elmayı aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra elmayı oraya bıraktı.
+5 Mary koridora gitti.
+6 Sandra kaç tane eşya taşıyor? 	hiç	2 4
+7 Mary oradaki elmayı aldı.
+8 Mary elmayı Sandra'ya verdi.
+9 Mary kaç tane eşya taşıyor? 	hiç	7 8
+10 Sandra elmayı Mary'e verdi.
+11 Mary ofise gitti.
+12 Sandra kaç tane eşya taşıyor? 	hiç	2 4 8 10
+13 Daniel salona gitti.
+14 Sandra mutfağa gitti.
+15 Sandra kaç tane eşya taşıyor? 	hiç	2 4 8 10
+1 Mary oradaki sütü aldı.
+2 Sandra ofise geri döndü.
+3 Mary kaç tane eşya taşıyor? 	bir	1
+4 Sandra oradaki topu aldı.
+5 Daniel oradaki elmayı aldı.
+6 Mary kaç tane eşya taşıyor? 	bir	1
+7 John koridora gitti.
+8 Sandra koridora gitti.
+9 Daniel kaç tane eşya taşıyor? 	bir	5
+10 Mary sütü bıraktı.
+11 Sandra topu bıraktı.
+12 Sandra kaç tane eşya taşıyor? 	hiç	4 11
+13 Sandra oradaki sütü aldı.
+14 Sandra sütü bıraktı.
+15 Mary kaç tane eşya taşıyor? 	hiç	1 10
+1 John banyoya gitti.
+2 Mary salona gitti.
+3 Daniel ofise gitti.
+4 Mary oradaki elmayı aldı.
+5 Mary kaç tane eşya taşıyor? 	bir	4
+6 Sandra bahçeye gitti.
+7 Mary elmayı bıraktı.
+8 Mary kaç tane eşya taşıyor? 	hiç	4 7
+9 Mary oradaki elmayı aldı.
+10 John oradaki sütü aldı.
+11 John kaç tane eşya taşıyor? 	bir	10
+12 John sütü bıraktı.
+13 Sandra mutfağa geri döndü.
+14 Mary kaç tane eşya taşıyor? 	bir	4 7 9
+15 John bahçeye gitti.
+16 Mary elmayı bıraktı.
+17 John kaç tane eşya taşıyor? 	hiç	10 12
+1 Daniel ofise gitti.
+2 Sandra salona gitti.
+3 John salona geri döndü.
+4 Sandra oradaki sütü aldı.
+5 Sandra kaç tane eşya taşıyor? 	bir	4
+6 Sandra sütü bıraktı.
+7 Daniel banyoya gitti.
+8 Sandra kaç tane eşya taşıyor? 	hiç	4 6
+9 Sandra oradaki sütü aldı.
+10 Sandra sütü John'a verdi.
+11 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10
+12 Daniel ofise gitti.
+13 Mary banyoya gitti.
+14 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10
+15 Sandra ofise gitti.
+16 Daniel salona gitti.
+17 Sandra kaç tane eşya taşıyor? 	hiç	4 6 9 10
+1 Sandra oradaki elmayı aldı.
+2 Sandra elmayı bıraktı.
+3 Sandra kaç tane eşya taşıyor? 	hiç	1 2
+4 John elmayı oraya aldı.
+5 Daniel oradaki sütü aldı.
+6 John kaç tane eşya taşıyor? 	bir	4
+7 John passed the apple to Sandra.
+8 Sandra elmayı John'a verdi.
+9 Daniel kaç tane eşya taşıyor? 	bir	5
+10 John elmayı Sandra'ya verdi.
+11 Daniel sütü bıraktı.
+12 Daniel kaç tane eşya taşıyor? 	hiç	5 11
+13 Daniel salona gitti.
+14 Sandra elmayı John'a verdi.
+15 Sandra kaç tane eşya taşıyor? 	hiç	1 2 7 8 10 14
+1 John oradaki sütü aldı.
+2 John sütü bıraktı.
+3 John kaç tane eşya taşıyor? 	hiç	1 2
+4 Mary salona gitti.
+5 Daniel ofise gitti.
+6 John kaç tane eşya taşıyor? 	hiç	1 2
+7 John koridora geri döndü.
+8 Daniel salona gitti.
+9 John kaç tane eşya taşıyor? 	hiç	1 2
+10 John mutfağa gitti.
+11 John oradaki sütü aldı.
+12 John kaç tane eşya taşıyor? 	bir	1 2 11
+13 John sütü bıraktı.
+14 Daniel mutfağa gitti.
+15 John kaç tane eşya taşıyor? 	hiç	1 2 11 13
+1 Daniel salona gitti.
+2 John topu oraya aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John topu Sandra'ya verdi.
+5 Sandra topu bıraktı.
+6 John kaç tane eşya taşıyor? 	hiç	2 4
+7 John koridora gitti.
+8 Mary salona gitti.
+9 John kaç tane eşya taşıyor? 	hiç	2 4
+10 Sandra ofise gitti.
+11 John oradaki sütü aldı.
+12 John kaç tane eşya taşıyor? 	bir	2 4 11
+13 Mary mutfağa gitti.
+14 Mary salona gitti.
+15 John kaç tane eşya taşıyor? 	bir	2 4 11
+1 John salona gitti.
+2 Sandra oradaki sütü aldı.
+3 Sandra kaç tane eşya taşıyor? 	bir	2
+4 Sandra sütü bıraktı.
+5 John elmayı oraya aldı.
+6 John kaç tane eşya taşıyor? 	bir	5
+7 John koridora gitti.
+8 John mutfağa gitti.
+9 John kaç tane eşya taşıyor? 	bir	5
+10 Daniel salona geri döndü.
+11 John koridora gitti.
+12 John kaç tane eşya taşıyor? 	bir	5
+13 John mutfağa gitti.
+14 John koridora gitti.
+15 Sandra oradaki sütü aldı.
+16 Sandra sütü bıraktı.
+17 Sandra kaç tane eşya taşıyor? 	hiç	2 4 15 16
+1 Daniel ofise gitti.
+2 Mary ofise gitti.
+3 Sandra oradaki elmayı aldı.
+4 Sandra elmayı bıraktı.
+5 Sandra kaç tane eşya taşıyor? 	hiç	3 4
+6 Sandra oradaki elmayı aldı.
+7 John salona gitti.
+8 Sandra kaç tane eşya taşıyor? 	bir	3 4 6
+9 Sandra koridora gitti.
+10 John oradaki sütü aldı.
+11 Sandra kaç tane eşya taşıyor? 	bir	3 4 6
+12 John sütü bıraktı.
+13 Sandra elmayı bıraktı.
+14 John kaç tane eşya taşıyor? 	hiç	10 12
+15 Mary banyoya gitti.
+16 Mary mutfağa gitti.
+17 Sandra kaç tane eşya taşıyor? 	hiç	3 4 6 13
+1 Sandra banyoya gitti.
+2 John elmayı oraya aldı.
+3 John kaç tane eşya taşıyor? 	bir	2
+4 John bahçeye gitti.
+5 Daniel mutfağa gitti.
+6 John kaç tane eşya taşıyor? 	bir	2
+7 Mary ofise gitti.
+8 Daniel bahçeye gitti.
+9 John kaç tane eşya taşıyor? 	bir	2
+10 Mary oradaki sütü aldı.
+11 John elmayı Daniel'e verdi.
+12 Mary kaç tane eşya taşıyor? 	bir	10
+13 Mary topu oradan aldı.
+14 Daniel elmayı John'a verdi.
+15 Daniel kaç tane eşya taşıyor? 	hiç	11 14
+1 Sandra banyoya gitti.
+2 Daniel mutfağa gitti.
+3 Daniel koridora gitti.
+4 Daniel oradaki topu aldı.
+5 Daniel kaç tane eşya taşıyor? 	bir	4
+6 Daniel topu Mary'e verdi.
+7 Mary topu Daniel'e verdi.
+8 Daniel kaç tane eşya taşıyor? 	bir	4 6 7
+9 Daniel topu Mary'e verdi.
+10 Mary topu oraya bıraktı.
+11 Daniel kaç tane eşya taşıyor? 	hiç	4 6 7 9
+12 John banyoya geri döndü.
+13 Mary oradaki topu aldı.
+14 Mary kaç tane eşya taşıyor? 	bir	6 7 9 10 13
+15 Sandra oradaki sütü aldı.
+16 Daniel oradaki elmayı aldı.
+17 Mary kaç tane eşya taşıyor? 	bir	6 7 9 10 13
+1 Mary ofise gitti.
+2 John koridora gitti.
+3 John banyoya gitti.
+4 Mary banyoya geri döndü.
+5 John elmayı oraya aldı.
+6 John elmayı Mary'e verdi.
+7 John kaç tane eşya taşıyor? 	hiç	5 6
+8 Mary elmayı bıraktı.
+9 Daniel ofise gitti.
+10 John kaç tane eşya taşıyor? 	hiç	5 6
+11 John oradaki elmayı aldı.
+12 John elmayı Mary'e verdi.
+13 John kaç tane eşya taşıyor? 	hiç	5 6 11 12
+14 Sandra mutfağa geri döndü.
+15 Mary mutfağa gitti.
+16 John kaç tane eşya taşıyor? 	hiç	5 6 11 12
+17 Mary passed the apple to Sandra.
+18 Daniel bahçeye gitti.
+19 Mary kaç tane eşya taşıyor? 	hiç	6 8 12 17
+1 Daniel banyoya geri döndü.
+2 Mary salona gitti.
+3 John salona geri döndü.
+4 Daniel ofise gitti.
+5 Mary mutfağa gitti.
+6 Mary oradaki topu aldı.
+7 Mary kaç tane eşya taşıyor? 	bir	6
+8 John oradaki sütü aldı.
+9 Mary salona gitti.
+10 John kaç tane eşya taşıyor? 	bir	8
+11 Mary topu bıraktı.
+12 Mary banyoya gitti.
+13 John kaç tane eşya taşıyor? 	bir	8
+14 Mary salona gitti.
+15 John Mary'e sütü verdi.
+16 John kaç tane eşya taşıyor? 	hiç	8 15
+17 Mary sütü John'a verdi.
+18 John Mary'e sütü verdi.
+19 John kaç tane eşya taşıyor? 	hiç	8 15 17 18
+1 Sandra mutfağa geri döndü.
+2 Mary salona gitti.
+3 Daniel salona gitti.
+4 Mary mutfağa geri döndü.
+5 John salona gitti.
+6 Daniel oradaki topu aldı.
+7 Daniel kaç tane eşya taşıyor? 	bir	6
+8 Daniel mutfağa gitti.
+9 Daniel topu Mary'e verdi.
+10 Daniel kaç tane eşya taşıyor? 	hiç	6 9
+11 Mary topu Sandra'ya verdi.
+12 Sandra topu Mary'e verdi.
+13 Daniel kaç tane eşya taşıyor? 	hiç	6 9
+14 Daniel banyoya gitti.
+15 Mary bahçeye gitti.
+16 Mary kaç tane eşya taşıyor? 	bir	9 11 12
+17 Mary oradaki sütü aldı.
+18 John ofise gitti.
+19 Sandra kaç tane eşya taşıyor? 	hiç	11 12
+1 Daniel mutfağa gitti.
+2 Mary koridora gitti.
+3 Mary salona geri döndü.
+4 John bahçeye gitti.
+5 Daniel oradaki elmayı aldı.
+6 Mary bahçeye gitti.
+7 Daniel kaç tane eşya taşıyor? 	bir	5
+8 Mary salona gitti.
+9 John mutfağa gitti.
+10 Daniel kaç tane eşya taşıyor? 	bir	5
+11 Daniel salona gitti.
+12 Daniel ofise gitti.
+13 Daniel elmayı bıraktı.
+14 John bahçeye gitti.
+15 Daniel kaç tane eşya taşıyor? 	hiç	5 13
+16 Daniel banyoya gitti.
+17 Mary topu oradan aldı.
+18 Mary kaç tane eşya taşıyor? 	bir	17
+19 Mary topu bıraktı.
+20 Daniel koridora gitti.
+21 Mary kaç tane eşya taşıyor? 	hiç	17 19

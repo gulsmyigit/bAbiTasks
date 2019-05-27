@@ -1,0 +1,3000 @@
+1 John ve Mary koridora gitti.
+2 Sonra banyoya gitti.
+3 John nerede?	banyo	1 2
+4 Mary ve John koridora gitti.
+5 Bunun ardından mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Daniel ve Sandra ofise gitti.
+8 Ardından mutfağa gitti.
+9 John nerede?	mutfak	4 5
+10 John ve Daniel ofise gitti.
+11 Bunun ardından koridora gitti.
+12 Sandra nerede?	mutfak	7 8
+13 Mary ve Sandra bahçeye gitti.
+14 Bundan sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 Daniel ve John mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Sandra ve Mary ofise gitti.
+5 Bunun ardından koridora gitti.
+6 Mary nerede?	koridor	4 5
+7 Mary ve Sandra salona gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	ofis	7 8
+10 Daniel ve Sandra bahçeye gitti.
+11 Bundan sonra koridora gitti.
+12 Daniel nerede?	koridor	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Daha sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Mary ve Daniel salona gitti.
+2 Daha sonra mutfağa gitti.
+3 Daniel nerede?	mutfak	1 2
+4 Daniel ve Sandra koridora gitti.
+5 Ardından bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 John ve Mary koridora gitti.
+8 Sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Mary ve John koridora gitti.
+11 Sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Sandra ve Mary ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Mary nerede?	bahçe	13 14
+1 Daniel ve Mary koridora gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 John ve Mary mutfağa gitti.
+5 Daha sonra bahçeye gitti.
+6 Mary nerede?	bahçe	4 5
+7 Mary ve Sandra ofise gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Sandra ve Mary mutfağa gitti.
+11 Bunun ardından salona gitti.
+12 Sandra nerede?	salon	10 11
+13 Daniel ve Mary mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 Mary ve John koridora gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 Daniel ve Mary bahçeye geri döndü.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 Daniel ve Sandra mutfağa gitti.
+8 Daha sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Sandra ve Mary ofise gitti.
+11 Sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 John ve Mary mutfağa gitti.
+14 Bundan sonra banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Mary ve Sandra ofise gitti.
+2 Sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Mary ve Sandra salona gitti.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Sandra ve John salona gitti.
+8 Daha sonra banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 Sandra ve Daniel mutfağa gitti.
+11 Bundan sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Mary salona gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	ofis	13 14
+1 Sandra ve Mary salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 John ve Daniel banyoya gitti.
+5 Daha sonra bahçeye gitti.
+6 John nerede?	bahçe	4 5
+7 Sandra ve John salona gitti.
+8 Bundan sonra banyoya gitti.
+9 John nerede?	banyo	7 8
+10 Sandra ve Mary mutfağa gitti.
+11 Sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Mary ve Sandra ofise gitti.
+14 Bundan sonra bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Sandra ve John koridora gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 Sandra ve John banyoya gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Mary ve John bahçeye gitti.
+8 Bundan sonra mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 John ve Mary bahçeye gitti.
+11 Sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Mary ve Daniel salona gitti.
+14 Sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Sandra ve Mary salona gitti.
+2 Bunun ardından koridora gitti.
+3 Sandra nerede?	koridor	1 2
+4 Daniel ve Mary ofise gitti.
+5 Sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	banyo	4 5
+10 Mary ve John mutfağa gitti.
+11 Sonra salona gitti.
+12 John nerede?	salon	10 11
+13 Mary ve John ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Mary nerede?	bahçe	13 14
+1 Mary ve Sandra salona gitti.
+2 Bunun ardından mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Sandra ve Daniel banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	ofis	4 5
+7 Daniel ve Mary bahçeye gitti.
+8 Bundan sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 Sandra ve Daniel bahçeye gitti.
+11 Sonra salona gitti.
+12 Sandra nerede?	salon	10 11
+13 Mary ve Daniel mutfağa gitti.
+14 Daha sonra bahçeye gitti.
+15 Mary nerede?	bahçe	13 14
+1 Mary ve Daniel bahçeye gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 Sandra ve John salona gitti.
+5 Daha sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 Mary ve Daniel mutfağa gitti.
+8 Daha sonra ofise gitti.
+9 Daniel nerede?	ofis	7 8
+10 Mary ve Sandra salona gitti.
+11 Daha sonra ofise gitti.
+12 Sandra nerede?	ofis	10 11
+13 Mary ve Daniel bahçeye gitti.
+14 Bunun ardından banyoya gitti.
+15 Mary nerede?	banyo	13 14
+1 John ve Daniel koridora gitti.
+2 Sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve John banyoya gitti.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 Daniel ve Sandra banyoya gitti.
+8 Daha sonra mutfağa gitti.
+9 Daniel nerede?	mutfak	7 8
+10 Sandra ve John ofise gitti.
+11 Daha sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 Daniel ve Sandra koridora gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Daniel ve John mutfağa gitti.
+2 Sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Daniel ve Sandra ofise gitti.
+5 Bunun ardından mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 Daniel ve John ofise gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 John ve Mary ofise gitti.
+11 Daha sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 John ve Sandra koridora gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	banyo	10 11
+1 Sandra ve Daniel mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Mary ve Daniel bahçeye gitti.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 John ve Mary ofise gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Mary ve Sandra mutfağa gitti.
+11 Daha sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 Daniel ve Sandra ofise gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 John ve Sandra bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 Sandra nerede?	banyo	1 2
+4 Daniel ve John ofise gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Daniel ve John ofise gitti.
+8 Daha sonra mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 Sandra ve Daniel koridora gitti.
+11 Bunun ardından mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 John ve Mary koridora gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	mutfak	10 11
+1 Daniel ve Sandra bahçeye gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 John ve Mary bahçeye gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 Sandra ve Daniel mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 Sandra ve Daniel koridora gitti.
+11 Bundan sonra salona gitti.
+12 Daniel nerede?	salon	10 11
+13 John ve Mary salona gitti.
+14 Bunun ardından koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Daniel ve Mary salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 John ve Daniel banyoya gitti.
+5 Bundan sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Sandra ve John mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 John ve Mary salona gitti.
+11 Daha sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 John ve Mary koridora gitti.
+14 Sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Mary ve Sandra banyoya gitti.
+2 Daha sonra koridora gitti.
+3 Sandra nerede?	koridor	1 2
+4 Mary ve Daniel ofise gitti.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 Sandra ve Daniel mutfağa gitti.
+8 Daha sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 Mary ve Sandra ofise gitti.
+11 Daha sonra salona gitti.
+12 Daniel nerede?	koridor	7 8
+13 John ve Sandra koridora gitti.
+14 Daha sonra bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 John ve Sandra bahçeye gitti.
+2 Daha sonra salona gitti.
+3 John nerede?	salon	1 2
+4 Mary ve John banyoya gitti.
+5 Bundan sonra koridora gitti.
+6 Mary nerede?	koridor	4 5
+7 Sandra ve Daniel ofise gitti.
+8 Daha sonra koridora gitti.
+9 Sandra nerede?	koridor	7 8
+10 Sandra ve John salona gitti.
+11 Daha sonra koridora gitti.
+12 Daniel nerede?	koridor	7 8
+13 Mary ve Sandra ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Daniel ve John koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve John banyoya gitti.
+5 Bundan sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Mary ve Daniel ofise gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	koridor	4 5
+10 John ve Sandra ofise gitti.
+11 Bundan sonra salona gitti.
+12 John nerede?	salon	10 11
+13 Mary ve John ofise gitti.
+14 Bundan sonra bahçeye gitti.
+15 Sandra nerede?	salon	10 11
+1 Mary ve Daniel koridora gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 John ve Sandra banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Mary ve Daniel bahçeye gitti.
+8 Daha sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 Daniel ve Mary salona gitti.
+11 Bunun ardından mutfağa gitti.
+12 Mary nerede?	mutfak	10 11
+13 Sandra ve Mary koridora gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 Daniel ve John ofise gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Daniel ve Sandra koridora gitti.
+5 Bunun ardından mutfağa gitti.
+6 Sandra nerede?	mutfak	4 5
+7 Mary ve John koridora gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Mary ve John ofise gitti.
+11 Sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 John ve Mary bahçeye gitti.
+14 Daha sonra koridora gitti.
+15 John nerede?	koridor	13 14
+1 John ve Mary banyoya gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 Daniel ve John ofise gitti.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	salon	1 2
+7 Daniel ve Sandra ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 Mary ve John ofise gitti.
+11 Bunu takiben koridora gitti.
+12 Sandra nerede?	bahçe	7 8
+13 Sandra ve Mary banyoya gitti.
+14 Bundan sonra bahçeye gitti.
+15 Mary nerede?	bahçe	13 14
+1 Daniel ve Mary koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Mary ve Daniel koridora gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 Mary ve Sandra koridora gitti.
+8 Daha sonra ofise gitti.
+9 Daniel nerede?	ofis	4 5
+10 Sandra ve John bahçeye gitti.
+11 Daha sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 Daniel ve Sandra koridora gitti.
+14 Daha sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 Mary ve Daniel salona gitti.
+2 Sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Daniel ve Sandra bahçeye geri döndü.
+5 Bunun ardından banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 Sandra ve John salona gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 John ve Daniel ofise gitti.
+11 Bundan sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 Sandra ve Daniel salona gitti.
+14 Daha sonra koridora gitti.
+15 Daniel nerede?	koridor	13 14
+1 John ve Mary ofise gitti.
+2 Daha sonra salona gitti.
+3 John nerede?	salon	1 2
+4 Sandra ve Daniel banyoya gitti.
+5 Bundan sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 Daniel ve Sandra banyoya gitti.
+8 Daha sonra bahçeye gitti.
+9 Daniel nerede?	bahçe	7 8
+10 Sandra ve Daniel koridora gitti.
+11 Sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 Daniel ve Mary ofise gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 John ve Mary koridora gitti.
+2 Daha sonra mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 John ve Mary banyoya gitti.
+5 Daha sonra mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Daniel ve John koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Mary nerede?	mutfak	4 5
+10 Sandra ve John ofise gitti.
+11 Daha sonra salona gitti.
+12 Sandra nerede?	salon	10 11
+13 Mary ve Sandra ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Sandra ve Daniel salona gitti.
+2 Daha sonra mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Mary ve Daniel salona gitti.
+5 Daha sonra mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Sandra ve Mary banyoya gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	salon	7 8
+10 John ve Sandra bahçeye gitti.
+11 Sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Mary bahçeye gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Daniel ve Mary koridora gitti.
+2 Sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Mary ve Sandra koridora gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 Sandra ve Mary koridora gitti.
+8 Bundan sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Mary ve John ofise gitti.
+11 Daha sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 John ve Mary mutfağa gitti.
+14 Bunun ardından salona gitti.
+15 Mary nerede?	salon	13 14
+1 Daniel ve Mary koridora gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 John ve Sandra banyoya gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 John ve Mary mutfağa gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	ofis	7 8
+10 Sandra ve Daniel bahçeye gitti.
+11 Daha sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Daha sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Sandra ve John bahçeye gitti.
+2 Daha sonra koridora gitti.
+3 John nerede?	koridor	1 2
+4 Daniel ve Sandra bahçeye gitti.
+5 Daha sonra banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 John ve Mary ofise gitti.
+8 Daha sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 Sandra ve Daniel koridora gitti.
+11 Bundan sonra ofise gitti.
+12 Sandra nerede?	ofis	10 11
+13 Mary ve Daniel salona gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 Mary ve Daniel ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Mary ve Sandra banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	bahçe	1 2
+7 John ve Daniel salona gitti.
+8 Daha sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 John ve Sandra salona gitti.
+11 Bunun ardından banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Sandra bahçeye gitti.
+14 Bundan sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Daniel ve John ofise gitti.
+2 Daha sonra salona gitti.
+3 John nerede?	salon	1 2
+4 Sandra ve John bahçeye gitti.
+5 Daha sonra banyoya gitti.
+6 John nerede?	banyo	4 5
+7 Daniel ve Sandra mutfağa gitti.
+8 Sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Sandra ve John salona gitti.
+11 Sonra mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 Mary ve Sandra salona gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	mutfak	10 11
+1 Daniel ve John salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Sandra ve Daniel mutfağa gitti.
+5 Daha sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 John ve Mary banyoya gitti.
+8 Daha sonra ofise gitti.
+9 John nerede?	ofis	7 8
+10 Daniel ve John salona gitti.
+11 Sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 Daniel ve Sandra ofise gitti.
+14 Sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Daniel ve John mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Mary ve John ofise gitti.
+5 Daha sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 John ve Daniel salona gitti.
+8 Bundan sonra mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 Mary ve John salona gitti.
+11 Sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Mary ve Daniel banyoya gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Sandra ve Daniel koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 John ve Daniel koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 John ve Mary salona gitti.
+8 Daha sonra ofise gitti.
+9 John nerede?	ofis	7 8
+10 Mary ve Sandra salona gitti.
+11 Daha sonra ofise gitti.
+12 Sandra nerede?	ofis	10 11
+13 Sandra ve John salona gitti.
+14 Bunun ardından banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Mary ve John ofise gitti.
+2 Daha sonra mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 Daniel ve Mary banyoya gitti.
+5 Daha sonra bahçeye gitti.
+6 Mary nerede?	bahçe	4 5
+7 Mary ve John salona gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	ofis	7 8
+10 Daniel ve John banyoya gitti.
+11 Daha sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Mary ve Daniel banyoya gitti.
+14 Bundan sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 John ve Mary ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Mary ve John koridora gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Mary ve Sandra ofise gitti.
+8 Bundan sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 John ve Daniel bahçeye gitti.
+11 Bundan sonra mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Daha sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Sandra ve John banyoya gitti.
+2 Sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 John ve Daniel koridora gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 Sandra ve John bahçeye gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Daniel ve John bahçeye gitti.
+11 Bunun ardından salona gitti.
+12 Daniel nerede?	salon	10 11
+13 John ve Mary banyoya gitti.
+14 Daha sonra bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 Daniel ve Mary salona gitti.
+2 Daha sonra ofise gitti.
+3 Mary nerede?	ofis	1 2
+4 Daniel ve Mary koridora gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Mary ve Sandra mutfağa gitti.
+8 Daha sonra banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 John ve Sandra ofise gitti.
+11 Sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Mary ve Sandra mutfağa gitti.
+14 Sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Mary ve Sandra salona gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Mary ve Sandra koridora gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Sandra ve Daniel bahçeye gitti.
+8 Daha sonra banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 John ve Mary banyoya gitti.
+11 Daha sonra mutfağa gitti.
+12 Daniel nerede?	banyo	7 8
+13 Daniel ve Sandra salona gitti.
+14 Bundan sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Sandra ve John bahçeye gitti.
+2 Daha sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 Daniel ve John bahçeye gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Mary ve Sandra mutfağa gitti.
+8 Daha sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 John ve Sandra bahçeye gitti.
+11 Daha sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 John ve Daniel ofise gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Mary ve Sandra salona gitti.
+2 Daha sonra koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 Mary ve Daniel mutfağa gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Sandra ve Mary ofise geri döndü.
+8 Sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Sandra ve John ofise gitti.
+11 Daha sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Sandra ve John mutfağa gitti.
+14 Daha sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 John ve Sandra mutfağa gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 Sandra ve John salona gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Sandra ve Mary ofise gitti.
+8 Daha sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Mary ve Sandra bahçeye gitti.
+11 Sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Daniel ve Mary mutfağa gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Sandra ve Daniel ofise gitti.
+2 Sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 John ve Daniel ofise gitti.
+5 Daha sonra bahçeye gitti.
+6 John nerede?	bahçe	4 5
+7 Daniel ve John mutfağa gitti.
+8 Daha sonra salona gitti.
+9 Daniel nerede?	salon	7 8
+10 John ve Mary ofise gitti.
+11 Daha sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Sandra ve Daniel ofise gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Daniel ve Sandra mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Mary ve Daniel salona gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 John ve Mary mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 John ve Mary banyoya gitti.
+11 Bundan sonra salona gitti.
+12 John nerede?	salon	10 11
+13 Daniel ve Sandra koridora gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 John ve Mary bahçeye gitti.
+2 Daha sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 John ve Mary bahçeye gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Mary ve Sandra banyoya gitti.
+8 Daha sonra mutfağa gitti.
+9 Mary nerede?	mutfak	7 8
+10 Daniel ve John ofise gitti.
+11 Bundan sonra salona gitti.
+12 John nerede?	salon	10 11
+13 John ve Mary ofise gitti.
+14 Bundan sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Sandra ve Daniel bahçeye gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 Daniel ve John koridora gitti.
+5 Daha sonra bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 Daniel ve Mary banyoya gitti.
+8 Bundan sonra bahçeye gitti.
+9 Mary nerede?	bahçe	7 8
+10 Daniel ve Mary koridora gitti.
+11 Sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 Daniel ve Sandra bahçeye gitti.
+14 Sonra banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Sandra ve Daniel ofise gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 John ve Daniel mutfağa gitti.
+5 Daha sonra bahçeye gitti.
+6 John nerede?	bahçe	4 5
+7 John ve Daniel salona gitti.
+8 Daha sonra mutfağa gitti.
+9 Daniel nerede?	mutfak	7 8
+10 Daniel ve Mary bahçeye gitti.
+11 Bunun ardından mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 John ve Mary salona gitti.
+14 Daha sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Mary ve John ofise gitti.
+2 Daha sonra koridora gitti.
+3 John nerede?	koridor	1 2
+4 Sandra ve Mary salona gitti.
+5 Daha sonra mutfağa gitti.
+6 Sandra nerede?	mutfak	4 5
+7 Mary ve Sandra banyoya gitti.
+8 Daha sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 Sandra ve Daniel salona gitti.
+11 Daha sonra ofise gitti.
+12 Daniel nerede?	ofis	10 11
+13 Daniel ve John salona gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 Daniel ve Sandra salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Sonra koridora gitti.
+6 Mary nerede?	koridor	4 5
+7 Daniel ve John banyoya gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	koridor	4 5
+10 John ve Daniel mutfağa gitti.
+11 Daha sonra salona gitti.
+12 Daniel nerede?	salon	10 11
+13 Daniel ve Mary bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 Daniel ve Sandra ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve John salona gitti.
+5 Daha sonra banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 Mary ve Daniel bahçeye gitti.
+8 Bundan sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 Sandra ve Mary mutfağa gitti.
+11 Bundan sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Sandra ve Mary ofise gitti.
+14 Daha sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Daniel ve Sandra banyoya gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Mary ve Sandra banyoya gitti.
+5 Bundan sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Mary ve John koridora gitti.
+8 Daha sonra banyoya gitti.
+9 John nerede?	banyo	7 8
+10 Sandra ve Mary bahçeye gitti.
+11 Bundan sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 John ve Mary koridora gitti.
+14 Daha sonra banyoya gitti.
+15 Mary nerede?	banyo	13 14
+1 John ve Daniel koridora gitti.
+2 Daha sonra salona gitti.
+3 John nerede?	salon	1 2
+4 John ve Daniel ofise gitti.
+5 Bunun ardından bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 John ve Sandra mutfağa gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	salon	7 8
+10 John ve Mary koridora gitti.
+11 Sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 Sandra ve Daniel ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Mary nerede?	bahçe	10 11
+1 Daniel ve Mary mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Mary ve Daniel mutfağa gitti.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Daniel ve Sandra koridora geri döndü.
+8 Daha sonra mutfağa gitti.
+9 Daniel nerede?	mutfak	7 8
+10 John ve Daniel salona gitti.
+11 Bunun ardından mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 Daniel ve John ofise gitti.
+14 Bundan sonra koridora gitti.
+15 John nerede?	koridor	13 14
+1 Mary ve Daniel salona gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Daniel ve John koridora gitti.
+5 Bunun ardından bahçeye gitti.
+6 John nerede?	bahçe	4 5
+7 John ve Sandra ofise gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Daniel ve John salona gitti.
+11 Sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 Daniel ve John mutfağa gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Daniel ve John salona gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Sandra ve John koridora gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Daniel ve Sandra koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Daniel nerede?	mutfak	7 8
+10 Sandra ve John ofise gitti.
+11 Bundan sonra koridora gitti.
+12 Sandra nerede?	koridor	10 11
+13 John ve Sandra mutfağa gitti.
+14 Bundan sonra bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 Daniel ve John ofise gitti.
+2 Daha sonra banyoya gitti.
+3 John nerede?	banyo	1 2
+4 Daniel ve Mary bahçeye geri döndü.
+5 Daha sonra banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 Mary ve John koridora gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Daniel ve John ofise gitti.
+11 Bundan sonra koridora gitti.
+12 Daniel nerede?	koridor	10 11
+13 Sandra ve Daniel mutfağa gitti.
+14 Bunun ardından salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Sandra ve Mary koridora gitti.
+2 Daha sonra banyoya gitti.
+3 Sandra nerede?	banyo	1 2
+4 Mary ve Sandra salona gitti.
+5 Daha sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 Mary ve Daniel ofise gitti.
+8 Bundan sonra salona gitti.
+9 Daniel nerede?	salon	7 8
+10 Sandra ve Mary ofise gitti.
+11 Sonra koridora gitti.
+12 Mary nerede?	koridor	10 11
+13 Daniel ve Mary banyoya gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 Mary ve Sandra salona gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve Daniel koridora gitti.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Mary ve Daniel salona gitti.
+8 Daha sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 Sandra ve Daniel banyoya gitti.
+11 Sonra salona gitti.
+12 Daniel nerede?	salon	10 11
+13 Daniel ve Sandra koridora gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Daniel ve Sandra mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra banyoya gitti.
+9 John nerede?	banyo	7 8
+10 Mary ve Sandra ofise gitti.
+11 Daha sonra salona gitti.
+12 John nerede?	banyo	7 8
+13 Daniel ve Mary bahçeye gitti.
+14 Sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 John ve Daniel mutfağa gitti.
+2 Sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 John ve Daniel banyoya gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Mary ve John salona gitti.
+8 Daha sonra banyoya gitti.
+9 Daniel nerede?	mutfak	4 5
+10 Mary ve Daniel ofise gitti.
+11 Daha sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 John ve Sandra salona gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	banyo	10 11
+1 John ve Mary bahçeye gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 John ve Daniel banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	ofis	4 5
+7 Daniel ve Mary mutfağa gitti.
+8 Sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Sandra ve Mary ofise gitti.
+11 Daha sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Mary ve Sandra koridora gitti.
+14 Bunun ardından salona gitti.
+15 Mary nerede?	salon	13 14
+1 John ve Daniel banyoya gitti.
+2 Sonra mutfağa gitti.
+3 Daniel nerede?	mutfak	1 2
+4 Daniel ve Sandra banyoya gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Daniel ve Mary bahçeye gitti.
+8 Sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Daniel ve Mary koridora gitti.
+11 Daha sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 Sandra ve John banyoya gitti.
+14 Daha sonra bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 Sandra ve Daniel mutfağa geri döndü.
+2 Daha sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Mary ve Sandra koridora gitti.
+5 Sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 John ve Daniel ofise gitti.
+8 Daha sonra salona gitti.
+9 Daniel nerede?	salon	7 8
+10 Daniel ve John banyoya gitti.
+11 Bunun ardından mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 Daniel ve John ofise gitti.
+14 Daha sonra mutfağa gitti.
+15 John nerede?	mutfak	13 14
+1 Sandra ve Daniel banyoya gitti.
+2 Daha sonra mutfağa gitti.
+3 Daniel nerede?	mutfak	1 2
+4 John ve Mary banyoya gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Mary ve John mutfağa gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Mary ve John ofise gitti.
+11 Daha sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Sandra ve Daniel salona gitti.
+14 Sonra banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Daniel ve John koridora gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Sandra ve Mary ofise gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Daniel ve Sandra koridora gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	4 5
+10 Mary ve John bahçeye gitti.
+11 Daha sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Sandra ve John banyoya gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Mary ve Daniel ofise gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 John ve Mary bahçeye gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	salon	1 2
+7 John ve Mary bahçeye gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	ofis	7 8
+10 John ve Mary salona gitti.
+11 Daha sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Sandra ve Mary salona gitti.
+14 Ardından bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Mary ve Daniel banyoya gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 Daniel ve Sandra koridora gitti.
+5 Bunun ardından bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 John ve Daniel mutfağa gitti.
+8 Bundan sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 John ve Daniel banyoya gitti.
+11 Daha sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Mary ve John koridora gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 Daniel ve Mary bahçeye geri döndü.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 John ve Daniel bahçeye gitti.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 John ve Daniel bahçeye gitti.
+8 Bundan sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Daniel ve John ofise gitti.
+11 Bunun ardından banyoya gitti.
+12 John nerede?	banyo	10 11
+13 John ve Mary ofise gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 Daniel ve Mary bahçeye gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Sandra ve Mary salona gitti.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Daniel ve John banyoya gitti.
+8 Bundan sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Mary ve John ofise gitti.
+11 Bunun ardından mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 Mary ve Sandra koridora gitti.
+14 Bunun ardından banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Sandra ve John mutfağa gitti.
+2 Daha sonra salona gitti.
+3 Sandra nerede?	salon	1 2
+4 Mary ve John koridora gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 Sandra ve Daniel ofise gitti.
+8 Daha sonra banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 Daniel ve John salona gitti.
+11 Daha sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 John ve Mary banyoya gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Daniel ve John bahçeye gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 John ve Sandra koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 Sandra nerede?	mutfak	4 5
+7 Daniel ve Sandra koridora gitti.
+8 Bundan sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 John ve Mary salona gitti.
+11 Bundan sonra banyoya gitti.
+12 Sandra nerede?	ofis	7 8
+13 Daniel ve John bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Daniel ve Sandra koridora gitti.
+2 Sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve John koridora gitti.
+5 Daha sonra banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 John ve Mary ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 Mary nerede?	bahçe	7 8
+10 Sandra ve John mutfağa gitti.
+11 Daha sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Mary koridora gitti.
+14 Ardından bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 Daniel ve Sandra salona gitti.
+2 Sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 John ve Mary bahçeye gitti.
+5 Sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Sandra ve Mary mutfağa gitti.
+8 Daha sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 John ve Mary salona gitti.
+11 Sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Sandra ve Daniel bahçeye gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	banyo	10 11
+1 Mary ve Daniel mutfağa gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 John ve Sandra koridora gitti.
+5 Bunun ardından banyoya gitti.
+6 Sandra nerede?	banyo	4 5
+7 Daniel ve Sandra ofise gitti.
+8 Daha sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Daniel ve John bahçeye gitti.
+11 Bundan sonra mutfağa gitti.
+12 Sandra nerede?	banyo	7 8
+13 John ve Daniel ofise gitti.
+14 Sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Sandra ve John ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Sandra ve John banyoya gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Sandra ve John mutfağa gitti.
+8 Bundan sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Sandra ve John salona gitti.
+11 Bunun ardından banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Mary ve Sandra ofise gitti.
+14 Bundan sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 John ve Daniel bahçeye gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Mary ve Daniel koridora gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	ofis	4 5
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Sandra ve John mutfağa gitti.
+11 Daha sonra salona gitti.
+12 John nerede?	salon	10 11
+13 Sandra ve Daniel bahçeye gitti.
+14 Sonra banyoya gitti.
+15 Daniel nerede?	banyo	13 14
+1 Mary ve Daniel banyoya gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Mary ve John banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	bahçe	1 2
+7 John ve Mary bahçeye gitti.
+8 Bundan sonra ofise gitti.
+9 John nerede?	ofis	7 8
+10 Sandra ve Mary koridora gitti.
+11 Bundan sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 Mary ve Sandra koridora gitti.
+14 Bundan sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 Daniel ve John koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 Mary ve Daniel mutfağa gitti.
+8 Daha sonra salona gitti.
+9 Daniel nerede?	salon	7 8
+10 John ve Mary mutfağa gitti.
+11 Sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 John ve Sandra mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Daniel ve Mary banyoya gitti.
+2 Sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 John ve Sandra bahçeye gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Sandra ve Daniel mutfağa gitti.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Daniel ve Sandra mutfağa gitti.
+11 Bunun ardından bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Daniel ve John ofise gitti.
+14 Daha sonra mutfağa gitti.
+15 Sandra nerede?	bahçe	10 11
+1 Mary ve John koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Sandra ve John banyoya gitti.
+5 Bundan sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 John ve Mary salona gitti.
+8 Sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 John ve Daniel ofise gitti.
+11 Sonra salona gitti.
+12 Daniel nerede?	salon	10 11
+13 Sandra ve John mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	salon	10 11
+1 Mary ve Sandra salona gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve John ofise gitti.
+5 Bundan sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 Sandra ve Daniel mutfağa gitti.
+8 Daha sonra ofise gitti.
+9 Daniel nerede?	ofis	7 8
+10 Sandra ve John banyoya gitti.
+11 Daha sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Sonra banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 John ve Daniel koridora gitti.
+2 Daha sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 Mary ve Daniel bahçeye gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 John ve Mary koridora gitti.
+8 Ardından bahçeye gitti.
+9 Daniel nerede?	salon	4 5
+10 Sandra ve John mutfağa gitti.
+11 Daha sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 John ve Daniel banyoya gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Daniel ve Mary ofise gitti.
+2 Daha sonra koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 John ve Mary ofise gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Sandra ve Mary salona gitti.
+8 Bundan sonra koridora gitti.
+9 Sandra nerede?	koridor	7 8
+10 Daniel ve Sandra mutfağa gitti.
+11 Daha sonra salona gitti.
+12 Sandra nerede?	salon	10 11
+13 Daniel ve John ofise gitti.
+14 Sonra mutfağa gitti.
+15 Sandra nerede?	salon	10 11
+1 Mary ve Daniel salona gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Daniel ve Mary ofise gitti.
+5 Bunun ardından mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Mary ve Daniel banyoya gitti.
+8 Bundan sonra bahçeye gitti.
+9 Daniel nerede?	bahçe	7 8
+10 Sandra ve Mary salona gitti.
+11 Daha sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Sandra ve Daniel banyoya gitti.
+14 Daha sonra koridora gitti.
+15 Daniel nerede?	koridor	13 14
+1 Mary ve John ofise gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve Daniel banyoya gitti.
+5 Bunun ardından mutfağa gitti.
+6 Sandra nerede?	mutfak	4 5
+7 Mary ve Sandra koridora gitti.
+8 Ardından banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 Sandra ve Daniel koridora gitti.
+11 Sonra bahçeye gitti.
+12 Daniel nerede?	bahçe	10 11
+13 Daniel ve John ofise gitti.
+14 Daha sonra mutfağa gitti.
+15 Daniel nerede?	mutfak	13 14
+1 Mary ve Daniel bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve Mary salona gitti.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Mary ve John salona gitti.
+8 Daha sonra koridora gitti.
+9 Mary nerede?	koridor	7 8
+10 John ve Daniel bahçeye gitti.
+11 Bundan sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Daniel ve Mary mutfağa gitti.
+14 Sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Mary ve Sandra mutfağa gitti.
+2 Daha sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 John ve Mary koridora gitti.
+5 Daha sonra banyoya gitti.
+6 Sandra nerede?	ofis	1 2
+7 Sandra ve John koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Sandra ve John banyoya gitti.
+11 Daha sonra salona gitti.
+12 John nerede?	salon	10 11
+13 John ve Mary koridora gitti.
+14 Bundan sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 John ve Sandra bahçeye gitti.
+2 Daha sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 Daniel ve Mary bahçeye geri döndü.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Mary ve Daniel mutfağa gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Mary ve Daniel mutfağa gitti.
+11 Daha sonra koridora gitti.
+12 Daniel nerede?	koridor	10 11
+13 Daniel ve John ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Mary ve Sandra bahçeye gitti.
+2 Daha sonra mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 Mary ve John salona gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 Mary ve Daniel mutfağa gitti.
+8 Bundan sonra salona gitti.
+9 John nerede?	ofis	4 5
+10 Sandra ve Mary koridora gitti.
+11 Sonra bahçeye gitti.
+12 Daniel nerede?	salon	7 8
+13 Daniel ve Sandra mutfağa gitti.
+14 Bunun ardından banyoya gitti.
+15 Daniel nerede?	banyo	13 14
+1 Mary ve Sandra salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Daniel ve John koridora gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Sandra ve John mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 Mary ve Daniel banyoya gitti.
+11 Sonra bahçeye gitti.
+12 Daniel nerede?	bahçe	10 11
+13 John ve Sandra mutfağa gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	bahçe	10 11
+1 Sandra ve John koridora gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 Daniel ve Sandra koridora gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	ofis	1 2
+7 Sandra ve Mary koridora geri döndü.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Daniel ve Mary ofise gitti.
+11 Sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 Sandra ve Daniel bahçeye gitti.
+14 Bunun ardından koridora gitti.
+15 Daniel nerede?	koridor	13 14
+1 Daniel ve Sandra salona gitti.
+2 Daha sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 John ve Mary bahçeye gitti.
+8 Daha sonra salona döndüler.
+9 Mary nerede?	salon	7 8
+10 Mary ve Daniel koridora gitti.
+11 Sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Sandra ve Daniel salona gitti.
+14 Daha sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 Mary ve Daniel mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 Sandra ve Mary salona gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 Sandra ve Daniel salona gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Mary ve Sandra ofise gitti.
+11 Sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Sandra ve Daniel banyoya gitti.
+2 Daha sonra mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Mary ve John banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	mutfak	1 2
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 Mary ve Sandra salona gitti.
+11 Daha sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Sandra ve John mutfağa gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 John ve Mary salona gitti.
+2 Daha sonra mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 Daniel ve Mary ofise gitti.
+5 Sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Daniel ve John ofise gitti.
+8 Bundan sonra koridora gitti.
+9 Mary nerede?	banyo	4 5
+10 John ve Sandra salona gitti.
+11 Bunu takiben koridora gitti.
+12 John nerede?	koridor	10 11
+13 John ve Mary mutfağa gitti.
+14 Daha sonra koridora gitti.
+15 John nerede?	koridor	13 14
+1 Daniel ve Sandra koridora gitti.
+2 Daha sonra salona gitti.
+3 Sandra nerede?	salon	1 2
+4 Sandra ve John bahçeye gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Sandra ve Daniel bahçeye gitti.
+8 Daha sonra salona gitti.
+9 Daniel nerede?	salon	7 8
+10 Daniel ve Mary banyoya gitti.
+11 Daha sonra ofise gitti.
+12 Daniel nerede?	ofis	10 11
+13 John ve Mary bahçeye gitti.
+14 Daha sonra banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Daniel ve John bahçeye gitti.
+2 Sonra koridora gitti.
+3 John nerede?	koridor	1 2
+4 Daniel ve John bahçeye gitti.
+5 Daha sonra banyoya gitti.
+6 John nerede?	banyo	4 5
+7 Daniel ve John ofise gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 Daniel ve Sandra ofise gitti.
+11 Daha sonra koridora gitti.
+12 Sandra nerede?	koridor	10 11
+13 Daniel ve Sandra ofise gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Sandra ve Mary bahçeye gitti.
+2 Daha sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 Mary ve Daniel banyoya gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Sandra ve Daniel bahçeye gitti.
+8 Daha sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 Sandra ve Mary banyoya gitti.
+11 Sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Mary ve Daniel mutfağa gitti.
+14 Bunun ardından koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Mary ve Sandra mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Daniel ve Sandra mutfağa gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Daniel ve Mary ofise gitti.
+8 Bundan sonra bahçeye gitti.
+9 Sandra nerede?	salon	4 5
+10 Mary ve John koridora gitti.
+11 Sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Mary ve Daniel ofise gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	banyo	10 11
+1 Sandra ve Mary koridora gitti.
+2 Daha sonra salona gitti.
+3 Sandra nerede?	salon	1 2
+4 Daniel ve John salona gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	ofis	4 5
+7 Sandra ve Daniel banyoya gitti.
+8 Bundan sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 John ve Sandra banyoya gitti.
+11 Sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 Sandra ve Mary ofise gitti.
+14 Daha sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Sandra ve John mutfağa gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 John ve Sandra koridora gitti.
+5 Daha sonra bahçeye gitti.
+6 John nerede?	bahçe	4 5
+7 Mary ve Sandra mutfağa gitti.
+8 Bundan sonra ofise gitti.
+9 Mary nerede?	ofis	7 8
+10 John ve Mary mutfağa gitti.
+11 Ardından bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 Daniel ve Sandra bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Daniel ve Mary salona gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Mary ve Daniel koridora gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 John ve Sandra banyoya gitti.
+8 Bundan sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Daniel ve Sandra koridora gitti.
+11 Bundan sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Daniel ve Mary salona gitti.
+14 Bundan sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Daniel ve Mary mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Daniel ve Mary bahçeye gitti.
+5 Daha sonra koridora gitti.
+6 Mary nerede?	koridor	4 5
+7 Sandra ve John koridora gitti.
+8 Bundan sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 John ve Mary banyoya gitti.
+11 Bundan sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 Sandra ve John banyoya gitti.
+14 Bundan sonra koridora gitti.
+15 Mary nerede?	koridor	10 11
+1 Mary ve John banyoya gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Daniel ve Mary ofise gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Sandra ve Daniel bahçeye gitti.
+8 Sonra koridora gitti.
+9 Mary nerede?	salon	4 5
+10 Sandra ve Daniel mutfağa gitti.
+11 Bundan sonra koridora gitti.
+12 Daniel nerede?	koridor	10 11
+13 Daniel ve John mutfağa gitti.
+14 Sonra banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Daniel ve John ofise gitti.
+2 Sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Mary ve Daniel salona gitti.
+5 Daha sonra mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra ofise gitti.
+9 Daniel nerede?	ofis	7 8
+10 Sandra ve Mary ofise gitti.
+11 Sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Daniel ve John koridora gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Mary ve Sandra ofise gitti.
+2 Sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Daniel ve Sandra salona gitti.
+5 Bunun ardından banyoya gitti.
+6 Sandra nerede?	banyo	4 5
+7 Sandra ve Mary salona gitti.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Mary ve Daniel bahçeye gitti.
+11 Bunu takiben koridora gitti.
+12 Daniel nerede?	koridor	10 11
+13 Mary ve Daniel salona gitti.
+14 Bunun ardından mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Daniel ve John mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 John nerede?	banyo	1 2
+4 Daniel ve John bahçeye gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 John ve Mary mutfağa gitti.
+8 Bundan sonra ofise gitti.
+9 John nerede?	ofis	7 8
+10 John ve Mary banyoya gitti.
+11 Bundan sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 John ve Daniel koridora gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 John ve Daniel mutfağa gitti.
+2 Sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Mary ve Sandra ofise gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 John ve Sandra banyoya gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Daniel ve John ofise gitti.
+11 Ardından bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 Sandra ve Daniel koridora gitti.
+14 Daha sonra ofise gitti.
+15 Sandra nerede?	ofis	13 14
+1 John ve Daniel ofise gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Daniel ve John ofise gitti.
+5 Ardından banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 Mary ve John bahçeye gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Mary ve Daniel salona gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 Daniel ve Sandra koridora gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 John ve Daniel mutfağa gitti.
+2 Sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Sandra ve Mary salona gitti.
+5 Daha sonra mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Mary ve Sandra ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 Mary nerede?	bahçe	7 8
+10 John ve Sandra koridora gitti.
+11 Daha sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Mary ve Daniel banyoya gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	ofis	13 14
+1 Mary ve Sandra koridora gitti.
+2 Sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 Daniel ve John koridora gitti.
+5 Ardından bahçeye gitti.
+6 John nerede?	bahçe	4 5
+7 Daniel ve Sandra salona gitti.
+8 Bundan sonra koridora gitti.
+9 John nerede?	bahçe	4 5
+10 Mary ve Sandra mutfağa gitti.
+11 Daha sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 John ve Sandra koridora gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 John ve Mary ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Daniel ve Sandra mutfağa gitti.
+5 Daha sonra banyoya gitti.
+6 Sandra nerede?	banyo	4 5
+7 Sandra ve Mary salona gitti.
+8 Bundan sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Sandra ve John salona gitti.
+11 Daha sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 John ve Mary banyoya gitti.
+14 Bunun ardından mutfağa gitti.
+15 John nerede?	mutfak	13 14
+1 John ve Mary ofise gitti.
+2 Daha sonra koridora gitti.
+3 John nerede?	koridor	1 2
+4 Mary ve John bahçeye gitti.
+5 Bundan sonra koridora gitti.
+6 Mary nerede?	koridor	4 5
+7 Mary ve Sandra ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	koridor	4 5
+10 Mary ve John salona gitti.
+11 Daha sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Sandra ve Mary salona gitti.
+14 Daha sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Mary ve John salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 John ve Sandra salona gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 John ve Sandra salona gitti.
+8 Ardından mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 John ve Sandra salona gitti.
+11 Bunun ardından bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Mary ve Sandra banyoya gitti.
+14 Sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Mary ve John mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Sandra ve Mary mutfağa gitti.
+5 Bundan sonra koridora gitti.
+6 John nerede?	bahçe	1 2
+7 Mary ve Sandra bahçeye gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	salon	7 8
+10 John ve Mary mutfağa gitti.
+11 Sonra koridora gitti.
+12 Mary nerede?	koridor	10 11
+13 Sandra ve John banyoya gitti.
+14 Bunun ardından koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Sandra ve Mary bahçeye gitti.
+2 Daha sonra koridora gitti.
+3 Sandra nerede?	koridor	1 2
+4 Mary ve Sandra bahçeye gitti.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Mary ve Sandra mutfağa gitti.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 John ve Mary mutfağa gitti.
+11 Daha sonra salona gitti.
+12 John nerede?	salon	10 11
+13 John ve Mary ofise gitti.
+14 Daha sonra banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Mary ve John ofise gitti.
+2 Daha sonra koridora gitti.
+3 John nerede?	koridor	1 2
+4 John ve Daniel ofise gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Sandra ve Mary bahçeye gitti.
+8 Daha sonra banyoya gitti.
+9 Daniel nerede?	mutfak	4 5
+10 John ve Sandra koridora gitti.
+11 Bunun ardından mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 Daniel ve Sandra ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Daniel ve John salona gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 Daniel ve Sandra banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	ofis	4 5
+7 Mary ve Daniel mutfağa gitti.
+8 Daha sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Mary ve John bahçeye gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	banyo	7 8
+13 Mary ve Sandra bahçeye gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	ofis	13 14
+1 Daniel ve Mary banyoya gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Mary ve Daniel koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Sandra ve Mary koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 John ve Daniel banyoya gitti.
+11 Bundan sonra mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 Sandra ve John koridora gitti.
+14 Daha sonra bahçeye gitti.
+15 Daniel nerede?	mutfak	10 11
+1 Mary ve John mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 John nerede?	koridor	1 2
+4 Mary ve Daniel bahçeye gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Daniel ve Sandra banyoya gitti.
+8 Daha sonra bahçeye gitti.
+9 Daniel nerede?	bahçe	7 8
+10 Mary ve Daniel koridora gitti.
+11 Ardından bahçeye gitti.
+12 Daniel nerede?	bahçe	10 11
+13 John ve Daniel salona gitti.
+14 Bunun ardından banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Mary ve Daniel bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve Mary koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 Sandra nerede?	mutfak	4 5
+7 Mary ve John salona gitti.
+8 Daha sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Mary ve Sandra salona gitti.
+11 Bunun ardından koridora gitti.
+12 Sandra nerede?	koridor	10 11
+13 Mary ve John bahçeye gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	ofis	13 14
+1 Mary ve Daniel bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Daniel ve John koridora gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 John ve Sandra ofise gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Mary ve Daniel koridora gitti.
+11 Daha sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Daniel ve Sandra salona gitti.
+14 Daha sonra bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Mary ve Sandra ofise gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 John ve Sandra ofise gitti.
+5 Bundan sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 Sandra ve Daniel koridora gitti.
+8 Ardından mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Daniel ve Sandra banyoya gitti.
+11 Sonra mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 John ve Sandra banyoya gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 Daniel ve Mary mutfağa gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 John ve Mary bahçeye gitti.
+5 Daha sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Sandra ve Mary bahçeye gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	salon	7 8
+10 Sandra ve Mary mutfağa gitti.
+11 Bundan sonra bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Mary ve Sandra salona gitti.
+14 Daha sonra ofise gitti.
+15 Sandra nerede?	ofis	13 14
+1 John ve Daniel mutfağa gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 Daniel ve John salona gitti.
+5 Bunun ardından mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 Sandra ve Daniel ofise gitti.
+8 Daha sonra mutfağa gitti.
+9 Daniel nerede?	mutfak	7 8
+10 John ve Daniel koridora gitti.
+11 Bundan sonra ofise gitti.
+12 Daniel nerede?	ofis	10 11
+13 Sandra ve Daniel salona gitti.
+14 Bunun ardından koridora gitti.
+15 Daniel nerede?	koridor	13 14
+1 Daniel ve Sandra banyoya gitti.
+2 Daha sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 John ve Sandra banyoya gitti.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 John ve Daniel mutfağa gitti.
+8 Daha sonra ofise gitti.
+9 John nerede?	ofis	7 8
+10 Daniel ve Mary banyoya gitti.
+11 Daha sonra salona gitti.
+12 Daniel nerede?	salon	10 11
+13 Mary ve Sandra mutfağa gitti.
+14 Daha sonra bahçeye gitti.
+15 Mary nerede?	bahçe	13 14
+1 Daniel ve Sandra mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 John ve Sandra banyoya gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 John ve Daniel banyoya gitti.
+8 Daha sonra mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 Mary ve Daniel salona gitti.
+11 Bundan sonra koridora gitti.
+12 Daniel nerede?	koridor	10 11
+13 Mary ve Daniel salona gitti.
+14 Bundan sonra bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Mary ve John banyoya gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 John ve Mary koridora gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Daniel ve Mary koridora gitti.
+8 Daha sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Sandra ve Daniel bahçeye gitti.
+11 Daha sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 John ve Daniel ofise gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Daniel ve Mary mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Daha sonra salona gitti.
+6 Mary nerede?	salon	4 5
+7 Daniel ve Mary bahçeye gitti.
+8 Bundan sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 John ve Sandra salona gitti.
+11 Bundan sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Sandra ve Daniel salona gitti.
+14 Daha sonra ofise gitti.
+15 Sandra nerede?	ofis	13 14
+1 John ve Sandra bahçeye gitti.
+2 Daha sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 Sandra ve Daniel koridora gitti.
+5 Daha sonra bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 John ve Mary bahçeye gitti.
+8 Daha sonra ofise gitti.
+9 Mary nerede?	ofis	7 8
+10 Daniel ve Mary mutfağa gitti.
+11 Bunun ardından bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Mary ve Daniel mutfağa gitti.
+14 Daha sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Sandra ve John ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 John ve Mary ofise gitti.
+5 Bunun ardından mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Mary ve Sandra banyoya gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 John ve Daniel banyoya gitti.
+11 Sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 John ve Daniel mutfağa gitti.
+14 Sonra koridora gitti.
+15 John nerede?	koridor	13 14
+1 Daniel ve John koridora gitti.
+2 Sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Mary ve Daniel koridora gitti.
+5 Bunun ardından banyoya gitti.
+6 John nerede?	bahçe	1 2
+7 Mary ve Sandra koridora gitti.
+8 Bundan sonra mutfağa gitti.
+9 Mary nerede?	mutfak	7 8
+10 Daniel ve Mary salona gitti.
+11 Sonra ofise gitti.
+12 Daniel nerede?	ofis	10 11
+13 Daniel ve Sandra bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Sandra ve Daniel salona gitti.
+2 Daha sonra koridora gitti.
+3 Sandra nerede?	koridor	1 2
+4 John ve Sandra mutfağa gitti.
+5 Sonra banyoya gitti.
+6 John nerede?	banyo	4 5
+7 Sandra ve Mary ofise gitti.
+8 Bundan sonra banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 Sandra ve Daniel mutfağa gitti.
+11 Sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Sandra ofise gitti.
+14 Daha sonra banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Mary ve Sandra bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 Sandra nerede?	banyo	1 2
+4 Mary ve Sandra mutfağa gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 Mary ve Daniel ofise gitti.
+8 Daha sonra mutfağa gitti.
+9 Mary nerede?	mutfak	7 8
+10 Sandra ve John salona gitti.
+11 Daha sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Sandra ve Daniel banyoya gitti.
+14 Sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 John ve Daniel bahçeye gitti.
+2 Daha sonra salona gitti.
+3 John nerede?	salon	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Daha sonra bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 Sandra ve John ofise gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 John ve Sandra salona gitti.
+11 Sonra mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 Sandra ve Daniel ofise gitti.
+14 Bunun ardından banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Daniel ve Sandra salona gitti.
+2 Sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Sandra ve John mutfağa gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 Mary ve Daniel mutfağa gitti.
+8 Bundan sonra salona gitti.
+9 Daniel nerede?	salon	7 8
+10 Sandra ve John ofise gitti.
+11 Bundan sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Sandra ve John mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Daniel ve John salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 John ve Mary mutfağa gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 John ve Daniel mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 John ve Mary mutfağa gitti.
+11 Daha sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Mary ve John mutfağa gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 Mary ve Sandra banyoya gitti.
+2 Sonra mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Sandra ve Daniel banyoya gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Daniel ve Sandra mutfağa gitti.
+8 Daha sonra koridora gitti.
+9 Daniel nerede?	koridor	7 8
+10 Mary ve John banyoya gitti.
+11 Sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Mary ve Sandra banyoya gitti.
+14 Daha sonra bahçeye gitti.
+15 John nerede?	ofis	10 11
+1 Mary ve Daniel mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 Daniel ve Sandra banyoya gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 John ve Sandra ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 Mary ve John mutfağa gitti.
+11 Daha sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 Daniel ve Mary salona gitti.
+14 Bundan sonra ofise gitti.
+15 John nerede?	banyo	10 11
+1 Daniel ve Mary koridora gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 Mary ve Sandra koridora gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 John ve Sandra koridora gitti.
+8 Bundan sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Mary ve John koridora gitti.
+11 Sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 Daniel ve Sandra banyoya gitti.
+14 Bunun ardından salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Sandra ve John banyoya gitti.
+2 Daha sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 Daniel ve John banyoya gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 John ve Mary koridora gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 Sandra ve Mary bahçeye gitti.
+11 Sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Mary mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Mary ve Daniel mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve Daniel mutfağa geri döndü.
+5 Bundan sonra bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 Daniel ve Mary salona gitti.
+8 Daha sonra bahçeye gitti.
+9 Daniel nerede?	bahçe	7 8
+10 Daniel ve John salona gitti.
+11 Daha sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 Mary ve Sandra ofise gitti.
+14 Bunun ardından banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Sandra ve Daniel salona gitti.
+2 Bunun ardından mutfağa gitti.
+3 Daniel nerede?	mutfak	1 2
+4 John ve Mary banyoya gitti.
+5 Daha sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Daniel ve Sandra ofise gitti.
+8 Sonra banyoya gitti.
+9 Sandra nerede?	banyo	7 8
+10 Daniel ve Sandra mutfağa gitti.
+11 Sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Mary ve John mutfağa gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 Daniel ve Sandra ofise gitti.
+2 Daha sonra banyoya gitti.
+3 Sandra nerede?	banyo	1 2
+4 Mary ve John koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Sandra ve Mary koridora geri döndü.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Daniel ve Sandra bahçeye gitti.
+11 Bundan sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 Sandra ve Daniel bahçeye gitti.
+14 Daha sonra mutfağa gitti.
+15 Daniel nerede?	mutfak	13 14
+1 Mary ve John bahçeye gitti.
+2 Sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Daniel ve John bahçeye gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Daniel ve John koridora gitti.
+8 Bundan sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Sandra ve Mary koridora gitti.
+11 Daha sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Daniel ve John koridora gitti.
+14 Daha sonra ofise gitti.
+15 Mary nerede?	banyo	10 11
+1 John ve Mary salona gitti.
+2 Bunun ardından koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 John ve Sandra banyoya gitti.
+5 Daha sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Daniel ve Sandra salona gitti.
+8 Daha sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 John ve Sandra salona gitti.
+11 Daha sonra ofise gitti.
+12 Sandra nerede?	ofis	10 11
+13 John ve Daniel mutfağa gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 Mary ve Daniel salona gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 John ve Daniel salona gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 John ve Sandra koridora gitti.
+8 Bundan sonra ofise gitti.
+9 Daniel nerede?	ofis	4 5
+10 Mary ve Daniel salona gitti.
+11 Daha sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 Sandra ve Daniel koridora gitti.
+14 Bunun ardından bahçeye gitti.
+15 Daniel nerede?	bahçe	13 14
+1 Sandra ve Daniel salona gitti.
+2 Sonra banyoya gitti.
+3 Daniel nerede?	banyo	1 2
+4 Sandra ve John bahçeye gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Mary ve Sandra koridora gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 John ve Sandra banyoya gitti.
+11 Daha sonra salona gitti.
+12 Sandra nerede?	salon	10 11
+13 Mary ve Daniel ofise gitti.
+14 Daha sonra salona gitti.
+15 Daniel nerede?	salon	13 14
+1 Mary ve Sandra salona gitti.
+2 Daha sonra ofise gitti.
+3 Mary nerede?	ofis	1 2
+4 John ve Mary banyoya gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	ofis	1 2
+7 Sandra ve John salona gitti.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 John ve Daniel banyoya gitti.
+11 Bunu takiben koridora gitti.
+12 John nerede?	koridor	10 11
+13 Sandra ve Mary banyoya gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 John ve Daniel bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 John nerede?	banyo	1 2
+4 Daniel ve John mutfağa gitti.
+5 Daha sonra koridora gitti.
+6 Daniel nerede?	koridor	4 5
+7 Daniel ve John bahçeye gitti.
+8 Ardından banyoya gitti.
+9 John nerede?	banyo	7 8
+10 Mary ve John ofise gitti.
+11 Bundan sonra koridora gitti.
+12 Mary nerede?	koridor	10 11
+13 Daniel ve Mary bahçeye gitti.
+14 Bunun ardından salona gitti.
+15 Mary nerede?	salon	13 14
+1 Mary ve John banyoya gitti.
+2 Daha sonra koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 John ve Sandra bahçeye gitti.
+5 Daha sonra mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 John ve Sandra koridora gitti.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Sandra ve John bahçeye gitti.
+11 Daha sonra ofise gitti.
+12 Sandra nerede?	ofis	10 11
+13 Sandra ve Daniel koridora gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 Mary ve Daniel mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Sandra ve Daniel ofise gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 Sandra ve Daniel salona gitti.
+8 Bundan sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 Mary ve Daniel salona gitti.
+11 Daha sonra bahçeye gitti.
+12 Daniel nerede?	bahçe	10 11
+13 Sandra ve Mary mutfağa gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Mary ve Daniel bahçeye gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Sandra ve John ofise gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Sandra ve Mary banyoya gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Mary ve John bahçeye gitti.
+11 Sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 Sandra ve Mary banyoya gitti.
+14 Daha sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 John ve Mary koridora gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 Daniel ve Sandra koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 Sandra ve Daniel koridora gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	salon	7 8
+10 Daniel ve John bahçeye gitti.
+11 Bundan sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Daniel ve John mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 Daniel ve Mary mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Mary ve John bahçeye gitti.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Sandra ve Daniel salona gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Mary ve Daniel salona gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 Daniel ve Mary ofise gitti.
+14 Bunun ardından koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Daniel ve Sandra salona gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Mary ve Daniel banyoya gitti.
+5 Bunun ardından bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 Mary ve Sandra salona gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Mary ve John banyoya gitti.
+11 Bunu takiben koridora gitti.
+12 John nerede?	koridor	10 11
+13 Sandra ve John bahçeye gitti.
+14 Bundan sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Daniel ve John mutfağa gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 John ve Mary bahçeye gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 John ve Sandra bahçeye gitti.
+8 Bundan sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Sandra ve Mary salona gitti.
+11 Bundan sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Mary ve Daniel banyoya gitti.
+14 Bunun ardından koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Daniel ve Sandra koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Daniel ve Mary salona gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 Mary ve Daniel koridora gitti.
+8 Sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 John ve Sandra koridora gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	banyo	7 8
+13 Sandra ve John koridora gitti.
+14 Daha sonra banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Sandra ve Mary banyoya gitti.
+2 Daha sonra salona gitti.
+3 Mary nerede?	salon	1 2
+4 Mary ve John ofise gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 John ve Daniel bahçeye gitti.
+8 Daha sonra mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 Sandra ve Mary ofise gitti.
+11 Ardından bahçeye gitti.
+12 Mary nerede?	bahçe	10 11
+13 Daniel ve Sandra koridora gitti.
+14 Daha sonra banyoya gitti.
+15 Sandra nerede?	banyo	13 14
+1 Sandra ve Daniel mutfağa gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Mary ve Sandra ofise gitti.
+5 Daha sonra bahçeye gitti.
+6 Mary nerede?	bahçe	4 5
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 Sandra ve Daniel koridora gitti.
+11 Bunun ardından mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 John ve Mary mutfağa gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 John ve Sandra salona gitti.
+2 Daha sonra mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Mary ve John salona gitti.
+5 Bunun ardından mutfağa gitti.
+6 John nerede?	mutfak	4 5
+7 Sandra ve Mary koridora geri döndü.
+8 Sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Sandra ve Mary bahçeye gitti.
+11 Bundan sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 Mary ve Daniel koridora gitti.
+14 Daha sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 John ve Daniel mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 Mary ve Daniel salona gitti.
+5 Daha sonra bahçeye gitti.
+6 Daniel nerede?	bahçe	4 5
+7 John ve Mary ofise gitti.
+8 Bundan sonra bahçeye gitti.
+9 Mary nerede?	bahçe	7 8
+10 Mary ve Daniel banyoya gitti.
+11 Bunun ardından salona gitti.
+12 Mary nerede?	salon	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Daha sonra mutfağa gitti.
+15 Daniel nerede?	salon	10 11
+1 John ve Daniel ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Mary ve Daniel banyoya gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Sandra ve John mutfağa gitti.
+8 Bundan sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Daniel ve John ofise gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 Mary ve Sandra bahçeye gitti.
+14 Bundan sonra ofise gitti.
+15 John nerede?	banyo	10 11
+1 Daniel ve Mary mutfağa gitti.
+2 Bunun ardından koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 John ve Daniel mutfağa gitti.
+5 Bunun ardından koridora gitti.
+6 John nerede?	koridor	4 5
+7 John ve Mary banyoya gitti.
+8 Bundan sonra bahçeye gitti.
+9 Mary nerede?	bahçe	7 8
+10 Mary ve Daniel salona gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 Daniel ve Sandra bahçeye gitti.
+14 Bunun ardından koridora gitti.
+15 Daniel nerede?	koridor	13 14
+1 John ve Mary mutfağa gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 John ve Mary mutfağa gitti.
+5 Bundan sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 Mary ve John mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 Daniel ve Sandra koridora gitti.
+11 Daha sonra salona gitti.
+12 Daniel nerede?	salon	10 11
+13 John ve Sandra ofise gitti.
+14 Daha sonra bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 Mary ve Sandra ofise gitti.
+2 Sonra mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Sandra ve John ofise gitti.
+5 Ardından banyoya gitti.
+6 Sandra nerede?	banyo	4 5
+7 Mary ve Sandra bahçeye gitti.
+8 Daha sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 Mary ve Daniel bahçeye gitti.
+11 Sonra mutfağa gitti.
+12 Daniel nerede?	mutfak	10 11
+13 Daniel ve Sandra salona gitti.
+14 Bunun ardından mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 John ve Daniel koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Daniel nerede?	bahçe	1 2
+4 John ve Daniel koridora gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Daniel ve John ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 Daniel nerede?	bahçe	7 8
+10 Mary ve John ofise gitti.
+11 Bundan sonra koridora gitti.
+12 John nerede?	koridor	10 11
+13 Mary ve John banyoya gitti.
+14 Daha sonra koridora gitti.
+15 John nerede?	koridor	13 14
+1 Daniel ve John koridora gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 Daniel ve Mary mutfağa gitti.
+5 Daha sonra ofise gitti.
+6 Mary nerede?	ofis	4 5
+7 John ve Daniel banyoya gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 Mary ve Sandra mutfağa gitti.
+11 Sonra banyoya gitti.
+12 Daniel nerede?	salon	7 8
+13 John ve Mary bahçeye gitti.
+14 Bunun ardından banyoya gitti.
+15 John nerede?	banyo	13 14
+1 Mary ve Daniel ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Mary ve John salona gitti.
+5 Daha sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Daniel ve John ofise gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Daniel ve John bahçeye gitti.
+11 Bundan sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 John ve Daniel mutfağa gitti.
+14 Sonra bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 Mary ve John ofise gitti.
+2 Daha sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 John ve Sandra ofise gitti.
+5 Daha sonra banyoya gitti.
+6 John nerede?	banyo	4 5
+7 John ve Daniel koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Daniel nerede?	mutfak	7 8
+10 Mary ve John banyoya gitti.
+11 Sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 John ve Sandra salona gitti.
+14 Daha sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Daniel ve John bahçeye gitti.
+2 Daha sonra mutfağa gitti.
+3 Daniel nerede?	mutfak	1 2
+4 Sandra ve Daniel koridora gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 Sandra ve Mary bahçeye geri döndü.
+8 Bundan sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 John ve Sandra koridora gitti.
+11 Daha sonra mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 John ve Sandra banyoya gitti.
+14 Bundan sonra mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14
+1 Sandra ve John banyoya gitti.
+2 Bunun ardından mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 John ve Daniel salona gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 Sandra ve Mary salona gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 John ve Sandra salona gitti.
+11 Bundan sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 John ve Sandra bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 John ve Daniel bahçeye gitti.
+2 Daha sonra banyoya gitti.
+3 John nerede?	banyo	1 2
+4 Sandra ve Mary salona gitti.
+5 Daha sonra banyoya gitti.
+6 Sandra nerede?	banyo	4 5
+7 John ve Sandra mutfağa gitti.
+8 Daha sonra salona gitti.
+9 John nerede?	salon	7 8
+10 John ve Sandra ofise gitti.
+11 Daha sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 John ve Mary koridora gitti.
+14 Bunun ardından mutfağa gitti.
+15 John nerede?	mutfak	13 14
+1 Daniel ve Mary banyoya gitti.
+2 Daha sonra ofise gitti.
+3 Mary nerede?	ofis	1 2
+4 Daniel ve Sandra bahçeye gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Daniel ve Sandra koridora gitti.
+8 Bundan sonra ofise gitti.
+9 Sandra nerede?	ofis	7 8
+10 John ve Sandra salona gitti.
+11 Bundan sonra bahçeye gitti.
+12 Sandra nerede?	bahçe	10 11
+13 Mary ve Sandra banyoya gitti.
+14 Daha sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 John ve Mary banyoya gitti.
+2 Sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 Sandra ve Mary banyoya gitti.
+5 Daha sonra bahçeye gitti.
+6 Mary nerede?	bahçe	4 5
+7 John ve Sandra salona gitti.
+8 Daha sonra mutfağa gitti.
+9 Mary nerede?	bahçe	4 5
+10 John ve Daniel bahçeye gitti.
+11 Daha sonra mutfağa gitti.
+12 John nerede?	mutfak	10 11
+13 Daniel ve John koridora gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 John ve Mary bahçeye gitti.
+2 Daha sonra salona gitti.
+3 John nerede?	salon	1 2
+4 Sandra ve John bahçeye gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 John ve Sandra ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 John ve Sandra koridora gitti.
+11 Bunun ardından salona gitti.
+12 Sandra nerede?	salon	10 11
+13 John ve Daniel bahçeye gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Sandra ve Mary ofise gitti.
+2 Bundan sonra koridora gitti.
+3 Sandra nerede?	koridor	1 2
+4 John ve Sandra bahçeye gitti.
+5 Daha sonra mutfağa gitti.
+6 Mary nerede?	koridor	1 2
+7 Daniel ve John bahçeye gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	mutfak	4 5
+10 Daniel ve John banyoya gitti.
+11 Bundan sonra ofise gitti.
+12 John nerede?	ofis	10 11
+13 Daniel ve Sandra bahçeye gitti.
+14 Daha sonra mutfağa gitti.
+15 John nerede?	ofis	10 11
+1 Daniel ve John mutfağa gitti.
+2 Daha sonra bahçeye gitti.
+3 John nerede?	bahçe	1 2
+4 Mary ve John ofise gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 John ve Daniel banyoya gitti.
+8 Daha sonra mutfağa gitti.
+9 John nerede?	mutfak	7 8
+10 Daniel ve Sandra ofise gitti.
+11 Bunun ardından mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 John ve Sandra koridora gitti.
+14 Daha sonra salona gitti.
+15 John nerede?	salon	13 14
+1 Sandra ve Daniel bahçeye gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 Sandra ve Mary koridora gitti.
+5 Sonra banyoya gitti.
+6 Daniel nerede?	salon	1 2
+7 Mary ve Sandra koridora gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Daniel ve Sandra bahçeye gitti.
+11 Bundan sonra ofise gitti.
+12 Daniel nerede?	ofis	10 11
+13 Mary ve Daniel banyoya gitti.
+14 Bundan sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Mary ve Daniel banyoya gitti.
+2 Daha sonra salona gitti.
+3 Daniel nerede?	salon	1 2
+4 John ve Sandra koridora gitti.
+5 Daha sonra banyoya gitti.
+6 Daniel nerede?	salon	1 2
+7 Mary ve John ofise gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 John ve Mary ofise gitti.
+11 Sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 John ve Mary koridora gitti.
+14 Bunun ardından mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Mary ve Sandra bahçeye gitti.
+2 Sonra mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 Sandra ve Daniel bahçeye geri döndü.
+5 Daha sonra ofise gitti.
+6 Sandra nerede?	ofis	4 5
+7 Mary ve Daniel salona gitti.
+8 Daha sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Mary ve John mutfağa gitti.
+11 Bundan sonra salona gitti.
+12 Mary nerede?	salon	10 11
+13 Mary ve John ofise gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 Sandra ve Daniel bahçeye gitti.
+2 Daha sonra ofise gitti.
+3 Daniel nerede?	ofis	1 2
+4 John ve Mary bahçeye gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	ofis	1 2
+7 Mary ve John koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Mary nerede?	mutfak	7 8
+10 Sandra ve Mary bahçeye gitti.
+11 Bunun ardından banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Mary ve Sandra salona gitti.
+14 Sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 John ve Mary mutfağa gitti.
+2 Daha sonra banyoya gitti.
+3 Mary nerede?	banyo	1 2
+4 Sandra ve Daniel koridora gitti.
+5 Daha sonra banyoya gitti.
+6 Daniel nerede?	banyo	4 5
+7 Sandra ve Mary koridora geri döndü.
+8 Bundan sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 Mary ve Sandra salona gitti.
+11 Bundan sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Mary ve Sandra mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 Sandra nerede?	ofis	13 14
+1 Mary ve Sandra koridora gitti.
+2 Daha sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Mary ve Sandra salona gitti.
+5 Daha sonra banyoya gitti.
+6 Mary nerede?	banyo	4 5
+7 Mary ve Sandra salona gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Mary ve John salona gitti.
+11 Bundan sonra banyoya gitti.
+12 Mary nerede?	banyo	10 11
+13 John ve Daniel mutfağa gitti.
+14 Daha sonra koridora gitti.
+15 Daniel nerede?	koridor	13 14
+1 John ve Mary mutfağa gitti.
+2 Daha sonra koridora gitti.
+3 Mary nerede?	koridor	1 2
+4 Sandra ve Daniel koridora gitti.
+5 Daha sonra banyoya gitti.
+6 Sandra nerede?	banyo	4 5
+7 Sandra ve Daniel koridora gitti.
+8 Daha sonra ofise gitti.
+9 Daniel nerede?	ofis	7 8
+10 Daniel ve John salona gitti.
+11 Bundan sonra banyoya gitti.
+12 John nerede?	banyo	10 11
+13 Daniel ve Sandra bahçeye gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 John ve Daniel ofise gitti.
+2 Daha sonra mutfağa gitti.
+3 John nerede?	mutfak	1 2
+4 Mary ve John bahçeye gitti.
+5 Daha sonra salona gitti.
+6 John nerede?	salon	4 5
+7 Mary ve John bahçeye gitti.
+8 Daha sonra salona gitti.
+9 Mary nerede?	salon	7 8
+10 Mary ve Sandra mutfağa gitti.
+11 Daha sonra ofise gitti.
+12 Mary nerede?	ofis	10 11
+13 Mary ve John mutfağa gitti.
+14 Daha sonra ofise gitti.
+15 John nerede?	ofis	13 14
+1 Sandra ve Mary banyoya gitti.
+2 Daha sonra bahçeye gitti.
+3 Sandra nerede?	bahçe	1 2
+4 Daniel ve Mary koridora gitti.
+5 Daha sonra salona gitti.
+6 Daniel nerede?	salon	4 5
+7 Mary ve John koridora gitti.
+8 Bundan sonra banyoya gitti.
+9 Mary nerede?	banyo	7 8
+10 Sandra ve Daniel ofise gitti.
+11 Daha sonra banyoya gitti.
+12 Sandra nerede?	banyo	10 11
+13 Sandra ve Daniel mutfağa gitti.
+14 Bundan sonra ofise gitti.
+15 Daniel nerede?	ofis	13 14
+1 John ve Mary ofise gitti.
+2 Sonra banyoya gitti.
+3 John nerede?	banyo	1 2
+4 Sandra ve John koridora gitti.
+5 Daha sonra ofise gitti.
+6 John nerede?	ofis	4 5
+7 Sandra ve John koridora gitti.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 Sandra ve Daniel banyoya gitti.
+11 Daha sonra koridora gitti.
+12 John nerede?	bahçe	7 8
+13 Daniel ve Sandra ofise gitti.
+14 Sonra mutfağa gitti.
+15 Daniel nerede?	mutfak	13 14
+1 Daniel ve Sandra ofise gitti.
+2 Daha sonra mutfağa gitti.
+3 Sandra nerede?	mutfak	1 2
+4 Mary ve John salona gitti.
+5 Daha sonra bahçeye gitti.
+6 Mary nerede?	bahçe	4 5
+7 John ve Mary ofise gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Daniel ve Mary ofise gitti.
+11 Bundan sonra banyoya gitti.
+12 Daniel nerede?	banyo	10 11
+13 John ve Mary mutfağa gitti.
+14 Daha sonra salona gitti.
+15 Mary nerede?	salon	13 14
+1 Daniel ve John bahçeye gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 John ve Sandra banyoya gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 Sandra ve Mary koridora geri döndü.
+8 Daha sonra bahçeye gitti.
+9 Sandra nerede?	bahçe	7 8
+10 Mary ve John salona gitti.
+11 Daha sonra koridora gitti.
+12 Mary nerede?	koridor	10 11
+13 Mary ve John salona gitti.
+14 Bundan sonra mutfağa gitti.
+15 Mary nerede?	mutfak	13 14
+1 Sandra ve Daniel banyoya gitti.
+2 Daha sonra ofise gitti.
+3 Sandra nerede?	ofis	1 2
+4 Daniel ve Mary koridora gitti.
+5 Daha sonra ofise gitti.
+6 Daniel nerede?	ofis	4 5
+7 Mary ve Sandra koridora gitti.
+8 Daha sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 John ve Daniel koridora gitti.
+11 Bunun ardından salona gitti.
+12 John nerede?	salon	10 11
+13 Mary ve John koridora gitti.
+14 Daha sonra bahçeye gitti.
+15 John nerede?	bahçe	13 14
+1 John ve Sandra banyoya gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 Sandra ve Mary koridora gitti.
+5 Bunun ardından mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 John ve Daniel mutfağa gitti.
+8 Daha sonra bahçeye gitti.
+9 John nerede?	bahçe	7 8
+10 Sandra ve Daniel ofise gitti.
+11 Daha sonra mutfağa gitti.
+12 Sandra nerede?	mutfak	10 11
+13 Sandra ve Mary ofise gitti.
+14 Ardından bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Sandra ve Mary salona gitti.
+2 Daha sonra banyoya gitti.
+3 Sandra nerede?	banyo	1 2
+4 Sandra ve John ofise gitti.
+5 Bundan sonra koridora gitti.
+6 John nerede?	koridor	4 5
+7 Daniel ve John ofise gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 John ve Mary ofise gitti.
+11 Bundan sonra salona gitti.
+12 John nerede?	salon	10 11
+13 Sandra ve John banyoya gitti.
+14 Daha sonra koridora gitti.
+15 Sandra nerede?	koridor	13 14
+1 Daniel ve Mary banyoya gitti.
+2 Daha sonra mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 Sandra ve John ofise gitti.
+5 Daha sonra koridora gitti.
+6 Sandra nerede?	koridor	4 5
+7 Mary ve John banyoya gitti.
+8 Bundan sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Sandra ve Mary mutfağa gitti.
+11 Bunu takiben koridora gitti.
+12 Sandra nerede?	koridor	10 11
+13 John ve Sandra banyoya gitti.
+14 Daha sonra bahçeye gitti.
+15 Sandra nerede?	bahçe	13 14
+1 Mary ve Sandra banyoya gitti.
+2 Sonra bahçeye gitti.
+3 Mary nerede?	bahçe	1 2
+4 Daniel ve Sandra salona gitti.
+5 Daha sonra bahçeye gitti.
+6 Sandra nerede?	bahçe	4 5
+7 Sandra ve Daniel salona gitti.
+8 Bundan sonra mutfağa gitti.
+9 Sandra nerede?	mutfak	7 8
+10 Sandra ve Mary banyoya gitti.
+11 Daha sonra mutfağa gitti.
+12 Mary nerede?	mutfak	10 11
+13 Sandra ve Mary bahçeye gitti.
+14 Daha sonra koridora gitti.
+15 Mary nerede?	koridor	13 14
+1 Mary ve Daniel banyoya gitti.
+2 Bunun ardından mutfağa gitti.
+3 Mary nerede?	mutfak	1 2
+4 Sandra ve Mary koridora gitti.
+5 Bunun ardından mutfağa gitti.
+6 Mary nerede?	mutfak	4 5
+7 Sandra ve John banyoya gitti.
+8 Daha sonra salona gitti.
+9 Sandra nerede?	salon	7 8
+10 Sandra ve Daniel bahçeye gitti.
+11 Daha sonra ofise gitti.
+12 Daniel nerede?	ofis	10 11
+13 Sandra ve John mutfağa gitti.
+14 Daha sonra salona gitti.
+15 Sandra nerede?	salon	13 14
+1 Sandra ve John salona gitti.
+2 Daha sonra ofise gitti.
+3 John nerede?	ofis	1 2
+4 Sandra ve Daniel bahçeye gitti.
+5 Daha sonra mutfağa gitti.
+6 Daniel nerede?	mutfak	4 5
+7 Sandra ve John bahçeye gitti.
+8 Daha sonra koridora gitti.
+9 John nerede?	koridor	7 8
+10 Daniel ve Sandra banyoya gitti.
+11 Bunu takiben koridora gitti.
+12 Sandra nerede?	koridor	10 11
+13 Daniel ve Sandra salona gitti.
+14 Sonra mutfağa gitti.
+15 Daniel nerede?	mutfak	13 14
+1 Mary ve Daniel ofise gitti.
+2 Daha sonra koridora gitti.
+3 Daniel nerede?	koridor	1 2
+4 Mary ve Sandra ofise gitti.
+5 Daha sonra salona gitti.
+6 Sandra nerede?	salon	4 5
+7 Daniel ve John salona gitti.
+8 Sonra banyoya gitti.
+9 Daniel nerede?	banyo	7 8
+10 John ve Sandra ofise gitti.
+11 Bundan sonra bahçeye gitti.
+12 John nerede?	bahçe	10 11
+13 Sandra ve John salona gitti.
+14 Bunun ardından mutfağa gitti.
+15 Sandra nerede?	mutfak	13 14

@@ -1,0 +1,3000 @@
+1 Ofis mutfak ın kuzey i.
+2 Bahçe mutfak ın güney i.
+3 mutfak ın kuzey i ne?	ofis	1
+1 Mutfak bahçe nin batı sı.
+2 Koridor mutfak ın batı sı.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Bahçe ofis in kuzey i.
+2 Salon bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	salon	2
+1 Salon koridor un batı sı.
+2 Mutfak salon un batı sı.
+3 Koridor doğu su ne?	salon	1
+1 Banyo koridor un doğu su.
+2 Mutfak salon un batı sı.
+3 salon un doğu su ne?	mutfak	2
+1 Salon ofis in güney i.
+2 Salon bahçe nin kuzey i.
+3 ofis in kuzey i ne?	salon	1
+1 Bahçe ofis in batı sı.
+2 Salon bahçe nin batı sı.
+3 ofis in batı sı ne?	bahçe	1
+1 Mutfak koridor un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un batı sı ne?	banyo	2
+1 Ofis koridor un batı sı.
+2 Salon koridor un doğu su.
+3 koridor un batı sı ne?	ofis	1
+1 Koridor banyo nun doğu sudur.
+2 Salon koridor un doğu su.
+3 koridor un doğu su ne?	salon	2
+1 Mutfak salon un kuzey i.
+2 Salon bahçe nin kuzey i.
+3 salon un kuzey i ne?	mutfak	1
+1 Banyo mutfak ın kuzey i.
+2 Bahçe mutfak ın güney i.
+3 Mutfak güney i ne?	banyo	1
+1 Ofis banyo nun güney i.
+2 Mutfak banyo nun kuzey i.
+3 Banyo güney i ne?	mutfak	2
+1 Bahçe koridor un batı sı.
+2 Koridor ofis in batı sı.
+3 ofis in doğu ne?	koridor	2
+1 Mutfak banyo nun batı sı.
+2 Mutfak bahçe nin doğu su.
+3 Banyo doğu su ne?	mutfak	1
+1 Salon mutfak ın batı sı.
+2 Ofis salon un batı sı.
+3 salon un doğu su ne?	ofis	2
+1 Koridor bahçe nin doğu su.
+2 Koridor salon un batı sı.
+3 salon un doğu su ne?	koridor	2
+1 Mutfak salon un doğu su.
+2 Salon ofis in doğu su.
+3 Batı nın batı sı ne?	salon	2
+1 Banyo bahçe nin kuzey i.
+2 Koridor bahçe nin güney i.
+3 bahçe nin kuzey i ne?	koridor	2
+1 Koridor salon un kuzey i.
+2 Salon mutfak ın kuzey i.
+3 salon un güney i ne?	koridor	1
+1 Ofis salon un güney i.
+2 Ofis banyo nun kuzey i.
+3 Banyo güney i ne?	ofis	2
+1 Banyo koridor un güney i.
+2 Mutfak salon un kuzey i.
+3 salon un güney i ne?	mutfak	2
+1 Salon mutfak ın güney i.
+2 Mutfak koridor un güney i.
+3 mutfak ın güney i ne?	salon	1
+1 Banyo bahçe nin güney i.
+2 Mutfak bahçe nin kuzey i.
+3 bahçe nin güney i ne?	banyo	1
+1 Bahçe banyo nun doğu su.
+2 Banyo ofis in doğu su.
+3 Batının banyo su ne?	bahçe	1
+1 Banyo ofis in güney i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin kuzey i ne?	ofis	2
+1 Koridor bahçe nin doğu su.
+2 Koridor mutfak ın batı sı.
+3 bahçe nin batı sı ne?	koridor	1
+1 Bahçe salon un kuzey i.
+2 Ofis bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	ofis	2
+1 Koridor salon un batı sı.
+2 Koridor bahçe nin doğu su.
+3 salon un doğu su ne?	koridor	1
+1 Ofis mutfak ın kuzey i.
+2 Banyo ofis in kuzey i.
+3 mutfak ın kuzey i ne?	ofis	1
+1 Bahçe koridor un kuzey i.
+2 Koridor ofis in kuzey i.
+3 Ofis güney i ne?	koridor	2
+1 Mutfak salon un güney i.
+2 Bahçe salon un kuzey i.
+3 salon un kuzey i ne?	mutfak	1
+1 Mutfak koridor un doğu su.
+2 Salon mutfak ın doğu su.
+3 Batının mutfak ı ne?	salon	2
+1 Banyo ofis in kuzey i.
+2 bahçe nin banyo su kuzey de.
+3 Ofis güney i ne?	banyo	1
+1 Banyo salon un kuzey i.
+2 Banyo mutfak ın güney i.
+3 mutfak ın güney i ne?	banyo	2
+1 Salon banyo nun batı sı.
+2 Banyo ofis in batı sı.
+3 banyo nun batı sı ne?	salon	1
+1 Mutfak banyo nun batı sı.
+2 Ofis banyo nun doğu su.
+3 Batının banyo su ne?	ofis	2
+1 Banyo salon un kuzey i.
+2 Salon koridor un kuzey i.
+3 koridor un güney i ne?	salon	2
+1 Ofis bahçe nin doğu su.
+2 Banyo bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Koridor salon un doğu su.
+2 Bahçe salon un batı sı.
+3 salon un doğu su ne?	koridor	1
+1 Banyo ofis in kuzey i.
+2 bahçe nin banyo su kuzey de.
+3 Ofis güney i ne?	banyo	1
+1 Koridor banyo nun kuzey i.
+2 Koridor salon un güney i.
+3 salon un güney i ne?	koridor	2
+1 Banyo bahçe nin kuzey i.
+2 Salon banyo nun kuzey i.
+3 banyo nun kuzey i ne?	salon	2
+1 Banyo bahçe nin güney i.
+2 Bahçe koridor un güney i.
+3 bahçe nin kuzey i ne?	banyo	1
+1 Ofis koridor un kuzey i.
+2 Bahçe ofis in kuzey i.
+3 Ofis güney i ne?	bahçe	2
+1 Bahçe koridor un batı sı.
+2 Mutfak koridor un doğu su.
+3 koridor un batı sı ne?	bahçe	1
+1 Salon ofis in kuzey i.
+2 Ofis koridor un kuzey i.
+3 ofis in kuzey i ne?	salon	1
+1 Banyo ofis in güney i.
+2 Bahçe ofis in kuzey i.
+3 ofis in güney i ne?	banyo	1
+1 Koridor ofis in batı sı.
+2 Mutfak ofis in doğu su.
+3 ofis in doğu ne?	koridor	1
+1 Banyo koridor un batı sı.
+2 Ofis salon un doğu su.
+3 salon un doğu su ne?	ofis	2
+1 Bahçe mutfak ın güney i.
+2 Mutfak salon un güney i.
+3 mutfak ın güney i ne?	bahçe	1
+1 Bahçe ofis in batı sı.
+2 Ofis mutfak ın batı sı.
+3 ofis in batı sı ne?	bahçe	1
+1 Banyo koridor un güney i.
+2 Salon koridor un kuzey i.
+3 koridor un güney i ne?	salon	2
+1 Bahçe salon un doğu su.
+2 Salon ofis in doğu su.
+3 Batı nın batı sı ne?	salon	2
+1 Ofis koridor un batı sı.
+2 Salon ofis in batı sı.
+3 ofis in batı sı ne?	salon	2
+1 Mutfak bahçe nin batı sı.
+2 Banyo mutfak ın batı sı.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Banyo bahçe nin kuzey i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin kuzey i ne?	banyo	1
+1 Bahçe salon un batı sı.
+2 Ofis bahçe nin batı sı.
+3 salon un batı sı ne?	bahçe	1
+1 Ofis banyo nun batı sı.
+2 bahçe nin banyo su doğudır.
+3 banyo nun batı sı ne?	ofis	1
+1 Mutfak ofis in kuzey i.
+2 Ofis bahçe nin kuzey i.
+3 Bahçe güney i ne?	ofis	2
+1 Mutfak banyo nun doğu sudur.
+2 Banyo koridor un doğu su.
+3 Batının banyo su ne?	mutfak	1
+1 Salon koridor un batı sı.
+2 Ofis koridor un doğu su.
+3 koridor un batı sı ne?	salon	1
+1 Ofis koridor un kuzey i.
+2 Koridor banyo nun kuzey i.
+3 Banyo güney i ne?	koridor	2
+1 Bahçe koridor un kuzey i.
+2 Salon koridor un güney i.
+3 koridor un kuzey i ne?	bahçe	1
+1 Banyo koridor un doğu su.
+2 Banyo mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	banyo	2
+1 Ofis bahçe nin doğu su.
+2 bahçe nin banyo su doğudır.
+3 Batının banyo su ne?	bahçe	2
+1 Banyo ofis in doğu su.
+2 Salon ofis in batı sı.
+3 ofis in doğu ne?	salon	2
+1 Mutfak ofis in doğu su.
+2 Ofis salon un doğu su.
+3 salon un doğu su ne?	ofis	2
+1 Salon banyo nun güney i.
+2 Banyo ofis in güney i.
+3 ofis in kuzey i ne?	banyo	2
+1 Koridor banyo nun batı sı.
+2 Banyo koridor un batı sı.
+3 banyo nun batı sı ne?	koridor	1
+1 Bahçe koridor un güney i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin güney i ne?	banyo	2
+1 Mutfak koridor un doğu su.
+2 Bahçe mutfak ın doğu su.
+3 Batının mutfak ı ne?	bahçe	2
+1 Ofis bahçe nin güney i.
+2 Koridor ofis in güney i.
+3 bahçe nin kuzey i ne?	ofis	1
+1 Bahçe banyo nun güney i.
+2 Banyo mutfak ın güney i.
+3 banyo nun güney i ne var?	bahçe	1
+1 Salon banyo nun doğu su.
+2 Ofis banyo nun batı sı.
+3 Batının banyo su ne?	salon	1
+1 Ofis banyo nun kuzey i.
+2 Salon ofis in kuzey i.
+3 banyo nun kuzey i ne?	ofis	1
+1 Banyo bahçe nin batı sı.
+2 Banyo ofis in doğu su.
+3 bahçe nin batı sı ne?	banyo	1
+1 Banyo bahçe nin güney i.
+2 Mutfak bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	banyo	1
+1 Ofis banyo nun kuzey i.
+2 Mutfak banyo nun güney i.
+3 banyo nun kuzey i ne?	ofis	1
+1 Koridor banyo nun doğu sudur.
+2 Salon banyo nun batı sı.
+3 banyo nun batı sı ne?	salon	2
+1 Koridor bahçe nin kuzey i.
+2 Salon bahçe nin güney i.
+3 bahçe nin kuzey i ne?	koridor	1
+1 Salon koridor un güney i.
+2 Bahçe koridor un kuzey i.
+3 koridor un güney i ne?	bahçe	2
+1 Mutfak bahçe nin kuzey i.
+2 Bahçe koridor un kuzey i.
+3 bahçe nin kuzey i ne?	mutfak	1
+1 Ofis salon un doğu su.
+2 Salon banyo nun doğu su.
+3 salon un doğu su ne?	ofis	1
+1 Bahçe banyo nun güney i.
+2 Salon banyo nun kuzey i.
+3 banyo nun güney i ne var?	bahçe	1
+1 Salon koridor un güney i.
+2 Koridor ofis in güney i.
+3 ofis in güney i ne?	koridor	2
+1 Bahçe ofis in batı sı.
+2 Salon bahçe nin batı sı.
+3 ofis in batı sı ne?	bahçe	1
+1 Koridor ofis in doğu su.
+2 Mutfak ofis in batı sı.
+3 ofis in batı sı ne?	mutfak	2
+1 Koridor salon un batı sı.
+2 Salon banyo nun batı sı.
+3 Banyo doğu su ne?	salon	2
+1 Koridor ofis in batı sı.
+2 Ofis banyo nun batı sı.
+3 banyo nun batı sı ne?	ofis	2
+1 Koridor banyo nun güney i.
+2 Banyo salon un güney i.
+3 salon un güney i ne?	banyo	2
+1 Bahçe mutfak ın kuzey i.
+2 Banyo mutfak ın güney i.
+3 Mutfak güney i ne?	bahçe	1
+1 Mutfak ofis in doğu su.
+2 Bahçe mutfak ın doğu su.
+3 mutfak ın doğu su ne?	bahçe	2
+1 Ofis bahçe nin güney i.
+2 Mutfak ofis in güney i.
+3 bahçe nin güney i ne?	ofis	1
+1 Mutfak koridor un doğu su.
+2 Ofis koridor un batı sı.
+3 koridor un batı sı ne?	mutfak	1
+1 Koridor salon un doğu su.
+2 Bahçe salon un batı sı.
+3 salon un doğu su ne?	koridor	1
+1 Mutfak koridor un kuzey i.
+2 Ofis mutfak ın kuzey i.
+3 koridor un güney i ne?	mutfak	1
+1 Koridor salon un doğu su.
+2 Ofis koridor un doğu su.
+3 koridor un batı sı ne?	ofis	2
+1 Ofis bahçe nin güney i.
+2 Koridor bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	ofis	1
+1 Mutfak banyo nun güney i.
+2 Salon banyo nun kuzey i.
+3 Banyo güney i ne?	salon	2
+1 Ofis bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Ofis bahçe nin kuzey i.
+2 Bahçe koridor un kuzey i.
+3 koridor un güney i ne?	bahçe	2
+1 Salon ofis in batı sı.
+2 Salon koridor un doğu su.
+3 koridor un doğu su ne?	salon	2
+1 Koridor bahçe nin batı sı.
+2 Salon bahçe nin doğu su.
+3 bahçe nin batı sı ne?	salon	2
+1 Bahçe salon un batı sı.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Mutfak salon un doğu su.
+2 Ofis salon un batı sı.
+3 salon un batı sı ne?	ofis	2
+1 Koridor bahçe nin batı sı.
+2 Mutfak koridor un batı sı.
+3 bahçe nin doğu su ne?	koridor	1
+1 Banyo bahçe nin doğu su.
+2 Bahçe salon un doğu su.
+3 koridor un batı sı ne?	bahçe	2
+1 Banyo koridor un güney i.
+2 Banyo mutfak ın kuzey i.
+3 salon un güney i ne?	banyo	1
+1 Banyo bahçe nin kuzey i.
+2 Salon banyo nun kuzey i.
+3 Bahçe güney i ne?	banyo	1
+1 Ofis bahçe nin kuzey i.
+2 Ofis banyo nun güney i.
+3 Bahçe güney i ne?	ofis	1
+1 Mutfak banyo nun kuzey i.
+2 Bahçe banyo nun güney i.
+3 banyo nun güney i ne var?	bahçe	2
+1 Koridor ofis in doğu su.
+2 Mutfak koridor un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Ofis salon un güney i.
+2 Koridor salon un kuzey i.
+3 salon un kuzey i ne?	ofis	1
+1 Banyo bahçe nin güney i.
+2 Salon banyo nun güney i.
+3 bahçe nin kuzey i ne?	banyo	1
+1 Bahçe mutfak ın doğu su.
+2 Ofis bahçe nin doğu su.
+3 mutfak ın doğu su ne?	bahçe	1
+1 Ofis bahçe nin doğu su.
+2 Banyo bahçe nin batı sı.
+3 bahçe nin batı sı ne?	ofis	1
+1 Salon bahçe nin güney i.
+2 Salon ofis in kuzey i.
+3 bahçe nin güney i ne?	salon	1
+1 Ofis koridor un güney i.
+2 Mutfak koridor un kuzey i.
+3 koridor un kuzey i ne?	mutfak	2
+1 Bahçe salon un doğu su.
+2 Ofis salon un batı sı.
+3 koridor un batı sı ne?	bahçe	1
+1 Bahçe banyo nun batı sı.
+2 Salon bahçe nin batı sı.
+3 bahçe nin batı sı ne?	salon	2
+1 Koridor bahçe nin kuzey i.
+2 Bahçe ofis in kuzey i.
+3 Ofis güney i ne?	bahçe	2
+1 Mutfak banyo nun kuzey i.
+2 Banyo salon un kuzey i.
+3 salon un güney i ne?	banyo	2
+1 Salon mutfak ın güney i.
+2 Koridor mutfak ın kuzey i.
+3 Mutfak güney i ne?	koridor	2
+1 Salon koridor un güney i.
+2 Bahçe salon un güney i.
+3 salon un kuzey i ne?	bahçe	2
+1 Ofis banyo nun doğu su.
+2 Salon banyo nun batı sı.
+3 Banyo doğu su ne?	salon	2
+1 Salon bahçe nin güney i.
+2 Koridor salon un güney i.
+3 salon un güney i ne?	koridor	2
+1 Bahçe mutfak ın kuzey i.
+2 Bahçe koridor un güney i.
+3 koridor un güney i ne?	bahçe	2
+1 Mutfak banyo nun kuzey i.
+2 Ofis banyo nun güney i.
+3 Kuzeydeki banyo ne?	ofis	2
+1 Koridor mutfak ın doğu su.
+2 Mutfak bahçe nin doğu su.
+3 Batının mutfak ı ne?	koridor	1
+1 Mutfak bahçe nin batı sı.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin batı sı ne?	mutfak	1
+1 Salon bahçe nin güney i.
+2 Bahçe ofis in güney i.
+3 bahçe nin güney i ne?	salon	1
+1 Bahçe mutfak ın batı sı.
+2 Koridor mutfak ın doğu su.
+3 Batının mutfak ı ne?	koridor	2
+1 Salon bahçe nin batı sı.
+2 Banyo bahçe nin doğu su.
+3 bahçe nin doğu su ne?	banyo	2
+1 Mutfak ofis in doğu su.
+2 Bahçe ofis in batı sı.
+3 ofis in doğu su ne?	mutfak	1
+1 Salon mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	koridor	2
+1 Salon ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 ofis in güney i ne?	salon	1
+1 Koridor banyo nun doğu sudur.
+2 Salon banyo nun batı sı.
+3 Batının banyo su ne?	koridor	1
+1 Salon banyo nun batı sı.
+2 Banyo koridor un batı sı.
+3 Koridor doğu su ne?	banyo	2
+1 Koridor salon un güney i.
+2 Koridor banyo nun kuzey i.
+3 salon un güney i ne?	koridor	1
+1 Banyo koridor un batı sı.
+2 Banyo koridor un doğu su.
+3 koridor un doğu su ne?	banyo	2
+1 Koridor bahçe nin güney i.
+2 Ofis bahçe nin kuzey i.
+3 bahçe nin güney i ne?	koridor	1
+1 Salon mutfak ın güney i.
+2 Koridor mutfak ın kuzey i.
+3 mutfak ın güney i ne?	salon	1
+1 Ofis bahçe nin doğu su.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin batı sı ne?	mutfak	2
+1 Mutfak banyo nun doğu sudur.
+2 Ofis banyo nun batı sı.
+3 banyo nun doğu su ne?	mutfak	1
+1 Salon bahçe nin batı sı.
+2 Bahçe banyo nun batı sı.
+3 banyo nun batı sı ne?	bahçe	2
+1 Salon banyo nun batı sı.
+2 Ofis banyo nun doğu su.
+3 Banyo doğu su ne?	salon	1
+1 Salon bahçe nin batı sı.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin batı sı ne?	ofis	2
+1 Banyo mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 mutfak ın kuzey i ne?	ofis	2
+1 Salon mutfak ın doğu su.
+2 Bahçe salon un doğu su.
+3 salon un doğu su ne?	bahçe	2
+1 Mutfak banyo nun güney i.
+2 Ofis mutfak ın güney i.
+3 Kuzeydeki banyo ne?	mutfak	1
+1 Bahçe mutfak ın güney i.
+2 Koridor bahçe nin güney i.
+3 bahçe nin kuzey i ne?	koridor	2
+1 Mutfak ofis in kuzey i.
+2 Ofis salon un kuzey i.
+3 Ofis güney i ne?	mutfak	1
+1 Bahçe koridor un güney i.
+2 Banyo bahçe nin güney i.
+3 koridor un kuzey i ne?	bahçe	1
+1 Banyo koridor un güney i.
+2 Mutfak salon un kuzey i.
+3 salon un kuzey i ne?	mutfak	2
+1 Koridor ofis in kuzey i.
+2 Banyo ofis in güney i.
+3 Ofis güney i ne?	koridor	1
+1 Mutfak salon un batı sı.
+2 Banyo mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	banyo	2
+1 Bahçe ofis in kuzey i.
+2 Mutfak ofis in güney i.
+3 Ofis güney i ne?	bahçe	1
+1 Ofis koridor un batı sı.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	koridor	2
+1 Salon ofis in kuzey i.
+2 Mutfak ofis in güney i.
+3 ofis in güney i ne?	mutfak	2
+1 Ofis bahçe nin kuzey i.
+2 Banyo ofis in kuzey i.
+3 bahçe nin kuzey i ne?	ofis	1
+1 Ofis koridor un batı sı.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	koridor	2
+1 Banyo koridor un güney i.
+2 Salon mutfak ın güney i.
+3 mutfak ın güney i ne?	salon	2
+1 Salon ofis in batı sı.
+2 Ofis mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	ofis	2
+1 Ofis bahçe nin kuzey i.
+2 Bahçe mutfak ın kuzey i.
+3 Mutfak güney i ne?	bahçe	2
+1 Salon bahçe nin batı sı.
+2 Ofis salon un batı sı.
+3 salon un batı sı ne?	ofis	2
+1 Ofis banyo nun kuzey i.
+2 Banyo koridor un kuzey i.
+3 banyo nun kuzey i ne?	ofis	1
+1 Ofis bahçe nin kuzey i.
+2 Salon bahçe nin güney i.
+3 Bahçe güney i ne?	ofis	1
+1 Bahçe mutfak ın batı sı.
+2 Salon mutfak ın doğu su.
+3 mutfak ın doğu su ne?	salon	2
+1 Koridor banyo nun batı sı.
+2 Banyo ofis in batı sı.
+3 banyo nun batı sı ne?	koridor	1
+1 Salon mutfak ın kuzey i.
+2 Mutfak banyo nun kuzey i.
+3 Banyo güney i ne?	mutfak	2
+1 Bahçe banyo nun batı sı.
+2 Mutfak banyo nun doğu su.
+3 banyo nun batı sı ne?	bahçe	1
+1 Banyo mutfak ın doğu su.
+2 Ofis mutfak ın batı sı.
+3 Batının mutfak ı ne?	banyo	1
+1 Koridor salon un doğu su.
+2 Ofis salon un batı sı.
+3 salon un doğu su ne?	koridor	1
+1 Mutfak banyo nun güney i.
+2 Banyo ofis in güney i.
+3 ofis in kuzey i ne?	banyo	2
+1 Banyo ofis in batı sı.
+2 Salon banyo nun batı sı.
+3 ofis in batı sı ne?	banyo	1
+1 Ofis mutfak ın kuzey i.
+2 Salon mutfak ın güney i.
+3 mutfak ın kuzey i ne?	salon	2
+1 Mutfak koridor un güney i.
+2 Koridor bahçe nin güney i.
+3 koridor un güney i ne?	mutfak	1
+1 Ofis mutfak ın kuzey i.
+2 Ofis salon un güney i.
+3 Mutfak güney i ne?	ofis	1
+1 Ofis mutfak ın doğu su.
+2 Ofis salon un batı sı.
+3 salon un doğu su ne?	ofis	2
+1 Ofis koridor un güney i.
+2 Banyo ofis in güney i.
+3 ofis in güney i ne?	banyo	2
+1 Koridor salon un batı sı.
+2 Banyo koridor un doğu su.
+3 koridor un batı sı ne?	banyo	2
+1 Mutfak salon un kuzey i.
+2 Mutfak koridor un güney i.
+3 koridor un güney i ne?	mutfak	2
+1 Banyo bahçe nin batı sı.
+2 Salon bahçe nin doğu su.
+3 bahçe nin batı sı ne?	banyo	1
+1 Banyo ofis in güney i.
+2 Ofis salon un güney i.
+3 salon un kuzey i ne?	ofis	2
+1 Banyo koridor un güney i.
+2 Mutfak banyo nun güney i.
+3 koridor un kuzey i ne?	banyo	1
+1 Koridor banyo nun güney i.
+2 Ofis banyo nun kuzey i.
+3 Banyo güney i ne?	ofis	2
+1 Banyo koridor un doğu su.
+2 bahçe nin banyo su doğudır.
+3 Batının banyo su ne?	bahçe	2
+1 Banyo koridor un doğu su.
+2 Ofis banyo nun doğu su.
+3 banyo nun doğu su ne?	ofis	2
+1 Bahçe koridor un doğu su.
+2 Salon koridor un batı sı.
+3 koridor un batı sı ne?	bahçe	1
+1 Ofis salon un doğu su.
+2 Salon koridor un doğu su.
+3 koridor un batı sı ne?	ofis	1
+1 Koridor mutfak ın doğu su.
+2 Banyo mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	banyo	2
+1 Bahçe ofis in güney i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin kuzey i ne?	banyo	2
+1 Banyo mutfak ın doğu su.
+2 Ofis mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	ofis	2
+1 Koridor ofis in batı sı.
+2 Bahçe koridor un batı sı.
+3 ofis in doğu ne?	koridor	1
+1 Mutfak salon un güney i.
+2 Koridor salon un kuzey i.
+3 salon un kuzey i ne?	mutfak	1
+1 Salon banyo nun güney i.
+2 Banyo bahçe nin güney i.
+3 banyo nun güney i ne var?	salon	1
+1 Bahçe banyo nun güney i.
+2 Mutfak banyo nun kuzey i.
+3 banyo nun kuzey i ne?	mutfak	2
+1 Banyo koridor un güney i.
+2 Bahçe banyo nun güney i.
+3 Kuzeydeki banyo ne?	bahçe	2
+1 Bahçe banyo nun güney i.
+2 Bahçe mutfak ın kuzey i.
+3 banyo nun güney i ne var?	bahçe	1
+1 Bahçe banyo nun kuzey i.
+2 Koridor banyo nun güney i.
+3 banyo nun kuzey i ne?	bahçe	1
+1 Banyo mutfak ın kuzey i.
+2 Banyo koridor un güney i.
+3 mutfak ın kuzey i ne?	banyo	1
+1 Salon mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 mutfak ın doğu su ne?	salon	1
+1 Koridor ofis in doğu su.
+2 Koridor salon un batı sı.
+3 Batı nın batı sı ne?	koridor	1
+1 Salon koridor un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un doğu su ne?	salon	1
+1 Salon ofis in güney i.
+2 Salon koridor un kuzey i.
+3 ofis in güney i ne?	salon	1
+1 Banyo bahçe nin batı sı.
+2 Bahçe ofis in batı sı.
+3 ofis in doğu ne?	bahçe	2
+1 Salon bahçe nin kuzey i.
+2 bahçe nin banyo su kuzey de.
+3 bahçe nin kuzey i ne?	salon	1
+1 Bahçe salon un güney i.
+2 Koridor salon un kuzey i.
+3 salon un kuzey i ne?	bahçe	1
+1 Banyo mutfak ın batı sı.
+2 Mutfak koridor un batı sı.
+3 Koridor doğu su ne?	mutfak	2
+1 Banyo koridor un güney i.
+2 Banyo bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	banyo	2
+1 Koridor salon un güney i.
+2 Salon ofis in güney i.
+3 salon un güney i ne?	koridor	1
+1 Salon ofis in doğu su.
+2 Bahçe ofis in batı sı.
+3 Batı nın batı sı ne?	salon	1
+1 Koridor bahçe nin batı sı.
+2 Banyo koridor un batı sı.
+3 bahçe nin batı sı ne?	koridor	1
+1 Bahçe mutfak ın güney i.
+2 Banyo mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	bahçe	1
+1 Salon ofis in güney i.
+2 Ofis banyo nun güney i.
+3 ofis in kuzey i ne?	salon	1
+1 Salon ofis in batı sı.
+2 Salon koridor un doğu su.
+3 ofis in doğu ne?	salon	1
+1 Bahçe koridor un batı sı.
+2 Koridor salon un batı sı.
+3 koridor un batı sı ne?	bahçe	1
+1 Mutfak ofis in güney i.
+2 Mutfak banyo nun kuzey i.
+3 ofis in güney i ne?	mutfak	1
+1 Banyo koridor un batı sı.
+2 Bahçe koridor un doğu su.
+3 Koridor doğu su ne?	banyo	1
+1 Bahçe mutfak ın batı sı.
+2 Salon mutfak ın doğu su.
+3 Doğunun mutfak ı ne?	bahçe	1
+1 Bahçe mutfak ın doğu su.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin doğu su ne?	koridor	2
+1 Bahçe ofis in batı sı.
+2 Bahçe mutfak ın doğu su.
+3 mutfak ın doğu su ne?	bahçe	2
+1 Mutfak ofis in batı sı.
+2 Salon ofis in doğu su.
+3 Batı nın batı sı ne?	salon	2
+1 Mutfak koridor un batı sı.
+2 Koridor banyo nun batı sı.
+3 Banyo doğu su ne?	koridor	2
+1 Bahçe ofis in batı sı.
+2 Koridor bahçe nin batı sı.
+3 ofis in doğu ne?	bahçe	1
+1 Banyo ofis in güney i.
+2 Salon banyo nun güney i.
+3 Kuzeydeki banyo ne?	salon	2
+1 Mutfak koridor un kuzey i.
+2 Salon mutfak ın kuzey i.
+3 koridor un güney i ne?	mutfak	1
+1 Bahçe ofis in batı sı.
+2 bahçe nin banyo su doğudır.
+3 ofis in batı sı ne?	bahçe	1
+1 Koridor banyo nun kuzey i.
+2 Salon koridor un kuzey i.
+3 Banyo güney i ne?	koridor	1
+1 Banyo koridor un batı sı.
+2 Salon banyo nun batı sı.
+3 banyo nun batı sı ne?	salon	2
+1 Mutfak koridor un güney i.
+2 Mutfak ofis in kuzey i.
+3 koridor un güney i ne?	mutfak	1
+1 Banyo ofis in doğu su.
+2 Banyo koridor un batı sı.
+3 Batı nın batı sı ne?	banyo	1
+1 Koridor mutfak ın batı sı.
+2 Ofis mutfak ın doğu su.
+3 mutfak ın doğu su ne?	ofis	2
+1 Koridor banyo nun doğu sudur.
+2 Mutfak koridor un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Salon ofis in doğu su.
+2 Ofis koridor un doğu su.
+3 koridor un batı sı ne?	ofis	2
+1 Ofis koridor un batı sı.
+2 Salon koridor un doğu su.
+3 Koridor doğu su ne?	ofis	1
+1 Banyo ofis in doğu su.
+2 Salon ofis in batı sı.
+3 ofis in batı sı ne?	salon	2
+1 Koridor banyo nun doğu sudur.
+2 Salon banyo nun batı sı.
+3 banyo nun doğu su ne?	koridor	1
+1 Salon koridor un doğu su.
+2 Koridor ofis in doğu su.
+3 Batı nın batı sı ne?	koridor	2
+1 Koridor salon un batı sı.
+2 Salon ofis in batı sı.
+3 salon un batı sı ne?	koridor	1
+1 Salon bahçe nin batı sı.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin batı sı ne?	ofis	2
+1 Mutfak bahçe nin batı sı.
+2 Bahçe salon un batı sı.
+3 bahçe nin batı sı ne?	mutfak	1
+1 Mutfak banyo nun güney i.
+2 Banyo ofis in güney i.
+3 banyo nun güney i ne var?	mutfak	1
+1 Koridor mutfak ın batı sı.
+2 Ofis mutfak ın doğu su.
+3 Batının mutfak ı ne?	ofis	2
+1 Mutfak salon un güney i.
+2 Mutfak ofis in kuzey i.
+3 salon un güney i ne?	mutfak	1
+1 Koridor ofis in kuzey i.
+2 Mutfak ofis in güney i.
+3 ofis in güney i ne?	mutfak	2
+1 Mutfak ofis in güney i.
+2 Koridor ofis in kuzey i.
+3 ofis in kuzey i ne?	koridor	2
+1 Bahçe banyo nun doğu su.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin batı sı ne?	ofis	2
+1 Ofis koridor un kuzey i.
+2 Banyo koridor un güney i.
+3 koridor un kuzey i ne?	ofis	1
+1 Salon mutfak ın güney i.
+2 Banyo mutfak ın kuzey i.
+3 Mutfak güney i ne?	banyo	2
+1 Salon ofis in doğu su.
+2 Koridor salon un doğu su.
+3 ofis in doğu su ne?	salon	1
+1 Mutfak banyo nun güney i.
+2 Ofis mutfak ın güney i.
+3 Kuzeydeki banyo ne?	mutfak	1
+1 Salon mutfak ın güney i.
+2 Ofis mutfak ın kuzey i.
+3 mutfak ın güney i ne?	salon	1
+1 Banyo ofis in doğu su.
+2 Mutfak ofis in batı sı.
+3 ofis in doğu su ne?	banyo	1
+1 Banyo mutfak ın kuzey i.
+2 Bahçe mutfak ın güney i.
+3 mutfak ın kuzey i ne?	bahçe	2
+1 Bahçe ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 Ofis güney i ne?	mutfak	2
+1 Koridor bahçe nin güney i.
+2 Banyo bahçe nin kuzey i.
+3 Bahçe güney i ne?	banyo	2
+1 Mutfak bahçe nin doğu su.
+2 Salon mutfak ın doğu su.
+3 bahçe nin batı sı ne?	mutfak	1
+1 Ofis bahçe nin güney i.
+2 Mutfak bahçe nin kuzey i.
+3 Bahçe güney i ne?	mutfak	2
+1 Salon banyo nun güney i.
+2 Salon bahçe nin kuzey i.
+3 banyo nun güney i ne var?	salon	1
+1 Mutfak ofis in batı sı.
+2 Koridor ofis in doğu su.
+3 Batı nın batı sı ne?	koridor	2
+1 Bahçe koridor un doğu su.
+2 Ofis koridor un batı sı.
+3 Koridor doğu su ne?	ofis	2
+1 Banyo mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 Mutfak güney i ne?	banyo	1
+1 Mutfak ofis in doğu su.
+2 Salon ofis in batı sı.
+3 Batı nın batı sı ne?	mutfak	1
+1 Koridor banyo nun güney i.
+2 Salon koridor un güney i.
+3 banyo nun güney i ne var?	koridor	1
+1 Ofis bahçe nin batı sı.
+2 Banyo ofis in batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Salon ofis in doğu su.
+2 Ofis banyo nun doğu su.
+3 Batı nın batı sı ne?	salon	1
+1 Mutfak bahçe nin batı sı.
+2 Banyo mutfak ın batı sı.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Mutfak ofis in kuzey i.
+2 Bahçe ofis in güney i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Mutfak koridor un güney i.
+2 Koridor banyo nun güney i.
+3 banyo nun güney i ne var?	koridor	2
+1 Banyo ofis in kuzey i.
+2 Ofis koridor un kuzey i.
+3 koridor un kuzey i ne?	ofis	2
+1 Bahçe ofis in doğu su.
+2 Mutfak ofis in batı sı.
+3 Batı nın batı sı ne?	bahçe	1
+1 Mutfak salon un doğu su.
+2 Ofis salon un batı sı.
+3 salon un doğu su ne?	ofis	2
+1 Ofis koridor un kuzey i.
+2 Salon koridor un güney i.
+3 koridor un güney i ne?	ofis	1
+1 Bahçe mutfak ın doğu su.
+2 Bahçe salon un batı sı.
+3 salon un batı sı ne?	bahçe	2
+1 Banyo bahçe nin doğu su.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin batı sı ne?	banyo	1
+1 Ofis salon un kuzey i.
+2 Salon mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	salon	2
+1 Mutfak bahçe nin kuzey i.
+2 Bahçe ofis in kuzey i.
+3 Ofis güney i ne?	bahçe	2
+1 Koridor ofis in batı sı.
+2 Banyo koridor un batı sı.
+3 Koridor doğu su ne?	banyo	2
+1 Salon mutfak ın kuzey i.
+2 Banyo salon un kuzey i.
+3 mutfak ın kuzey i ne?	salon	1
+1 Banyo mutfak ın kuzey i.
+2 Mutfak salon un kuzey i.
+3 mutfak ın kuzey i ne?	banyo	1
+1 Mutfak banyo nun kuzey i.
+2 Ofis banyo nun güney i.
+3 banyo nun güney i ne var?	ofis	2
+1 Ofis mutfak ın doğu su.
+2 Banyo ofis in doğu su.
+3 Batının mutfak ı ne?	ofis	1
+1 Ofis mutfak ın doğu su.
+2 Banyo ofis in doğu su.
+3 Batının mutfak ı ne?	ofis	1
+1 Koridor bahçe nin doğu su.
+2 Bahçe ofis in doğu su.
+3 bahçe nin doğu su ne?	koridor	1
+1 Salon banyo nun batı sı.
+2 Salon bahçe nin doğu su.
+3 bahçe nin batı sı ne?	salon	2
+1 Banyo bahçe nin güney i.
+2 Ofis banyo nun güney i.
+3 Kuzeydeki banyo ne?	ofis	2
+1 Banyo mutfak ın batı sı.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Salon bahçe nin kuzey i.
+2 Koridor bahçe nin güney i.
+3 bahçe nin kuzey i ne?	koridor	2
+1 Banyo koridor un kuzey i.
+2 Koridor bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	koridor	2
+1 Banyo ofis in kuzey i.
+2 Koridor banyo nun kuzey i.
+3 Banyo güney i ne?	koridor	2
+1 Ofis koridor un batı sı.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin batı sı ne?	koridor	2
+1 Ofis mutfak ın batı sı.
+2 Ofis banyo nun doğu su.
+3 Doğunun mutfak ı ne?	ofis	1
+1 Banyo koridor un doğu su.
+2 Koridor ofis in doğu su.
+3 koridor un batı sı ne?	banyo	1
+1 Bahçe salon un kuzey i.
+2 Salon mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	salon	2
+1 Salon koridor un batı sı.
+2 Banyo koridor un doğu su.
+3 koridor un doğu su ne?	banyo	2
+1 Bahçe koridor un güney i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin kuzey i ne?	ofis	2
+1 Salon banyo nun güney i.
+2 Ofis banyo nun kuzey i.
+3 banyo nun güney i ne var?	salon	1
+1 Mutfak ofis in doğu su.
+2 Bahçe mutfak ın doğu su.
+3 mutfak ın doğu su ne?	bahçe	2
+1 Banyo ofis in doğu su.
+2 Mutfak banyo nun doğu su.
+3 ofis in doğu su ne?	banyo	1
+1 Salon banyo nun kuzey i.
+2 Bahçe banyo nun güney i.
+3 banyo nun güney i ne var?	bahçe	2
+1 Salon bahçe nin kuzey i.
+2 Mutfak bahçe nin güney i.
+3 bahçe nin güney i ne?	mutfak	2
+1 Mutfak bahçe nin güney i.
+2 Bahçe koridor un güney i.
+3 koridor un güney i ne?	bahçe	2
+1 Ofis bahçe nin batı sı.
+2 Banyo bahçe nin doğu su.
+3 bahçe nin doğu su ne?	ofis	1
+1 Salon banyo nun güney i.
+2 Koridor salon un güney i.
+3 salon un kuzey i ne?	koridor	2
+1 Bahçe mutfak ın kuzey i.
+2 Koridor mutfak ın güney i.
+3 mutfak ın güney i ne?	koridor	2
+1 Salon mutfak ın doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin batı sı ne?	salon	2
+1 Mutfak ofis in doğu su.
+2 Ofis banyo nun doğu su.
+3 banyo nun doğu su ne?	ofis	2
+1 Banyo bahçe nin doğu su.
+2 Bahçe mutfak ın doğu su.
+3 Batının mutfak ı ne?	bahçe	2
+1 Salon ofis in doğu su.
+2 Banyo ofis in batı sı.
+3 ofis in batı sı ne?	banyo	2
+1 Ofis bahçe nin güney i.
+2 Mutfak bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	mutfak	2
+1 Banyo ofis in batı sı.
+2 Banyo mutfak ın doğu su.
+3 mutfak ın doğu su ne?	banyo	2
+1 Ofis salon un güney i.
+2 Koridor salon un kuzey i.
+3 salon un kuzey i ne?	koridor	2
+1 Mutfak salon un güney i.
+2 Mutfak bahçe nin kuzey i.
+3 Bahçe güney i ne?	mutfak	2
+1 Koridor bahçe nin kuzey i.
+2 Ofis koridor un kuzey i.
+3 Bahçe güney i ne?	koridor	1
+1 Bahçe ofis in batı sı.
+2 Salon ofis in doğu su.
+3 Batı nın batı sı ne?	salon	2
+1 Banyo koridor un doğu su.
+2 Bahçe salon un batı sı.
+3 salon un batı sı ne?	bahçe	2
+1 Ofis koridor un batı sı.
+2 Bahçe koridor un doğu su.
+3 koridor un batı sı ne?	ofis	1
+1 Banyo koridor un doğu su.
+2 Ofis banyo nun doğu su.
+3 Batının banyo su ne?	ofis	2
+1 Mutfak ofis in güney i.
+2 Mutfak koridor un kuzey i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Mutfak bahçe nin kuzey i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin güney i ne?	ofis	2
+1 Mutfak koridor un güney i.
+2 Salon koridor un kuzey i.
+3 koridor un kuzey i ne?	mutfak	1
+1 Mutfak bahçe nin batı sı.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin batı sı ne?	mutfak	1
+1 Koridor banyo nun güney i.
+2 Banyo mutfak ın güney i.
+3 Kuzeydeki banyo ne?	koridor	1
+1 Salon mutfak ın batı sı.
+2 Banyo mutfak ın doğu su.
+3 Doğunun mutfak ı ne?	salon	1
+1 Bahçe koridor un kuzey i.
+2 Banyo koridor un güney i.
+3 koridor un güney i ne?	banyo	2
+1 Salon koridor un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un doğu su ne?	salon	1
+1 Koridor bahçe nin güney i.
+2 Banyo bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	koridor	1
+1 Koridor salon un batı sı.
+2 Bahçe koridor un batı sı.
+3 koridor un batı sı ne?	bahçe	2
+1 Ofis mutfak ın batı sı.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Banyo ofis in güney i.
+2 Koridor ofis in kuzey i.
+3 ofis in güney i ne?	banyo	1
+1 Koridor ofis in kuzey i.
+2 Salon koridor un kuzey i.
+3 koridor un kuzey i ne?	salon	2
+1 Bahçe koridor un kuzey i.
+2 Banyo koridor un güney i.
+3 koridor un kuzey i ne?	banyo	2
+1 Bahçe mutfak ın batı sı.
+2 Koridor mutfak ın doğu su.
+3 mutfak ın batı sı ne?	bahçe	1
+1 Banyo bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin batı sı ne?	banyo	1
+1 Bahçe salon un doğu su.
+2 Bahçe ofis in batı sı.
+3 ofis in batı sı ne?	bahçe	2
+1 Salon koridor un güney i.
+2 Banyo koridor un kuzey i.
+3 koridor un kuzey i ne?	salon	1
+1 Banyo koridor un güney i.
+2 Salon banyo nun güney i.
+3 koridor un güney i ne?	banyo	1
+1 Ofis koridor un güney i.
+2 Mutfak ofis in güney i.
+3 ofis in güney i ne?	mutfak	2
+1 Bahçe banyo nun batı sı.
+2 Koridor bahçe nin batı sı.
+3 Banyo doğu su ne?	bahçe	1
+1 Banyo koridor un güney i.
+2 Ofis koridor un kuzey i.
+3 koridor un güney i ne?	banyo	1
+1 Koridor salon un batı sı.
+2 Salon ofis in batı sı.
+3 salon un batı sı ne?	koridor	1
+1 Bahçe banyo nun kuzey i.
+2 Banyo ofis in kuzey i.
+3 banyo nun kuzey i ne?	bahçe	1
+1 Salon koridor un doğu su.
+2 Bahçe salon un doğu su.
+3 koridor un batı sı ne?	salon	1
+1 Banyo bahçe nin güney i.
+2 Bahçe mutfak ın güney i.
+3 bahçe nin kuzey i ne?	banyo	1
+1 Mutfak banyo nun güney i.
+2 Banyo koridor un güney i.
+3 koridor un güney i ne?	banyo	2
+1 Banyo bahçe nin güney i.
+2 Ofis banyo nun güney i.
+3 bahçe nin güney i ne?	banyo	1
+1 Banyo mutfak ın güney i.
+2 Ofis mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	ofis	2
+1 Mutfak bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Ofis mutfak ın doğu su.
+2 Mutfak koridor un doğu su.
+3 mutfak ın doğu su ne?	ofis	1
+1 Bahçe banyo nun kuzey i.
+2 Koridor banyo nun güney i.
+3 Kuzeydeki banyo ne?	koridor	2
+1 Salon mutfak ın güney i.
+2 Koridor mutfak ın kuzey i.
+3 mutfak ın güney i ne?	salon	1
+1 Ofis bahçe nin kuzey i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin kuzey i ne?	ofis	1
+1 Bahçe ofis in güney i.
+2 Koridor ofis in kuzey i.
+3 ofis in kuzey i ne?	bahçe	1
+1 Banyo ofis in kuzey i.
+2 Koridor ofis in güney i.
+3 ofis in kuzey i ne?	koridor	2
+1 Koridor ofis in doğu su.
+2 Mutfak koridor un doğu su.
+3 ofis in doğu su ne?	koridor	1
+1 Salon banyo nun batı sı.
+2 Mutfak salon un batı sı.
+3 salon un batı sı ne?	mutfak	2
+1 Koridor salon un güney i.
+2 Salon mutfak ın güney i.
+3 salon un kuzey i ne?	koridor	1
+1 Ofis koridor un batı sı.
+2 Koridor banyo nun batı sı.
+3 Banyo doğu su ne?	koridor	2
+1 Banyo koridor un kuzey i.
+2 Banyo bahçe nin güney i.
+3 koridor un kuzey i ne?	banyo	1
+1 Mutfak koridor un batı sı.
+2 Mutfak salon un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Banyo bahçe nin batı sı.
+2 Salon bahçe nin doğu su.
+3 bahçe nin doğu su ne?	salon	2
+1 Koridor ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 Ofis güney i ne?	mutfak	2
+1 Ofis salon un kuzey i.
+2 Mutfak salon un güney i.
+3 salon un kuzey i ne?	mutfak	2
+1 Ofis bahçe nin doğu su.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Mutfak ofis in batı sı.
+2 Salon mutfak ın batı sı.
+3 ofis in batı sı ne?	mutfak	1
+1 Banyo bahçe nin batı sı.
+2 Salon banyo nun batı sı.
+3 bahçe nin doğu su ne?	banyo	1
+1 Bahçe ofis in doğu su.
+2 Salon ofis in batı sı.
+3 ofis in batı sı ne?	salon	2
+1 Koridor banyo nun kuzey i.
+2 Ofis banyo nun güney i.
+3 banyo nun güney i ne var?	ofis	2
+1 Ofis mutfak ın batı sı.
+2 Salon mutfak ın doğu su.
+3 mutfak ın batı sı ne?	ofis	1
+1 Bahçe ofis in kuzey i.
+2 Bahçe mutfak ın güney i.
+3 Ofis güney i ne?	bahçe	1
+1 Ofis koridor un doğu su.
+2 Salon ofis in doğu su.
+3 koridor un batı sı ne?	ofis	1
+1 Bahçe koridor un doğu su.
+2 Ofis koridor un batı sı.
+3 koridor un batı sı ne?	ofis	2
+1 Koridor salon un doğu su.
+2 Banyo koridor un batı sı.
+3 salon un doğu su ne?	koridor	1
+1 Salon bahçe nin doğu su.
+2 Ofis salon un doğu su.
+3 koridor un batı sı ne?	ofis	2
+1 Mutfak koridor un kuzey i.
+2 Koridor banyo nun kuzey i.
+3 Banyo güney i ne?	koridor	2
+1 Salon ofis in doğu su.
+2 Mutfak ofis in batı sı.
+3 ofis in doğu ne?	mutfak	2
+1 Bahçe mutfak ın kuzey i.
+2 Banyo bahçe nin kuzey i.
+3 Bahçe güney i ne?	banyo	2
+1 Banyo ofis in doğu su.
+2 Mutfak banyo nun doğu su.
+3 Batı nın batı sı ne?	banyo	1
+1 Mutfak salon un doğu su.
+2 Mutfak banyo nun batı sı.
+3 Banyo doğu su ne?	mutfak	2
+1 Ofis bahçe nin güney i.
+2 Koridor bahçe nin kuzey i.
+3 Bahçe güney i ne?	koridor	2
+1 Bahçe ofis in batı sı.
+2 Koridor bahçe nin batı sı.
+3 ofis in batı sı ne?	bahçe	1
+1 Koridor salon un güney i.
+2 Salon bahçe nin güney i.
+3 salon un güney i ne?	koridor	1
+1 Banyo ofis in kuzey i.
+2 Mutfak banyo nun kuzey i.
+3 Banyo güney i ne?	mutfak	2
+1 Salon koridor un güney i.
+2 Koridor bahçe nin güney i.
+3 koridor un güney i ne?	salon	1
+1 Koridor banyo nun batı sı.
+2 Salon banyo nun doğu su.
+3 banyo nun batı sı ne?	koridor	1
+1 Banyo bahçe nin batı sı.
+2 Salon bahçe nin doğu su.
+3 bahçe nin batı sı ne?	salon	2
+1 Ofis mutfak ın batı sı.
+2 Salon mutfak ın doğu su.
+3 mutfak ın doğu su ne?	salon	2
+1 Ofis salon un batı sı.
+2 Mutfak ofis in batı sı.
+3 salon un doğu su ne?	ofis	1
+1 Salon ofis in batı sı.
+2 Salon banyo nun doğu su.
+3 ofis in doğu ne?	salon	1
+1 Mutfak ofis in güney i.
+2 Banyo mutfak ın güney i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Mutfak banyo nun batı sı.
+2 Ofis banyo nun doğu su.
+3 banyo nun doğu su ne?	ofis	2
+1 Salon ofis in doğu su.
+2 Mutfak ofis in batı sı.
+3 ofis in doğu ne?	mutfak	2
+1 Ofis koridor un batı sı.
+2 Koridor salon un batı sı.
+3 Koridor doğu su ne?	ofis	1
+1 Bahçe mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 mutfak ın doğu su ne?	bahçe	1
+1 Ofis mutfak ın doğu su.
+2 Salon mutfak ın batı sı.
+3 mutfak ın batı sı ne?	salon	2
+1 Banyo mutfak ın batı sı.
+2 Banyo bahçe nin doğu su.
+3 Doğunun mutfak ı ne?	banyo	1
+1 Ofis bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Salon banyo nun güney i.
+2 Bahçe salon un güney i.
+3 salon un kuzey i ne?	bahçe	2
+1 Mutfak ofis in batı sı.
+2 Ofis banyo nun batı sı.
+3 banyo nun batı sı ne?	ofis	2
+1 Bahçe banyo nun güney i.
+2 Salon banyo nun kuzey i.
+3 banyo nun güney i ne var?	bahçe	1
+1 Koridor salon un batı sı.
+2 Mutfak koridor un batı sı.
+3 Koridor doğu su ne?	mutfak	2
+1 Bahçe mutfak ın güney i.
+2 Mutfak banyo nun güney i.
+3 banyo nun güney i ne var?	mutfak	2
+1 Mutfak koridor un kuzey i.
+2 Salon koridor un güney i.
+3 koridor un kuzey i ne?	mutfak	1
+1 Mutfak ofis in doğu su.
+2 Mutfak bahçe nin batı sı.
+3 Batı nın batı sı ne?	mutfak	1
+1 Banyo bahçe nin güney i.
+2 Salon bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	banyo	1
+1 Bahçe banyo nun batı sı.
+2 Koridor bahçe nin batı sı.
+3 banyo nun batı sı ne?	bahçe	1
+1 Koridor banyo nun batı sı.
+2 Banyo bahçe nin batı sı.
+3 Banyo doğu su ne?	koridor	1
+1 Banyo koridor un güney i.
+2 Ofis salon un kuzey i.
+3 salon un kuzey i ne?	banyo	1
+1 Mutfak ofis in doğu su.
+2 Ofis banyo nun doğu su.
+3 ofis in doğu su ne?	mutfak	1
+1 Mutfak bahçe nin batı sı.
+2 Mutfak salon un doğu su.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Koridor mutfak ın doğu su.
+2 Koridor salon un batı sı.
+3 salon un batı sı ne?	koridor	2
+1 Ofis koridor un güney i.
+2 Mutfak koridor un kuzey i.
+3 koridor un kuzey i ne?	mutfak	2
+1 Koridor mutfak ın batı sı.
+2 Mutfak ofis in batı sı.
+3 ofis in batı sı ne?	mutfak	2
+1 Koridor ofis in güney i.
+2 Banyo koridor un güney i.
+3 ofis in güney i ne?	koridor	1
+1 Banyo bahçe nin kuzey i.
+2 Banyo mutfak ın güney i.
+3 mutfak ın kuzey i ne?	banyo	2
+1 Salon mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 mutfak ın kuzey i ne?	salon	1
+1 Mutfak bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin batı sı ne?	mutfak	1
+1 Ofis banyo nun batı sı.
+2 Salon banyo nun doğu su.
+3 Batının banyo su ne?	salon	2
+1 Mutfak koridor un batı sı.
+2 Bahçe koridor un doğu su.
+3 Koridor doğu su ne?	mutfak	1
+1 Ofis salon un doğu su.
+2 Ofis banyo nun batı sı.
+3 Banyo doğu su ne?	ofis	2
+1 Salon koridor un kuzey i.
+2 Koridor bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	koridor	2
+1 Koridor ofis in kuzey i.
+2 Ofis banyo nun kuzey i.
+3 Ofis güney i ne?	koridor	1
+1 Koridor bahçe nin kuzey i.
+2 Banyo bahçe nin güney i.
+3 Bahçe güney i ne?	koridor	1
+1 Koridor banyo nun batı sı.
+2 Mutfak banyo nun doğu su.
+3 banyo nun doğu su ne?	mutfak	2
+1 Bahçe mutfak ın batı sı.
+2 bahçe nin banyo su doğudır.
+3 mutfak ın batı sı ne?	bahçe	1
+1 Bahçe salon un kuzey i.
+2 Bahçe koridor un güney i.
+3 koridor un kuzey i ne?	bahçe	2
+1 Bahçe mutfak ın güney i.
+2 Mutfak koridor un güney i.
+3 mutfak ın güney i ne?	bahçe	1
+1 Salon koridor un kuzey i.
+2 Ofis salon un kuzey i.
+3 salon un kuzey i ne?	ofis	2
+1 Koridor banyo nun güney i.
+2 Salon koridor un güney i.
+3 koridor un güney i ne?	salon	2
+1 Banyo koridor un güney i.
+2 Mutfak koridor un kuzey i.
+3 koridor un kuzey i ne?	mutfak	2
+1 Ofis mutfak ın batı sı.
+2 Banyo mutfak ın doğu su.
+3 Doğunun mutfak ı ne?	ofis	1
+1 Banyo ofis in doğu su.
+2 Koridor banyo nun doğu su.
+3 Batının banyo su ne?	koridor	2
+1 Mutfak bahçe nin kuzey i.
+2 Banyo mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	banyo	2
+1 Koridor mutfak ın batı sı.
+2 Ofis mutfak ın doğu su.
+3 mutfak ın doğu su ne?	ofis	2
+1 Mutfak koridor un batı sı.
+2 Bahçe mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	bahçe	2
+1 Banyo bahçe nin batı sı.
+2 Ofis banyo nun batı sı.
+3 Banyo doğu su ne?	ofis	2
+1 Mutfak bahçe nin güney i.
+2 Ofis bahçe nin kuzey i.
+3 bahçe nin güney i ne?	mutfak	1
+1 Salon bahçe nin batı sı.
+2 Banyo bahçe nin doğu su.
+3 bahçe nin doğu su ne?	banyo	2
+1 Salon bahçe nin güney i.
+2 Banyo bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	banyo	2
+1 Ofis bahçe nin güney i.
+2 Bahçe salon un güney i.
+3 salon un kuzey i ne?	bahçe	2
+1 Bahçe mutfak ın doğu su.
+2 Banyo mutfak ın batı sı.
+3 Batının mutfak ı ne?	bahçe	1
+1 Ofis bahçe nin batı sı.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin batı sı ne?	ofis	1
+1 Banyo koridor un batı sı.
+2 Koridor ofis in batı sı.
+3 Koridor doğu su ne?	banyo	1
+1 Mutfak ofis in güney i.
+2 Koridor ofis in kuzey i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Ofis mutfak ın batı sı.
+2 Koridor ofis in batı sı.
+3 Doğunun mutfak ı ne?	ofis	1
+1 Koridor mutfak ın batı sı.
+2 Banyo mutfak ın doğu su.
+3 Batının mutfak ı ne?	banyo	2
+1 Banyo ofis in güney i.
+2 Ofis salon un güney i.
+3 ofis in kuzey i ne?	banyo	1
+1 Mutfak ofis in güney i.
+2 Mutfak koridor un kuzey i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Bahçe ofis in doğu su.
+2 Ofis salon un doğu su.
+3 ofis in doğu su ne?	bahçe	1
+1 Banyo bahçe nin kuzey i.
+2 Mutfak bahçe nin güney i.
+3 bahçe nin kuzey i ne?	mutfak	2
+1 Koridor bahçe nin güney i.
+2 Bahçe ofis in güney i.
+3 ofis in güney i ne?	bahçe	2
+1 Ofis koridor un güney i.
+2 Koridor mutfak ın güney i.
+3 koridor un güney i ne?	ofis	1
+1 Koridor ofis in doğu su.
+2 Ofis banyo nun doğu su.
+3 banyo nun doğu su ne?	ofis	2
+1 Ofis banyo nun doğu su.
+2 Banyo koridor un doğu su.
+3 koridor un batı sı ne?	banyo	2
+1 Ofis koridor un kuzey i.
+2 Salon koridor un güney i.
+3 koridor un kuzey i ne?	ofis	1
+1 Ofis salon un güney i.
+2 Mutfak ofis in güney i.
+3 ofis in kuzey i ne?	mutfak	2
+1 Bahçe salon un doğu su.
+2 Salon mutfak ın doğu su.
+3 koridor un batı sı ne?	bahçe	1
+1 Koridor salon un batı sı.
+2 Salon mutfak ın batı sı.
+3 salon un doğu su ne?	koridor	1
+1 Banyo bahçe nin batı sı.
+2 Salon banyo nun batı sı.
+3 bahçe nin batı sı ne?	banyo	1
+1 Ofis mutfak ın güney i.
+2 Bahçe ofis in güney i.
+3 ofis in kuzey i ne?	bahçe	2
+1 Ofis mutfak ın doğu su.
+2 Mutfak bahçe nin doğu su.
+3 bahçe nin batı sı ne?	mutfak	2
+1 Salon banyo nun güney i.
+2 Banyo mutfak ın güney i.
+3 banyo nun güney i ne var?	salon	1
+1 Koridor mutfak ın güney i.
+2 Mutfak salon un güney i.
+3 mutfak ın kuzey i ne?	koridor	1
+1 Banyo bahçe nin batı sı.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin doğu su ne?	banyo	1
+1 Mutfak ofis in kuzey i.
+2 Ofis koridor un kuzey i.
+3 koridor un kuzey i ne?	ofis	2
+1 Banyo mutfak ın kuzey i.
+2 Bahçe mutfak ın güney i.
+3 mutfak ın kuzey i ne?	banyo	1
+1 Koridor banyo nun batı sı.
+2 Mutfak banyo nun doğu su.
+3 Banyo doğu su ne?	koridor	1
+1 Koridor ofis in doğu su.
+2 Koridor salon un batı sı.
+3 ofis in doğu su ne?	koridor	1
+1 Mutfak ofis in batı sı.
+2 Banyo ofis in doğu su.
+3 ofis in doğu ne?	mutfak	1
+1 Bahçe ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 Ofis güney i ne?	mutfak	2
+1 Mutfak koridor un doğu su.
+2 Bahçe koridor un batı sı.
+3 koridor un doğu su ne?	mutfak	1
+1 Salon bahçe nin güney i.
+2 Ofis bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	ofis	2
+1 Mutfak salon un batı sı.
+2 Salon koridor un batı sı.
+3 salon un doğu su ne?	mutfak	1
+1 Salon banyo nun güney i.
+2 Banyo bahçe nin güney i.
+3 Kuzeydeki banyo ne?	salon	1
+1 Mutfak koridor un batı sı.
+2 Banyo koridor un doğu su.
+3 Koridor doğu su ne?	mutfak	1
+1 Salon ofis in batı sı.
+2 Koridor salon un batı sı.
+3 salon un batı sı ne?	koridor	2
+1 Bahçe salon un güney i.
+2 Mutfak salon un kuzey i.
+3 salon un güney i ne?	mutfak	2
+1 Salon koridor un güney i.
+2 Banyo koridor un kuzey i.
+3 koridor un kuzey i ne?	banyo	2
+1 Banyo bahçe nin batı sı.
+2 Mutfak bahçe nin doğu su.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Mutfak ofis in güney i.
+2 Koridor ofis in kuzey i.
+3 Ofis güney i ne?	koridor	2
+1 Mutfak banyo nun kuzey i.
+2 Mutfak salon un güney i.
+3 Banyo güney i ne?	mutfak	1
+1 Koridor ofis in kuzey i.
+2 Banyo ofis in güney i.
+3 ofis in kuzey i ne?	banyo	2
+1 Koridor salon un doğu su.
+2 Bahçe koridor un doğu su.
+3 koridor un batı sı ne?	bahçe	2
+1 Salon mutfak ın güney i.
+2 Ofis salon un güney i.
+3 mutfak ın kuzey i ne?	salon	1
+1 Ofis mutfak ın doğu su.
+2 Bahçe ofis in doğu su.
+3 Batı nın batı sı ne?	bahçe	2
+1 Banyo bahçe nin kuzey i.
+2 Banyo mutfak ın güney i.
+3 mutfak ın kuzey i ne?	banyo	2
+1 Banyo koridor un kuzey i.
+2 Ofis banyo nun kuzey i.
+3 koridor un güney i ne?	banyo	1
+1 Salon bahçe nin batı sı.
+2 Bahçe banyo nun batı sı.
+3 bahçe nin batı sı ne?	salon	1
+1 Bahçe ofis in batı sı.
+2 Banyo ofis in doğu su.
+3 ofis in batı sı ne?	bahçe	1
+1 Salon koridor un kuzey i.
+2 Bahçe koridor un güney i.
+3 koridor un güney i ne?	salon	1
+1 Banyo mutfak ın batı sı.
+2 Bahçe banyo nun batı sı.
+3 Banyo doğu su ne?	bahçe	2
+1 Mutfak bahçe nin kuzey i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin kuzey i ne?	mutfak	1
+1 Koridor salon un batı sı.
+2 Bahçe salon un doğu su.
+3 salon un doğu su ne?	bahçe	2
+1 Salon banyo nun batı sı.
+2 Banyo mutfak ın batı sı.
+3 mutfak ın batı sı ne?	banyo	2
+1 Salon mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 Mutfak güney i ne?	salon	1
+1 Mutfak banyo nun güney i.
+2 Bahçe mutfak ın güney i.
+3 Kuzeydeki banyo ne?	mutfak	1
+1 Koridor salon un kuzey i.
+2 Salon ofis in kuzey i.
+3 salon un kuzey i ne?	koridor	1
+1 Banyo koridor un güney i.
+2 Salon koridor un kuzey i.
+3 koridor un güney i ne?	banyo	1
+1 Banyo bahçe nin kuzey i.
+2 Ofis banyo nun kuzey i.
+3 Bahçe güney i ne?	banyo	1
+1 Mutfak bahçe nin doğu su.
+2 Bahçe koridor un doğu su.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Ofis koridor un güney i.
+2 Mutfak ofis in güney i.
+3 ofis in güney i ne?	mutfak	2
+1 Salon bahçe nin güney i.
+2 Ofis bahçe nin kuzey i.
+3 bahçe nin güney i ne?	salon	1
+1 Ofis banyo nun doğu su.
+2 Bahçe banyo nun batı sı.
+3 Banyo doğu su ne?	bahçe	2
+1 Mutfak koridor un kuzey i.
+2 Banyo mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	banyo	2
+1 Koridor mutfak ın doğu su.
+2 Salon koridor un doğu su.
+3 Batının mutfak ı ne?	koridor	1
+1 Mutfak bahçe nin güney i.
+2 Koridor bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	mutfak	1
+1 Mutfak salon un doğu su.
+2 Bahçe salon un batı sı.
+3 koridor un batı sı ne?	mutfak	1
+1 Mutfak ofis in doğu su.
+2 Koridor mutfak ın doğu su.
+3 ofis in doğu su ne?	mutfak	1
+1 Mutfak ofis in kuzey i.
+2 Ofis koridor un kuzey i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Salon mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 mutfak ın kuzey i ne?	salon	1
+1 Ofis bahçe nin batı sı.
+2 Ofis mutfak ın doğu su.
+3 bahçe nin doğu su ne?	ofis	1
+1 Banyo mutfak ın kuzey i.
+2 Mutfak ofis in kuzey i.
+3 Ofis güney i ne?	mutfak	2
+1 Koridor bahçe nin doğu su.
+2 Mutfak koridor un doğu su.
+3 bahçe nin batı sı ne?	koridor	1
+1 Bahçe banyo nun batı sı.
+2 Bahçe ofis in doğu su.
+3 banyo nun batı sı ne?	bahçe	1
+1 Ofis mutfak ın doğu su.
+2 Salon mutfak ın batı sı.
+3 mutfak ın batı sı ne?	salon	2
+1 Mutfak banyo nun batı sı.
+2 Salon mutfak ın batı sı.
+3 Banyo doğu su ne?	mutfak	1
+1 Banyo koridor un güney i.
+2 Bahçe koridor un kuzey i.
+3 koridor un güney i ne?	bahçe	2
+1 Koridor banyo nun batı sı.
+2 Ofis banyo nun doğu su.
+3 Batının banyo su ne?	ofis	2
+1 Salon koridor un batı sı.
+2 Banyo koridor un batı sı.
+3 koridor un batı sı ne?	salon	1
+1 Koridor bahçe nin batı sı.
+2 Salon koridor un batı sı.
+3 Koridor doğu su ne?	salon	2
+1 Mutfak salon un kuzey i.
+2 Bahçe salon un güney i.
+3 salon un kuzey i ne?	mutfak	1
+1 Bahçe koridor un doğu su.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin batı sı ne?	ofis	2
+1 Koridor banyo nun doğu sudur.
+2 Ofis koridor un doğu su.
+3 koridor un batı sı ne?	ofis	2
+1 Mutfak koridor un batı sı.
+2 Bahçe koridor un doğu su.
+3 koridor un batı sı ne?	bahçe	2
+1 Koridor mutfak ın doğu su.
+2 Bahçe mutfak ın batı sı.
+3 Batının mutfak ı ne?	koridor	1
+1 Koridor salon un batı sı.
+2 Koridor mutfak ın doğu su.
+3 mutfak ın doğu su ne?	koridor	2
+1 Koridor bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin batı sı ne?	salon	2
+1 Bahçe banyo nun batı sı.
+2 Banyo ofis in batı sı.
+3 ofis in batı sı ne?	banyo	2
+1 Salon ofis in güney i.
+2 Bahçe salon un güney i.
+3 salon un güney i ne?	bahçe	2
+1 Banyo koridor un batı sı.
+2 Koridor salon un doğu su.
+3 salon un doğu su ne?	banyo	1
+1 Bahçe koridor un güney i.
+2 Mutfak bahçe nin güney i.
+3 bahçe nin güney i ne?	mutfak	2
+1 Salon bahçe nin doğu su.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Banyo ofis in güney i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin güney i ne?	ofis	2
+1 Mutfak banyo nun kuzey i.
+2 Ofis banyo nun güney i.
+3 Banyo güney i ne?	mutfak	1
+1 Ofis banyo nun kuzey i.
+2 Salon ofis in kuzey i.
+3 banyo nun kuzey i ne?	ofis	1
+1 Bahçe koridor un batı sı.
+2 Ofis bahçe nin batı sı.
+3 Koridor doğu su ne?	bahçe	1
+1 Bahçe koridor un doğu su.
+2 Banyo bahçe nin doğu su.
+3 bahçe nin doğu su ne?	banyo	2
+1 Banyo koridor un batı sı.
+2 Banyo koridor un doğu su.
+3 koridor un batı sı ne?	banyo	1
+1 Bahçe ofis in doğu su.
+2 Salon ofis in batı sı.
+3 Batı nın batı sı ne?	bahçe	1
+1 Koridor bahçe nin güney i.
+2 Ofis bahçe nin kuzey i.
+3 Bahçe güney i ne?	ofis	2
+1 Koridor mutfak ın kuzey i.
+2 Mutfak banyo nun kuzey i.
+3 Banyo güney i ne?	mutfak	2
+1 Salon banyo nun batı sı.
+2 Salon mutfak ın doğu su.
+3 mutfak ın doğu su ne?	salon	2
+1 Salon koridor un batı sı.
+2 Salon ofis in doğu su.
+3 koridor un batı sı ne?	salon	1
+1 Salon koridor un kuzey i.
+2 Banyo koridor un güney i.
+3 koridor un kuzey i ne?	banyo	2
+1 Mutfak banyo nun batı sı.
+2 Banyo bahçe nin batı sı.
+3 bahçe nin doğu su ne?	banyo	2
+1 Salon ofis in batı sı.
+2 Bahçe ofis in doğu su.
+3 Batı nın batı sı ne?	bahçe	2
+1 Mutfak banyo nun batı sı.
+2 bahçe nin banyo su doğudır.
+3 banyo nun doğu su ne?	bahçe	2
+1 Banyo mutfak ın güney i.
+2 Bahçe mutfak ın kuzey i.
+3 Mutfak güney i ne?	bahçe	2
+1 Bahçe mutfak ın doğu su.
+2 Salon bahçe nin doğu su.
+3 bahçe nin doğu su ne?	salon	2
+1 Salon koridor un güney i.
+2 Salon ofis in kuzey i.
+3 koridor un kuzey i ne?	salon	1
+1 Koridor salon un güney i.
+2 Salon banyo nun güney i.
+3 banyo nun güney i ne var?	salon	2
+1 Koridor banyo nun doğu sudur.
+2 Salon koridor un doğu su.
+3 koridor un doğu su ne?	salon	2
+1 Ofis koridor un batı sı.
+2 Ofis bahçe nin doğu su.
+3 Koridor doğu su ne?	ofis	1
+1 Bahçe ofis in güney i.
+2 Koridor bahçe nin güney i.
+3 ofis in güney i ne?	bahçe	1
+1 Koridor ofis in doğu su.
+2 Salon ofis in batı sı.
+3 ofis in doğu su ne?	koridor	1
+1 Ofis banyo nun kuzey i.
+2 Salon banyo nun güney i.
+3 banyo nun kuzey i ne?	ofis	1
+1 Mutfak banyo nun kuzey i.
+2 Bahçe banyo nun güney i.
+3 Banyo güney i ne?	mutfak	1
+1 Bahçe banyo nun güney i.
+2 Banyo salon un güney i.
+3 Kuzeydeki banyo ne?	bahçe	1
+1 Bahçe mutfak ın güney i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin güney i ne?	ofis	2
+1 Mutfak bahçe nin güney i.
+2 Salon mutfak ın güney i.
+3 bahçe nin güney i ne?	mutfak	1
+1 Mutfak salon un doğu su.
+2 Banyo koridor un batı sı.
+3 salon un batı sı ne?	banyo	2
+1 Ofis salon un kuzey i.
+2 Mutfak salon un güney i.
+3 salon un kuzey i ne?	ofis	1
+1 Ofis salon un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un batı sı ne?	ofis	1
+1 Banyo koridor un batı sı.
+2 Banyo ofis in doğu su.
+3 ofis in doğu su ne?	banyo	2
+1 Koridor banyo nun batı sı.
+2 Bahçe koridor un batı sı.
+3 Banyo doğu su ne?	koridor	1
+1 Salon ofis in doğu su.
+2 Koridor salon un doğu su.
+3 salon un doğu su ne?	koridor	2
+1 Ofis koridor un doğu su.
+2 Salon koridor un batı sı.
+3 koridor un batı sı ne?	salon	2
+1 Bahçe mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 mutfak ın doğu su ne?	bahçe	1
+1 Mutfak ofis in güney i.
+2 Bahçe mutfak ın güney i.
+3 mutfak ın kuzey i ne?	bahçe	2
+1 Koridor banyo nun batı sı.
+2 Ofis banyo nun doğu su.
+3 Batının banyo su ne?	ofis	2
+1 Bahçe salon un kuzey i.
+2 Mutfak salon un güney i.
+3 salon un güney i ne?	mutfak	2
+1 Mutfak bahçe nin batı sı.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin batı sı ne?	koridor	2
+1 Bahçe koridor un güney i.
+2 Banyo koridor un kuzey i.
+3 koridor un güney i ne?	bahçe	1
+1 Mutfak koridor un batı sı.
+2 Bahçe koridor un doğu su.
+3 koridor un doğu su ne?	bahçe	2
+1 Ofis salon un güney i.
+2 Salon mutfak ın güney i.
+3 salon un kuzey i ne?	ofis	1
+1 Mutfak banyo nun kuzey i.
+2 Banyo salon un kuzey i.
+3 banyo nun kuzey i ne?	mutfak	1
+1 Koridor banyo nun kuzey i.
+2 Mutfak koridor un kuzey i.
+3 Banyo güney i ne?	koridor	1
+1 Salon banyo nun güney i.
+2 Mutfak salon un güney i.
+3 salon un kuzey i ne?	mutfak	2
+1 Ofis salon un doğu su.
+2 Banyo ofis in doğu su.
+3 salon un doğu su ne?	ofis	1
+1 Bahçe ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 Ofis güney i ne?	mutfak	2
+1 Ofis koridor un kuzey i.
+2 Mutfak ofis in kuzey i.
+3 ofis in kuzey i ne?	mutfak	2
+1 Bahçe koridor un batı sı.
+2 Koridor ofis in batı sı.
+3 koridor un batı sı ne?	bahçe	1
+1 Koridor banyo nun batı sı.
+2 Mutfak banyo nun doğu su.
+3 banyo nun doğu su ne?	mutfak	2
+1 Koridor bahçe nin doğu su.
+2 Bahçe ofis in doğu su.
+3 Batı nın batı sı ne?	bahçe	2
+1 Banyo koridor un doğu su.
+2 Koridor ofis in doğu su.
+3 Batı nın batı sı ne?	koridor	2
+1 Ofis bahçe nin doğu su.
+2 Banyo ofis in doğu su.
+3 bahçe nin batı sı ne?	ofis	1
+1 Ofis salon un güney i.
+2 Banyo ofis in güney i.
+3 salon un kuzey i ne?	ofis	1
+1 Mutfak ofis in kuzey i.
+2 Ofis koridor un kuzey i.
+3 Ofis güney i ne?	mutfak	1
+1 Koridor banyo nun kuzey i.
+2 Mutfak banyo nun güney i.
+3 Banyo güney i ne?	koridor	1
+1 Koridor bahçe nin güney i.
+2 Salon bahçe nin kuzey i.
+3 bahçe nin güney i ne?	koridor	1
+1 Salon mutfak ın kuzey i.
+2 Banyo mutfak ın güney i.
+3 Mutfak güney i ne?	salon	1
+1 Ofis salon un güney i.
+2 Mutfak ofis in güney i.
+3 ofis in kuzey i ne?	mutfak	2
+1 Koridor salon un kuzey i.
+2 Banyo salon un güney i.
+3 salon un kuzey i ne?	banyo	2
+1 Banyo mutfak ın güney i.
+2 Banyo ofis in kuzey i.
+3 ofis in kuzey i ne?	banyo	2
+1 Koridor bahçe nin güney i.
+2 Banyo bahçe nin kuzey i.
+3 Bahçe güney i ne?	banyo	2
+1 Bahçe banyo nun doğu su.
+2 Koridor bahçe nin doğu su.
+3 banyo nun doğu su ne?	bahçe	1
+1 Bahçe ofis in güney i.
+2 Bahçe salon un kuzey i.
+3 salon un güney i ne?	bahçe	2
+1 Bahçe banyo nun doğu su.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin doğu su ne?	koridor	2
+1 Mutfak salon un doğu su.
+2 Bahçe mutfak ın doğu su.
+3 mutfak ın doğu su ne?	bahçe	2
+1 Mutfak bahçe nin kuzey i.
+2 Bahçe salon un kuzey i.
+3 Bahçe güney i ne?	mutfak	1
+1 Banyo mutfak ın kuzey i.
+2 Banyo ofis in güney i.
+3 ofis in güney i ne?	banyo	2
+1 Koridor salon un kuzey i.
+2 Banyo salon un güney i.
+3 salon un kuzey i ne?	banyo	2
+1 Banyo koridor un doğu su.
+2 Koridor salon un batı sı.
+3 koridor un batı sı ne?	banyo	1
+1 Ofis mutfak ın doğu su.
+2 Koridor ofis in doğu su.
+3 Batının mutfak ı ne?	ofis	1
+1 Salon banyo nun batı sı.
+2 Mutfak salon un batı sı.
+3 Banyo doğu su ne?	salon	1
+1 Bahçe mutfak ın güney i.
+2 Ofis mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	bahçe	1
+1 Bahçe banyo nun batı sı.
+2 Banyo koridor un batı sı.
+3 koridor un batı sı ne?	banyo	2
+1 Bahçe ofis in güney i.
+2 Salon bahçe nin güney i.
+3 ofis in güney i ne?	bahçe	1
+1 Koridor mutfak ın doğu su.
+2 Mutfak ofis in doğu su.
+3 Batı nın batı sı ne?	mutfak	2
+1 Banyo ofis in doğu su.
+2 Ofis mutfak ın doğu su.
+3 Batının mutfak ı ne?	ofis	2
+1 Ofis bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Koridor bahçe nin güney i.
+2 Mutfak koridor un güney i.
+3 bahçe nin güney i ne?	koridor	1
+1 Salon banyo nun doğu su.
+2 Banyo ofis in doğu su.
+3 banyo nun doğu su ne?	salon	1
+1 Bahçe banyo nun güney i.
+2 Mutfak banyo nun kuzey i.
+3 banyo nun kuzey i ne?	mutfak	2
+1 Banyo ofis in güney i.
+2 Bahçe banyo nun güney i.
+3 banyo nun güney i ne var?	bahçe	2
+1 Koridor banyo nun güney i.
+2 Koridor bahçe nin kuzey i.
+3 banyo nun güney i ne var?	koridor	1
+1 Banyo koridor un batı sı.
+2 Koridor salon un doğu su.
+3 koridor un batı sı ne?	koridor	2
+1 Ofis banyo nun kuzey i.
+2 Banyo salon un kuzey i.
+3 salon un kuzey i ne?	banyo	2
+1 Banyo bahçe nin güney i.
+2 Salon banyo nun güney i.
+3 bahçe nin güney i ne?	banyo	1
+1 Salon bahçe nin kuzey i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin kuzey i ne?	banyo	2
+1 Bahçe salon un doğu su.
+2 Banyo koridor un batı sı.
+3 salon un doğu su ne?	bahçe	1
+1 Salon ofis in güney i.
+2 Banyo ofis in kuzey i.
+3 ofis in kuzey i ne?	salon	1
+1 Bahçe ofis in kuzey i.
+2 Banyo ofis in güney i.
+3 ofis in kuzey i ne?	bahçe	1
+1 Bahçe mutfak ın batı sı.
+2 Ofis mutfak ın doğu su.
+3 Doğunun mutfak ı ne?	bahçe	1
+1 Mutfak banyo nun batı sı.
+2 Bahçe mutfak ın batı sı.
+3 mutfak ın batı sı ne?	bahçe	2
+1 Banyo bahçe nin güney i.
+2 Bahçe koridor un güney i.
+3 bahçe nin güney i ne?	banyo	1
+1 Mutfak banyo nun güney i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin güney i ne?	banyo	2
+1 Salon bahçe nin doğu su.
+2 Ofis salon un doğu su.
+3 koridor un batı sı ne?	ofis	2
+1 Mutfak koridor un doğu su.
+2 Salon mutfak ın doğu su.
+3 mutfak ın doğu su ne?	salon	2
+1 Bahçe mutfak ın batı sı.
+2 Banyo bahçe nin batı sı.
+3 mutfak ın batı sı ne?	bahçe	1
+1 Bahçe mutfak ın kuzey i.
+2 Bahçe koridor un güney i.
+3 mutfak ın kuzey i ne?	bahçe	1
+1 Banyo koridor un güney i.
+2 Bahçe salon un kuzey i.
+3 salon un güney i ne?	bahçe	2
+1 Salon banyo nun batı sı.
+2 Koridor banyo nun doğu su.
+3 banyo nun doğu su ne?	koridor	2
+1 Salon ofis in batı sı.
+2 Koridor ofis in doğu su.
+3 ofis in doğu su ne?	koridor	2
+1 Koridor salon un doğu su.
+2 Salon mutfak ın doğu su.
+3 koridor un batı sı ne?	koridor	1
+1 Mutfak ofis in güney i.
+2 Ofis salon un güney i.
+3 salon un güney i ne?	ofis	2
+1 Salon ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 ofis in güney i ne?	salon	1
+1 Banyo mutfak ın güney i.
+2 Koridor mutfak ın kuzey i.
+3 mutfak ın güney i ne?	banyo	1
+1 Ofis bahçe nin güney i.
+2 Bahçe banyo nun güney i.
+3 bahçe nin güney i ne?	ofis	1
+1 Bahçe banyo nun doğu su.
+2 Mutfak bahçe nin doğu su.
+3 banyo nun doğu su ne?	bahçe	1
+1 Bahçe salon un kuzey i.
+2 Ofis bahçe nin kuzey i.
+3 Bahçe güney i ne?	ofis	2
+1 Banyo mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 mutfak ın batı sı ne?	koridor	2
+1 Salon banyo nun batı sı.
+2 Koridor salon un batı sı.
+3 salon un doğu su ne?	koridor	2
+1 Koridor banyo nun güney i.
+2 Ofis koridor un güney i.
+3 Kuzeydeki banyo ne?	koridor	1
+1 Banyo koridor un güney i.
+2 Ofis banyo nun güney i.
+3 banyo nun güney i ne var?	ofis	2
+1 Bahçe banyo nun kuzey i.
+2 Banyo koridor un kuzey i.
+3 koridor un güney i ne?	banyo	2
+1 Koridor banyo nun batı sı.
+2 Banyo bahçe nin batı sı.
+3 bahçe nin doğu su ne?	banyo	2
+1 Banyo koridor un batı sı.
+2 Ofis salon un doğu su.
+3 salon un batı sı ne?	banyo	1
+1 Banyo bahçe nin batı sı.
+2 Banyo mutfak ın doğu su.
+3 bahçe nin batı sı ne?	banyo	1
+1 Ofis salon un kuzey i.
+2 Mutfak salon un güney i.
+3 salon un güney i ne?	ofis	1
+1 Bahçe banyo nun doğu su.
+2 Ofis banyo nun batı sı.
+3 banyo nun batı sı ne?	ofis	2
+1 Koridor mutfak ın güney i.
+2 Banyo mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	koridor	1
+1 Salon koridor un batı sı.
+2 Koridor banyo nun batı sı.
+3 koridor un batı sı ne?	salon	1
+1 Ofis banyo nun kuzey i.
+2 Koridor banyo nun güney i.
+3 Banyo güney i ne?	ofis	1
+1 Salon banyo nun batı sı.
+2 Koridor salon un batı sı.
+3 salon un doğu su ne?	koridor	2
+1 Bahçe banyo nun batı sı.
+2 Banyo koridor un batı sı.
+3 Banyo doğu su ne?	bahçe	1
+1 Banyo koridor un batı sı.
+2 Bahçe koridor un doğu su.
+3 koridor un batı sı ne?	bahçe	2
+1 Mutfak ofis in batı sı.
+2 Bahçe ofis in doğu su.
+3 Batı nın batı sı ne?	bahçe	2
+1 Bahçe banyo nun kuzey i.
+2 Salon banyo nun güney i.
+3 Banyo güney i ne?	bahçe	1
+1 Mutfak salon un doğu su.
+2 Ofis salon un batı sı.
+3 koridor un batı sı ne?	mutfak	1
+1 Salon ofis in doğu su.
+2 Mutfak salon un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Koridor mutfak ın doğu su.
+2 Banyo mutfak ın batı sı.
+3 mutfak ın batı sı ne?	banyo	2
+1 Salon koridor un doğu su.
+2 Koridor mutfak ın doğu su.
+3 koridor un doğu su ne?	salon	1
+1 Bahçe mutfak ın güney i.
+2 Mutfak koridor un güney i.
+3 koridor un güney i ne?	mutfak	2
+1 Koridor banyo nun güney i.
+2 bahçe nin banyo su kuzey de.
+3 Banyo güney i ne?	bahçe	2
+1 Banyo koridor un güney i.
+2 Banyo mutfak ın kuzey i.
+3 Mutfak güney i ne?	banyo	2
+1 Koridor banyo nun kuzey i.
+2 Banyo ofis in kuzey i.
+3 ofis in kuzey i ne?	banyo	2
+1 Koridor salon un doğu su.
+2 Salon ofis in doğu su.
+3 ofis in doğu su ne?	salon	2
+1 Banyo ofis in doğu su.
+2 Mutfak banyo nun doğu su.
+3 ofis in doğu su ne?	banyo	1
+1 Banyo mutfak ın güney i.
+2 Ofis banyo nun güney i.
+3 mutfak ın kuzey i ne?	banyo	1
+1 Mutfak banyo nun güney i.
+2 bahçe nin banyo su kuzey de.
+3 banyo nun güney i ne var?	mutfak	1
+1 Koridor ofis in batı sı.
+2 Ofis bahçe nin batı sı.
+3 ofis in batı sı ne?	koridor	1
+1 Ofis bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin batı sı ne?	koridor	2
+1 Koridor ofis in doğu su.
+2 Ofis salon un doğu su.
+3 Batı nın batı sı ne?	koridor	1
+1 Koridor banyo nun batı sı.
+2 Koridor bahçe nin doğu su.
+3 bahçe nin doğu su ne?	koridor	2
+1 Bahçe banyo nun güney i.
+2 Salon banyo nun kuzey i.
+3 Banyo güney i ne?	salon	2
+1 Mutfak ofis in doğu su.
+2 Bahçe ofis in batı sı.
+3 ofis in doğu su ne?	mutfak	1
+1 Mutfak ofis in güney i.
+2 Ofis banyo nun güney i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Koridor banyo nun kuzey i.
+2 Koridor bahçe nin güney i.
+3 Banyo güney i ne?	koridor	1
+1 Mutfak ofis in doğu su.
+2 Ofis koridor un doğu su.
+3 Batı nın batı sı ne?	mutfak	1
+1 Salon ofis in kuzey i.
+2 Bahçe ofis in güney i.
+3 ofis in kuzey i ne?	bahçe	2
+1 Koridor salon un batı sı.
+2 Ofis salon un doğu su.
+3 salon un batı sı ne?	koridor	1
+1 Koridor salon un doğu su.
+2 Salon ofis in doğu su.
+3 ofis in doğu su ne?	salon	2
+1 Mutfak ofis in batı sı.
+2 Banyo ofis in doğu su.
+3 ofis in doğu ne?	mutfak	1
+1 Koridor mutfak ın doğu su.
+2 Salon koridor un doğu su.
+3 koridor un doğu su ne?	salon	2
+1 Salon banyo nun doğu su.
+2 Banyo koridor un doğu su.
+3 koridor un doğu su ne?	banyo	2
+1 Ofis bahçe nin doğu su.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Banyo ofis in kuzey i.
+2 Ofis salon un kuzey i.
+3 Ofis güney i ne?	banyo	1
+1 Bahçe banyo nun doğu su.
+2 Salon banyo nun batı sı.
+3 Banyo doğu su ne?	salon	2
+1 Koridor banyo nun kuzey i.
+2 Banyo bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	banyo	2
+1 Mutfak koridor un kuzey i.
+2 Banyo mutfak ın kuzey i.
+3 koridor un güney i ne?	mutfak	1
+1 Bahçe mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	koridor	2
+1 Banyo mutfak ın güney i.
+2 Salon mutfak ın kuzey i.
+3 Mutfak güney i ne?	salon	2
+1 Banyo mutfak ın güney i.
+2 Ofis banyo nun güney i.
+3 banyo nun güney i ne var?	ofis	2
+1 Koridor salon un batı sı.
+2 Banyo koridor un batı sı.
+3 salon un batı sı ne?	koridor	1
+1 Salon banyo nun kuzey i.
+2 Koridor banyo nun güney i.
+3 banyo nun kuzey i ne?	salon	1
+1 Ofis mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	koridor	2
+1 Ofis bahçe nin kuzey i.
+2 Banyo bahçe nin güney i.
+3 Bahçe güney i ne?	ofis	1
+1 Salon ofis in batı sı.
+2 Koridor salon un batı sı.
+3 ofis in batı sı ne?	salon	1
+1 Salon koridor un batı sı.
+2 Mutfak koridor un doğu su.
+3 Koridor doğu su ne?	salon	1
+1 Banyo koridor un güney i.
+2 Salon banyo nun güney i.
+3 koridor un kuzey i ne?	banyo	1
+1 Bahçe koridor un kuzey i.
+2 Ofis koridor un güney i.
+3 koridor un kuzey i ne?	ofis	2
+1 Bahçe ofis in kuzey i.
+2 Bahçe banyo nun güney i.
+3 banyo nun güney i ne var?	bahçe	2
+1 Mutfak ofis in batı sı.
+2 Mutfak bahçe nin doğu su.
+3 ofis in doğu ne?	mutfak	1
+1 Mutfak banyo nun güney i.
+2 Banyo salon un güney i.
+3 salon un kuzey i ne?	banyo	2
+1 Salon bahçe nin batı sı.
+2 Mutfak bahçe nin doğu su.
+3 bahçe nin doğu su ne?	salon	1
+1 Mutfak ofis in doğu su.
+2 Ofis salon un doğu su.
+3 salon un doğu su ne?	ofis	2
+1 Koridor bahçe nin güney i.
+2 Mutfak koridor un güney i.
+3 koridor un güney i ne?	mutfak	2
+1 Mutfak banyo nun batı sı.
+2 Mutfak koridor un doğu su.
+3 Banyo doğu su ne?	mutfak	1
+1 Koridor mutfak ın güney i.
+2 Mutfak bahçe nin güney i.
+3 mutfak ın kuzey i ne?	koridor	1
+1 Ofis salon un kuzey i.
+2 Bahçe ofis in kuzey i.
+3 salon un kuzey i ne?	ofis	1
+1 Banyo koridor un doğu su.
+2 Mutfak salon un batı sı.
+3 salon un batı sı ne?	mutfak	2
+1 Koridor banyo nun kuzey i.
+2 Salon banyo nun güney i.
+3 Banyo güney i ne?	koridor	1
+1 Koridor banyo nun doğu sudur.
+2 Ofis banyo nun batı sı.
+3 Banyo doğu su ne?	ofis	2
+1 Salon koridor un batı sı.
+2 Mutfak koridor un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Koridor bahçe nin batı sı.
+2 Salon koridor un batı sı.
+3 Koridor doğu su ne?	salon	2
+1 Koridor bahçe nin kuzey i.
+2 Banyo bahçe nin güney i.
+3 bahçe nin kuzey i ne?	koridor	1
+1 Koridor salon un kuzey i.
+2 Bahçe koridor un kuzey i.
+3 koridor un kuzey i ne?	bahçe	2
+1 Salon koridor un kuzey i.
+2 Ofis salon un kuzey i.
+3 salon un güney i ne?	ofis	2
+1 Mutfak koridor un güney i.
+2 Koridor banyo nun güney i.
+3 koridor un güney i ne?	mutfak	1
+1 Ofis salon un kuzey i.
+2 Koridor ofis in kuzey i.
+3 Ofis güney i ne?	koridor	2
+1 Banyo mutfak ın doğu su.
+2 Mutfak bahçe nin doğu su.
+3 Batının mutfak ı ne?	banyo	1
+1 Ofis bahçe nin doğu su.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Mutfak koridor un batı sı.
+2 Salon koridor un doğu su.
+3 koridor un doğu su ne?	salon	2
+1 Koridor banyo nun kuzey i.
+2 Salon banyo nun güney i.
+3 Banyo güney i ne?	koridor	1
+1 Ofis koridor un kuzey i.
+2 Ofis bahçe nin güney i.
+3 bahçe nin güney i ne?	ofis	2
+1 Ofis koridor un kuzey i.
+2 Mutfak koridor un güney i.
+3 koridor un güney i ne?	mutfak	2
+1 Koridor mutfak ın doğu su.
+2 Mutfak banyo nun doğu su.
+3 Batının mutfak ı ne?	koridor	1
+1 Ofis banyo nun batı sı.
+2 Koridor ofis in batı sı.
+3 ofis in batı sı ne?	koridor	2
+1 Bahçe ofis in güney i.
+2 Ofis koridor un güney i.
+3 koridor un kuzey i ne?	ofis	2
+1 Koridor banyo nun batı sı.
+2 Banyo koridor un batı sı.
+3 Banyo doğu su ne?	koridor	1
+1 Bahçe mutfak ın batı sı.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	koridor	2
+1 Salon mutfak ın güney i.
+2 Bahçe mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	salon	1
+1 Bahçe mutfak ın kuzey i.
+2 Banyo mutfak ın güney i.
+3 mutfak ın güney i ne?	banyo	2
+1 Banyo salon un kuzey i.
+2 bahçe nin banyo su kuzey de.
+3 salon un kuzey i ne?	banyo	1
+1 Koridor salon un doğu su.
+2 Salon banyo nun doğu su.
+3 Batının banyo su ne?	salon	2
+1 Mutfak koridor un kuzey i.
+2 Ofis koridor un güney i.
+3 koridor un güney i ne?	mutfak	1
+1 Bahçe banyo nun doğu su.
+2 Banyo koridor un doğu su.
+3 koridor un batı sı ne?	banyo	2
+1 Ofis banyo nun kuzey i.
+2 Banyo salon un kuzey i.
+3 Banyo güney i ne?	ofis	1
+1 Banyo koridor un doğu su.
+2 Mutfak banyo nun doğu su.
+3 Batının banyo su ne?	mutfak	2
+1 Koridor bahçe nin batı sı.
+2 Mutfak koridor un batı sı.
+3 koridor un batı sı ne?	mutfak	2
+1 Mutfak bahçe nin batı sı.
+2 Banyo mutfak ın batı sı.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Ofis banyo nun güney i.
+2 Salon ofis in güney i.
+3 banyo nun güney i ne var?	ofis	1
+1 Bahçe mutfak ın batı sı.
+2 Bahçe salon un doğu su.
+3 Doğunun mutfak ı ne?	bahçe	1
+1 Mutfak ofis in güney i.
+2 Koridor ofis in kuzey i.
+3 Ofis güney i ne?	koridor	2
+1 Koridor bahçe nin güney i.
+2 Bahçe salon un güney i.
+3 salon un kuzey i ne?	bahçe	2
+1 Banyo ofis in batı sı.
+2 Bahçe ofis in doğu su.
+3 ofis in doğu su ne?	bahçe	2
+1 Salon koridor un doğu su.
+2 Koridor banyo nun doğu su.
+3 Batının banyo su ne?	koridor	2
+1 Bahçe ofis in kuzey i.
+2 Salon ofis in güney i.
+3 ofis in kuzey i ne?	salon	2
+1 Salon ofis in batı sı.
+2 Banyo koridor un batı sı.
+3 salon un batı sı ne?	banyo	2
+1 Banyo koridor un batı sı.
+2 Ofis salon un doğu su.
+3 salon un batı sı ne?	banyo	1
+1 Bahçe banyo nun batı sı.
+2 Banyo ofis in batı sı.
+3 banyo nun batı sı ne?	bahçe	1
+1 Mutfak salon un güney i.
+2 Salon bahçe nin güney i.
+3 bahçe nin kuzey i ne?	salon	2
+1 Ofis bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin batı sı ne?	koridor	2
+1 Bahçe koridor un güney i.
+2 Salon koridor un kuzey i.
+3 koridor un kuzey i ne?	salon	2
+1 Salon koridor un doğu su.
+2 Salon ofis in batı sı.
+3 ofis in batı sı ne?	salon	2
+1 Banyo ofis in kuzey i.
+2 Koridor ofis in güney i.
+3 ofis in kuzey i ne?	banyo	1
+1 Bahçe koridor un doğu su.
+2 Salon koridor un batı sı.
+3 koridor un batı sı ne?	bahçe	1
+1 Banyo mutfak ın güney i.
+2 Mutfak salon un güney i.
+3 salon un güney i ne?	mutfak	2
+1 Banyo mutfak ın güney i.
+2 Salon mutfak ın kuzey i.
+3 mutfak ın güney i ne?	banyo	1
+1 Salon koridor un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un doğu su ne?	salon	1
+1 Mutfak koridor un güney i.
+2 Banyo koridor un kuzey i.
+3 koridor un kuzey i ne?	mutfak	1
+1 Salon mutfak ın kuzey i.
+2 Salon banyo nun güney i.
+3 Kuzeydeki banyo ne?	salon	2
+1 Ofis salon un doğu su.
+2 Banyo koridor un batı sı.
+3 salon un doğu su ne?	ofis	1
+1 Bahçe koridor un kuzey i.
+2 Koridor salon un kuzey i.
+3 salon un kuzey i ne?	koridor	2
+1 Bahçe salon un güney i.
+2 Mutfak salon un kuzey i.
+3 salon un güney i ne?	mutfak	2
+1 Mutfak banyo nun doğu sudur.
+2 Koridor mutfak ın doğu su.
+3 Batının mutfak ı ne?	koridor	2
+1 Mutfak salon un doğu su.
+2 Salon banyo nun doğu su.
+3 koridor un batı sı ne?	mutfak	1
+1 Bahçe salon un doğu su.
+2 Bahçe banyo nun batı sı.
+3 salon un doğu su ne?	bahçe	1
+1 Koridor mutfak ın batı sı.
+2 Mutfak banyo nun batı sı.
+3 Banyo doğu su ne?	mutfak	2
+1 Bahçe ofis in kuzey i.
+2 Ofis koridor un kuzey i.
+3 ofis in kuzey i ne?	bahçe	1
+1 Ofis koridor un güney i.
+2 Ofis bahçe nin kuzey i.
+3 koridor un güney i ne?	ofis	1
+1 Bahçe ofis in batı sı.
+2 Ofis koridor un batı sı.
+3 ofis in batı sı ne?	bahçe	1
+1 Salon koridor un kuzey i.
+2 Banyo koridor un güney i.
+3 koridor un kuzey i ne?	banyo	2
+1 Banyo bahçe nin doğu su.
+2 Ofis banyo nun doğu su.
+3 Batının banyo su ne?	ofis	2
+1 Banyo mutfak ın kuzey i.
+2 Mutfak koridor un kuzey i.
+3 koridor un güney i ne?	mutfak	2
+1 Bahçe koridor un güney i.
+2 bahçe nin banyo su kuzey de.
+3 koridor un kuzey i ne?	bahçe	1
+1 Bahçe salon un kuzey i.
+2 Bahçe ofis in güney i.
+3 ofis in güney i ne?	bahçe	2
+1 Koridor ofis in güney i.
+2 Koridor salon un kuzey i.
+3 salon un güney i ne?	koridor	2
+1 Ofis salon un kuzey i.
+2 Salon bahçe nin kuzey i.
+3 Bahçe güney i ne?	salon	2
+1 Banyo bahçe nin batı sı.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin doğu su ne?	banyo	1
+1 Koridor ofis in batı sı.
+2 Ofis bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	2
+1 Bahçe ofis in batı sı.
+2 Mutfak bahçe nin batı sı.
+3 ofis in batı sı ne?	bahçe	1
+1 Koridor ofis in güney i.
+2 Banyo koridor un güney i.
+3 koridor un güney i ne?	banyo	2
+1 Banyo koridor un doğu su.
+2 Salon koridor un batı sı.
+3 koridor un batı sı ne?	salon	2
+1 Mutfak banyo nun güney i.
+2 Banyo ofis in güney i.
+3 ofis in kuzey i ne?	banyo	2
+1 Salon bahçe nin batı sı.
+2 Banyo bahçe nin doğu su.
+3 bahçe nin doğu su ne?	salon	1
+1 Ofis bahçe nin doğu su.
+2 Banyo bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Salon mutfak ın kuzey i.
+2 Mutfak koridor un kuzey i.
+3 koridor un güney i ne?	mutfak	2
+1 Salon ofis in doğu su.
+2 Ofis banyo nun doğu su.
+3 Batının banyo su ne?	ofis	2
+1 Ofis banyo nun güney i.
+2 Salon banyo nun kuzey i.
+3 Banyo güney i ne?	salon	2
+1 Ofis banyo nun doğu su.
+2 Bahçe banyo nun batı sı.
+3 banyo nun batı sı ne?	bahçe	2
+1 Mutfak ofis in batı sı.
+2 Salon mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	salon	2
+1 Salon koridor un kuzey i.
+2 Ofis koridor un güney i.
+3 koridor un kuzey i ne?	salon	1
+1 Salon bahçe nin kuzey i.
+2 Koridor salon un kuzey i.
+3 bahçe nin kuzey i ne?	salon	1
+1 Koridor mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 mutfak ın güney i ne?	ofis	2
+1 Bahçe salon un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un batı sı ne?	bahçe	1
+1 Ofis koridor un kuzey i.
+2 Salon koridor un güney i.
+3 koridor un güney i ne?	ofis	1
+1 Banyo koridor un kuzey i.
+2 Koridor salon un kuzey i.
+3 koridor un güney i ne?	banyo	1
+1 Ofis banyo nun batı sı.
+2 Banyo mutfak ın batı sı.
+3 Doğunun mutfak ı ne?	banyo	2
+1 Ofis salon un batı sı.
+2 Ofis koridor un doğu su.
+3 koridor un batı sı ne?	ofis	2
+1 Salon koridor un batı sı.
+2 Bahçe salon un batı sı.
+3 salon un doğu su ne?	bahçe	2
+1 Bahçe salon un güney i.
+2 Bahçe ofis in kuzey i.
+3 salon un kuzey i ne?	bahçe	1
+1 Salon mutfak ın kuzey i.
+2 Banyo mutfak ın güney i.
+3 Mutfak güney i ne?	salon	1
+1 Koridor ofis in kuzey i.
+2 Salon koridor un kuzey i.
+3 koridor un kuzey i ne?	salon	2
+1 Salon bahçe nin güney i.
+2 Mutfak salon un güney i.
+3 salon un kuzey i ne?	mutfak	2
+1 Mutfak bahçe nin güney i.
+2 Koridor bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	mutfak	1
+1 Salon ofis in batı sı.
+2 Bahçe ofis in doğu su.
+3 ofis in doğu su ne?	bahçe	2
+1 Mutfak bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin batı sı ne?	mutfak	1
+1 Mutfak banyo nun batı sı.
+2 Ofis banyo nun doğu su.
+3 Banyo doğu su ne?	mutfak	1
+1 Ofis mutfak ın batı sı.
+2 Ofis koridor un doğu su.
+3 mutfak ın batı sı ne?	ofis	1
+1 Ofis banyo nun kuzey i.
+2 Mutfak banyo nun güney i.
+3 banyo nun kuzey i ne?	ofis	1
+1 Salon ofis in batı sı.
+2 Banyo ofis in doğu su.
+3 ofis in batı sı ne?	salon	1
+1 Bahçe koridor un güney i.
+2 Salon koridor un kuzey i.
+3 koridor un güney i ne?	bahçe	1
+1 Ofis koridor un batı sı.
+2 Mutfak koridor un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Salon bahçe nin batı sı.
+2 Ofis bahçe nin doğu su.
+3 bahçe nin doğu su ne?	salon	1
+1 Bahçe salon un kuzey i.
+2 Ofis salon un güney i.
+3 salon un kuzey i ne?	ofis	2
+1 Koridor bahçe nin güney i.
+2 Bahçe ofis in güney i.
+3 bahçe nin güney i ne?	koridor	1
+1 Koridor salon un güney i.
+2 Banyo salon un kuzey i.
+3 salon un kuzey i ne?	koridor	1
+1 Banyo mutfak ın doğu su.
+2 Bahçe mutfak ın batı sı.
+3 mutfak ın batı sı ne?	bahçe	2
+1 Banyo ofis in güney i.
+2 Ofis mutfak ın güney i.
+3 mutfak ın güney i ne?	ofis	2
+1 Mutfak bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	koridor	2
+1 Mutfak bahçe nin güney i.
+2 Koridor mutfak ın güney i.
+3 bahçe nin kuzey i ne?	mutfak	1
+1 Ofis salon un kuzey i.
+2 Salon banyo nun kuzey i.
+3 Banyo güney i ne?	salon	2
+1 Koridor bahçe nin kuzey i.
+2 Salon koridor un kuzey i.
+3 koridor un kuzey i ne?	salon	2
+1 Mutfak salon un doğu su.
+2 Koridor mutfak ın doğu su.
+3 Batının mutfak ı ne?	koridor	2
+1 Bahçe banyo nun güney i.
+2 Koridor banyo nun kuzey i.
+3 Banyo güney i ne?	koridor	2
+1 Mutfak bahçe nin doğu su.
+2 Banyo mutfak ın doğu su.
+3 Batının mutfak ı ne?	banyo	2
+1 Mutfak ofis in doğu su.
+2 Koridor mutfak ın doğu su.
+3 mutfak ın doğu su ne?	koridor	2
+1 Koridor salon un doğu su.
+2 Mutfak koridor un doğu su.
+3 koridor un batı sı ne?	mutfak	2
+1 Ofis banyo nun kuzey i.
+2 Ofis bahçe nin güney i.
+3 Banyo güney i ne?	ofis	1
+1 Koridor mutfak ın güney i.
+2 Koridor ofis in kuzey i.
+3 Ofis güney i ne?	koridor	2
+1 Mutfak salon un doğu su.
+2 Banyo koridor un batı sı.
+3 koridor un batı sı ne?	mutfak	1
+1 Ofis mutfak ın doğu su.
+2 Mutfak salon un doğu su.
+3 Batının mutfak ı ne?	ofis	1
+1 Koridor bahçe nin batı sı.
+2 Bahçe banyo nun batı sı.
+3 bahçe nin doğu su ne?	koridor	1
+1 Mutfak banyo nun kuzey i.
+2 Mutfak koridor un güney i.
+3 banyo nun kuzey i ne?	mutfak	1
+1 Ofis banyo nun güney i.
+2 Banyo bahçe nin güney i.
+3 Kuzeydeki banyo ne?	ofis	1
+1 Koridor bahçe nin batı sı.
+2 Mutfak bahçe nin doğu su.
+3 bahçe nin doğu su ne?	mutfak	2
+1 Banyo koridor un kuzey i.
+2 Koridor mutfak ın kuzey i.
+3 koridor un kuzey i ne?	banyo	1
+1 Koridor banyo nun kuzey i.
+2 Banyo ofis in kuzey i.
+3 ofis in kuzey i ne?	banyo	2
+1 Salon mutfak ın kuzey i.
+2 Bahçe mutfak ın güney i.
+3 mutfak ın kuzey i ne?	bahçe	2
+1 Salon bahçe nin doğu su.
+2 Bahçe mutfak ın doğu su.
+3 bahçe nin doğu su ne?	salon	1
+1 Bahçe koridor un doğu su.
+2 Banyo bahçe nin doğu su.
+3 bahçe nin doğu su ne?	banyo	2
+1 Bahçe mutfak ın kuzey i.
+2 Salon mutfak ın güney i.
+3 mutfak ın güney i ne?	salon	2
+1 Salon banyo nun güney i.
+2 Mutfak salon un güney i.
+3 banyo nun güney i ne var?	salon	1
+1 Mutfak banyo nun kuzey i.
+2 Banyo bahçe nin kuzey i.
+3 banyo nun kuzey i ne?	mutfak	1
+1 Bahçe salon un kuzey i.
+2 Ofis salon un güney i.
+3 salon un güney i ne?	bahçe	1
+1 Koridor ofis in güney i.
+2 Mutfak ofis in kuzey i.
+3 ofis in kuzey i ne?	koridor	1
+1 Koridor mutfak ın batı sı.
+2 Bahçe mutfak ın doğu su.
+3 Doğunun mutfak ı ne?	koridor	1
+1 Mutfak koridor un batı sı.
+2 Banyo mutfak ın batı sı.
+3 koridor un batı sı ne?	mutfak	1
+1 Koridor salon un kuzey i.
+2 Salon ofis in kuzey i.
+3 salon un güney i ne?	koridor	1
+1 Bahçe koridor un kuzey i.
+2 Ofis koridor un güney i.
+3 koridor un kuzey i ne?	ofis	2
+1 Salon ofis in doğu su.
+2 Banyo ofis in batı sı.
+3 Batı nın batı sı ne?	salon	1
+1 Bahçe mutfak ın doğu su.
+2 Ofis mutfak ın batı sı.
+3 mutfak ın batı sı ne?	ofis	2
+1 Koridor mutfak ın doğu su.
+2 Mutfak ofis in doğu su.
+3 Batının mutfak ı ne?	koridor	1
+1 Ofis bahçe nin batı sı.
+2 Mutfak bahçe nin doğu su.
+3 bahçe nin batı sı ne?	ofis	1
+1 Mutfak ofis in batı sı.
+2 Mutfak banyo nun doğu su.
+3 Batının banyo su ne?	mutfak	2
+1 Banyo koridor un doğu su.
+2 Ofis salon un batı sı.
+3 koridor un batı sı ne?	banyo	1
+1 Salon mutfak ın güney i.
+2 Mutfak bahçe nin güney i.
+3 mutfak ın güney i ne?	salon	1
+1 Bahçe banyo nun güney i.
+2 Mutfak bahçe nin güney i.
+3 bahçe nin güney i ne?	mutfak	2
+1 Banyo salon un kuzey i.
+2 Banyo mutfak ın güney i.
+3 salon un kuzey i ne?	banyo	1
+1 Ofis mutfak ın doğu su.
+2 Koridor mutfak ın batı sı.
+3 mutfak ın batı sı ne?	koridor	2
+1 Bahçe koridor un güney i.
+2 Koridor mutfak ın güney i.
+3 mutfak ın kuzey i ne?	koridor	2
+1 Salon banyo nun doğu su.
+2 Mutfak banyo nun batı sı.
+3 banyo nun batı sı ne?	mutfak	2
+1 Banyo mutfak ın doğu su.
+2 Ofis mutfak ın batı sı.
+3 Batının mutfak ı ne?	banyo	1
+1 Bahçe koridor un doğu su.
+2 Koridor ofis in doğu su.
+3 koridor un doğu su ne?	bahçe	1
+1 Bahçe banyo nun kuzey i.
+2 Mutfak banyo nun güney i.
+3 banyo nun kuzey i ne?	bahçe	1
+1 Koridor bahçe nin kuzey i.
+2 Salon bahçe nin güney i.
+3 bahçe nin güney i ne?	salon	2
+1 Salon ofis in kuzey i.
+2 Salon bahçe nin güney i.
+3 ofis in kuzey i ne?	salon	1
+1 Banyo bahçe nin doğu su.
+2 Koridor bahçe nin batı sı.
+3 bahçe nin doğu su ne?	banyo	1
+1 Salon ofis in doğu su.
+2 Banyo ofis in batı sı.
+3 Batı nın batı sı ne?	salon	1
+1 Salon ofis in batı sı.
+2 Salon mutfak ın doğu su.
+3 mutfak ın doğu su ne?	salon	2
+1 Mutfak bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin doğu su ne?	salon	2
+1 Bahçe ofis in güney i.
+2 Banyo ofis in kuzey i.
+3 ofis in kuzey i ne?	bahçe	1
+1 Mutfak koridor un doğu su.
+2 Koridor bahçe nin doğu su.
+3 koridor un batı sı ne?	mutfak	1
+1 Mutfak banyo nun güney i.
+2 Mutfak ofis in kuzey i.
+3 banyo nun güney i ne var?	mutfak	1
+1 Koridor bahçe nin kuzey i.
+2 Mutfak koridor un kuzey i.
+3 Bahçe güney i ne?	koridor	1
+1 Mutfak salon un kuzey i.
+2 Ofis mutfak ın kuzey i.
+3 Mutfak güney i ne?	ofis	2
+1 Bahçe koridor un batı sı.
+2 Bahçe salon un doğu su.
+3 koridor un batı sı ne?	bahçe	1
+1 Koridor mutfak ın doğu su.
+2 Ofis mutfak ın batı sı.
+3 mutfak ın batı sı ne?	ofis	2
+1 Banyo koridor un doğu su.
+2 Salon koridor un doğu su.
+3 koridor un batı sı ne?	banyo	1
+1 Salon ofis in kuzey i.
+2 Bahçe ofis in güney i.
+3 ofis in kuzey i ne?	bahçe	2
+1 Koridor salon un batı sı.
+2 Ofis salon un doğu su.
+3 salon un batı sı ne?	koridor	1
+1 Salon koridor un kuzey i.
+2 Mutfak koridor un güney i.
+3 koridor un kuzey i ne?	salon	1
+1 Salon koridor un güney i.
+2 Bahçe koridor un kuzey i.
+3 koridor un kuzey i ne?	salon	1
+1 Ofis bahçe nin doğu su.
+2 Salon bahçe nin batı sı.
+3 bahçe nin doğu su ne?	ofis	1
+1 Mutfak koridor un güney i.
+2 Banyo koridor un kuzey i.
+3 koridor un kuzey i ne?	mutfak	1
+1 Mutfak ofis in doğu su.
+2 Koridor ofis in batı sı.
+3 ofis in doğu su ne?	mutfak	1
+1 Koridor bahçe nin güney i.
+2 Mutfak bahçe nin kuzey i.
+3 Bahçe güney i ne?	mutfak	2
+1 Banyo mutfak ın batı sı.
+2 Koridor mutfak ın doğu su.
+3 mutfak ın batı sı ne?	banyo	1
+1 Bahçe mutfak ın kuzey i.
+2 Koridor bahçe nin kuzey i.
+3 Mutfak güney i ne?	bahçe	1
+1 Mutfak ofis in kuzey i.
+2 Bahçe ofis in güney i.
+3 ofis in kuzey i ne?	bahçe	2
+1 Bahçe koridor un güney i.
+2 Koridor mutfak ın güney i.
+3 koridor un güney i ne?	bahçe	1
+1 Ofis mutfak ın güney i.
+2 Banyo mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	banyo	2
+1 Banyo koridor un güney i.
+2 Banyo ofis in kuzey i.
+3 Ofis güney i ne?	banyo	2
+1 Bahçe salon un doğu su.
+2 Banyo bahçe nin doğu su.
+3 koridor un batı sı ne?	bahçe	1
+1 Salon banyo nun kuzey i.
+2 Bahçe banyo nun güney i.
+3 Banyo güney i ne?	salon	1
+1 Koridor banyo nun güney i.
+2 Mutfak banyo nun kuzey i.
+3 banyo nun güney i ne var?	koridor	1
+1 Bahçe salon un güney i.
+2 Salon ofis in güney i.
+3 salon un kuzey i ne?	bahçe	1
+1 Banyo mutfak ın kuzey i.
+2 Ofis mutfak ın güney i.
+3 mutfak ın kuzey i ne?	banyo	1
+1 Salon ofis in güney i.
+2 Ofis koridor un güney i.
+3 koridor un kuzey i ne?	ofis	2
+1 Koridor salon un kuzey i.
+2 Ofis salon un güney i.
+3 salon un güney i ne?	koridor	1
+1 Koridor banyo nun batı sı.
+2 Koridor mutfak ın doğu su.
+3 Batının mutfak ı ne?	koridor	2
+1 Banyo koridor un güney i.
+2 Salon ofis in güney i.
+3 salon un güney i ne?	banyo	1
+1 Salon ofis in doğu su.
+2 Ofis koridor un doğu su.
+3 ofis in doğu su ne?	salon	1
+1 Mutfak salon un batı sı.
+2 Ofis salon un doğu su.
+3 salon un doğu su ne?	mutfak	1
+1 Bahçe banyo nun güney i.
+2 Salon banyo nun kuzey i.
+3 banyo nun güney i ne var?	bahçe	1
+1 Banyo ofis in güney i.
+2 Banyo salon un kuzey i.
+3 salon un güney i ne?	banyo	2
+1 Ofis mutfak ın doğu su.
+2 Banyo mutfak ın batı sı.
+3 Batının mutfak ı ne?	ofis	1
+1 Bahçe mutfak ın batı sı.
+2 Salon mutfak ın doğu su.
+3 mutfak ın batı sı ne?	bahçe	1
+1 Salon banyo nun kuzey i.
+2 Mutfak salon un kuzey i.
+3 banyo nun kuzey i ne?	salon	1
+1 Koridor salon un doğu su.
+2 Koridor mutfak ın batı sı.
+3 mutfak ın batı sı ne?	koridor	2
+1 Banyo ofis in batı sı.
+2 Ofis koridor un batı sı.
+3 ofis in doğu ne?	banyo	1
+1 Koridor ofis in kuzey i.
+2 Mutfak ofis in güney i.
+3 ofis in kuzey i ne?	mutfak	2
+1 Banyo bahçe nin güney i.
+2 Bahçe salon un güney i.
+3 bahçe nin güney i ne?	banyo	1
+1 Mutfak bahçe nin kuzey i.
+2 Koridor bahçe nin güney i.
+3 bahçe nin güney i ne?	koridor	2
+1 Mutfak salon un kuzey i.
+2 Bahçe mutfak ın kuzey i.
+3 mutfak ın kuzey i ne?	bahçe	2
+1 Salon ofis in doğu su.
+2 Koridor ofis in batı sı.
+3 Batı nın batı sı ne?	salon	1
+1 Ofis bahçe nin kuzey i.
+2 bahçe nin banyo su kuzey de.
+3 Bahçe güney i ne?	ofis	1
+1 Koridor ofis in kuzey i.
+2 Koridor salon un güney i.
+3 ofis in kuzey i ne?	koridor	1
+1 Mutfak bahçe nin doğu su.
+2 Mutfak koridor un batı sı.
+3 bahçe nin doğu su ne?	mutfak	1
+1 Koridor salon un batı sı.
+2 Ofis koridor un batı sı.
+3 salon un doğu su ne?	koridor	1
+1 Salon bahçe nin doğu su.
+2 Mutfak salon un doğu su.
+3 bahçe nin batı sı ne?	salon	1
+1 Banyo bahçe nin doğu su.
+2 Koridor banyo nun doğu su.
+3 Batının banyo su ne?	koridor	2
+1 Bahçe ofis in doğu su.
+2 Bahçe koridor un batı sı.
+3 koridor un batı sı ne?	bahçe	2
+1 Salon ofis in doğu su.
+2 Mutfak ofis in batı sı.
+3 ofis in doğu su ne?	salon	1
+1 Salon mutfak ın güney i.
+2 Salon ofis in kuzey i.
+3 mutfak ın güney i ne?	salon	1
+1 Mutfak ofis in kuzey i.
+2 Ofis bahçe nin kuzey i.
+3 Bahçe güney i ne?	ofis	2
+1 Ofis salon un kuzey i.
+2 Mutfak salon un güney i.
+3 salon un kuzey i ne?	ofis	1
+1 Bahçe ofis in batı sı.
+2 Koridor ofis in doğu su.
+3 ofis in doğu su ne?	koridor	2
+1 Ofis mutfak ın kuzey i.
+2 Koridor ofis in kuzey i.
+3 Mutfak güney i ne?	ofis	1
+1 Koridor salon un güney i.
+2 Mutfak salon un kuzey i.
+3 salon un güney i ne?	koridor	1
+1 Banyo koridor un batı sı.
+2 Salon ofis in batı sı.
+3 ofis in batı sı ne?	salon	2
+1 Bahçe koridor un batı sı.
+2 bahçe nin banyo su doğudır.
+3 Koridor doğu su ne?	bahçe	1
+1 Mutfak salon un batı sı.
+2 Banyo koridor un doğu su.
+3 salon un doğu su ne?	banyo	2
+1 Bahçe koridor un batı sı.
+2 Mutfak bahçe nin batı sı.
+3 bahçe nin batı sı ne?	mutfak	2
+1 Salon banyo nun batı sı.
+2 Koridor salon un batı sı.
+3 salon un batı sı ne?	koridor	2
+1 Ofis mutfak ın doğu su.
+2 Koridor ofis in doğu su.
+3 Batının mutfak ı ne?	ofis	1
+1 Mutfak salon un güney i.
+2 Ofis salon un kuzey i.
+3 salon un kuzey i ne?	mutfak	1
+1 Mutfak bahçe nin kuzey i.
+2 Mutfak ofis in güney i.
+3 ofis in kuzey i ne?	mutfak	2
+1 Salon banyo nun kuzey i.
+2 Salon mutfak ın güney i.
+3 banyo nun kuzey i ne?	salon	1
+1 Mutfak ofis in güney i.
+2 Ofis bahçe nin güney i.
+3 ofis in kuzey i ne?	mutfak	1
+1 Bahçe ofis in kuzey i.
+2 Mutfak ofis in güney i.
+3 ofis in kuzey i ne?	mutfak	2
+1 Banyo salon un kuzey i.
+2 Ofis banyo nun kuzey i.
+3 banyo nun kuzey i ne?	ofis	2
+1 Ofis koridor un doğu su.
+2 Koridor mutfak ın doğu su.
+3 Batının mutfak ı ne?	koridor	2
+1 Banyo mutfak ın güney i.
+2 Koridor mutfak ın kuzey i.
+3 Mutfak güney i ne?	koridor	2
+1 Banyo koridor un güney i.
+2 Banyo ofis in kuzey i.
+3 salon un kuzey i ne?	banyo	1
+1 Salon ofis in batı sı.
+2 Salon banyo nun doğu su.
+3 ofis in batı sı ne?	salon	1
+1 Mutfak salon un kuzey i.
+2 Ofis mutfak ın kuzey i.
+3 Mutfak güney i ne?	ofis	2
+1 Salon banyo nun batı sı.
+2 Ofis salon un batı sı.
+3 salon un batı sı ne?	ofis	2
+1 Banyo koridor un güney i.
+2 Mutfak koridor un kuzey i.
+3 koridor un güney i ne?	banyo	1
+1 Koridor mutfak ın batı sı.
+2 Ofis mutfak ın doğu su.
+3 mutfak ın doğu su ne?	ofis	2
+1 Koridor mutfak ın güney i.
+2 Bahçe mutfak ın kuzey i.
+3 mutfak ın güney i ne?	koridor	1
+1 Ofis salon un doğu su.
+2 Salon mutfak ın doğu su.
+3 koridor un batı sı ne?	ofis	1
+1 Bahçe banyo nun doğu su.
+2 Banyo koridor un doğu su.
+3 koridor un batı sı ne?	banyo	2
+1 Ofis salon un batı sı.
+2 Ofis koridor un doğu su.
+3 koridor un doğu su ne?	ofis	2
+1 Banyo mutfak ın batı sı.
+2 Koridor banyo nun batı sı.
+3 Doğunun mutfak ı ne?	banyo	1
+1 Bahçe salon un güney i.
+2 Mutfak salon un kuzey i.
+3 salon un güney i ne?	mutfak	2
+1 Banyo bahçe nin batı sı.
+2 Salon bahçe nin doğu su.
+3 bahçe nin doğu su ne?	salon	2
+1 Banyo koridor un güney i.
+2 Koridor salon un kuzey i.
+3 salon un kuzey i ne?	koridor	2
+1 Salon banyo nun batı sı.
+2 Banyo koridor un batı sı.
+3 banyo nun batı sı ne?	salon	1
+1 Ofis koridor un kuzey i.
+2 Banyo koridor un güney i.
+3 koridor un güney i ne?	banyo	2
+1 Bahçe mutfak ın doğu su.
+2 Banyo bahçe nin doğu su.
+3 Batının mutfak ı ne?	bahçe	1
+1 Bahçe mutfak ın doğu su.
+2 Salon mutfak ın batı sı.
+3 Batının mutfak ı ne?	bahçe	1
+1 Salon mutfak ın batı sı.
+2 Mutfak banyo nun batı sı.
+3 Doğunun mutfak ı ne?	salon	1
+1 Bahçe salon un güney i.
+2 Banyo salon un kuzey i.
+3 salon un güney i ne?	bahçe	1
+1 Salon mutfak ın güney i.
+2 Banyo mutfak ın kuzey i.
+3 mutfak ın güney i ne?	salon	1
+1 Bahçe ofis in doğu su.
+2 Salon bahçe nin doğu su.
+3 ofis in doğu su ne?	bahçe	1
+1 Bahçe banyo nun doğu su.
+2 Ofis bahçe nin doğu su.
+3 banyo nun doğu su ne?	bahçe	1
+1 Ofis salon un güney i.
+2 Salon banyo nun güney i.
+3 salon un kuzey i ne?	ofis	1
+1 Banyo ofis in doğu su.
+2 Salon ofis in batı sı.
+3 Batı nın batı sı ne?	banyo	1
+1 Ofis mutfak ın doğu su.
+2 Ofis koridor un batı sı.
+3 Koridor doğu su ne?	ofis	2
+1 Banyo koridor un doğu su.
+2 Banyo koridor un batı sı.
+3 Koridor doğu su ne?	banyo	2
+1 Bahçe banyo nun doğu su.
+2 Ofis bahçe nin doğu su.
+3 Batının banyo su ne?	bahçe	1
+1 Salon banyo nun doğu su.
+2 Mutfak banyo nun batı sı.
+3 Banyo doğu su ne?	mutfak	2
+1 Ofis banyo nun güney i.
+2 Mutfak banyo nun kuzey i.
+3 banyo nun kuzey i ne?	mutfak	2
+1 Koridor ofis in güney i.
+2 Bahçe koridor un güney i.
+3 ofis in güney i ne?	koridor	1
+1 Banyo bahçe nin güney i.
+2 Salon bahçe nin kuzey i.
+3 bahçe nin kuzey i ne?	salon	2
+1 Salon bahçe nin batı sı.
+2 Mutfak salon un batı sı.
+3 salon un batı sı ne?	mutfak	2
+1 Ofis mutfak ın kuzey i.
+2 Mutfak salon un kuzey i.
+3 mutfak ın kuzey i ne?	ofis	1
+1 Ofis salon un güney i.
+2 Banyo salon un kuzey i.
+3 salon un güney i ne?	ofis	1
+1 Ofis banyo nun güney i.
+2 Ofis salon un kuzey i.
+3 salon un güney i ne?	ofis	2
+1 Bahçe salon un batı sı.
+2 Koridor salon un doğu su.
+3 koridor un batı sı ne?	koridor	2
+1 Banyo ofis in doğu su.
+2 Banyo koridor un batı sı.
+3 ofis in doğu su ne?	banyo	1
+1 Koridor mutfak ın batı sı.
+2 Koridor ofis in doğu su.
+3 Batı nın batı sı ne?	koridor	2
+1 Koridor ofis in güney i.
+2 Koridor bahçe nin kuzey i.
+3 ofis in kuzey i ne?	koridor	1
+1 Bahçe banyo nun kuzey i.
+2 Bahçe mutfak ın güney i.
+3 mutfak ın güney i ne?	bahçe	2
+1 Banyo koridor un batı sı.
+2 Banyo mutfak ın doğu su.
+3 salon un doğu su ne?	banyo	1
+1 Koridor mutfak ın batı sı.
+2 Mutfak banyo nun batı sı.
+3 mutfak ın batı sı ne?	koridor	1
+1 Koridor banyo nun kuzey i.
+2 Mutfak banyo nun güney i.
+3 Banyo güney i ne?	koridor	1
+1 Salon banyo nun doğu su.
+2 Ofis banyo nun batı sı.
+3 banyo nun doğu su ne?	salon	1
+1 Bahçe salon un kuzey i.
+2 Salon mutfak ın kuzey i.
+3 salon un güney i ne?	bahçe	1
+1 Mutfak salon un doğu su.
+2 Ofis mutfak ın doğu su.
+3 koridor un batı sı ne?	mutfak	1
+1 Banyo ofis in doğu su.
+2 Koridor ofis in batı sı.
+3 ofis in batı sı ne?	koridor	2
+1 Mutfak koridor un kuzey i.
+2 Koridor ofis in kuzey i.
+3 Ofis güney i ne?	koridor	2
+1 Koridor salon un kuzey i.
+2 Salon banyo nun kuzey i.
+3 salon un kuzey i ne?	koridor	1
+1 Koridor bahçe nin kuzey i.
+2 Koridor banyo nun güney i.
+3 banyo nun güney i ne var?	koridor	2
+1 Mutfak salon un kuzey i.
+2 Salon bahçe nin kuzey i.
+3 Bahçe güney i ne?	salon	2

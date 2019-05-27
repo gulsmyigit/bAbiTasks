@@ -1,0 +1,3000 @@
+1 Fred parkta veya okulda.
+2 Mary ofise geri döndü.
+3 Mary ofiste mi? 	evet	2
+4 Bill parkta veya mutfakta.
+5 Fred sinemaya gitti.
+6 Fred parkta mı? 	hayır	5
+7 Fred ofiste.
+8 Bill sinemaya gitti.
+9 Bill sinemada mı? 	evet	8
+10 Bill parkta.
+11 Bill mutfakta veya ofiste.
+12 Bill ofiste mi? 	belki	11
+13 Bill parkta veya sinemada.
+14 Mary parkta.	hayır	2
+15 Bill parkta mı? 	belki	13
+1 Mary mutfağa gitti.
+2 Fred okulda.
+3 Mary okulda mı? 	hayır	1
+4 Fred ofise geri döndü.
+5 Julie parkta veya ofiste.
+6 Mary sinemada mı? 	hayır	1
+7 Fred okulda veya salonda.
+8 Julie salona gitti.
+9 Fred okulda mı? 	belki	7
+10 Fred mutfağa gitti.
+11 Fred sinemaya gitti.
+12 Fred sinemada mı? 	evet	11
+13 Bill sinemada.
+14 Bill salona gitti.
+15 Bill salonda mı? 	evet	14
+1 Mary mutfakta veya salonda.
+2 Mary ofise gitti.
+3 Mary mutfakta mı? 	hayır	2
+4 Julie salonda.
+5 Julie ofise gitti.
+6 Julie mutfakta mı? 	hayır	5
+7 Julie parkta.
+8 Julie parkta.	evet	7
+9 Julie parkta mı? 	evet	7
+10 Bill mutfağa geri döndü.
+11 Bill parka gitti.
+12 Julie parkta mı? 	evet	7
+13 Julie okula gitti.
+14 Fred ofise gitti.
+15 Bill salonda mı? 	hayır	11
+1 Bill sinemada.
+2 Bill parkta.
+3 Bill okulda mı? 	hayır	2
+4 Julie parkta veya mutfakta.
+5 Julie salonda.
+6 Bill parkta mı? 	evet	2
+7 Bill ofise geri döndü.
+8 Fred mutfakta veya mutfakta.
+9 Julie okulda mı? 	hayır	5
+10 Bill parkta veya mutfakta.
+11 Bill ofise gitti.
+12 Bill ofiste mi? 	evet	11
+13 Julie okulda.
+14 Julie mutfakta veya okulda.
+15 Bill okulda mı? 	hayır	11
+1 Mary mutfağa gitti.
+2 Mary ofiste.
+3 Mary parkta mı? 	hayır	2
+4 Fred sinemada veya salonda.
+5 Bill ofise gitti.
+6 Mary mutfakta mı? 	hayır	2
+7 Bill mutfakta veya sinemada.
+8 Bill okulda veya okulda.
+9 Bill sinemada mı? 	hayır	8
+10 Bill parka gitti.
+11 Fred okulda.
+12 Bill parkta mı? 	evet	10
+13 Mary salonda.
+14 Mary mutfağa gitti.
+15 Bill parkta mı? 	evet	10
+1 Julie parkta veya ofiste.
+2 Fred mutfakta veya sinemada.
+3 Julie parkta mı? 	belki	1
+4 Mary okulda.
+5 Fred sinemaya gitti.
+6 Julie okulda mı? 	hayır	1
+7 Fred parkta veya parkta.
+8 Fred salona gitti.
+9 Fred salonda mı? 	evet	8
+10 Fred ofise gitti.
+11 Fred parka gitti.
+12 Fred sinemada mı? 	hayır	11
+13 Bill okula geri döndü.
+14 Bill parka gitti.
+15 Fred okulda mı? 	hayır	11
+1 Fred parka gitti.
+2 Bill okula gitti.
+3 Fred okulda mı? 	hayır	1
+4 Bill sinemadayım.
+5 Mary parkta veya sinemada.
+6 Bill mutfakta mı? 	hayır	4
+7 Fred mutfakta.
+8 Fred ofise gitti.
+9 Bill sinemada mı? 	evet	4
+10 Fred mutfakta veya ofiste.
+11 Bill ofiste.
+12 Bill salonda mı? 	hayır	11
+13 Fred okulda.
+14 Mary ofise gitti.
+15 Bill ofiste mi? 	evet	11
+1 Julie mutfağa gitti.
+2 Julie okula gitti.
+3 Julie okulda mı? 	evet	2
+4 Julie mutfakta veya ofiste.
+5 Julie parka gitti.
+6 Julie mutfakta mı? 	hayır	5
+7 Mary ofiste.
+8 Julie mutfağa gitti.
+9 Julie mutfakta mı? 	evet	8
+10 Julie sinemada veya salonda.
+11 Bill ofiste veya ofiste.
+12 Bill salonda mı? 	hayır	11
+13 Fred okulda veya okulda.
+14 Bill mutfağa gitti.
+15 Julie salonda mı? 	belki	10
+1 Bill ofiste veya salonda.
+2 Julie sinemada.
+3 Julie salonda mı? 	hayır	2
+4 Bill okula gitti.
+5 Mary salona gitti.
+6 Mary salonda mı? 	evet	5
+7 Julie parkta veya sinemada.
+8 Mary sinemada.
+9 Mary sinemada mı? 	evet	8
+10 Bill sinemaya gitti.
+11 Fred mutfakta.
+12 Julie parkta mı? 	belki	7
+13 Mary mutfağa gitti.
+14 Bill ofise gitti.
+15 Mary mutfakta mı? 	evet	13
+1 Julie mutfağa gitti.
+2 Fred mutfağa gitti.
+3 Fred sinemada mı? 	hayır	2
+4 Fred okula geri döndü.
+5 Julie sinemaya gitti.
+6 Fred parkta mı? 	hayır	4
+7 Mary ofiste.
+8 Mary sinemada.
+9 Mary okulda mı? 	hayır	8
+10 Fred mutfağa gitti.
+11 Bill parkta veya sinemada.
+12 Fred sinemada mı? 	hayır	10
+13 Fred ofise gitti.
+14 Mary okula gitti.
+15 Mary ofiste mi? 	hayır	14
+1 Julie mutfağa gitti.
+2 Bill okulda veya ofiste.
+3 Bill ofiste mi? 	belki	2
+4 Bill salona geri döndü.
+5 Bill mutfağa gitti.
+6 Bill mutfakta mı? 	evet	5
+7 Fred ofiste.
+8 Fred okula gitti.
+9 Bill parkta mı? 	hayır	5
+10 Mary mutfakta.
+11 Julie ofise gitti.
+12 Bill parkta mı? 	hayır	5
+13 Mary okulda veya sinemada.	hayır	10
+14 Mary okulda veya salonda.
+15 Mary salonda mı? 	belki	14
+1 Fred parkta veya okulda.
+2 Bill ofiste.
+3 Bill ofiste mi? 	evet	2
+4 Fred ofiste veya salonda.
+5 Bill salona gitti.
+6 Bill salonda mı? 	evet	5
+7 Bill okula gitti.
+8 Fred okula geri döndü.
+9 Bill sinemada mı? 	hayır	7
+10 Fred sinemada.
+11 Fred ofise gitti.
+12 Bill okulda mı? 	evet	7
+13 Mary okulda veya salonda.
+14 Julie okulda veya salonda.
+15 Julie okulda mı? 	belki	14
+1 Julie okulda.
+2 Fred mutfakta veya salonda.
+3 Fred ofiste mi? 	hayır	2
+4 Mary okulda veya ofiste.
+5 Bill parkta veya ofiste.
+6 Fred salonda mı? 	belki	2
+7 Julie sinemaya gitti.
+8 Mary sinemada.
+9 Bill parkta mı? 	belki	5
+10 Julie salonda.
+11 Mary mutfağa gitti.
+12 Julie sinemada mı? 	hayır	10
+13 Julie ofiste.
+14 Julie okulda.
+15 Mary sinemada mı? 	hayır	11
+1 Julie sinemada.
+2 Fred salonda.
+3 Julie parkta mı? 	hayır	1
+4 Julie salona gitti.
+5 Bill ofiste veya okulda.
+6 Bill ofiste mi? 	belki	5
+7 Mary okulda veya okulda.
+8 Mary salona gitti.
+9 Fred salonda mı? 	evet	2
+10 Bill parkta.	hayır	5
+11 Julie parkta veya ofiste.
+12 Julie ofiste mi? 	belki	11
+13 Bill ofise gitti.
+14 Julie salonda.
+15 Bill ofiste mi? 	evet	13
+1 Mary parkta veya okulda.
+2 Julie ofiste.
+3 Julie salonda mı? 	hayır	2
+4 Fred sinemaya geri döndü.
+5 Bill ofiste veya okulda.
+6 Bill ofiste mi? 	belki	5
+7 Bill sinemada.
+8 Mary ofiste.
+9 Fred okulda mı? 	hayır	4
+10 Fred parkta.	hayır	4
+11 Julie mutfağa gitti.
+12 Mary ofiste mi? 	evet	8
+13 Bill ofiste.
+14 Bill sinemada.
+15 Fred sinemada mı?	hayır	4
+1 Bill parkta veya parkta.
+2 Mary ofise gitti.
+3 Mary ofiste mi? 	evet	2
+4 Fred mutfakta.
+5 Fred parkta.
+6 Fred parkta mı? 	evet	5
+7 Fred mutfakta veya sinemada.
+8 Bill salonda.
+9 Fred ofiste mi? 	hayır	7
+10 Mary parkta.
+11 Julie parkta gitti.
+12 Fred okulda mı? 	hayır	7
+13 Julie salonda.
+14 Bill parkta.
+15 Julie parkta mı? 	hayır	13
+1 Fred ofise gitti.
+2 Julie parkta veya mutfakta.
+3 Julie mutfakta mı? 	belki	2
+4 Mary ofiste veya salonda.
+5 Bill okula gitti.
+6 Fred salonda mı? 	hayır	1
+7 Julie parkta gitti.
+8 Bill parkta gitti.
+9 Julie parkta mı? 	evet	7
+10 Bill mutfağa gitti.
+11 Mary mutfağa gitti.
+12 Mary salonda mı? 	hayır	11
+13 Bill parkta.
+14 Julie mutfakta.
+15 Julie ofiste mi? 	hayır	14
+1 Bill salona geri döndü.
+2 Bill mutfakta veya okulda.
+3 Bill okulda mı? 	belki	2
+4 Mary mutfağa gitti.
+5 Bill parkta.
+6 Bill parkta mı? 	evet	5
+7 Bill ofiste.
+8 Julie parkta.
+9 Bill okulda mı? 	hayır	7
+10 Julie mutfağa gitti.
+11 Fred salonda.
+12 Bill sinemada mı? 	hayır	7
+13 Mary ofiste veya sinemada.
+14 Julie parkta.
+15 Julie ofiste mi? 	hayır	14
+1 Bill okula geri döndü.
+2 Fred mutfakta veya sinemada.
+3 Bill parkta mı? 	hayır	1
+4 Bill sinemada veya salonda.
+5 Bill mutfağa gitti.
+6 Bill salonda mı? 	hayır	5
+7 Julie sinemaya gitti.
+8 Julie salona geri döndü.
+9 Julie salonda mı? 	evet	8
+10 Mary mutfağa gitti.
+11 Julie parka gitti.
+12 Julie parkta mı? 	evet	11
+13 Bill ofise gitti.
+14 Fred salona gitti.
+15 Mary mutfakta mı? 	evet	10
+1 Julie parkta.
+2 Mary mutfağa gitti.
+3 Mary mutfakta mı? 	evet	2
+4 Julie salonda veya okulda.
+5 Fred salona gitti.
+6 Julie salonda mı? 	belki	4
+7 Julie okulda veya ofiste.
+8 Fred parkta veya okulda.
+9 Mary ofiste mi? 	hayır	2
+10 Mary salona geri döndü.
+11 Mary mutfağa geri döndü.
+12 Julie salonda mı? 	hayır	7
+13 Fred ofise gitti.
+14 Bill parkta veya salonda.
+15 Mary okulda mı? 	hayır	11
+1 Fred parkta.
+2 Fred mutfağa gitti.
+3 Fred ofiste mi? 	hayır	2
+4 Mary okula gitti.
+5 Fred parka geri döndü.
+6 Fred parkta mı? 	evet	5
+7 Julie ofiste.
+8 Fred sinemada.
+9 Fred sinemada mı? 	evet	8
+10 Mary mutfağa geri döndü.
+11 Bill mutfakta veya ofiste.
+12 Fred sinemada mı? 	evet	8
+13 Julie okulda.
+14 Fred salona gitti.
+15 Julie ofiste mi? 	hayır	13
+1 Julie ofiste.
+2 Julie parka gitti.
+3 Julie parkta mı? 	evet	2
+4 Mary salona gitti.
+5 Bill ofise gitti.
+6 Mary okulda mı? 	hayır	4
+7 Fred parkta gitti.
+8 Bill okula geri döndü.
+9 Mary salonda mı? 	evet	4
+10 Mary ofise gitti.
+11 Julie sinemadayım.
+12 Fred mutfakta mı? 	hayır	7
+13 Bill parkta gitti.
+14 Mary mutfağa gitti.
+15 Bill parkta mı? 	evet	13
+1 Fred sinemadayım.
+2 Fred ofise gitti.
+3 Fred ofiste mi? 	evet	2
+4 Mary mutfakta veya sinemada.
+5 Mary ofise geri döndü.
+6 Mary ofiste mi? 	evet	5
+7 Bill parkta.
+8 Fred parkta.
+9 Bill ofiste mi? 	hayır	7
+10 Julie ofise geri döndü.
+11 Julie sinemada.
+12 Fred ofiste mi? 	hayır	8
+13 Julie salonda.
+14 Fred ofise gitti.
+15 Julie salonda mı? 	evet	13
+1 Mary okula gitti.
+2 Mary ofise gitti.
+3 Mary ofiste mi? 	evet	2
+4 Bill salona gitti.
+5 Fred sinemada veya ofiste.
+6 Mary ofiste mi? 	evet	2
+7 Mary parka geri döndü.
+8 Mary mutfakta veya ofiste.
+9 Mary mutfakta mı? 	belki	8
+10 Julie ofise gitti.
+11 Julie parkta.
+12 Julie mutfakta mı? 	hayır	11
+13 Mary salonda veya okulda.
+14 Fred parkta gitti.
+15 Fred parkta mı? 	evet	14
+1 Julie okulda.
+2 Mary salona gitti.
+3 Julie salonda mı? 	hayır	1
+4 Fred parkta.
+5 Bill sinemada.
+6 Fred okulda mı? 	hayır	4
+7 Mary parka geri döndü.
+8 Fred mutfağa gitti.
+9 Fred ofiste mi? 	hayır	8
+10 Mary sinemada.
+11 Bill salona gitti.
+12 Bill salonda mı? 	evet	11
+13 Fred salona gitti.
+14 Julie salona geri döndü.
+15 Fred salonda mı? 	evet	13
+1 Julie mutfağa gitti.
+2 Mary salonda.
+3 Julie mutfakta mı? 	evet	1
+4 Mary ofise gitti.
+5 Mary sinemaya gitti.
+6 Mary sinemada mı? 	evet	5
+7 Bill okula gitti.
+8 Bill parkta gitti.
+9 Mary salonda mı? 	hayır	5
+10 Julie salona gitti.
+11 Mary ofise gitti.
+12 Bill parkta mı? 	evet	8
+13 Julie okulda.
+14 Julie salonda veya parkta.
+15 Julie salonda mı? 	belki	14
+1 Fred sinemaya gitti.
+2 Bill mutfakta.
+3 Bill mutfakta mı? 	evet	2
+4 Mary mutfakta veya sinemada.
+5 Fred parkta.
+6 Fred mutfakta mı? 	hayır	5
+7 Julie salona gitti.
+8 Mary ofiste.
+9 Bill sinemada mı? 	hayır	2
+10 Fred mutfakta veya okulda.
+11 Mary parka geri döndü.
+12 Mary parkta mı? 	evet	11
+13 Bill ofiste.
+14 Julie ofiste.
+15 Bill ofiste mi? 	evet	13
+1 Mary okula gitti.
+2 Mary parkta.
+3 Mary parkta mı? 	evet	2
+4 Mary okulda.
+5 Mary sinemaya gitti.
+6 Mary sinemada mı? 	evet	5
+7 Mary parka gitti.
+8 Fred salona gitti.
+9 Mary mutfakta mı? 	hayır	7
+10 Bill mutfakta veya sinemada.
+11 Mary salonda.
+12 Bill ofiste mi? 	hayır	10
+13 Fred parka gitti.
+14 Julie sinemaya gitti.
+15 Bill sinemada mı? 	belki	10
+1 Julie mutfağa gitti.
+2 Bill parkta veya parkta.
+3 Julie mutfakta mı? 	evet	1
+4 Mary salona gitti.
+5 Mary parkta gitti.
+6 Julie mutfakta mı? 	evet	1
+7 Julie sinemadayım.
+8 Bill salona gitti.
+9 Mary ofiste mi? 	hayır	5
+10 Bill sinemadayım.
+11 Bill mutfağa gitti.
+12 Julie okulda mı? 	hayır	7
+13 Mary ofise geri döndü.
+14 Julie parkta.
+15 Mary okulda mı? 	hayır	13
+1 Julie mutfakta veya mutfakta.
+2 Bill ofiste.
+3 Bill ofiste mi? 	evet	2
+4 Mary sinemaya gitti.
+5 Julie okulda.
+6 Julie salonda mı? 	hayır	5
+7 Fred mutfağa gitti.
+8 Mary mutfakta.
+9 Fred salonda mı? 	hayır	7
+10 Fred salona gitti.
+11 Fred parka gitti.
+12 Mary mutfakta mı? 	evet	8
+13 Bill salona gitti.
+14 Mary parka geri döndü.
+15 Fred parkta mı? 	evet	11
+1 Fred salona gitti.
+2 Mary salona geri döndü.
+3 Fred sinemada mı? 	hayır	1
+4 Mary sinemada.
+5 Julie ofiste.
+6 Mary sinemada mı? 	evet	4
+7 Fred okula geri döndü.
+8 Bill okula geri döndü.
+9 Bill mutfakta mı? 	hayır	8
+10 Mary ofise gitti.
+11 Fred parka geri döndü.
+12 Fred okulda mı? 	hayır	11
+13 Fred sinemada.
+14 Mary parkta.
+15 Mary ofiste mi? 	hayır	14
+1 Bill parkta veya okulda.
+2 Julie salonda veya salonda.
+3 Julie sinemada mı? 	hayır	2
+4 Julie okula gitti.
+5 Mary ofise gitti.
+6 Mary sinemada mı? 	hayır	5
+7 Julie parkta veya sinemada.
+8 Mary okula gitti.
+9 Mary okulda mı? 	evet	8
+10 Bill ofiste.
+11 Julie okulda veya okulda.
+12 Mary okulda mı? 	evet	8
+13 Bill parkta gitti.
+14 Bill ofiste.
+15 Bill ofiste mi? 	evet	14
+1 Fred sinemada.
+2 Julie parkta veya parkta.
+3 Fred mutfakta mı? 	hayır	1
+4 Fred parka geri döndü.
+5 Bill sinemaya gitti.
+6 Fred salonda mı? 	hayır	4
+7 Bill okulda.
+8 Julie mutfakta veya salonda.
+9 Julie sinemada mı? 	hayır	8
+10 Bill mutfağa gitti.
+11 Julie parkta veya parkta.
+12 Bill okulda mı? 	hayır	10
+13 Mary mutfakta.
+14 Bill salona gitti.
+15 Mary mutfakta mı? 	evet	13
+1 Bill sinemada.
+2 Fred sinemada veya okulda.
+3 Fred sinemada mı? 	belki	2
+4 Julie okula gitti.
+5 Bill parka geri döndü.
+6 Bill parkta mı? 	evet	5
+7 Fred mutfağa gitti.
+8 Mary okula gitti.
+9 Fred salonda mı? 	hayır	7
+10 Julie parkta veya parkta.
+11 Fred parkta veya ofiste.
+12 Mary salonda mı? 	hayır	8
+13 Julie okulda.
+14 Mary salona gitti.
+15 Julie mutfakta mı? 	hayır	13
+1 Fred sinemada veya okulda.
+2 Julie salonda veya salonda.
+3 Julie ofiste mi? 	hayır	2
+4 Fred parkta veya parkta.
+5 Julie parka geri döndü.
+6 Fred okulda mı? 	hayır	4
+7 Mary okulda veya sinemada.
+8 Bill parkta veya salonda.
+9 Bill sinemada mı? 	hayır	8
+10 Fred salonda.
+11 Julie mutfağa geri döndü.
+12 Bill ofiste mi? 	hayır	8
+13 Fred ofiste veya ofiste.
+14 Bill salona gitti.
+15 Fred ofiste mi? 	belki	13
+1 Bill okula gitti.
+2 Julie sinemadayım.
+3 Bill okulda mı? 	evet	1
+4 Fred salona gitti.
+5 Fred ofiste veya ofiste.
+6 Bill okulda mı? 	evet	1
+7 Julie ofiste.
+8 Fred mutfağa geri döndü.
+9 Fred mutfakta mı? 	evet	8
+10 Mary salona gitti.
+11 Julie okula gitti.
+12 Mary salonda mı? 	evet	10
+13 Mary parkta.
+14 Fred mutfakta veya sinemada.
+15 Fred sinemada mı? 	belki	14
+1 Julie salona geri döndü.
+2 Julie mutfağa gitti.
+3 Julie mutfakta mı? 	evet	2
+4 Bill ofise gitti.
+5 Mary okulda.
+6 Julie mutfakta mı? 	evet	2
+7 Julie okulda veya ofiste.
+8 Julie mutfağa gitti.
+9 Julie mutfakta mı? 	evet	8
+10 Fred parkta veya mutfakta.
+11 Fred salona gitti.
+12 Julie okulda mı? 	hayır	8
+13 Julie ofiste veya sinemada.
+14 Fred mutfağa geri döndü.
+15 Julie ofiste mi? 	belki	13
+1 Julie ofiste veya salonda.
+2 Mary parkta.
+3 Mary salonda mı? 	hayır	2
+4 Mary salonda.
+5 Mary parkta veya mutfakta.
+6 Mary mutfakta mı? 	belki	5
+7 Mary parkta.
+8 Bill sinemada.
+9 Mary parkta mı? 	evet	7
+10 Mary ofise geri döndü.
+11 Fred parkta.
+12 Bill sinemada mı? 	evet	8
+13 Fred okulda veya sinemada.
+14 Bill parkta.
+15 Mary ofiste mi? 	evet	10
+1 Julie okulda.
+2 Bill parka gitti.
+3 Julie okulda mı? 	evet	1
+4 Mary okula gitti.
+5 Fred ofise gitti.
+6 Mary ofiste mi? 	hayır	4
+7 Fred sinemaya geri döndü.
+8 Julie salona gitti.
+9 Julie salonda mı? 	evet	8
+10 Bill sinemada.
+11 Julie mutfakta veya mutfakta.
+12 Fred sinemada mı? 	evet	7
+13 Mary sinemada.
+14 Fred parka gitti.
+15 Fred parkta mı? 	evet	14
+1 Mary sinemada veya sinemada.
+2 Bill mutfakta.
+3 Mary ofiste mi? 	hayır	1
+4 Fred parka geri döndü.
+5 Bill sinemaya gitti.
+6 Bill sinemada mı? 	evet	5
+7 Fred mutfakta veya mutfakta.
+8 Bill okulda.
+9 Bill okulda mı? 	evet	8
+10 Julie sinemada.
+11 Bill mutfağa geri döndü.
+12 Julie sinemada mı? 	evet	10
+13 Mary parka gitti.
+14 Fred parkta veya ofiste.
+15 Mary parkta mı? 	evet	13
+1 Julie parkta.
+2 Fred parka gitti.
+3 Julie mutfakta mı? 	hayır	1
+4 Mary mutfağa gitti.
+5 Mary okula gitti.
+6 Fred parkta mı? 	evet	2
+7 Bill salonda veya parkta.
+8 Fred mutfağa gitti.
+9 Mary salonda mı? 	hayır	5
+10 Julie sinemaya gitti.
+11 Fred parkta veya sinemada.
+12 Fred okulda mı? 	hayır	11
+13 Fred mutfağa gitti.
+14 Mary parka gitti.
+15 Fred salonda mı? 	hayır	13
+1 Mary okula gitti.
+2 Fred mutfakta veya mutfakta.
+3 Mary okulda mı? 	evet	1
+4 Fred salonda veya sinemada.
+5 Mary ofiste veya okulda.
+6 Mary ofiste mi? 	belki	5
+7 Julie mutfakta.
+8 Mary parkta.
+9 Julie ofiste mi? 	hayır	7
+10 Fred salonda veya salonda.
+11 Bill mutfağa geri döndü.
+12 Julie mutfakta mı? 	evet	7
+13 Fred parka geri döndü.
+14 Julie sinemada.
+15 Mary parkta mı? 	evet	8
+1 Mary ofise geri döndü.
+2 Julie okulda veya ofiste.
+3 Julie mutfakta mı? 	hayır	2
+4 Mary sinemaya gitti.
+5 Julie okulda veya mutfakta.
+6 Mary mutfakta mı? 	hayır	4
+7 Julie ofise gitti.
+8 Mary parkta.
+9 Julie ofiste mi? 	evet	7
+10 Bill parkta veya okulda.
+11 Julie mutfakta.
+12 Mary parkta mı? 	evet	8
+13 Julie okula gitti.
+14 Fred salona gitti.
+15 Julie okulda mı? 	evet	13
+1 Julie ofiste.
+2 Bill ofiste.
+3 Julie ofiste mi? 	evet	1
+4 Mary ofiste.
+5 Mary sinemaya gitti.
+6 Julie ofiste mi? 	evet	1
+7 Fred salonda.
+8 Mary mutfağa gitti.
+9 Fred sinemada mı? 	hayır	7
+10 Julie sinemada.
+11 Fred mutfakta veya ofiste.
+12 Fred parkta mı? 	hayır	11
+13 Julie salonda veya sinemada.
+14 Bill okulda.
+15 Bill ofiste mi? 	hayır	14
+1 Mary ofise gitti.
+2 Mary mutfakta veya sinemada.
+3 Mary mutfakta mı? 	belki	2
+4 Fred salona gitti.
+5 Fred parkta veya mutfakta.
+6 Fred parkta mı? 	belki	5
+7 Fred ofiste veya sinemada.
+8 Mary ofiste.
+9 Mary okulda mı? 	hayır	8
+10 Mary salonda.
+11 Fred mutfağa gitti.
+12 Mary salonda mı? 	evet	10
+13 Fred okulda.
+14 Mary parkta.
+15 Mary parkta mı? 	evet	14
+1 Julie parkta.
+2 Fred sinemada.
+3 Fred sinemada mı? 	evet	2
+4 Bill mutfağa gitti.
+5 Fred ofise geri döndü.
+6 Bill ofiste mi? 	hayır	4
+7 Mary salonda.
+8 Bill parkta.
+9 Bill okulda mı? 	hayır	8
+10 Bill ofise gitti.
+11 Mary parka gitti.
+12 Fred parkta mı? 	hayır	5
+13 Mary sinemaya gitti.
+14 Mary mutfağa geri döndü.
+15 Mary mutfakta mı? 	evet	14
+1 Mary sinemada veya okulda.
+2 Mary salona gitti.
+3 Mary salonda mı? 	evet	2
+4 Julie ofiste veya sinemada.
+5 Bill salona gitti.
+6 Julie ofiste mi? 	belki	4
+7 Mary sinemada veya sinemada.
+8 Fred ofiste.
+9 Julie ofiste mi? 	belki	4
+10 Bill ofiste.
+11 Bill parkta veya sinemada.
+12 Mary mutfakta mı? 	hayır	7
+13 Fred mutfakta.
+14 Mary salonda.
+15 Mary salonda mı? 	evet	14
+1 Mary salonda veya okulda.
+2 Julie parkta.
+3 Julie parkta mı? 	evet	2
+4 Mary okula gitti.
+5 Julie sinemaya gitti.
+6 Mary salonda mı? 	hayır	4
+7 Mary sinemaya gitti.
+8 Fred mutfakta.
+9 Fred mutfakta mı? 	evet	8
+10 Bill ofise gitti.
+11 Fred sinemaya gitti.
+12 Fred sinemada mı? 	evet	11
+13 Julie mutfağa gitti.
+14 Bill salonda.
+15 Bill ofiste mi? 	hayır	14
+1 Fred salonda.
+2 Julie mutfakta.
+3 Fred okulda mı? 	hayır	1
+4 Mary sinemadayım.
+5 Mary salona gitti.
+6 Mary sinemada mı? 	hayır	5
+7 Bill ofise gitti.
+8 Mary okula gitti.
+9 Mary okulda mı? 	evet	8
+10 Julie ofiste veya salonda.
+11 Mary ofise gitti.
+12 Mary ofiste mi? 	evet	11
+13 Julie mutfağa gitti.
+14 Fred sinemada.
+15 Fred okulda mı? 	hayır	14
+1 Fred salonda.
+2 Mary okulda.
+3 Fred salonda mı? 	evet	1
+4 Bill ofise gitti.
+5 Bill sinemaya geri döndü.
+6 Fred okulda mı? 	hayır	1
+7 Mary ofiste.
+8 Fred ofiste veya okulda.
+9 Mary salonda mı? 	hayır	7
+10 Fred salona gitti.
+11 Fred okula geri döndü.
+12 Bill mutfakta mı? 	hayır	5
+13 Fred parkta veya parkta.
+14 Fred ofise gitti.
+15 Fred ofiste mi? 	evet	14
+1 Fred okula geri döndü.
+2 Bill salonda.
+3 Fred okulda mı? 	evet	1
+4 Bill parkta veya okulda.
+5 Julie mutfakta veya okulda.
+6 Bill parkta mı? 	belki	4
+7 Bill salonda.
+8 Fred salona geri döndü.
+9 Bill mutfakta mı? 	hayır	7
+10 Bill parkta.
+11 Julie ofiste.
+12 Julie ofiste mi? 	evet	11
+13 Fred ofiste veya salonda.
+14 Fred parkta.
+15 Bill parkta mı? 	evet	10
+1 Julie salonda veya okulda.
+2 Fred mutfağa gitti.
+3 Fred mutfakta mı? 	evet	2
+4 Julie okulda veya mutfakta.
+5 Fred salona gitti.
+6 Fred salonda mı? 	evet	5
+7 Fred okula gitti.
+8 Bill sinemaya geri döndü.
+9 Fred okulda mı? 	evet	7
+10 Mary sinemada veya sinemada.
+11 Bill salonda.
+12 Fred salonda mı? 	hayır	7
+13 Bill mutfakta veya okulda.
+14 Bill ofise geri döndü.
+15 Bill ofiste mi? 	evet	14
+1 Mary salona gitti.
+2 Julie okula gitti.
+3 Julie okulda mı? 	evet	2
+4 Julie salona geri döndü.
+5 Fred parkta gitti.
+6 Mary salonda mı? 	evet	1
+7 Julie mutfakta.
+8 Bill salona gitti.
+9 Fred okulda mı? 	hayır	5
+10 Bill ofise gitti.
+11 Bill sinemaya gitti.
+12 Bill sinemada mı? 	evet	11
+13 Bill mutfakta veya mutfakta.
+14 Fred mutfağa gitti.
+15 Bill mutfakta mı? 	belki	13
+1 Bill salonda veya salonda.
+2 Mary parkta veya parkta.
+3 Bill sinemada mı? 	hayır	1
+4 Julie salonda veya sinemada.
+5 Bill okula geri döndü.
+6 Julie ofiste mi? 	hayır	4
+7 Julie salonda veya mutfakta.
+8 Bill salona gitti.
+9 Bill salonda mı? 	evet	8
+10 Bill parkta veya sinemada.
+11 Julie mutfakta veya ofiste.
+12 Julie ofiste mi? 	belki	11
+13 Fred salonda.
+14 Fred mutfağa gitti.
+15 Julie sinemada mı? 	hayır	11
+1 Mary okulda.
+2 Julie sinemaya gitti.
+3 Julie sinemada mı? 	evet	2
+4 Bill sinemaya geri döndü.
+5 Mary ofise gitti.
+6 Mary sinemada mı? 	hayır	5
+7 Julie ofiste veya ofiste.
+8 Fred sinemada.
+9 Fred sinemada mı? 	evet	8
+10 Julie salonda veya parkta.
+11 Mary salona gitti.
+12 Mary ofiste mi? 	hayır	11
+13 Julie mutfağa gitti.
+14 Fred ofiste.
+15 Fred ofiste mi? 	evet	14
+1 Fred okula geri döndü.
+2 Julie okula gitti.
+3 Julie okulda mı? 	evet	2
+4 Julie mutfağa gitti.
+5 Fred mutfağa geri döndü.
+6 Julie sinemada mı? 	hayır	4
+7 Bill okulda.
+8 Fred salonda.
+9 Fred salonda mı? 	evet	8
+10 Mary salona gitti.
+11 Bill salona geri döndü.
+12 Mary sinemada mı? 	hayır	10
+13 Mary sinemada.
+14 Fred ofiste.
+15 Fred ofiste mi? 	evet	14
+1 Julie salonda.
+2 Julie sinemaya geri döndü.
+3 Julie sinemada mı? 	evet	2
+4 Mary parkta gitti.
+5 Bill okula gitti.
+6 Julie ofiste mi? 	hayır	2
+7 Bill mutfakta veya okulda.
+8 Fred okulda.
+9 Julie mutfakta mı? 	hayır	2
+10 Julie mutfağa gitti.
+11 Fred ofiste.
+12 Bill mutfakta mı? 	belki	7
+13 Julie salonda veya parkta.
+14 Fred mutfakta.
+15 Fred parkta mı? 	hayır	14
+1 Julie mutfağa geri döndü.
+2 Bill okulda.
+3 Bill sinemada mı? 	hayır	2
+4 Fred mutfakta veya sinemada.
+5 Mary mutfağa gitti.
+6 Julie ofiste mi? 	hayır	1
+7 Mary parkta veya sinemada.
+8 Julie salona gitti.
+9 Mary parkta mı? 	belki	7
+10 Fred parkta veya ofiste.
+11 Fred sinemada veya okulda.
+12 Fred sinemada mı? 	belki	11
+13 Bill ofise gitti.
+14 Fred mutfağa gitti.
+15 Bill parkta mı? 	hayır	13
+1 Bill mutfağa geri döndü.
+2 Mary okula gitti.
+3 Mary okulda mı? 	evet	2
+4 Bill salonda.
+5 Mary mutfağa gitti.
+6 Mary mutfakta mı? 	evet	5
+7 Fred parkta.
+8 Mary okulda veya salonda.
+9 Fred parkta mı? 	evet	7
+10 Mary okula gitti.
+11 Julie mutfağa gitti.
+12 Mary okulda mı? 	evet	10
+13 Julie sinemada.
+14 Mary mutfakta veya sinemada.
+15 Mary sinemada mı? 	belki	14
+1 Bill sinemada veya salonda.
+2 Bill mutfakta.
+3 Bill mutfakta mı? 	evet	2
+4 Fred salonda.
+5 Mary ofise geri döndü.
+6 Bill sinemada mı? 	hayır	2
+7 Fred okulda veya ofiste.
+8 Julie ofise gitti.
+9 Bill okulda mı? 	hayır	2
+10 Bill ofise geri döndü.
+11 Julie salonda veya parkta.
+12 Bill parkta mı? 	hayır	10
+13 Mary parkta veya parkta.
+14 Mary sinemaya gitti.
+15 Julie salonda mı? 	belki	11
+1 Julie ofiste veya okulda.
+2 Julie mutfağa gitti.
+3 Julie mutfakta mı? 	evet	2
+4 Fred sinemada veya okulda.
+5 Julie salona geri döndü.
+6 Julie salonda mı? 	evet	5
+7 Julie sinemaya gitti.
+8 Mary ofiste veya salonda.
+9 Julie okulda mı? 	hayır	7
+10 Bill sinemadayım.
+11 Julie parkta.
+12 Julie parkta mı? 	evet	11
+13 Julie ofiste.
+14 Julie salona gitti.
+15 Julie salonda mı? 	evet	14
+1 Mary okulda veya sinemada.
+2 Julie okula gitti.
+3 Julie okulda mı? 	evet	2
+4 Fred sinemada.
+5 Mary ofiste.
+6 Fred mutfakta mı? 	hayır	4
+7 Mary sinemaya gitti.
+8 Mary mutfağa gitti.
+9 Mary okulda mı? 	hayır	8
+10 Julie mutfağa gitti.
+11 Bill salona gitti.
+12 Mary okulda mı? 	hayır	8
+13 Bill mutfakta.
+14 Fred okula gitti.
+15 Bill parkta mı? 	hayır	13
+1 Julie ofise gitti.
+2 Mary ofiste.
+3 Mary mutfakta mı? 	hayır	2
+4 Julie sinemada.
+5 Mary okula gitti.
+6 Mary ofiste mi? 	hayır	5
+7 Fred okula geri döndü.
+8 Fred parkta.
+9 Julie salonda mı? 	hayır	4
+10 Julie parkta veya ofiste.
+11 Mary sinemada veya salonda.
+12 Mary sinemada mı? 	belki	11
+13 Fred ofise gitti.
+14 Julie parkta.
+15 Fred ofiste mi? 	evet	13
+1 Fred salonda veya parkta.
+2 Mary parkta.
+3 Mary mutfakta mı? 	hayır	2
+4 Bill okulda veya okulda.
+5 Julie sinemada.
+6 Mary parkta mı? 	evet	2
+7 Bill ofise gitti.
+8 Fred okula gitti.
+9 Bill sinemada mı? 	hayır	7
+10 Mary salona gitti.
+11 Fred ofiste veya okulda.
+12 Fred ofiste mi? 	belki	11
+13 Fred salonda.
+14 Mary sinemada veya salonda.
+15 Fred ofiste mi? 	hayır	13
+1 Julie okulda veya mutfakta.
+2 Julie ofiste.
+3 Julie ofiste mi? 	evet	2
+4 Julie salona geri döndü.
+5 Mary salona gitti.
+6 Julie sinemada mı? 	hayır	4
+7 Fred sinemaya gitti.
+8 Fred parkta.
+9 Julie salonda mı? 	evet	4
+10 Mary sinemaya gitti.
+11 Mary salonda.
+12 Mary salonda mı? 	evet	11
+13 Fred salona gitti.
+14 Bill sinemada.
+15 Bill sinemada mı? 	evet	14
+1 Julie mutfağa gitti.
+2 Mary parka gitti.
+3 Mary salonda mı? 	hayır	2
+4 Bill mutfakta veya salonda.
+5 Julie ofise gitti.
+6 Bill sinemada mı? 	hayır	4
+7 Mary okulda.
+8 Julie mutfakta.
+9 Mary ofiste mi? 	hayır	7
+10 Fred sinemada veya sinemada.
+11 Julie sinemaya gitti.
+12 Julie sinemada mı? 	evet	11
+13 Julie ofiste.
+14 Fred okula geri döndü.
+15 Fred okulda mı? 	evet	14
+1 Fred ofise gitti.
+2 Bill ofise gitti.
+3 Fred salonda mı? 	hayır	1
+4 Fred mutfakta.
+5 Julie parka gitti.
+6 Fred sinemada mı? 	hayır	4
+7 Fred salonda.
+8 Fred ofise gitti.
+9 Fred ofiste mi? 	evet	8
+10 Bill salona geri döndü.
+11 Bill mutfakta veya sinemada.
+12 Julie parkta mı? 	evet	5
+13 Mary parka geri döndü.
+14 Julie sinemaya gitti.
+15 Julie sinemada mı? 	evet	14
+1 Julie salona geri döndü.
+2 Bill mutfakta veya ofiste.
+3 Bill parkta mı? 	hayır	2
+4 Mary mutfakta veya okulda.
+5 Mary ofise gitti.
+6 Mary mutfakta mı? 	hayır	5
+7 Fred parkta veya sinemada.
+8 Fred salona gitti.
+9 Fred salonda mı? 	evet	8
+10 Bill salona gitti.
+11 Mary parkta veya mutfakta.
+12 Mary ofiste mi? 	hayır	11
+13 Mary okulda.
+14 Fred mutfakta.
+15 Fred okulda mı? 	hayır	14
+1 Bill ofise geri döndü.
+2 Bill sinemada.
+3 Bill sinemada mı? 	evet	2
+4 Fred mutfakta veya salonda.
+5 Fred okula gitti.
+6 Bill okulda mı? 	hayır	2
+7 Bill mutfağa gitti.
+8 Mary ofiste veya okulda.
+9 Bill mutfakta mı? 	evet	7
+10 Mary mutfağa gitti.
+11 Mary parka gitti.
+12 Bill parkta mı? 	hayır	7
+13 Fred ofiste veya salonda.
+14 Julie salonda.
+15 Julie salonda mı? 	evet	14
+1 Fred okulda veya okulda.
+2 Julie salona gitti.
+3 Julie sinemada mı? 	hayır	2
+4 Bill okulda.
+5 Julie ofiste.
+6 Fred okulda mı? 	belki	1
+7 Fred sinemada veya salonda.
+8 Julie salonda veya salonda.
+9 Fred sinemada mı? 	belki	7
+10 Mary okula geri döndü.
+11 Bill parka gitti.
+12 Fred sinemada mı? 	belki	7
+13 Fred mutfakta veya okulda.
+14 Julie ofiste.
+15 Bill salonda mı? 	hayır	11
+1 Julie mutfakta.
+2 Bill sinemada veya sinemada.
+3 Julie mutfakta mı? 	evet	1
+4 Mary mutfağa gitti.
+5 Bill mutfağa gitti.
+6 Bill okulda mı? 	hayır	5
+7 Mary ofise gitti.
+8 Mary parkta.
+9 Mary parkta mı? 	evet	8
+10 Bill salona gitti.
+11 Fred mutfağa gitti.
+12 Bill sinemada mı? 	hayır	10
+13 Fred parkta gitti.
+14 Fred salonda veya sinemada.
+15 Fred salonda mı? 	belki	14
+1 Fred parkta.
+2 Mary parkta veya ofiste.
+3 Fred parkta mı? 	evet	1
+4 Bill parkta veya parkta.
+5 Mary mutfağa gitti.
+6 Mary mutfakta mı? 	evet	5
+7 Julie mutfakta.
+8 Julie parkta.
+9 Mary parkta mı? 	hayır	5
+10 Mary okula geri döndü.
+11 Bill sinemada veya sinemada.
+12 Julie sinemada mı? 	hayır	8
+13 Mary salonda.
+14 Bill parka gitti.
+15 Bill sinemada mı? 	hayır	14
+1 Mary parkta.
+2 Bill ofise gitti.
+3 Bill parkta mı? 	hayır	2
+4 Fred sinemaya gitti.
+5 Julie parkta.
+6 Mary salonda mı? 	hayır	1
+7 Julie sinemada veya okulda.
+8 Fred ofise gitti.
+9 Julie parkta mı? 	hayır	7
+10 Fred salonda veya okulda.
+11 Bill parkta gitti.
+12 Bill mutfakta mı? 	hayır	11
+13 Fred ofiste veya okulda.
+14 Julie salonda.
+15 Fred ofiste mi? 	belki	13
+1 Mary okula gitti.
+2 Fred parka gitti.
+3 Fred parkta mı? 	evet	2
+4 Julie okulda veya ofiste.
+5 Julie okulda veya salonda.
+6 Fred salonda mı? 	hayır	2
+7 Bill sinemadayım.
+8 Mary salonda veya sinemada.
+9 Fred ofiste mi? 	hayır	2
+10 Bill mutfakta.
+11 Fred sinemaya gitti.
+12 Bill salonda mı? 	hayır	10
+13 Mary parka gitti.
+14 Fred ofiste veya salonda.
+15 Fred ofiste mi? 	belki	14
+1 Mary ofise gitti.
+2 Mary sinemada veya okulda.
+3 Mary salonda mı? 	hayır	2
+4 Bill ofise gitti.
+5 Fred ofise geri döndü.
+6 Mary salonda mı? 	hayır	2
+7 Fred mutfağa geri döndü.
+8 Julie mutfakta.
+9 Bill okulda mı? 	hayır	4
+10 Julie okulda.
+11 Bill salona gitti.
+12 Fred parkta mı? 	hayır	7
+13 Mary mutfakta.
+14 Mary okula gitti.
+15 Bill parkta mı? 	hayır	11
+1 Bill ofiste veya sinemada.
+2 Mary parka gitti.
+3 Bill ofiste mi? 	belki	1
+4 Julie sinemada.
+5 Mary sinemaya geri döndü.
+6 Julie sinemada mı? 	evet	4
+7 Bill okulda.
+8 Mary okulda veya ofiste.
+9 Mary ofiste mi? 	belki	8
+10 Mary sinemadayım.
+11 Fred parka gitti.
+12 Fred mutfakta mı? 	hayır	11
+13 Bill mutfakta veya ofiste.
+14 Fred okulda.
+15 Fred okulda mı? 	evet	14
+1 Mary mutfakta veya sinemada.
+2 Fred okulda.
+3 Fred sinemada mı? 	hayır	2
+4 Bill salona gitti.
+5 Bill mutfakta.
+6 Fred okulda mı? 	evet	2
+7 Julie parkta veya okulda.
+8 Mary sinemaya gitti.
+9 Mary sinemada mı? 	evet	8
+10 Julie okulda veya okulda.
+11 Julie ofiste veya ofiste.
+12 Mary salonda mı? 	hayır	8
+13 Bill ofiste.
+14 Julie mutfağa gitti.
+15 Julie parkta mı? 	hayır	14
+1 Bill salona gitti.
+2 Julie ofise gitti.
+3 Julie sinemada mı? 	hayır	2
+4 Bill ofise geri döndü.
+5 Julie mutfağa geri döndü.
+6 Julie mutfakta mı? 	evet	5
+7 Fred parkta.
+8 Fred sinemaya geri döndü.
+9 Fred sinemada mı? 	evet	8
+10 Fred ofiste.
+11 Mary mutfakta.
+12 Fred sinemada mı? 	hayır	10
+13 Mary ofise gitti.
+14 Julie salona geri döndü.
+15 Fred parkta mı? 	hayır	10
+1 Bill mutfakta veya okulda.
+2 Mary ofiste.
+3 Bill mutfakta mı? 	belki	1
+4 Bill salona gitti.
+5 Julie salonda veya sinemada.
+6 Bill salonda mı? 	evet	4
+7 Julie okula gitti.
+8 Mary okulda veya salonda.
+9 Julie okulda mı? 	evet	7
+10 Mary ofise geri döndü.
+11 Bill parkta.
+12 Mary ofiste mi? 	evet	10
+13 Fred sinemaya gitti.
+14 Mary parkta gitti.
+15 Mary parkta mı? 	evet	14
+1 Mary sinemaya gitti.
+2 Bill okula gitti.
+3 Bill okulda mı? 	evet	2
+4 Fred mutfağa gitti.
+5 Mary ofise gitti.
+6 Mary ofiste mi? 	evet	5
+7 Mary sinemada veya salonda.
+8 Fred mutfakta veya okulda.
+9 Mary ofiste mi? 	hayır	7
+10 Fred sinemada.
+11 Fred salona geri döndü.
+12 Fred salonda mı? 	evet	11
+13 Julie mutfakta veya mutfakta.
+14 Bill mutfağa gitti.
+15 Fred salonda mı? 	evet	11
+1 Mary okula gitti.
+2 Mary parka gitti.
+3 Mary mutfakta mı? 	hayır	2
+4 Julie ofise gitti.
+5 Fred parkta.
+6 Julie ofiste mi? 	evet	4
+7 Fred okula gitti.
+8 Fred ofise gitti.
+9 Mary parkta mı? 	evet	2
+10 Fred parkta veya okulda.
+11 Mary okulda veya mutfakta.
+12 Fred parkta mı? 	belki	10
+13 Mary mutfağa gitti.
+14 Julie okula gitti.
+15 Mary okulda mı? 	hayır	13
+1 Mary parkta veya okulda.
+2 Bill sinemada veya sinemada.
+3 Bill okulda mı? 	hayır	2
+4 Mary ofise gitti.
+5 Bill parkta.
+6 Mary ofiste mi? 	evet	4
+7 Fred parkta veya okulda.
+8 Julie ofise geri döndü.
+9 Fred okulda mı? 	belki	7
+10 Fred ofiste veya ofiste.
+11 Bill mutfağa geri döndü.
+12 Fred ofiste mi? 	belki	10
+13 Julie salonda.
+14 Julie ofise gitti.
+15 Julie ofiste mi? 	evet	14
+1 Fred okulda veya ofiste.
+2 Mary okulda veya mutfakta.
+3 Fred ofiste mi? 	belki	1
+4 Bill parkta.
+5 Julie parka gitti.
+6 Mary sinemada mı? 	hayır	2
+7 Bill sinemada veya okulda.
+8 Julie mutfakta.
+9 Bill sinemada mı? 	belki	7
+10 Fred mutfağa gitti.
+11 Julie salona gitti.
+12 Fred salonda mı? 	hayır	10
+13 Mary parkta.
+14 Bill salona gitti.
+15 Mary salonda mı? 	hayır	13
+1 Julie parkta.
+2 Fred okula gitti.
+3 Julie parkta mı? 	evet	1
+4 Julie mutfakta.
+5 Mary okula gitti.
+6 Fred okulda mı? 	evet	2
+7 Mary ofiste.
+8 Mary salonda.
+9 Julie mutfakta mı? 	evet	4
+10 Mary sinemada.
+11 Bill ofise geri döndü.
+12 Mary ofiste mi? 	hayır	10
+13 Julie okulda veya okulda.
+14 Mary parka gitti.
+15 Bill okulda mı? 	hayır	11
+1 Julie ofise gitti.
+2 Julie sinemada.
+3 Julie sinemada mı? 	evet	2
+4 Julie mutfağa gitti.
+5 Mary parkta.
+6 Julie mutfakta mı? 	evet	4
+7 Mary okulda veya okulda.
+8 Bill sinemaya gitti.
+9 Julie mutfakta mı? 	evet	4
+10 Julie parkta gitti.
+11 Julie sinemada.
+12 Julie sinemada mı? 	evet	11
+13 Fred mutfağa gitti.
+14 Fred okula gitti.
+15 Julie sinemada mı? 	evet	11
+1 Fred okula geri döndü.
+2 Fred okulda veya ofiste.
+3 Fred ofiste mi? 	belki	2
+4 Bill ofise gitti.
+5 Mary sinemada.
+6 Bill sinemada mı? 	hayır	4
+7 Mary parkta.
+8 Mary salona gitti.
+9 Mary ofiste mi? 	hayır	8
+10 Fred salona geri döndü.
+11 Mary sinemada.
+12 Mary parkta mı? 	hayır	11
+13 Mary okula geri döndü.
+14 Julie parkta veya sinemada.
+15 Julie sinemada mı? 	belki	14
+1 Mary sinemaya gitti.
+2 Fred sinemada.
+3 Mary sinemada mı? 	evet	1
+4 Mary okula gitti.
+5 Bill salonda.
+6 Bill salonda mı? 	evet	5
+7 Mary ofiste veya ofiste.
+8 Fred okulda veya ofiste.
+9 Mary okulda mı? 	hayır	7
+10 Julie mutfağa gitti.
+11 Fred okula gitti.
+12 Mary ofiste mi? 	belki	7
+13 Julie salona gitti.
+14 Fred mutfakta.
+15 Fred mutfakta mı? 	evet	14
+1 Bill parkta gitti.
+2 Julie okula geri döndü.
+3 Bill parkta mı? 	evet	1
+4 Julie mutfağa gitti.
+5 Julie okulda veya ofiste.
+6 Julie ofiste mi? 	belki	5
+7 Fred parkta veya sinemada.
+8 Bill ofiste veya okulda.
+9 Julie sinemada mı? 	hayır	5
+10 Bill mutfakta veya okulda.
+11 Bill parka gitti.
+12 Bill parkta mı? 	evet	11
+13 Julie parka gitti.
+14 Mary parkta veya sinemada.
+15 Julie mutfakta mı? 	hayır	13
+1 Fred sinemaya gitti.
+2 Fred mutfakta veya ofiste.
+3 Fred mutfakta mı? 	belki	2
+4 Fred okulda veya salonda.
+5 Julie sinemada.
+6 Fred okulda mı? 	belki	4
+7 Julie mutfakta.
+8 Julie salona gitti.
+9 Fred okulda mı? 	belki	4
+10 Mary parkta.
+11 Mary salonda veya okulda.
+12 Julie salonda mı? 	evet	8
+13 Julie parkta veya okulda.
+14 Bill okulda.
+15 Bill okulda mı? 	evet	14
+1 Julie salona gitti.
+2 Julie sinemada veya sinemada.
+3 Julie mutfakta mı? 	hayır	2
+4 Fred mutfağa gitti.
+5 Julie parka gitti.
+6 Julie okulda mı? 	hayır	5
+7 Julie mutfakta.
+8 Bill salonda.
+9 Fred mutfakta mı? 	evet	4
+10 Julie salona geri döndü.
+11 Julie parkta.
+12 Julie parkta mı? 	evet	11
+13 Fred salonda veya mutfakta.
+14 Mary mutfakta veya mutfakta.
+15 Mary ofiste mi? 	hayır	14
+1 Bill okula gitti.
+2 Fred ofise gitti.
+3 Bill sinemada mı? 	hayır	1
+4 Mary okula gitti.
+5 Fred sinemada.
+6 Mary sinemada mı? 	hayır	4
+7 Mary ofise gitti.
+8 Fred parkta veya okulda.
+9 Fred parkta mı? 	belki	8
+10 Fred salona gitti.
+11 Julie parkta.
+12 Fred salonda mı? 	evet	10
+13 Julie sinemada veya sinemada.
+14 Mary salona gitti.
+15 Fred sinemada mı? 	hayır	10
+1 Bill ofise gitti.
+2 Julie mutfağa gitti.
+3 Julie salonda mı? 	hayır	2
+4 Mary okula geri döndü.
+5 Julie sinemaya geri döndü.
+6 Mary okulda mı? 	evet	4
+7 Fred sinemada.
+8 Julie mutfakta.
+9 Fred parkta mı? 	hayır	7
+10 Bill sinemada.
+11 Julie salona gitti.
+12 Fred sinemada mı? 	evet	7
+13 Mary mutfağa gitti.
+14 Mary ofise gitti.
+15 Julie okulda mı? 	hayır	11
+1 Julie ofiste.
+2 Fred salonda.
+3 Fred salonda mı? 	evet	2
+4 Mary okulda veya sinemada.
+5 Fred ofiste.
+6 Fred salonda mı? 	hayır	5
+7 Julie parka gitti.
+8 Mary salona gitti.
+9 Fred salonda mı? 	hayır	5
+10 Bill salona gitti.
+11 Fred sinemaya geri döndü.
+12 Fred mutfakta mı? 	hayır	11
+13 Mary mutfakta.
+14 Mary salona gitti.
+15 Bill salonda mı? 	evet	10
+1 Bill salonda.
+2 Fred okula geri döndü.
+3 Fred okulda mı? 	evet	2
+4 Julie salonda.
+5 Bill sinemaya gitti.
+6 Julie sinemada mı? 	hayır	4
+7 Mary salonda.
+8 Mary okula gitti.
+9 Fred okulda mı? 	evet	2
+10 Mary parkta.
+11 Fred parka gitti.
+12 Mary parkta mı? 	evet	10
+13 Fred sinemada.
+14 Mary okula gitti.
+15 Mary okulda mı? 	evet	14
+1 Julie parkta veya okulda.
+2 Mary sinemaya gitti.
+3 Mary sinemada mı? 	evet	2
+4 Bill sinemada.
+5 Bill mutfağa geri döndü.
+6 Bill mutfakta mı? 	evet	5
+7 Mary ofiste.
+8 Mary parkta veya okulda.
+9 Bill sinemada mı? 	hayır	5
+10 Bill okulda.
+11 Julie salona gitti.
+12 Bill sinemada mı? 	hayır	10
+13 Julie mutfakta veya okulda.
+14 Julie ofise gitti.
+15 Julie ofiste mi? 	evet	14
+1 Fred parkta.
+2 Bill mutfakta.
+3 Fred parkta mı? 	evet	1
+4 Mary sinemaya gitti.
+5 Bill sinemadayım.
+6 Bill parkta mı? 	hayır	5
+7 Fred mutfakta.
+8 Mary okula gitti.
+9 Mary sinemada mı? 	hayır	8
+10 Bill parka gitti.
+11 Fred sinemada.
+12 Fred parkta mı? 	hayır	11
+13 Fred parka gitti.
+14 Mary sinemada.
+15 Mary salonda mı? 	hayır	14
+1 Fred salonda.
+2 Mary sinemada.
+3 Fred salonda mı? 	evet	1
+4 Julie mutfağa gitti.
+5 Bill parkta veya ofiste.
+6 Fred mutfakta mı? 	hayır	1
+7 Julie ofise gitti.
+8 Bill okula gitti.
+9 Julie okulda mı? 	hayır	7
+10 Julie salona gitti.
+11 Fred sinemaya gitti.
+12 Julie sinemada mı? 	hayır	10
+13 Mary salona gitti.
+14 Bill sinemaya gitti.
+15 Bill sinemada mı? 	evet	14
+1 Julie mutfağa gitti.
+2 Julie ofise gitti.
+3 Julie ofiste mi? 	evet	2
+4 Mary salonda.
+5 Bill parkta.
+6 Julie okulda mı? 	hayır	2
+7 Mary parka gitti.
+8 Bill salona gitti.
+9 Mary parkta mı? 	evet	7
+10 Bill mutfakta veya sinemada.
+11 Bill mutfakta.
+12 Bill mutfakta mı? 	evet	11
+13 Julie parka gitti.
+14 Mary okula gitti.
+15 Bill mutfakta mı? 	evet	11
+1 Julie salona gitti.
+2 Fred mutfakta.
+3 Fred okulda mı? 	hayır	2
+4 Fred parkta gitti.
+5 Mary mutfağa gitti.
+6 Julie salonda mı? 	evet	1
+7 Mary ofise geri döndü.
+8 Bill mutfakta.
+9 Mary salonda mı? 	hayır	7
+10 Bill okulda veya okulda.
+11 Fred mutfakta.
+12 Mary parkta mı? 	hayır	7
+13 Mary salonda.
+14 Julie okula gitti.
+15 Mary sinemada mı? 	hayır	13
+1 Julie sinemada.
+2 Bill mutfağa gitti.
+3 Julie okulda mı? 	hayır	1
+4 Julie okulda.
+5 Mary ofise geri döndü.
+6 Mary ofiste mi? 	evet	5
+7 Fred parka geri döndü.
+8 Bill okula gitti.
+9 Bill okulda mı? 	evet	8
+10 Fred sinemaya gitti.
+11 Mary mutfağa gitti.
+12 Bill salonda mı? 	hayır	8
+13 Julie mutfakta veya sinemada.
+14 Bill salona gitti.
+15 Julie mutfakta mı? 	belki	13
+1 Fred okula gitti.
+2 Bill parkta.
+3 Bill parkta mı? 	evet	2
+4 Mary mutfağa gitti.
+5 Fred salonda.
+6 Fred sinemada mı? 	hayır	5
+7 Julie okula gitti.
+8 Fred sinemada.
+9 Mary parkta mı? 	hayır	4
+10 Bill sinemaya geri döndü.
+11 Julie sinemadayım.
+12 Bill salonda mı? 	hayır	10
+13 Mary parka gitti.
+14 Julie okula gitti.
+15 Mary sinemada mı? 	hayır	13
+1 Bill okula gitti.
+2 Mary mutfakta veya sinemada.
+3 Bill okulda mı? 	evet	1
+4 Julie okulda.
+5 Fred ofiste veya sinemada.
+6 Julie okulda mı? 	evet	4
+7 Bill mutfağa geri döndü.
+8 Mary okula gitti.
+9 Fred ofiste mi? 	belki	5
+10 Bill parkta.
+11 Mary salonda veya parkta.
+12 Mary salonda mı? 	belki	11
+13 Mary salona gitti.
+14 Julie ofiste.
+15 Julie mutfakta mı? 	hayır	14
+1 Julie ofise gitti.
+2 Fred mutfakta veya sinemada.
+3 Julie ofiste mi? 	evet	1
+4 Bill sinemada.
+5 Fred okulda.
+6 Fred ofiste mi? 	hayır	5
+7 Julie mutfağa gitti.
+8 Fred parkta.
+9 Bill parkta mı? 	hayır	4
+10 Bill parkta.
+11 Julie okula gitti.
+12 Julie okulda mı? 	evet	11
+13 Bill okulda.
+14 Mary okulda veya ofiste.
+15 Fred parkta mı? 	evet	8
+1 Julie okula gitti.
+2 Julie ofiste veya salonda.
+3 Julie mutfakta mı? 	hayır	2
+4 Fred mutfağa gitti.
+5 Bill sinemada.
+6 Julie ofiste mi? 	belki	2
+7 Julie salonda.
+8 Mary salonda veya parkta.
+9 Julie salonda mı? 	evet	7
+10 Mary parkta.
+11 Bill salona gitti.
+12 Julie salonda mı? 	evet	7
+13 Julie mutfakta veya okulda.
+14 Julie ofiste veya sinemada.
+15 Bill mutfakta mı? 	hayır	11
+1 Bill salonda veya mutfakta.
+2 Julie okulda veya okulda.
+3 Julie sinemada mı? 	hayır	2
+4 Bill salona gitti.
+5 Julie ofiste.
+6 Julie ofiste mi? 	evet	5
+7 Julie parkta veya mutfakta.
+8 Bill okulda.
+9 Bill ofiste mi? 	hayır	8
+10 Mary ofiste.
+11 Mary salona geri döndü.
+12 Bill parkta mı? 	hayır	8
+13 Julie ofiste veya okulda.
+14 Bill salona gitti.
+15 Bill ofiste mi? 	hayır	14
+1 Fred ofise gitti.
+2 Julie sinemada.
+3 Fred okulda mı? 	hayır	1
+4 Bill parka gitti.
+5 Julie parkta veya mutfakta.
+6 Fred sinemada mı? 	hayır	1
+7 Julie sinemada veya ofiste.
+8 Fred parka geri döndü.
+9 Julie sinemada mı? 	belki	7
+10 Mary parka gitti.
+11 Fred ofise gitti.
+12 Fred ofiste mi? 	evet	11
+13 Julie okula gitti.
+14 Fred mutfağa geri döndü.
+15 Fred ofiste mi? 	hayır	14
+1 Julie ofise gitti.
+2 Fred ofiste.
+3 Fred sinemada mı? 	hayır	2
+4 Julie okulda.
+5 Fred parka gitti.
+6 Julie okulda mı? 	evet	4
+7 Bill sinemadayım.
+8 Julie mutfağa geri döndü.
+9 Fred okulda mı? 	hayır	5
+10 Bill mutfakta veya salonda.
+11 Fred okula geri döndü.
+12 Fred parkta mı? 	hayır	11
+13 Fred sinemada.
+14 Julie parkta.
+15 Julie parkta mı? 	evet	14
+1 Mary ofiste.
+2 Bill sinemaya gitti.
+3 Bill sinemada mı? 	evet	2
+4 Mary mutfakta veya sinemada.
+5 Bill salona geri döndü.
+6 Bill salonda mı? 	evet	5
+7 Fred okula gitti.
+8 Bill okula gitti.
+9 Fred okulda mı? 	evet	7
+10 Julie sinemada.
+11 Mary okulda.
+12 Bill okulda mı? 	evet	8
+13 Julie parkta.
+14 Mary mutfakta veya mutfakta.
+15 Julie mutfakta mı? 	hayır	13
+1 Bill mutfağa gitti.
+2 Bill ofiste veya okulda.
+3 Bill ofiste mi? 	belki	2
+4 Mary okula gitti.
+5 Mary ofise gitti.
+6 Mary ofiste mi? 	evet	5
+7 Fred mutfakta veya sinemada.
+8 Fred ofise gitti.
+9 Bill mutfakta mı? 	hayır	2
+10 Julie ofise gitti.
+11 Fred sinemada.
+12 Mary ofiste mi? 	evet	5
+13 Fred parka gitti.
+14 Fred mutfakta veya ofiste.
+15 Julie ofiste mi? 	evet	10
+1 Mary ofiste.
+2 Bill parkta veya okulda.
+3 Mary ofiste mi? 	evet	1
+4 Fred sinemaya geri döndü.
+5 Fred salona geri döndü.
+6 Fred ofiste mi? 	hayır	5
+7 Fred okulda veya mutfakta.
+8 Fred mutfakta.
+9 Fred mutfakta mı? 	evet	8
+10 Julie salonda veya mutfakta.
+11 Mary sinemadayım.
+12 Julie ofiste mi? 	hayır	10
+13 Bill sinemada.
+14 Fred okula gitti.
+15 Fred ofiste mi? 	hayır	14
+1 Fred okulda veya ofiste.
+2 Mary okulda veya salonda.
+3 Mary sinemada mı? 	hayır	2
+4 Julie mutfağa gitti.
+5 Bill salonda veya salonda.
+6 Julie mutfakta mı? 	evet	4
+7 Mary ofiste.
+8 Mary sinemada veya sinemada.
+9 Bill okulda mı? 	hayır	5
+10 Fred salonda.
+11 Mary mutfağa gitti.
+12 Mary mutfakta mı? 	evet	11
+13 Fred mutfakta veya salonda.
+14 Julie okula gitti.
+15 Fred parkta mı? 	hayır	13
+1 Mary sinemaya geri döndü.
+2 Mary salona gitti.
+3 Mary salonda mı? 	evet	2
+4 Julie okula geri döndü.
+5 Fred ofiste.
+6 Mary salonda mı? 	evet	2
+7 Mary okulda veya sinemada.
+8 Bill ofiste veya salonda.
+9 Julie ofiste mi? 	hayır	4
+10 Mary parka gitti.
+11 Fred parka gitti.
+12 Mary mutfakta mı? 	hayır	10
+13 Julie salonda.
+14 Fred salona gitti.
+15 Mary parkta mı? 	evet	10
+1 Bill okula gitti.
+2 Fred parkta veya mutfakta.
+3 Bill okulda mı? 	evet	1
+4 Bill sinemaya gitti.
+5 Fred salonda.
+6 Bill salonda mı? 	hayır	4
+7 Bill parkta gitti.
+8 Bill sinemada veya okulda.
+9 Bill parkta mı? 	hayır	8
+10 Fred okula gitti.
+11 Mary mutfakta.
+12 Fred okulda mı? 	evet	10
+13 Mary ofiste.
+14 Bill mutfakta.
+15 Bill okulda mı? 	hayır	14
+1 Bill parkta.
+2 Fred parka geri döndü.
+3 Fred parkta mı? 	evet	2
+4 Bill salona gitti.
+5 Julie salona gitti.
+6 Bill salonda mı? 	evet	4
+7 Julie mutfakta veya okulda.
+8 Mary ofise gitti.
+9 Bill salonda mı? 	evet	4
+10 Mary okula gitti.
+11 Julie mutfağa gitti.
+12 Julie mutfakta mı? 	evet	11
+13 Bill ofise gitti.
+14 Julie parka gitti.
+15 Julie parkta mı? 	evet	14
+1 Bill ofise geri döndü.
+2 Bill parkta veya mutfakta.
+3 Bill sinemada mı? 	hayır	2
+4 Fred salona gitti.
+5 Julie parkta veya ofiste.
+6 Bill mutfakta mı? 	belki	2
+7 Julie mutfakta.
+8 Mary ofise gitti.
+9 Bill mutfakta mı? 	belki	2
+10 Julie parka gitti.
+11 Bill salona gitti.
+12 Julie parkta mı? 	evet	10
+13 Mary okulda veya salonda.
+14 Mary okulda.
+15 Bill ofiste mi? 	hayır	11
+1 Mary mutfağa gitti.
+2 Fred parkta gitti.
+3 Mary parkta mı? 	hayır	1
+4 Julie mutfakta veya okulda.
+5 Bill okulda veya ofiste.
+6 Bill okulda mı? 	belki	5
+7 Mary okula gitti.
+8 Bill salona gitti.
+9 Bill mutfakta mı? 	hayır	8
+10 Julie salona gitti.
+11 Fred sinemaya gitti.
+12 Mary ofiste mi? 	hayır	7
+13 Mary parkta veya okulda.
+14 Fred mutfakta veya salonda.
+15 Fred sinemada mı? 	hayır	14
+1 Mary mutfakta.
+2 Julie parkta veya sinemada.
+3 Julie mutfakta mı? 	hayır	2
+4 Mary salonda.
+5 Bill parkta gitti.
+6 Mary ofiste mi? 	hayır	4
+7 Mary ofise geri döndü.
+8 Bill ofiste.
+9 Mary ofiste mi? 	evet	7
+10 Bill ofiste veya sinemada.
+11 Bill parkta gitti.
+12 Bill salonda mı? 	hayır	11
+13 Fred parkta.
+14 Bill ofiste.
+15 Fred parkta mı? 	evet	13
+1 Fred mutfakta veya okulda.
+2 Fred salonda veya sinemada.
+3 Fred salonda mı? 	belki	2
+4 Julie mutfakta.
+5 Julie parkta veya parkta.
+6 Fred salonda mı? 	belki	2
+7 Julie sinemaya geri döndü.
+8 Julie salonda.
+9 Julie salonda mı? 	evet	8
+10 Bill salonda veya parkta.
+11 Fred okulda.
+12 Fred parkta mı? 	hayır	11
+13 Bill mutfakta veya sinemada.
+14 Fred mutfağa gitti.
+15 Fred ofiste mi? 	hayır	14
+1 Fred parka geri döndü.
+2 Fred sinemada veya okulda.
+3 Fred sinemada mı? 	belki	2
+4 Bill okulda veya mutfakta.
+5 Fred mutfağa gitti.
+6 Fred mutfakta mı? 	evet	5
+7 Mary salona gitti.
+8 Mary parkta veya ofiste.
+9 Mary parkta mı? 	belki	8
+10 Mary salona geri döndü.
+11 Fred salonda.
+12 Mary salonda mı? 	evet	10
+13 Julie parka geri döndü.
+14 Mary ofiste.
+15 Mary ofiste mi? 	evet	14
+1 Julie mutfağa geri döndü.
+2 Bill salonda.
+3 Bill salonda mı? 	evet	2
+4 Fred mutfağa gitti.
+5 Mary salona gitti.
+6 Mary okulda mı? 	hayır	5
+7 Fred salona gitti.
+8 Bill okula gitti.
+9 Mary salonda mı? 	evet	5
+10 Bill parkta veya ofiste.
+11 Mary mutfakta.
+12 Fred salonda mı? 	evet	7
+13 Julie ofise gitti.
+14 Fred sinemada.
+15 Bill parkta mı? 	belki	10
+1 Julie parkta.
+2 Julie salonda.
+3 Julie mutfakta mı? 	hayır	2
+4 Mary salonda veya sinemada.
+5 Julie mutfakta.
+6 Mary sinemada mı? 	belki	4
+7 Mary okula geri döndü.
+8 Bill okulda veya salonda.
+9 Julie mutfakta mı? 	evet	5
+10 Bill ofise geri döndü.
+11 Mary ofise gitti.
+12 Bill ofiste mi? 	evet	10
+13 Julie parkta veya ofiste.
+14 Bill mutfağa gitti.
+15 Bill sinemada mı? 	hayır	14
+1 Fred salona geri döndü.
+2 Fred parkta veya ofiste.
+3 Fred parkta mı? 	belki	2
+4 Bill ofise gitti.
+5 Bill salonda.
+6 Fred ofiste mi? 	belki	2
+7 Fred parkta gitti.
+8 Julie parkta gitti.
+9 Fred mutfakta mı? 	hayır	7
+10 Fred okulda.
+11 Julie salona gitti.
+12 Fred okulda mı? 	evet	10
+13 Mary mutfağa gitti.
+14 Julie okula gitti.
+15 Mary mutfakta mı? 	evet	13
+1 Mary mutfakta veya mutfakta.
+2 Bill parkta.
+3 Mary salonda mı? 	hayır	1
+4 Mary okulda veya okulda.
+5 Julie okula gitti.
+6 Mary mutfakta mı? 	hayır	4
+7 Julie parka gitti.
+8 Fred mutfakta veya salonda.
+9 Julie mutfakta mı? 	hayır	7
+10 Fred okula gitti.
+11 Bill okulda veya mutfakta.
+12 Bill mutfakta mı? 	belki	11
+13 Julie okula gitti.
+14 Julie sinemaya geri döndü.
+15 Julie sinemada mı? 	evet	14
+1 Julie mutfakta veya ofiste.
+2 Bill ofise gitti.
+3 Bill sinemada mı? 	hayır	2
+4 Bill okulda.
+5 Bill sinemadayım.
+6 Julie mutfakta mı? 	belki	1
+7 Mary okulda veya ofiste.
+8 Fred okulda.
+9 Bill sinemada mı? 	evet	5
+10 Fred salonda veya parkta.
+11 Bill parkta.
+12 Fred salonda mı? 	belki	10
+13 Bill ofiste veya sinemada.
+14 Bill okulda.
+15 Bill mutfakta mı? 	hayır	14
+1 Fred mutfakta veya sinemada.
+2 Julie ofise gitti.
+3 Fred okulda mı? 	hayır	1
+4 Fred parkta.
+5 Mary sinemaya gitti.
+6 Julie sinemada mı? 	hayır	2
+7 Julie mutfakta veya salonda.
+8 Mary mutfağa geri döndü.
+9 Julie mutfakta mı? 	belki	7
+10 Bill okulda veya salonda.
+11 Bill parka geri döndü.
+12 Julie okulda mı? 	hayır	7
+13 Mary ofiste.
+14 Fred ofise gitti.
+15 Mary okulda mı? 	hayır	13
+1 Bill mutfakta veya ofiste.
+2 Julie parka gitti.
+3 Bill mutfakta mı? 	belki	1
+4 Fred mutfağa gitti.
+5 Bill parkta veya okulda.
+6 Julie mutfakta mı? 	hayır	2
+7 Bill mutfağa gitti.
+8 Julie sinemadayım.
+9 Bill mutfakta mı? 	evet	7
+10 Julie mutfakta veya ofiste.
+11 Fred salona gitti.
+12 Fred salonda mı? 	evet	11
+13 Bill parkta veya parkta.
+14 Fred parkta.
+15 Fred mutfakta mı? 	hayır	14
+1 Julie okulda.
+2 Fred mutfağa gitti.
+3 Julie okulda mı? 	evet	1
+4 Fred parka gitti.
+5 Julie salona gitti.
+6 Fred okulda mı? 	hayır	4
+7 Bill mutfağa gitti.
+8 Fred okula gitti.
+9 Julie salonda mı? 	evet	5
+10 Mary mutfakta.
+11 Mary okula gitti.
+12 Mary okulda mı? 	evet	11
+13 Bill salona gitti.
+14 Fred parkta.
+15 Fred sinemada mı? 	hayır	14
+1 Bill mutfağa gitti.
+2 Fred ofiste.
+3 Bill mutfakta mı? 	evet	1
+4 Fred ofiste veya okulda.
+5 Bill parka gitti.
+6 Fred ofiste mi? 	belki	4
+7 Bill ofise gitti.
+8 Julie sinemada.
+9 Julie sinemada mı? 	evet	8
+10 Julie salona gitti.
+11 Julie ofiste.
+12 Bill okulda mı? 	hayır	7
+13 Mary ofise gitti.
+14 Fred salonda veya sinemada.
+15 Mary okulda mı? 	hayır	13
+1 Mary sinemada.
+2 Julie okulda.
+3 Julie salonda mı? 	hayır	2
+4 Julie mutfağa gitti.
+5 Julie sinemadayım.
+6 Mary parkta mı? 	hayır	1
+7 Julie okulda.
+8 Mary mutfağa geri döndü.
+9 Julie parkta mı? 	hayır	7
+10 Fred sinemadayım.
+11 Mary mutfakta veya sinemada.
+12 Mary parkta mı? 	hayır	11
+13 Fred ofiste veya okulda.
+14 Mary okulda veya mutfakta.
+15 Mary mutfakta mı? 	belki	14
+1 Julie okula geri döndü.
+2 Bill sinemadayım.
+3 Julie okulda mı? 	evet	1
+4 Mary ofise gitti.
+5 Mary mutfakta.
+6 Julie okulda mı? 	evet	1
+7 Julie ofise geri döndü.
+8 Julie mutfakta veya okulda.
+9 Mary mutfakta mı? 	evet	5
+10 Bill okula gitti.
+11 Fred salona gitti.
+12 Mary mutfakta mı? 	evet	5
+13 Bill parka geri döndü.
+14 Mary sinemada.
+15 Bill parkta mı? 	evet	13
+1 Julie mutfakta.
+2 Bill okula gitti.
+3 Julie mutfakta mı? 	evet	1
+4 Bill sinemaya gitti.
+5 Julie parkta veya ofiste.
+6 Bill sinemada mı? 	evet	4
+7 Fred parkta veya mutfakta.
+8 Fred ofiste veya okulda.
+9 Fred okulda mı? 	belki	8
+10 Mary ofise gitti.
+11 Julie parkta veya okulda.
+12 Julie sinemada mı? 	hayır	11
+13 Julie parkta veya ofiste.
+14 Fred salonda.
+15 Fred salonda mı? 	evet	14
+1 Julie parkta.
+2 Fred sinemaya gitti.
+3 Fred ofiste mi? 	hayır	2
+4 Julie okulda.
+5 Mary okulda veya okulda.
+6 Mary salonda mı? 	hayır	5
+7 Fred okulda veya sinemada.
+8 Bill mutfağa gitti.
+9 Mary okulda mı? 	belki	5
+10 Fred ofise gitti.
+11 Mary parkta.
+12 Mary salonda mı? 	hayır	11
+13 Bill okula geri döndü.
+14 Bill salonda.
+15 Bill salonda mı? 	evet	14
+1 Mary parka gitti.
+2 Julie salona gitti.
+3 Mary parkta mı? 	evet	1
+4 Fred okula geri döndü.
+5 Bill ofiste.
+6 Mary mutfakta mı? 	hayır	1
+7 Julie ofise gitti.
+8 Mary okulda veya sinemada.
+9 Mary ofiste mi? 	hayır	8
+10 Fred parkta veya ofiste.
+11 Bill salona gitti.
+12 Bill okulda mı? 	hayır	11
+13 Fred parkta veya okulda.
+14 Julie okulda.
+15 Julie sinemada mı? 	hayır	14
+1 Fred salonda veya okulda.
+2 Fred parkta veya parkta.
+3 Fred sinemada mı? 	hayır	2
+4 Mary salona gitti.
+5 Fred ofise gitti.
+6 Fred ofiste mi? 	evet	5
+7 Bill ofiste.
+8 Fred parkta veya okulda.
+9 Fred mutfakta mı? 	hayır	8
+10 Mary sinemaya geri döndü.
+11 Julie salona gitti.
+12 Julie salonda mı? 	evet	11
+13 Julie ofiste.
+14 Mary ofise geri döndü.
+15 Julie ofiste mi? 	evet	13
+1 Julie salonda.
+2 Fred parka geri döndü.
+3 Julie salonda mı? 	evet	1
+4 Fred ofise gitti.
+5 Julie sinemaya geri döndü.
+6 Fred ofiste mi? 	evet	4
+7 Fred mutfağa gitti.
+8 Fred ofise gitti.
+9 Fred ofiste mi? 	evet	8
+10 Mary ofise gitti.
+11 Fred mutfakta veya ofiste.
+12 Mary mutfakta mı? 	hayır	10
+13 Mary mutfağa geri döndü.
+14 Bill mutfakta veya sinemada.
+15 Fred parkta mı? 	hayır	11
+1 Julie okula gitti.
+2 Fred okulda.
+3 Fred salonda mı? 	hayır	2
+4 Bill ofiste veya salonda.
+5 Mary okulda.
+6 Julie okulda mı? 	evet	1
+7 Fred mutfakta.
+8 Mary sinemaya gitti.
+9 Mary parkta mı? 	hayır	8
+10 Fred ofise gitti.
+11 Bill sinemaya gitti.
+12 Mary sinemada mı? 	evet	8
+13 Julie sinemada.
+14 Bill okulda veya ofiste.
+15 Bill salonda mı? 	hayır	14
+1 Mary sinemada veya salonda.
+2 Julie parkta veya sinemada.
+3 Mary okulda mı? 	hayır	1
+4 Julie ofiste veya sinemada.
+5 Julie parkta veya sinemada.
+6 Julie parkta mı? 	belki	5
+7 Fred salona gitti.
+8 Bill sinemaya geri döndü.
+9 Bill salonda mı? 	hayır	8
+10 Julie salona gitti.
+11 Bill mutfakta.
+12 Julie salonda mı? 	evet	10
+13 Bill parka geri döndü.
+14 Mary salonda veya mutfakta.
+15 Bill parkta mı? 	evet	13
+1 Mary okulda veya okulda.
+2 Julie okulda veya okulda.
+3 Mary okulda mı? 	belki	1
+4 Mary salonda veya salonda.
+5 Fred ofise gitti.
+6 Mary salonda mı? 	belki	4
+7 Fred mutfağa gitti.
+8 Fred okula gitti.
+9 Mary ofiste mi? 	hayır	4
+10 Mary mutfağa gitti.
+11 Julie salona gitti.
+12 Julie mutfakta mı? 	hayır	11
+13 Fred ofise gitti.
+14 Julie okulda.
+15 Julie mutfakta mı? 	hayır	14
+1 Julie sinemadayım.
+2 Mary sinemada.
+3 Julie sinemada mı? 	evet	1
+4 Julie mutfağa gitti.
+5 Fred okula geri döndü.
+6 Julie parkta mı? 	hayır	4
+7 Mary parkta.
+8 Fred salonda veya mutfakta.
+9 Fred sinemada mı? 	hayır	8
+10 Julie okulda.
+11 Mary okulda.
+12 Fred sinemada mı? 	hayır	8
+13 Fred sinemaya gitti.
+14 Bill parkta veya okulda.
+15 Bill okulda mı? 	belki	14
+1 Mary parka geri döndü.
+2 Julie sinemaya gitti.
+3 Mary okulda mı? 	hayır	1
+4 Julie parkta.
+5 Fred okula gitti.
+6 Julie parkta mı? 	evet	4
+7 Fred okulda veya ofiste.
+8 Fred mutfağa geri döndü.
+9 Fred ofiste mi? 	hayır	8
+10 Julie sinemaya gitti.
+11 Bill okula geri döndü.
+12 Fred ofiste mi? 	hayır	8
+13 Fred sinemada.
+14 Mary mutfakta veya sinemada.
+15 Julie sinemada mı? 	evet	10
+1 Fred sinemadayım.
+2 Bill parka gitti.
+3 Bill parkta mı? 	evet	2
+4 Fred ofise gitti.
+5 Julie okula gitti.
+6 Fred ofiste mi? 	evet	4
+7 Julie mutfakta veya sinemada.
+8 Bill ofiste.
+9 Bill sinemada mı? 	hayır	8
+10 Fred okula gitti.
+11 Bill parkta.
+12 Julie okulda mı? 	hayır	7
+13 Bill mutfağa gitti.
+14 Mary sinemada veya okulda.
+15 Fred okulda mı? 	evet	10
+1 Mary parkta.
+2 Mary sinemaya gitti.
+3 Mary okulda mı? 	hayır	2
+4 Julie okulda veya mutfakta.
+5 Bill ofiste.
+6 Mary salonda mı? 	hayır	2
+7 Mary parkta veya mutfakta.
+8 Julie ofiste.
+9 Julie okulda mı? 	hayır	8
+10 Fred ofise geri döndü.
+11 Fred mutfakta veya ofiste.
+12 Julie sinemada mı? 	hayır	8
+13 Bill sinemaya geri döndü.
+14 Julie okulda veya ofiste.
+15 Bill ofiste mi? 	hayır	13
+1 Julie parkta gitti.
+2 Fred sinemaya gitti.
+3 Fred sinemada mı? 	evet	2
+4 Julie parkta veya sinemada.
+5 Bill sinemada.
+6 Fred parkta mı? 	hayır	2
+7 Julie okulda.
+8 Mary okula gitti.
+9 Julie okulda mı? 	evet	7
+10 Julie mutfağa gitti.
+11 Fred salonda.
+12 Mary okulda mı? 	evet	8
+13 Fred parkta veya ofiste.
+14 Mary parkta veya mutfakta.
+15 Fred ofiste mi? 	belki	13
+1 Bill sinemada.
+2 Julie ofiste veya salonda.
+3 Julie sinemada mı? 	hayır	2
+4 Julie parkta veya sinemada.
+5 Julie okula gitti.
+6 Julie parkta mı? 	hayır	5
+7 Bill ofise geri döndü.
+8 Bill okulda.
+9 Bill mutfakta mı? 	hayır	8
+10 Julie parka gitti.
+11 Fred ofise gitti.
+12 Bill parkta mı? 	hayır	8
+13 Fred mutfakta veya mutfakta.
+14 Bill sinemada.
+15 Julie ofiste mi? 	hayır	10
+1 Mary parka gitti.
+2 Mary ofise gitti.
+3 Mary ofiste mi? 	evet	2
+4 Bill ofise gitti.
+5 Fred parkta.
+6 Mary parkta mı? 	hayır	2
+7 Bill parkta.
+8 Fred ofiste.
+9 Fred ofiste mi? 	evet	8
+10 Julie parkta.
+11 Mary okulda.
+12 Bill parkta mı? 	evet	7
+13 Julie okulda veya mutfakta.
+14 Bill mutfağa gitti.
+15 Bill mutfakta mı? 	evet	14
+1 Mary sinemaya gitti.
+2 Fred okula geri döndü.
+3 Fred okulda mı? 	evet	2
+4 Julie mutfakta veya ofiste.
+5 Bill mutfağa geri döndü.
+6 Fred sinemada mı? 	hayır	2
+7 Julie sinemada.
+8 Mary salonda.
+9 Mary parkta mı? 	hayır	8
+10 Fred salonda veya sinemada.
+11 Fred mutfağa geri döndü.
+12 Fred sinemada mı? 	hayır	11
+13 Fred salona geri döndü.
+14 Fred ofiste.
+15 Fred mutfakta mı? 	hayır	14
+1 Julie ofiste veya okulda.
+2 Julie parkta gitti.
+3 Julie parkta mı? 	evet	2
+4 Julie salona gitti.
+5 Fred parkta.
+6 Fred mutfakta mı? 	hayır	5
+7 Mary parkta gitti.
+8 Julie parka gitti.
+9 Julie parkta mı? 	evet	8
+10 Fred salonda.
+11 Mary mutfağa gitti.
+12 Mary mutfakta mı? 	evet	11
+13 Fred sinemaya gitti.
+14 Fred ofise gitti.
+15 Julie mutfakta mı? 	hayır	8
+1 Fred mutfakta.
+2 Fred ofise geri döndü.
+3 Fred ofiste mi? 	evet	2
+4 Fred parkta veya okulda.
+5 Mary salonda veya sinemada.
+6 Fred parkta mı? 	belki	4
+7 Mary ofise geri döndü.
+8 Mary sinemadayım.
+9 Fred parkta mı? 	belki	4
+10 Fred okula gitti.
+11 Mary ofiste.
+12 Mary ofiste mi? 	evet	11
+13 Bill okulda veya ofiste.
+14 Bill ofise gitti.
+15 Mary mutfakta mı? 	hayır	11
+1 Julie mutfağa gitti.
+2 Bill parka gitti.
+3 Bill okulda mı? 	hayır	2
+4 Mary sinemaya gitti.
+5 Fred okulda.
+6 Julie parkta mı? 	hayır	1
+7 Bill sinemada.
+8 Bill ofise gitti.
+9 Fred sinemada mı? 	hayır	5
+10 Julie ofise gitti.
+11 Julie sinemaya gitti.
+12 Julie sinemada mı? 	evet	11
+13 Fred salona gitti.
+14 Mary parkta gitti.
+15 Bill sinemada mı? 	hayır	8
+1 Julie sinemaya gitti.
+2 Mary salona gitti.
+3 Mary mutfakta mı? 	hayır	2
+4 Mary parkta veya mutfakta.
+5 Mary mutfakta veya okulda.
+6 Julie sinemada mı? 	evet	1
+7 Fred mutfağa gitti.
+8 Mary mutfağa gitti.
+9 Mary mutfakta mı? 	evet	8
+10 Fred parka gitti.
+11 Mary okulda.
+12 Fred okulda mı? 	hayır	10
+13 Fred mutfakta veya sinemada.
+14 Fred parka geri döndü.
+15 Fred salonda mı? 	hayır	14
+1 Julie mutfakta.
+2 Julie salonda.
+3 Julie salonda mı? 	evet	2
+4 Fred mutfağa gitti.
+5 Fred okula gitti.
+6 Fred okulda mı? 	evet	5
+7 Mary parkta veya ofiste.
+8 Bill ofiste veya sinemada.
+9 Fred parkta mı? 	hayır	5
+10 Julie ofise gitti.
+11 Julie parkta veya parkta.
+12 Bill okulda mı? 	hayır	8
+13 Julie okula geri döndü.
+14 Bill okulda veya okulda.
+15 Bill okulda mı? 	belki	14
+1 Mary okulda veya salonda.
+2 Bill ofiste.
+3 Mary salonda mı? 	belki	1
+4 Bill salonda veya salonda.
+5 Bill parkta veya sinemada.
+6 Bill sinemada mı? 	belki	5
+7 Bill okula gitti.
+8 Mary mutfakta.
+9 Bill okulda mı? 	evet	7
+10 Mary okulda.
+11 Fred parkta.
+12 Bill mutfakta mı? 	hayır	7
+13 Bill parkta gitti.
+14 Julie okulda veya salonda.
+15 Julie parkta mı? 	hayır	14
+1 Julie okula gitti.
+2 Bill okula gitti.
+3 Julie okulda mı? 	evet	1
+4 Fred mutfakta veya ofiste.
+5 Julie sinemadayım.
+6 Fred okulda mı? 	hayır	4
+7 Fred sinemaya gitti.
+8 Julie parkta gitti.
+9 Bill okulda mı? 	evet	2
+10 Mary mutfağa geri döndü.
+11 Fred mutfakta veya ofiste.
+12 Julie parkta mı? 	evet	8
+13 Bill parka geri döndü.
+14 Julie sinemaya gitti.
+15 Julie sinemada mı? 	evet	14
+1 Bill ofiste veya ofiste.
+2 Mary parka gitti.
+3 Mary parkta mı? 	evet	2
+4 Bill parkta veya okulda.
+5 Julie okula gitti.
+6 Bill sinemada mı? 	hayır	4
+7 Fred okulda veya ofiste.
+8 Julie parkta veya mutfakta.
+9 Julie parkta mı? 	belki	8
+10 Fred okulda.
+11 Mary parkta veya ofiste.
+12 Julie sinemada mı? 	hayır	8
+13 Bill mutfağa gitti.
+14 Julie parkta veya ofiste.
+15 Mary ofiste mi? 	belki	11
+1 Mary sinemadayım.
+2 Julie sinemaya geri döndü.
+3 Mary sinemada mı? 	evet	1
+4 Fred mutfağa gitti.
+5 Bill okulda.
+6 Bill okulda mı? 	evet	5
+7 Julie mutfağa gitti.
+8 Fred parkta veya sinemada.
+9 Julie salonda mı? 	hayır	7
+10 Fred ofise gitti.
+11 Bill sinemadayım.
+12 Julie mutfakta mı? 	evet	7
+13 Julie salonda.
+14 Fred okulda.
+15 Julie salonda mı? 	evet	13
+1 Fred parkta gitti.
+2 Bill salona gitti.
+3 Fred ofiste mi? 	hayır	1
+4 Julie ofiste veya salonda.
+5 Fred okulda veya sinemada.
+6 Julie parkta mı? 	hayır	4
+7 Julie sinemaya geri döndü.
+8 Julie ofiste.
+9 Fred sinemada mı? 	belki	5
+10 Bill parkta.
+11 Julie salona gitti.
+12 Julie parkta mı? 	hayır	11
+13 Fred parka gitti.
+14 Fred okula gitti.
+15 Julie salonda mı? 	evet	11
+1 Bill salonda veya mutfakta.
+2 Bill parkta.
+3 Bill sinemada mı? 	hayır	2
+4 Bill salona gitti.
+5 Julie mutfağa gitti.
+6 Bill okulda mı? 	hayır	4
+7 Fred ofiste.
+8 Bill ofise geri döndü.
+9 Fred ofiste mi? 	evet	7
+10 Fred mutfağa geri döndü.
+11 Mary salona gitti.
+12 Fred mutfakta mı? 	evet	10
+13 Julie parkta.
+14 Bill okula gitti.
+15 Fred mutfakta mı? 	evet	10
+1 Mary okula gitti.
+2 Mary parkta.
+3 Mary parkta mı? 	evet	2
+4 Bill parkta veya okulda.
+5 Julie sinemaya gitti.
+6 Julie sinemada mı? 	evet	5
+7 Mary salona gitti.
+8 Bill sinemada veya sinemada.
+9 Mary parkta mı? 	hayır	7
+10 Julie okula gitti.
+11 Julie parkta.
+12 Julie ofiste mi? 	hayır	11
+13 Fred parkta.
+14 Mary sinemada.
+15 Mary sinemada mı? 	evet	14
+1 Fred ofiste.
+2 Bill salona gitti.
+3 Fred parkta mı? 	hayır	1
+4 Bill okulda.
+5 Mary ofise gitti.
+6 Bill okulda mı? 	evet	4
+7 Bill sinemada.
+8 Bill salonda veya sinemada.
+9 Bill parkta mı? 	hayır	8
+10 Julie okula gitti.
+11 Fred parkta veya sinemada.
+12 Bill salonda mı? 	belki	8
+13 Julie sinemada.
+14 Fred salona gitti.
+15 Fred salonda mı? 	evet	14
+1 Julie ofise gitti.
+2 Fred parkta veya ofiste.
+3 Julie ofiste mi? 	evet	1
+4 Fred okula geri döndü.
+5 Julie sinemaya geri döndü.
+6 Fred parkta mı? 	hayır	4
+7 Fred mutfağa gitti.
+8 Bill sinemada veya okulda.
+9 Fred ofiste mi? 	hayır	7
+10 Mary ofise gitti.
+11 Bill salona gitti.
+12 Julie okulda mı? 	hayır	5
+13 Julie salona geri döndü.
+14 Mary parkta veya sinemada.
+15 Julie mutfakta mı? 	hayır	13
+1 Fred salona gitti.
+2 Fred parkta veya parkta.
+3 Fred okulda mı? 	hayır	2
+4 Bill sinemadayım.
+5 Fred okulda.
+6 Fred okulda mı? 	evet	5
+7 Mary salona gitti.
+8 Bill mutfakta.
+9 Mary salonda mı? 	evet	7
+10 Bill ofiste.
+11 Julie okula geri döndü.
+12 Mary salonda mı? 	evet	7
+13 Mary okula gitti.
+14 Fred mutfakta.
+15 Mary okulda mı? 	evet	13
+1 Mary mutfağa gitti.
+2 Mary parka geri döndü.
+3 Mary parkta mı? 	evet	2
+4 Julie parkta.
+5 Julie mutfakta.
+6 Julie okulda mı? 	hayır	5
+7 Fred mutfağa gitti.
+8 Julie ofise gitti.
+9 Julie salonda mı? 	hayır	8
+10 Bill sinemada.
+11 Julie parkta.
+12 Julie parkta mı? 	evet	11
+13 Fred salona gitti.
+14 Bill okulda.
+15 Bill okulda mı? 	evet	14
+1 Mary ofiste veya salonda.
+2 Fred mutfağa gitti.
+3 Fred sinemada mı? 	hayır	2
+4 Bill sinemaya gitti.
+5 Bill ofiste veya okulda.
+6 Fred parkta mı? 	hayır	2
+7 Fred sinemaya gitti.
+8 Julie mutfakta veya okulda.
+9 Fred sinemada mı? 	evet	7
+10 Bill sinemada.
+11 Fred salona gitti.
+12 Fred salonda mı? 	evet	11
+13 Fred parka gitti.
+14 Julie salona gitti.
+15 Julie salonda mı? 	evet	14
+1 Fred mutfakta.
+2 Julie okula gitti.
+3 Julie okulda mı? 	evet	2
+4 Mary sinemada.
+5 Julie sinemaya geri döndü.
+6 Mary salonda mı? 	hayır	4
+7 Fred okulda veya ofiste.
+8 Bill salonda.
+9 Fred sinemada mı? 	hayır	7
+10 Mary salonda.
+11 Julie mutfağa gitti.
+12 Mary salonda mı? 	evet	10
+13 Mary mutfağa geri döndü.
+14 Julie parkta veya salonda.
+15 Julie mutfakta mı? 	hayır	14
+1 Mary parkta veya ofiste.
+2 Mary okulda.
+3 Mary okulda mı? 	evet	2
+4 Bill ofise gitti.
+5 Bill salona gitti.
+6 Bill salonda mı? 	evet	5
+7 Julie parkta.
+8 Julie ofiste.
+9 Bill ofiste mi? 	hayır	5
+10 Julie salona gitti.
+11 Mary salonda.
+12 Julie okulda mı? 	hayır	10
+13 Bill mutfağa gitti.
+14 Mary sinemaya gitti.
+15 Julie salonda mı? 	evet	10
+1 Julie ofise gitti.
+2 Julie mutfağa gitti.
+3 Julie mutfakta mı? 	evet	2
+4 Fred ofiste veya okulda.
+5 Mary salonda.
+6 Julie parkta mı? 	hayır	2
+7 Julie salona gitti.
+8 Julie ofise gitti.
+9 Julie parkta mı? 	hayır	8
+10 Julie okula gitti.
+11 Julie sinemada veya ofiste.
+12 Julie sinemada mı? 	belki	11
+13 Bill ofiste.
+14 Julie parkta.
+15 Julie parkta mı? 	evet	14
+1 Julie mutfakta veya salonda.
+2 Bill parkta.
+3 Bill ofiste mi? 	hayır	2
+4 Mary mutfakta veya mutfakta.
+5 Fred okulda veya okulda.
+6 Julie mutfakta mı? 	belki	1
+7 Mary okulda.
+8 Mary parkta.
+9 Bill parkta mı? 	evet	2
+10 Julie parkta.
+11 Fred parkta.
+12 Fred ofiste mi? 	hayır	11
+13 Fred ofise gitti.
+14 Bill ofiste veya salonda.
+15 Fred sinemada mı? 	hayır	13
+1 Julie ofiste.
+2 Fred mutfağa gitti.
+3 Fred okulda mı? 	hayır	2
+4 Bill parkta.
+5 Julie okulda veya okulda.
+6 Julie okulda mı? 	belki	5
+7 Julie salona geri döndü.
+8 Bill okula gitti.
+9 Julie salonda mı? 	evet	7
+10 Julie mutfakta veya sinemada.
+11 Mary okula gitti.
+12 Bill okulda mı? 	evet	8
+13 Fred sinemadayım.
+14 Fred okula gitti.
+15 Mary sinemada mı? 	hayır	11
+1 Julie parkta.
+2 Julie sinemada veya okulda.
+3 Julie salonda mı? 	hayır	2
+4 Bill mutfakta veya mutfakta.
+5 Julie mutfakta.
+6 Julie okulda mı? 	hayır	5
+7 Mary okulda.
+8 Bill ofise gitti.
+9 Mary okulda mı? 	evet	7
+10 Fred salonda veya mutfakta.
+11 Bill mutfağa gitti.
+12 Fred salonda mı? 	belki	10
+13 Fred okulda veya okulda.
+14 Fred salona gitti.
+15 Bill mutfakta mı? 	evet	11
+1 Julie sinemaya gitti.
+2 Mary parkta veya parkta.
+3 Julie sinemada mı? 	evet	1
+4 Julie okulda veya sinemada.
+5 Julie salona gitti.
+6 Julie salonda mı? 	evet	5
+7 Fred okulda veya mutfakta.
+8 Julie ofise geri döndü.
+9 Julie ofiste mi? 	evet	8
+10 Mary ofise gitti.
+11 Fred salonda.
+12 Fred sinemada mı? 	hayır	11
+13 Mary sinemaya gitti.
+14 Bill parkta veya sinemada.
+15 Bill salonda mı? 	hayır	14
+1 Mary mutfakta veya sinemada.
+2 Bill ofiste.
+3 Mary ofiste mi? 	hayır	1
+4 Fred ofiste.
+5 Mary salonda veya okulda.
+6 Bill sinemada mı? 	hayır	2
+7 Bill parkta veya okulda.
+8 Bill sinemada.
+9 Bill sinemada mı? 	evet	8
+10 Julie salonda veya mutfakta.
+11 Julie mutfakta veya ofiste.
+12 Julie mutfakta mı? 	belki	11
+13 Julie sinemaya gitti.
+14 Julie ofise gitti.
+15 Julie sinemada mı? 	hayır	14
+1 Fred salona gitti.
+2 Julie okulda.
+3 Fred ofiste mi? 	hayır	1
+4 Fred okulda.
+5 Mary mutfağa gitti.
+6 Julie okulda mı? 	evet	2
+7 Mary ofiste.
+8 Fred salona gitti.
+9 Fred salonda mı? 	evet	8
+10 Bill sinemada veya salonda.
+11 Fred okulda.
+12 Fred ofiste mi? 	hayır	11
+13 Fred salonda.
+14 Fred mutfakta veya ofiste.
+15 Bill mutfakta mı? 	hayır	10
+1 Fred ofise gitti.
+2 Bill sinemada.
+3 Fred salonda mı? 	hayır	1
+4 Julie sinemaya gitti.
+5 Fred okula gitti.
+6 Fred mutfakta mı? 	hayır	5
+7 Julie parkta.
+8 Bill mutfağa gitti.
+9 Julie mutfakta mı? 	hayır	7
+10 Mary sinemada.
+11 Fred sinemadayım.
+12 Fred sinemada mı? 	evet	11
+13 Bill sinemaya gitti.
+14 Mary mutfağa gitti.
+15 Mary okulda mı? 	hayır	14
+1 Julie parkta.
+2 Bill parkta veya okulda.
+3 Bill okulda mı? 	belki	2
+4 Mary parkta veya sinemada.
+5 Mary mutfakta.
+6 Bill salonda mı? 	hayır	2
+7 Julie okulda.
+8 Bill salonda.
+9 Mary mutfakta mı? 	evet	5
+10 Mary parka geri döndü.
+11 Mary okula gitti.
+12 Mary mutfakta mı? 	hayır	11
+13 Julie mutfakta.
+14 Mary parkta.
+15 Mary ofiste mi? 	hayır	14
+1 Bill sinemada veya okulda.
+2 Fred salona gitti.
+3 Fred okulda mı? 	hayır	2
+4 Julie parka gitti.
+5 Julie mutfağa gitti.
+6 Fred sinemada mı? 	hayır	2
+7 Bill sinemaya gitti.
+8 Julie okula gitti.
+9 Julie salonda mı? 	hayır	8
+10 Mary salonda veya parkta.
+11 Bill ofise gitti.
+12 Bill mutfakta mı? 	hayır	11
+13 Mary sinemaya gitti.
+14 Julie sinemada.
+15 Mary salonda mı? 	hayır	13
+1 Bill okula gitti.
+2 Fred parkta.
+3 Bill okulda mı? 	evet	1
+4 Mary ofiste.
+5 Julie ofise gitti.
+6 Fred parkta mı? 	evet	2
+7 Mary sinemadayım.
+8 Bill mutfağa gitti.
+9 Fred mutfakta mı? 	hayır	2
+10 Mary mutfakta.
+11 Fred sinemada.
+12 Bill sinemada mı? 	hayır	8
+13 Mary parkta.
+14 Fred mutfakta veya mutfakta.
+15 Fred parkta mı? 	hayır	14
+1 Fred salona gitti.
+2 Bill salonda.
+3 Fred ofiste mi? 	hayır	1
+4 Fred sinemaya geri döndü.
+5 Bill parkta veya mutfakta.
+6 Fred mutfakta mı? 	hayır	4
+7 Mary parkta.
+8 Mary ofiste.
+9 Mary ofiste mi? 	evet	8
+10 Mary sinemadayım.
+11 Mary ofise gitti.
+12 Bill parkta mı? 	belki	5
+13 Mary sinemaya gitti.
+14 Mary ofise geri döndü.
+15 Mary sinemada mı? 	hayır	14
+1 Fred salona gitti.
+2 Bill sinemada veya salonda.
+3 Bill salonda mı? 	belki	2
+4 Mary ofiste veya salonda.
+5 Mary mutfağa gitti.
+6 Mary mutfakta mı? 	evet	5
+7 Mary okulda.
+8 Fred parkta.
+9 Mary sinemada mı? 	hayır	7
+10 Bill parka gitti.
+11 Mary parka geri döndü.
+12 Bill sinemada mı? 	hayır	10
+13 Mary ofise geri döndü.
+14 Bill salonda veya sinemada.
+15 Mary ofiste mi? 	evet	13
+1 Mary parkta veya parkta.
+2 Julie salonda veya sinemada.
+3 Julie sinemada mı? 	belki	2
+4 Fred sinemaya gitti.
+5 Bill ofise geri döndü.
+6 Fred sinemada mı? 	evet	4
+7 Mary sinemada veya ofiste.
+8 Bill okulda.
+9 Bill okulda mı? 	evet	8
+10 Julie okulda.
+11 Julie sinemaya gitti.
+12 Bill parkta mı? 	hayır	8
+13 Julie salonda.
+14 Mary parka gitti.
+15 Bill okulda mı? 	evet	8
+1 Julie parkta.
+2 Bill ofise gitti.
+3 Bill sinemada mı? 	hayır	2
+4 Fred salonda veya okulda.
+5 Fred parka gitti.
+6 Bill ofiste mi? 	evet	2
+7 Julie ofise geri döndü.
+8 Bill parkta veya ofiste.
+9 Fred okulda mı? 	hayır	5
+10 Fred salonda.
+11 Julie mutfağa gitti.
+12 Bill parkta mı? 	belki	8
+13 Julie parkta.
+14 Fred parkta.
+15 Julie sinemada mı? 	hayır	13
+1 Julie parkta veya okulda.
+2 Fred salona gitti.
+3 Fred mutfakta mı? 	hayır	2
+4 Fred okula geri döndü.
+5 Bill ofise geri döndü.
+6 Fred ofiste mi? 	hayır	4
+7 Mary mutfakta.
+8 Bill parkta.
+9 Bill parkta mı? 	evet	8
+10 Fred salonda veya okulda.
+11 Julie ofise gitti.
+12 Mary mutfakta mı? 	evet	7
+13 Mary okulda.
+14 Fred ofise gitti.
+15 Fred mutfakta mı? 	hayır	14
+1 Bill parkta.
+2 Mary parkta.
+3 Bill parkta mı? 	evet	1
+4 Bill ofise gitti.
+5 Bill okulda.
+6 Bill okulda mı? 	evet	5
+7 Fred parka gitti.
+8 Bill sinemaya gitti.
+9 Bill sinemada mı? 	evet	8
+10 Bill parkta.
+11 Bill salona gitti.
+12 Fred parkta mı? 	evet	7
+13 Bill parkta gitti.
+14 Bill sinemada veya sinemada.
+15 Bill ofiste mi? 	hayır	14
+1 Mary parkta veya sinemada.
+2 Fred salona gitti.
+3 Mary okulda mı? 	hayır	1
+4 Bill ofiste.
+5 Mary okulda.
+6 Mary mutfakta mı? 	hayır	5
+7 Fred parkta.
+8 Fred mutfakta veya sinemada.
+9 Fred salonda mı? 	hayır	8
+10 Bill mutfakta veya mutfakta.
+11 Fred salona gitti.
+12 Mary mutfakta mı? 	hayır	5
+13 Mary parka gitti.
+14 Julie sinemaya geri döndü.
+15 Fred salonda mı? 	evet	11
+1 Bill okulda veya sinemada.
+2 Bill mutfakta veya ofiste.
+3 Bill ofiste mi? 	belki	2
+4 Fred salona gitti.
+5 Julie ofise geri döndü.
+6 Bill ofiste mi? 	belki	2
+7 Julie salonda.
+8 Julie ofise gitti.
+9 Julie mutfakta mı? 	hayır	8
+10 Julie mutfağa gitti.
+11 Bill salona geri döndü.
+12 Julie salonda mı? 	hayır	10
+13 Bill parkta.
+14 Mary salonda.
+15 Bill sinemada mı? 	hayır	13
+1 Fred parkta veya sinemada.
+2 Bill ofiste.
+3 Bill mutfakta mı? 	hayır	2
+4 Julie mutfakta veya mutfakta.
+5 Bill salonda veya okulda.
+6 Bill sinemada mı? 	hayır	5
+7 Bill ofise geri döndü.
+8 Fred mutfakta veya sinemada.
+9 Bill ofiste mi? 	evet	7
+10 Bill mutfağa geri döndü.
+11 Fred parkta veya parkta.
+12 Bill parkta mı? 	hayır	10
+13 Fred mutfağa gitti.
+14 Fred salona gitti.
+15 Fred ofiste mi? 	hayır	14
+1 Julie okula geri döndü.
+2 Julie mutfağa geri döndü.
+3 Julie mutfakta mı? 	evet	2
+4 Bill ofiste.
+5 Mary salona gitti.
+6 Julie okulda mı? 	hayır	2
+7 Julie okulda veya salonda.
+8 Julie okula gitti.
+9 Julie salonda mı? 	hayır	8
+10 Julie salona gitti.
+11 Bill okula gitti.
+12 Bill okulda mı? 	evet	11
+13 Bill mutfakta.
+14 Fred mutfakta veya okulda.
+15 Fred okulda mı? 	belki	14
+1 Mary salonda veya salonda.
+2 Mary sinemada veya okulda.
+3 Mary okulda mı? 	belki	2
+4 Mary parka geri döndü.
+5 Mary okulda.
+6 Mary mutfakta mı? 	hayır	5
+7 Julie parkta.
+8 Fred mutfakta.
+9 Fred okulda mı? 	hayır	8
+10 Bill ofise gitti.
+11 Mary mutfağa gitti.
+12 Mary mutfakta mı? 	evet	11
+13 Bill okula gitti.
+14 Julie sinemaya gitti.
+15 Fred mutfakta mı? 	evet	8
+1 Mary parka geri döndü.
+2 Bill ofiste veya sinemada.
+3 Mary ofiste mi? 	hayır	1
+4 Fred ofise geri döndü.
+5 Mary okulda veya salonda.
+6 Mary sinemada mı? 	hayır	5
+7 Mary parkta gitti.
+8 Julie salona gitti.
+9 Mary parkta mı? 	evet	7
+10 Fred sinemadayım.
+11 Bill sinemadayım.
+12 Fred mutfakta mı? 	hayır	10
+13 Julie parka gitti.
+14 Mary okulda.
+15 Julie sinemada mı? 	hayır	13
+1 Julie salonda veya salonda.
+2 Bill parkta.
+3 Bill salonda mı? 	hayır	2
+4 Fred parkta gitti.
+5 Julie okulda.
+6 Julie okulda mı? 	evet	5
+7 Fred sinemada veya okulda.
+8 Fred parkta.
+9 Bill parkta mı? 	evet	2
+10 Fred salona geri döndü.
+11 Bill salona gitti.
+12 Fred salonda mı? 	evet	10
+13 Fred sinemaya gitti.
+14 Julie salona gitti.
+15 Fred sinemada mı? 	evet	13
+1 Bill salonda veya okulda.
+2 Bill okulda veya mutfakta.
+3 Bill mutfakta mı? 	belki	2
+4 Bill salona gitti.
+5 Bill salonda veya parkta.
+6 Bill sinemada mı? 	hayır	5
+7 Julie parkta.
+8 Bill ofise gitti.
+9 Julie parkta mı? 	evet	7
+10 Mary parkta gitti.
+11 Julie salonda veya okulda.
+12 Bill ofiste mi? 	evet	8
+13 Fred sinemada.
+14 Mary okula gitti.
+15 Mary okulda mı? 	evet	14
+1 Mary okulda veya salonda.
+2 Fred okulda veya mutfakta.
+3 Mary salonda mı? 	belki	1
+4 Mary ofiste.
+5 Bill sinemaya geri döndü.
+6 Mary ofiste mi? 	evet	4
+7 Fred parkta.
+8 Julie okulda.
+9 Fred parkta mı? 	evet	7
+10 Mary sinemada veya salonda.
+11 Julie ofise gitti.
+12 Bill salonda mı? 	hayır	5
+13 Julie mutfağa gitti.
+14 Bill mutfakta veya ofiste.
+15 Mary salonda mı? 	belki	10
+1 Fred ofise gitti.
+2 Julie parka gitti.
+3 Fred ofiste mi? 	evet	1
+4 Fred sinemada.
+5 Fred ofiste.
+6 Fred ofiste mi? 	evet	5
+7 Julie salona gitti.
+8 Bill mutfağa gitti.
+9 Bill sinemada mı? 	hayır	8
+10 Julie sinemadayım.
+11 Fred okulda.
+12 Fred mutfakta mı? 	hayır	11
+13 Fred parkta.
+14 Julie salonda.
+15 Julie sinemada mı? 	hayır	14
+1 Fred sinemaya gitti.
+2 Bill sinemada.
+3 Bill sinemada mı? 	evet	2
+4 Mary mutfakta veya salonda.
+5 Mary ofise gitti.
+6 Mary ofiste mi? 	evet	5
+7 Fred ofise gitti.
+8 Julie parka geri döndü.
+9 Bill parkta mı? 	hayır	2
+10 Bill parkta veya okulda.
+11 Fred parkta veya okulda.
+12 Fred salonda mı? 	hayır	11
+13 Fred ofiste veya salonda.
+14 Julie ofiste veya okulda.
+15 Julie mutfakta mı? 	hayır	14
+1 Bill ofise gitti.
+2 Bill sinemaya gitti.
+3 Bill sinemada mı? 	evet	2
+4 Julie salonda.
+5 Mary mutfakta veya mutfakta.
+6 Mary mutfakta mı? 	belki	5
+7 Julie sinemaya gitti.
+8 Fred mutfağa gitti.
+9 Julie parkta mı? 	hayır	7
+10 Fred okulda veya ofiste.
+11 Fred sinemada.
+12 Mary salonda mı? 	hayır	5
+13 Fred okula gitti.
+14 Fred parka gitti.
+15 Fred parkta mı? 	evet	14
+1 Fred salona gitti.
+2 Julie mutfakta veya mutfakta.
+3 Julie sinemada mı? 	hayır	2
+4 Julie sinemaya geri döndü.
+5 Julie mutfağa gitti.
+6 Fred parkta mı? 	hayır	1
+7 Bill parkta.
+8 Julie salona gitti.
+9 Julie salonda mı? 	evet	8
+10 Fred sinemada.
+11 Bill ofise gitti.
+12 Julie salonda mı? 	evet	8
+13 Fred mutfağa gitti.
+14 Fred salona gitti.
+15 Bill salonda mı? 	hayır	11
+1 Mary ofise gitti.
+2 Julie parkta.
+3 Julie parkta mı? 	evet	2
+4 Mary mutfağa gitti.
+5 Fred parkta veya ofiste.
+6 Mary okulda mı? 	hayır	4
+7 Fred sinemaya geri döndü.
+8 Mary ofise gitti.
+9 Mary ofiste mi? 	evet	8
+10 Mary okulda.
+11 Bill sinemada.
+12 Fred parkta mı? 	hayır	7
+13 Mary parkta.
+14 Bill parkta veya parkta.
+15 Mary parkta mı? 	evet	13
+1 Fred salona gitti.
+2 Mary okulda.
+3 Mary okulda mı? 	evet	2
+4 Bill ofiste.
+5 Julie salona gitti.
+6 Fred salonda mı? 	evet	1
+7 Mary sinemada.
+8 Bill salona geri döndü.
+9 Bill ofiste mi? 	hayır	8
+10 Fred parka geri döndü.
+11 Julie okula gitti.
+12 Bill salonda mı? 	evet	8
+13 Julie ofise gitti.
+14 Bill ofiste.
+15 Bill ofiste mi? 	evet	14
+1 Julie ofise gitti.
+2 Julie salonda.
+3 Julie okulda mı? 	hayır	2
+4 Mary mutfakta veya salonda.
+5 Mary mutfağa gitti.
+6 Mary mutfakta mı? 	evet	5
+7 Julie ofiste veya ofiste.
+8 Fred mutfakta veya salonda.
+9 Mary sinemada mı? 	hayır	5
+10 Julie parkta gitti.
+11 Mary parkta.
+12 Mary okulda mı? 	hayır	11
+13 Julie mutfağa gitti.
+14 Fred sinemaya gitti.
+15 Julie mutfakta mı? 	evet	13
+1 Mary salona gitti.
+2 Mary okula gitti.
+3 Mary parkta mı? 	hayır	2
+4 Bill sinemaya gitti.
+5 Fred mutfakta veya sinemada.
+6 Fred okulda mı? 	hayır	5
+7 Fred parkta.
+8 Julie okulda veya sinemada.
+9 Bill sinemada mı? 	evet	4
+10 Bill ofiste veya salonda.
+11 Mary sinemaya gitti.
+12 Fred parkta mı? 	evet	7
+13 Mary salona geri döndü.
+14 Julie ofiste.
+15 Bill salonda mı? 	belki	10
+1 Mary salonda veya sinemada.
+2 Mary salona gitti.
+3 Mary parkta mı? 	hayır	2
+4 Bill salonda.
+5 Fred salonda veya okulda.
+6 Mary mutfakta mı? 	hayır	2
+7 Fred salona gitti.
+8 Bill okula gitti.
+9 Bill salonda mı? 	hayır	8
+10 Mary sinemaya gitti.
+11 Fred parkta.
+12 Fred parkta mı? 	evet	11
+13 Mary ofiste veya salonda.
+14 Fred mutfakta.
+15 Mary ofiste mi? 	belki	13

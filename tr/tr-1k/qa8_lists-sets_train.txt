@@ -1,0 +1,3712 @@
+1 Mary banyoya gitti.
+2 Sandra salona gitti.
+3 Mary oradaki topu aldı.
+4 John mutfağa gitti.
+5 Mary ne taşıyor? 	top	3
+6 John salona gitti.
+7 Mary topu bıraktı.
+8 Mary ne taşıyor? 	hiç	3 7
+9 Mary topu oraya aldı.
+10 Sandra ofise geri döndü.
+11 Mary ne taşıyor? 	top	3 7 9
+12 Sandra oradaki sütü aldı.
+13 Mary salona gitti.
+14 Sandra ne taşıyor? 	süt	12
+15 Sandra bahçeye gitti.
+16 Daniel koridora gitti.
+17 Sandra ne taşıyor? 	süt	12
+1 Sandra salona geri döndü.
+2 Daniel oradaki topu aldı.
+3 Daniel ne taşıyor? 	top	2
+4 John ofise geri döndü.
+5 Mary oradaki sütü aldı.
+6 Mary ne taşıyor? 	süt	5
+7 Mary mutfağa gitti.
+8 John oradaki elmayı aldı.
+9 Daniel ne taşıyor? 	top	2
+10 Daniel salona gitti.
+11 Daniel banyoya gitti.
+12 John ne taşıyor? 	elma	8
+13 John elmayı bıraktı.
+14 John bahçeye gitti.
+15 John ne taşıyor? 	hiç	8 13
+1 Sandra oradaki topu aldı.
+2 Sandra oraya topu bıraktı.
+3 Sandra ne taşıyor? 	hiç	1 2
+4 Mary bahçeye gitti.
+5 John oradaki sütü aldı.
+6 John ne taşıyor? 	süt	5
+7 John banyoya gitti.
+8 Sandra bahçeye gitti.
+9 Sandra ne taşıyor? 	hiç	1 2
+10 Daniel salona gitti.
+11 John sütü bıraktı.
+12 John ne taşıyor? 	hiç	5 11
+13 Daniel banyoya geri döndü.
+14 Daniel koridora gitti.
+15 John ne taşıyor? 	hiç	5 11
+1 Daniel banyoya gitti.
+2 Sandra ofise gitti.
+3 John ofise gitti.
+4 Mary oradaki sütü aldı.
+5 Mary ne taşıyor? 	süt	4
+6 John mutfağa gitti.
+7 Daniel mutfağa gitti.
+8 Mary ne taşıyor? 	süt	4
+9 Mary sütü bıraktı.
+10 Daniel ofise gitti.
+11 Mary ne taşıyor? 	hiç	4 9
+12 Daniel salona geri döndü.
+13 Mary salona geri döndü.
+14 Mary ne taşıyor? 	hiç	4 9
+15 John salona gitti.
+16 Sandra oradaki sütü aldı.
+17 Sandra ne taşıyor? 	süt	16
+1 Daniel oradaki elmayı aldı.
+2 Daniel elmayı bıraktı.
+3 Daniel ne taşıyor? 	hiç	1 2
+4 Mary oradaki sütü aldı.
+5 Daniel elmayı oraya aldı.
+6 Mary ne taşıyor? 	süt	4
+7 Mary sütü oraya bıraktı.
+8 John oradaki topu aldı.
+9 Daniel ne taşıyor? 	elma	1 2 5
+10 Mary oradaki sütü aldı.
+11 John mutfağa gitti.
+12 Mary ne taşıyor? 	süt	4 7 10
+13 Mary sütü bıraktı.
+14 John topu bıraktı.
+15 Mary ne taşıyor? 	hiç	4 7 10 13
+1 John salona gitti.
+2 Mary ofise gitti.
+3 John oradaki sütü aldı.
+4 Sandra koridora gitti.
+5 John ne taşıyor? 	süt	3
+6 Daniel salona gitti.
+7 John sütü bıraktı.
+8 John ne taşıyor? 	hiç	3 7
+9 Sandra oradaki topu aldı.
+10 Daniel oradaki sütü aldı.
+11 Daniel ne taşıyor? 	süt	10
+12 Daniel sütü bıraktı.
+13 Daniel oradaki sütü aldı.
+14 Daniel ne taşıyor? 	süt	10 12 13
+15 John banyoya gitti.
+16 Mary banyoya geri döndü.
+17 Daniel ne taşıyor? 	süt	10 12 13
+1 Daniel banyoya gitti.
+2 Daniel salona geri döndü.
+3 Mary salona gitti.
+4 Mary oradaki sütü aldı.
+5 Mary ne taşıyor? 	süt	4
+6 Mary sütü bıraktı.
+7 Daniel topu oradan aldı.
+8 Mary ne taşıyor? 	hiç	4 6
+9 Mary oradaki sütü aldı.
+10 Mary sütü bıraktı.
+11 Daniel ne taşıyor? 	top	7
+12 Daniel topu bıraktı.
+13 Daniel oradaki topu aldı.
+14 Daniel ne taşıyor? 	top	7 12 13
+15 Mary oradaki sütü aldı.
+16 Mary sütü bıraktı.
+17 Daniel ne taşıyor? 	top	7 12 13
+1 Daniel mutfağa gitti.
+2 Daniel koridora gitti.
+3 Mary salona geri döndü.
+4 Daniel oradaki elmayı aldı.
+5 Daniel ne taşıyor? 	elma	4
+6 John banyoya gitti.
+7 Sandra koridora geri döndü.
+8 Daniel ne taşıyor? 	elma	4
+9 Mary topu oraya aldı.
+10 Daniel elmayı bıraktı.
+11 Daniel ne taşıyor? 	hiç	4 10
+12 John ofise gitti.
+13 Mary topu bıraktı.
+14 Mary ne taşıyor? 	hiç	9 13
+15 Sandra oradaki elmayı aldı.
+16 Mary banyoya gitti.
+17 Daniel ne taşıyor? 	hiç	4 10
+1 Mary mutfağa gitti.
+2 Sandra mutfağa gitti.
+3 Daniel ofise gitti.
+4 John topu oraya aldı.
+5 John ne taşıyor? 	top	4
+6 John topu bıraktı.
+7 John mutfağa geri döndü.
+8 John ne taşıyor? 	hiç	4 6
+9 Daniel oradaki topu aldı.
+10 Sandra koridora gitti.
+11 John ne taşıyor? 	hiç	4 6
+12 Mary salona geri döndü.
+13 Mary oradaki elmayı aldı.
+14 Mary ne taşıyor? 	elma	13
+15 Mary elmayı bıraktı.
+16 John salona gitti.
+17 Mary ne taşıyor? 	hiç	13 15
+1 Daniel ofise gitti.
+2 Mary salona geri döndü.
+3 Sandra banyoya gitti.
+4 Daniel bahçeye gitti.
+5 Daniel oradaki topu aldı.
+6 Daniel topu oraya bıraktı.
+7 Daniel ne taşıyor? 	hiç	5 6
+8 Sandra bahçeye gitti.
+9 Sandra topu oraya aldı.
+10 Daniel ne taşıyor? 	hiç	5 6
+11 John banyoya gitti.
+12 John ofise gitti.
+13 Sandra ne taşıyor? 	top	9
+14 Sandra topu bıraktı.
+15 Daniel oradaki topu aldı.
+16 Daniel ne taşıyor? 	top	5 6 15
+17 Daniel topu bıraktı.
+18 Daniel oradaki topu aldı.
+19 Daniel ne taşıyor? 	top	5 6 15 17 18
+1 Sandra koridora gitti.
+2 John mutfağa gitti.
+3 Sandra banyoya gitti.
+4 Daniel oradaki topu aldı.
+5 Daniel ne taşıyor? 	top	4
+6 Daniel oraya topu bıraktı.
+7 Mary topu oradan aldı.
+8 Mary ne taşıyor? 	top	7
+9 Mary ofise gitti.
+10 Mary oradaki elmayı aldı.
+11 Mary ne taşıyor? 	top,elma	7 10
+12 Daniel salona geri döndü.
+13 Mary topu bıraktı.
+14 Mary ne taşıyor? 	elma	7 13 10
+15 Mary topu oradan aldı.
+16 Daniel oradaki sütü aldı.
+17 Mary ne taşıyor? 	top,elma	7 13 15 10
+1 Sandra ofise gitti.
+2 Daniel ofise gitti.
+3 Mary ofise gitti.
+4 Daniel salona gitti.
+5 John bahçeye gitti.
+6 Daniel koridora geri döndü.
+7 John koridora gitti.
+8 John oradaki topu aldı.
+9 John ne taşıyor? 	top	8
+10 Daniel oradaki sütü aldı.
+11 John ofise gitti.
+12 John ne taşıyor? 	top	8
+13 John topu oraya bıraktı.
+14 Daniel sütü bıraktı.
+15 Daniel ne taşıyor? 	hiç	10 14
+16 Sandra salona gitti.
+17 Daniel oradaki sütü aldı.
+18 Daniel ne taşıyor? 	süt	10 14 17
+19 Daniel mutfağa gitti.
+20 Daniel bahçeye gitti.
+21 Daniel ne taşıyor? 	süt	10 14 17
+1 Mary banyoya gitti.
+2 John oradaki elmayı aldı.
+3 John ne taşıyor? 	elma	2
+4 Daniel ofise gitti.
+5 Mary mutfağa gitti.
+6 John ne taşıyor? 	elma	2
+7 Daniel salona geri döndü.
+8 Mary oradaki topu aldı.
+9 Mary ne taşıyor? 	top	8
+10 Daniel mutfağa gitti.
+11 Mary bahçeye gitti.
+12 Mary ne taşıyor? 	top	8
+13 Mary topu bıraktı.
+14 Sandra banyoya gitti.
+15 Mary ne taşıyor? 	hiç	8 13
+1 Mary oradaki sütü aldı.
+2 Mary ofise gitti.
+3 Mary ne taşıyor? 	süt	1
+4 Mary oradaki elmayı aldı.
+5 Sandra salona gitti.
+6 Mary ne taşıyor? 	süt,elma	1 4
+7 Mary sütü bıraktı.
+8 Mary elmayı bıraktı.
+9 Mary ne taşıyor? 	hiç	1 7 4 8
+10 Sandra oradaki topu aldı.
+11 Sandra ofise gitti.
+12 Mary ne taşıyor? 	hiç	1 7 4 8
+13 Sandra oradaki elmayı aldı.
+14 Daniel oradaki sütü aldı.
+15 Sandra ne taşıyor? 	top,elma	10 13
+1 Mary koridora gitti.
+2 Daniel ofise gitti.
+3 Mary topu oraya aldı.
+4 Mary bahçeye gitti.
+5 Mary ne taşıyor? 	top	3
+6 Mary ofise geri döndü.
+7 Daniel banyoya gitti.
+8 Mary ne taşıyor? 	top	3
+9 Mary topu bıraktı.
+10 Mary oradaki elmayı aldı.
+11 Mary ne taşıyor? 	elma	3 9 10
+12 Daniel salona geri döndü.
+13 Sandra koridora gitti.
+14 Mary ne taşıyor? 	elma	3 9 10
+15 Daniel banyoya gitti.
+16 John bahçeye gitti.
+17 Mary ne taşıyor? 	elma	3 9 10
+1 Sandra ofise gitti.
+2 Mary ofise geri döndü.
+3 Mary oradaki elmayı aldı.
+4 Mary koridora geri döndü.
+5 Mary ne taşıyor? 	elma	3
+6 Daniel koridora geri döndü.
+7 Mary salona geri döndü.
+8 Mary ne taşıyor? 	elma	3
+9 Mary salona gitti.
+10 John banyoya gitti.
+11 Mary koridora geri döndü.
+12 Mary topu oraya aldı.
+13 Mary ne taşıyor? 	elma,top	3 12
+14 Sandra banyoya gitti.
+15 Mary mutfağa gitti.
+16 Mary ne taşıyor? 	elma,top	3 12
+17 Mary topu bıraktı.
+18 Mary elmayı bıraktı.
+19 Mary ne taşıyor? 	hiç	3 18 12 17
+1 Mary bahçeye gitti.
+2 Daniel koridora gitti.
+3 Sandra oradaki sütü aldı.
+4 John banyoya gitti.
+5 Sandra ne taşıyor? 	süt	3
+6 Sandra sütü bıraktı.
+7 Sandra oradaki sütü aldı.
+8 Sandra ne taşıyor? 	süt	3 6 7
+9 Mary banyoya gitti.
+10 Sandra sütü bıraktı.
+11 Sandra ne taşıyor? 	hiç	3 6 7 10
+12 John salona geri döndü.
+13 Mary mutfağa geri döndü.
+14 Sandra ne taşıyor? 	hiç	3 6 7 10
+15 Mary bahçeye gitti.
+16 John topu oraya aldı.
+17 Sandra ne taşıyor? 	hiç	3 6 7 10
+1 Daniel mutfağa geri döndü.
+2 Mary oradaki elmayı aldı.
+3 Mary ne taşıyor? 	elma	2
+4 Sandra mutfağa geri döndü.
+5 Mary elmayı bıraktı.
+6 Mary ne taşıyor? 	hiç	2 5
+7 John ofise gitti.
+8 John koridora gitti.
+9 Mary ne taşıyor? 	hiç	2 5
+10 Daniel banyoya geri döndü.
+11 Daniel oradaki elmayı aldı.
+12 Daniel ne taşıyor? 	elma	11
+13 Daniel elmayı bıraktı.
+14 Daniel mutfağa gitti.
+15 Daniel ne taşıyor? 	hiç	11 13
+1 John ofise gitti.
+2 Daniel bahçeye gitti.
+3 Sandra oradaki sütü aldı.
+4 Mary ofise gitti.
+5 Sandra ne taşıyor? 	süt	3
+6 Sandra sütü bıraktı.
+7 Mary mutfağa gitti.
+8 Sandra ne taşıyor? 	hiç	3 6
+9 Sandra oradaki sütü aldı.
+10 Daniel banyoya geri döndü.
+11 Sandra ne taşıyor? 	süt	3 6 9
+12 Sandra topu oraya aldı.
+13 Sandra topu bıraktı.
+14 Sandra ne taşıyor? 	süt	3 6 9 12 13
+15 Mary salona gitti.
+16 Mary topu oradan aldı.
+17 Mary ne taşıyor? 	top	16
+1 Mary salona gitti.
+2 Mary elmayı oraya aldı.
+3 Mary ne taşıyor? 	elma	2
+4 Daniel banyoya gitti.
+5 Mary ofise gitti.
+6 Mary ne taşıyor? 	elma	2
+7 Mary koridora gitti.
+8 Mary bahçeye gitti.
+9 Mary ne taşıyor? 	elma	2
+10 John ofise geri döndü.
+11 John koridora geri döndü.
+12 Sandra mutfağa gitti.
+13 Mary elmayı bıraktı.
+14 Mary ne taşıyor? 	hiç	2 13
+15 John ofise gitti.
+16 Mary banyoya gitti.
+17 Mary ne taşıyor? 	hiç	2 13
+1 John banyoya gitti.
+2 Mary banyoya gitti.
+3 Daniel banyoya geri döndü.
+4 Mary mutfağa gitti.
+5 John mutfağa gitti.
+6 Daniel koridora gitti.
+7 John koridora gitti.
+8 Mary oradaki sütü aldı.
+9 Mary ne taşıyor? 	süt	8
+10 Daniel bahçeye gitti.
+11 John mutfağa geri döndü.
+12 Mary ne taşıyor? 	süt	8
+13 Mary sütü bıraktı.
+14 Mary oradaki sütü aldı.
+15 Mary ne taşıyor? 	süt	8 13 14
+16 Sandra koridora gitti.
+17 John ofise gitti.
+18 Mary ne taşıyor? 	süt	8 13 14
+19 Sandra mutfağa geri döndü.
+20 Mary sütü oraya bıraktı.
+21 Mary ne taşıyor? 	hiç	8 13 14 20
+1 John oradaki elmayı aldı.
+2 John elmayı oraya bıraktı.
+3 John ne taşıyor? 	hiç	1 2
+4 Sandra elmayı oraya aldı.
+5 John koridora gitti.
+6 Sandra ne taşıyor? 	elma	4
+7 John salona geri döndü.
+8 Mary mutfağa gitti.
+9 Sandra ne taşıyor? 	elma	4
+10 Mary oradaki sütü aldı.
+11 Sandra elmayı bıraktı.
+12 Mary ne taşıyor? 	süt	10
+13 Mary koridora gitti.
+14 Mary bahçeye gitti.
+15 Mary ne taşıyor? 	süt	10
+1 Sandra mutfağa gitti.
+2 John oradaki sütü aldı.
+3 John ne taşıyor? 	süt	2
+4 Sandra banyoya gitti.
+5 Mary bahçeye gitti.
+6 John ne taşıyor? 	süt	2
+7 Mary banyoya gitti.
+8 Mary bahçeye gitti.
+9 John ne taşıyor? 	süt	2
+10 John sütü oraya bıraktı.
+11 Daniel oradaki elmayı aldı.
+12 Daniel ne taşıyor? 	elma	11
+13 John mutfağa gitti.
+14 John banyoya geri döndü.
+15 Daniel ne taşıyor? 	elma	11
+1 John salona gitti.
+2 John mutfağa gitti.
+3 Mary salona gitti.
+4 Daniel koridora geri döndü.
+5 Sandra mutfağa geri döndü.
+6 John oradaki sütü aldı.
+7 John ne taşıyor? 	süt	6
+8 Daniel topu oradan aldı.
+9 Daniel salona gitti.
+10 Daniel ne taşıyor? 	top	8
+11 Daniel mutfağa geri döndü.
+12 John sütü bıraktı.
+13 Daniel ne taşıyor? 	top	8
+14 Sandra ofise gitti.
+15 Mary bahçeye gitti.
+16 John ne taşıyor? 	hiç	6 12
+17 Daniel oradaki sütü aldı.
+18 Mary salona geri döndü.
+19 Daniel ne taşıyor? 	top,süt	8 17
+1 Mary bahçeye gitti.
+2 Mary salona gitti.
+3 John koridora gitti.
+4 Daniel banyoya gitti.
+5 Daniel ofise gitti.
+6 Daniel mutfağa geri döndü.
+7 John salona geri döndü.
+8 Mary bahçeye gitti.
+9 John salona gitti.
+10 John mutfağa gitti.
+11 Daniel ofise gitti.
+12 John banyoya gitti.
+13 Daniel koridora gitti.
+14 Daniel oradaki elmayı aldı.
+15 Daniel ne taşıyor? 	elma	14
+16 John oradaki sütü aldı.
+17 Daniel salona gitti.
+18 Daniel ne taşıyor? 	elma	14
+19 Daniel koridora gitti.
+20 Daniel ofise gitti.
+21 John ne taşıyor? 	süt	16
+22 John sütü bıraktı.
+23 Daniel elmayı oraya bıraktı.
+24 John ne taşıyor? 	hiç	16 22
+25 John ofise gitti.
+26 John banyoya gitti.
+27 John ne taşıyor? 	hiç	16 22
+1 Sandra mutfağa gitti.
+2 Sandra topu oraya aldı.
+3 Sandra ne taşıyor? 	top	2
+4 Sandra topu bıraktı.
+5 Sandra oradaki topu aldı.
+6 Sandra ne taşıyor? 	top	2 4 5
+7 Mary bahçeye gitti.
+8 Sandra topu bıraktı.
+9 Sandra ne taşıyor? 	hiç	2 4 5 8
+10 Daniel ofise geri döndü.
+11 Sandra salona gitti.
+12 Sandra ne taşıyor? 	hiç	2 4 5 8
+13 Daniel oradaki elmayı aldı.
+14 Daniel elmayı bıraktı.
+15 Sandra ne taşıyor? 	hiç	2 4 5 8
+1 Mary banyoya gitti.
+2 John ofise gitti.
+3 Sandra banyoya gitti.
+4 Sandra topu oradan aldı.
+5 Sandra ne taşıyor? 	top	4
+6 Daniel oradaki elmayı aldı.
+7 Daniel mutfağa gitti.
+8 Daniel ne taşıyor? 	elma	6
+9 John koridora gitti.
+10 John banyoya geri döndü.
+11 Sandra ne taşıyor? 	top	4
+12 John ofise gitti.
+13 Sandra topu bıraktı.
+14 Sandra ne taşıyor? 	hiç	4 13
+15 Daniel elmayı bıraktı.
+16 Daniel salona geri döndü.
+17 Daniel ne taşıyor? 	hiç	6 15
+1 Sandra bahçeye gitti.
+2 Sandra koridora geri döndü.
+3 Sandra banyoya gitti.
+4 Daniel bahçeye gitti.
+5 Mary ofise geri döndü.
+6 Mary bahçeye gitti.
+7 Mary salona geri döndü.
+8 Mary ofise gitti.
+9 Sandra koridora geri döndü.
+10 Sandra banyoya geri döndü.
+11 Mary mutfağa gitti.
+12 Mary ofise gitti.
+13 Daniel mutfağa gitti.
+14 Sandra ofise gitti.
+15 Mary mutfağa gitti.
+16 Daniel koridora gitti.
+17 Daniel topu oraya aldı.
+18 Daniel oradaki sütü aldı.
+19 Daniel ne taşıyor? 	top,süt	17 18
+20 John mutfağa gitti.
+21 Daniel sütü bıraktı.
+22 Daniel ne taşıyor? 	top	17 18 21
+23 Mary koridora gitti.
+24 Daniel topu oraya bıraktı.
+25 Daniel ne taşıyor? 	hiç	17 24 18 21
+26 Daniel oradaki sütü aldı.
+27 Daniel salona gitti.
+28 Daniel ne taşıyor? 	süt	17 24 18 21 26
+29 Daniel sütü bıraktı.
+30 John salona gitti.
+31 Daniel ne taşıyor? 	hiç	17 24 18 21 26 29
+1 Daniel koridora gitti.
+2 Daniel salona geri döndü.
+3 John salona gitti.
+4 Sandra salona gitti.
+5 Daniel koridora geri döndü.
+6 Sandra mutfağa gitti.
+7 John oradaki elmayı aldı.
+8 Sandra salona geri döndü.
+9 John ne taşıyor? 	elma	7
+10 John elmayı bıraktı.
+11 Daniel banyoya gitti.
+12 John ne taşıyor? 	hiç	7 10
+13 Daniel topu oradan aldı.
+14 Daniel ofise gitti.
+15 John ne taşıyor? 	hiç	7 10
+16 John banyoya gitti.
+17 Daniel topu bıraktı.
+18 Daniel ne taşıyor? 	hiç	13 17
+19 Sandra banyoya gitti.
+20 Daniel koridora geri döndü.
+21 Daniel ne taşıyor? 	hiç	13 17
+1 Sandra oradaki elmayı aldı.
+2 Mary bahçeye gitti.
+3 Sandra ne taşıyor? 	elma	1
+4 Sandra oradaki topu aldı.
+5 Daniel mutfağa gitti.
+6 Sandra ne taşıyor? 	elma,top	1 4
+7 Sandra elmayı bıraktı.
+8 John ofise gitti.
+9 Sandra ne taşıyor? 	top	1 7 4
+10 Daniel ofise geri döndü.
+11 Sandra oradaki elmayı aldı.
+12 Sandra ne taşıyor? 	elma,top	1 7 11 4
+13 Mary banyoya gitti.
+14 Sandra ofise gitti.
+15 Sandra ne taşıyor? 	elma,top	1 7 11 4
+1 John mutfağa gitti.
+2 Daniel salona gitti.
+3 Mary koridora gitti.
+4 Sandra banyoya gitti.
+5 John ofise geri döndü.
+6 Daniel banyoya gitti.
+7 Daniel mutfağa gitti.
+8 Daniel banyoya gitti.
+9 John salona geri döndü.
+10 Daniel elmayı oraya aldı.
+11 Daniel ne taşıyor? 	elma	10
+12 John salona gitti.
+13 Daniel salona gitti.
+14 Daniel ne taşıyor? 	elma	10
+15 Sandra mutfağa gitti.
+16 Daniel ofise gitti.
+17 Daniel ne taşıyor? 	elma	10
+18 Daniel elmayı bıraktı.
+19 Daniel oradaki elmayı aldı.
+20 Daniel ne taşıyor? 	elma	10 18 19
+21 Sandra oradaki sütü aldı.
+22 Sandra sütü bıraktı.
+23 Daniel ne taşıyor? 	elma	10 18 19
+1 Sandra salona geri döndü.
+2 John ofise gitti.
+3 John banyoya gitti.
+4 Mary oradaki elmayı aldı.
+5 Mary ne taşıyor? 	elma	4
+6 Mary elmayı bıraktı.
+7 Mary koridora gitti.
+8 Mary ne taşıyor? 	hiç	4 6
+9 Daniel oradaki topu aldı.
+10 Sandra salona gitti.
+11 Daniel ne taşıyor? 	top	9
+12 Daniel topu bıraktı.
+13 Mary banyoya gitti.
+14 Daniel ne taşıyor? 	hiç	9 12
+15 Daniel banyoya geri döndü.
+16 Daniel bahçeye gitti.
+17 Daniel ne taşıyor? 	hiç	9 12
+1 John koridora geri döndü.
+2 Mary mutfağa gitti.
+3 Sandra bahçeye gitti.
+4 Mary salona gitti.
+5 Daniel koridora geri döndü.
+6 John ofise geri döndü.
+7 John koridora gitti.
+8 Sandra salona gitti.
+9 John bahçeye gitti.
+10 Mary ofise gitti.
+11 Daniel oradaki sütü aldı.
+12 Daniel banyoya gitti.
+13 Daniel ne taşıyor? 	süt	11
+14 John salona gitti.
+15 Daniel oradaki topu aldı.
+16 Daniel ne taşıyor? 	süt,top	11 15
+17 Daniel elmayı oraya aldı.
+18 Daniel bahçeye gitti.
+19 Daniel ne taşıyor? 	süt,top,elma	11 15 17
+20 Daniel ofise geri döndü.
+21 Daniel elmayı bıraktı.
+22 Daniel ne taşıyor? 	süt,top	11 15 17 21
+23 Sandra banyoya gitti.
+24 Daniel topu bıraktı.
+25 Daniel ne taşıyor? 	süt	11 15 24 17 21
+1 John salona gitti.
+2 Sandra ofise gitti.
+3 Mary oradaki elmayı aldı.
+4 Mary koridora geri döndü.
+5 Mary ne taşıyor? 	elma	3
+6 Mary banyoya geri döndü.
+7 John topu oraya aldı.
+8 Mary ne taşıyor? 	elma	3
+9 John topu bıraktı.
+10 John topu oradan aldı.
+11 John ne taşıyor? 	top	7 9 10
+12 Mary salona gitti.
+13 John banyoya gitti.
+14 John ne taşıyor? 	top	7 9 10
+15 Daniel koridora gitti.
+16 John topu bıraktı.
+17 John ne taşıyor? 	hiç	7 9 10 16
+1 Mary bahçeye gitti.
+2 Sandra bahçeye gitti.
+3 Daniel oradaki elmayı aldı.
+4 Mary topu oraya aldı.
+5 Mary ne taşıyor? 	top	4
+6 Mary ofise gitti.
+7 Daniel koridora geri döndü.
+8 Mary ne taşıyor? 	top	4
+9 Mary mutfağa geri döndü.
+10 John ofise gitti.
+11 Mary ne taşıyor? 	top	4
+12 John oradaki sütü aldı.
+13 John banyoya gitti.
+14 John ne taşıyor? 	süt	12
+15 John mutfağa geri döndü.
+16 Mary ofise gitti.
+17 John ne taşıyor? 	süt	12
+1 Sandra mutfağa gitti.
+2 Daniel oradaki elmayı aldı.
+3 Daniel ne taşıyor? 	elma	2
+4 John koridora gitti.
+5 Daniel mutfağa gitti.
+6 Daniel ne taşıyor? 	elma	2
+7 Daniel oradaki sütü aldı.
+8 John ofise gitti.
+9 Daniel ne taşıyor? 	elma,süt	2 7
+10 Daniel ofise gitti.
+11 Daniel koridora gitti.
+12 Daniel ne taşıyor? 	elma,süt	2 7
+13 Sandra bahçeye gitti.
+14 Sandra ofise gitti.
+15 Mary mutfağa geri döndü.
+16 John bahçeye gitti.
+17 John koridora geri döndü.
+18 Daniel elmayı bıraktı.
+19 Daniel ne taşıyor? 	süt	2 18 7
+1 John oradaki sütü aldı.
+2 John koridora gitti.
+3 John ne taşıyor? 	süt	1
+4 Daniel elmayı oraya aldı.
+5 Daniel banyoya geri döndü.
+6 Daniel ne taşıyor? 	elma	4
+7 Mary banyoya geri döndü.
+8 Mary mutfağa gitti.
+9 Daniel ne taşıyor? 	elma	4
+10 John sütü bıraktı.
+11 Daniel elmayı bıraktı.
+12 Daniel ne taşıyor? 	hiç	4 11
+13 Daniel salona gitti.
+14 Sandra koridora gitti.
+15 John ne taşıyor? 	hiç	1 10
+1 Mary bahçeye gitti.
+2 Mary ofise gitti.
+3 Sandra koridora gitti.
+4 Sandra ofise gitti.
+5 Sandra mutfağa gitti.
+6 Daniel koridora gitti.
+7 John banyoya gitti.
+8 John bahçeye gitti.
+9 Sandra koridora gitti.
+10 Mary koridora gitti.
+11 John salona gitti.
+12 John ofise gitti.
+13 Mary salona gitti.
+14 Daniel bahçeye gitti.
+15 Sandra salona gitti.
+16 Sandra ofise gitti.
+17 Daniel salona geri döndü.
+18 Daniel oradaki sütü aldı.
+19 Daniel ne taşıyor? 	süt	18
+20 John banyoya gitti.
+21 John salona gitti.
+22 Daniel ne taşıyor? 	süt	18
+23 John topu oradan aldı.
+24 Daniel bahçeye gitti.
+25 John ne taşıyor? 	top	23
+26 John topu bıraktı.
+27 Mary oradaki topu aldı.
+28 John ne taşıyor? 	hiç	23 26
+29 Daniel salona gitti.
+30 Sandra koridora gitti.
+31 John ne taşıyor? 	hiç	23 26
+1 Sandra oradaki topu aldı.
+2 Sandra oradaki sütü aldı.
+3 Sandra ne taşıyor? 	top,süt	1 2
+4 Sandra salona geri döndü.
+5 Daniel salona gitti.
+6 Sandra ne taşıyor? 	top,süt	1 2
+7 John koridora gitti.
+8 Daniel banyoya gitti.
+9 Sandra ne taşıyor? 	top,süt	1 2
+10 Sandra sütü bıraktı.
+11 Sandra topu bıraktı.
+12 Sandra ne taşıyor? 	hiç	1 11 2 10
+13 Daniel ofise geri döndü.
+14 John salona gitti.
+15 Sandra ne taşıyor? 	hiç	1 11 2 10
+1 Mary koridora gitti.
+2 John koridora gitti.
+3 Mary banyoya geri döndü.
+4 Daniel salona gitti.
+5 John topu oraya aldı.
+6 John ofise gitti.
+7 John ne taşıyor? 	top	5
+8 John koridora gitti.
+9 Daniel oradaki sütü aldı.
+10 Daniel ne taşıyor? 	süt	9
+11 Daniel sütü bıraktı.
+12 Daniel oradaki sütü aldı.
+13 Daniel ne taşıyor? 	süt	9 11 12
+14 Daniel sütü bıraktı.
+15 Sandra koridora gitti.
+16 Daniel ne taşıyor? 	hiç	9 11 12 14
+17 Sandra ofise geri döndü.
+18 Daniel bahçeye gitti.
+19 Daniel ne taşıyor? 	hiç	9 11 12 14
+1 Sandra oradaki elmayı aldı.
+2 John ofise gitti.
+3 Sandra ne taşıyor? 	elma	1
+4 John mutfağa gitti.
+5 Daniel ofise gitti.
+6 Sandra ne taşıyor? 	elma	1
+7 Sandra elmayı bıraktı.
+8 Sandra oradaki elmayı aldı.
+9 Sandra ne taşıyor? 	elma	1 7 8
+10 Sandra bahçeye gitti.
+11 Sandra elmayı bıraktı.
+12 Sandra ne taşıyor? 	hiç	1 7 8 11
+13 Sandra koridora geri döndü.
+14 Daniel salona gitti.
+15 Sandra ne taşıyor? 	hiç	1 7 8 11
+1 John koridora gitti.
+2 Daniel koridora gitti.
+3 Daniel banyoya gitti.
+4 Daniel salona gitti.
+5 Sandra koridora geri döndü.
+6 Sandra ofise geri döndü.
+7 Daniel ofise geri döndü.
+8 Daniel koridora gitti.
+9 Mary salona geri döndü.
+10 Mary salona gitti.
+11 Daniel ofise gitti.
+12 Mary oradaki sütü aldı.
+13 Mary ne taşıyor? 	süt	12
+14 Daniel salona gitti.
+15 Sandra bahçeye gitti.
+16 Mary ne taşıyor? 	süt	12
+17 Sandra oradaki elmayı aldı.
+18 Mary oradaki topu aldı.
+19 Sandra ne taşıyor? 	elma	17
+20 Mary sütü bıraktı.
+21 Sandra mutfağa gitti.
+22 Mary ne taşıyor? 	top	12 20 18
+23 John banyoya gitti.
+24 Sandra elmayı bıraktı.
+25 Sandra ne taşıyor? 	hiç	17 24
+1 Daniel topu oradan aldı.
+2 John oradaki elmayı aldı.
+3 John ne taşıyor? 	elma	2
+4 John elmayı bıraktı.
+5 John koridora gitti.
+6 John ne taşıyor? 	hiç	2 4
+7 John bahçeye gitti.
+8 Daniel koridora gitti.
+9 John ne taşıyor? 	hiç	2 4
+10 Daniel topu bıraktı.
+11 Daniel oradaki topu aldı.
+12 Daniel ne taşıyor? 	top	1 10 11
+13 John ofise gitti.
+14 John salona geri döndü.
+15 Daniel ne taşıyor? 	top	1 10 11
+1 Mary mutfağa gitti.
+2 John oradaki topu aldı.
+3 John ne taşıyor? 	top	2
+4 John topu bıraktı.
+5 Mary oradaki sütü aldı.
+6 John ne taşıyor? 	hiç	2 4
+7 John topu oraya aldı.
+8 Mary salona gitti.
+9 John ne taşıyor? 	top	2 4 7
+10 Sandra salona gitti.
+11 Sandra bahçeye gitti.
+12 Mary ne taşıyor? 	süt	5
+13 Mary sütü oraya bıraktı.
+14 Sandra koridora gitti.
+15 Mary ne taşıyor? 	hiç	5 13
+1 Sandra oradaki elmayı aldı.
+2 John salona gitti.
+3 Sandra ne taşıyor? 	elma	1
+4 Sandra bahçeye gitti.
+5 Mary mutfağa geri döndü.
+6 Sandra ne taşıyor? 	elma	1
+7 Mary banyoya gitti.
+8 Daniel salona geri döndü.
+9 Daniel ofise gitti.
+10 Sandra elmayı bıraktı.
+11 Sandra ne taşıyor? 	hiç	1 10
+12 John ofise gitti.
+13 John koridora gitti.
+14 Sandra ne taşıyor? 	hiç	1 10
+15 Sandra banyoya gitti.
+16 Mary salona gitti.
+17 Sandra ne taşıyor? 	hiç	1 10
+1 Sandra mutfağa geri döndü.
+2 Daniel salona geri döndü.
+3 Daniel mutfağa gitti.
+4 Daniel salona gitti.
+5 Daniel oradaki sütü aldı.
+6 Daniel sütü bıraktı.
+7 Daniel ne taşıyor? 	hiç	5 6
+8 Daniel banyoya geri döndü.
+9 Daniel bahçeye gitti.
+10 Daniel ne taşıyor? 	hiç	5 6
+11 Daniel topu oraya aldı.
+12 Mary ofise gitti.
+13 Daniel ne taşıyor? 	top	5 6 11
+14 Sandra ofise gitti.
+15 Daniel topu bıraktı.
+16 Daniel ne taşıyor? 	hiç	5 6 11 15
+17 Sandra banyoya gitti.
+18 Mary oradaki elmayı aldı.
+19 Daniel ne taşıyor? 	hiç	5 6 11 15
+1 John mutfağa gitti.
+2 Sandra oradaki topu aldı.
+3 Sandra ne taşıyor? 	top	2
+4 Sandra banyoya gitti.
+5 Daniel oradaki sütü aldı.
+6 Sandra ne taşıyor? 	top	2
+7 Mary salona gitti.
+8 Sandra topu bıraktı.
+9 Sandra ne taşıyor? 	hiç	2 8
+10 Sandra ofise gitti.
+11 Sandra oradaki elmayı aldı.
+12 Daniel ne taşıyor? 	süt	5
+13 Sandra mutfağa gitti.
+14 Sandra ofise gitti.
+15 Sandra ne taşıyor? 	elma	2 8 11
+1 Sandra oradaki sütü aldı.
+2 Mary oradaki topu aldı.
+3 Sandra ne taşıyor? 	süt	1
+4 Mary topu bıraktı.
+5 Mary topu oradan aldı.
+6 Mary ne taşıyor? 	top	2 4 5
+7 Sandra mutfağa geri döndü.
+8 Daniel ofise gitti.
+9 Mary ne taşıyor? 	top	2 4 5
+10 Sandra sütü bıraktı.
+11 Sandra oradaki elmayı aldı.
+12 Sandra ne taşıyor? 	elma	1 10 11
+13 Mary bahçeye gitti.
+14 Daniel koridora gitti.
+15 Sandra ne taşıyor? 	elma	1 10 11
+1 Daniel koridora gitti.
+2 Sandra salona geri döndü.
+3 Daniel banyoya gitti.
+4 Daniel oradaki elmayı aldı.
+5 Daniel ne taşıyor? 	elma	4
+6 Sandra salona gitti.
+7 Daniel elmayı bıraktı.
+8 Daniel ne taşıyor? 	hiç	4 7
+9 Daniel mutfağa gitti.
+10 Sandra koridora gitti.
+11 Daniel ne taşıyor? 	hiç	4 7
+12 Mary salona geri döndü.
+13 John salona gitti.
+14 Daniel ne taşıyor? 	hiç	4 7
+15 Mary mutfağa gitti.
+16 Mary ofise geri döndü.
+17 John ofise gitti.
+18 Daniel oradaki topu aldı.
+19 Daniel ne taşıyor? 	top	4 7 18
+1 John oradaki elmayı aldı.
+2 Sandra koridora gitti.
+3 John ne taşıyor? 	elma	1
+4 John koridora gitti.
+5 Mary bahçeye gitti.
+6 John ne taşıyor? 	elma	1
+7 John bahçeye gitti.
+8 Mary salona gitti.
+9 John elmayı bıraktı.
+10 Mary banyoya gitti.
+11 John ne taşıyor? 	hiç	1 9
+12 Sandra salona gitti.
+13 John oradaki elmayı aldı.
+14 John ne taşıyor? 	elma	1 9 13
+15 John ofise gitti.
+16 John salona gitti.
+17 John ne taşıyor? 	elma	1 9 13
+1 Daniel ofise gitti.
+2 Daniel oradaki elmayı aldı.
+3 Daniel ne taşıyor? 	elma	2
+4 Mary banyoya gitti.
+5 Mary koridora geri döndü.
+6 Daniel ne taşıyor? 	elma	2
+7 Daniel elmayı bıraktı.
+8 John ofise gitti.
+9 Daniel ne taşıyor? 	hiç	2 7
+10 Daniel salona gitti.
+11 Daniel oradaki topu aldı.
+12 Daniel ne taşıyor? 	top	2 7 11
+13 John oradaki elmayı aldı.
+14 John elmayı bıraktı.
+15 John ne taşıyor? 	hiç	13 14
+1 Daniel ofise gitti.
+2 Daniel banyoya geri döndü.
+3 Sandra salona gitti.
+4 Daniel topu oraya aldı.
+5 Daniel ne taşıyor? 	top	4
+6 Daniel salona gitti.
+7 John ofise gitti.
+8 Daniel ne taşıyor? 	top	4
+9 Daniel koridora gitti.
+10 Daniel topu bıraktı.
+11 Daniel ne taşıyor? 	hiç	4 10
+12 Mary oradaki elmayı aldı.
+13 Daniel banyoya geri döndü.
+14 Mary ne taşıyor? 	elma	12
+15 Mary mutfağa gitti.
+16 Sandra bahçeye gitti.
+17 Mary ne taşıyor? 	elma	12
+1 Sandra mutfağa gitti.
+2 John bahçeye gitti.
+3 Sandra oradaki sütü aldı.
+4 Sandra bahçeye gitti.
+5 Sandra ne taşıyor? 	süt	3
+6 John salona gitti.
+7 Sandra banyoya gitti.
+8 Sandra ne taşıyor? 	süt	3
+9 Sandra ofise gitti.
+10 Sandra mutfağa gitti.
+11 Sandra sütü bıraktı.
+12 Sandra banyoya gitti.
+13 Sandra ne taşıyor? 	hiç	3 11
+14 Daniel koridora gitti.
+15 Daniel salona geri döndü.
+16 Sandra ne taşıyor? 	hiç	3 11
+17 Mary salona gitti.
+18 Daniel salona geri döndü.
+19 Daniel oradaki elmayı aldı.
+20 Mary mutfağa gitti.
+21 Daniel ne taşıyor? 	elma	19
+1 Daniel oradaki elmayı aldı.
+2 John banyoya gitti.
+3 Daniel ne taşıyor? 	elma	1
+4 Sandra bahçeye gitti.
+5 Daniel banyoya gitti.
+6 Daniel ne taşıyor? 	elma	1
+7 John mutfağa gitti.
+8 Mary salona gitti.
+9 Daniel elmayı bıraktı.
+10 Daniel oradaki elmayı aldı.
+11 Daniel ne taşıyor? 	elma	1 9 10
+12 Mary mutfağa gitti.
+13 Daniel elmayı bıraktı.
+14 Daniel ne taşıyor? 	hiç	1 9 10 13
+15 Mary bahçeye gitti.
+16 Daniel oradaki elmayı aldı.
+17 Daniel ne taşıyor? 	elma	1 9 10 13 16
+1 Mary mutfağa gitti.
+2 Daniel koridora gitti.
+3 Sandra oradaki sütü aldı.
+4 Mary salona geri döndü.
+5 Sandra ne taşıyor? 	süt	3
+6 John topu oradan aldı.
+7 John mutfağa geri döndü.
+8 John ne taşıyor? 	top	6
+9 John topu oraya bıraktı.
+10 Mary mutfağa gitti.
+11 John ne taşıyor? 	hiç	6 9
+12 Sandra banyoya gitti.
+13 John oradaki topu aldı.
+14 John ne taşıyor? 	top	6 9 13
+15 John banyoya gitti.
+16 John mutfağa gitti.
+17 John ne taşıyor? 	top	6 9 13
+1 Sandra koridora geri döndü.
+2 Daniel salona gitti.
+3 Daniel oradaki elmayı aldı.
+4 Daniel elmayı bıraktı.
+5 Daniel ne taşıyor? 	hiç	3 4
+6 Mary ofise gitti.
+7 Sandra ofise gitti.
+8 Daniel ne taşıyor? 	hiç	3 4
+9 Daniel bahçeye gitti.
+10 Sandra oradaki sütü aldı.
+11 Sandra ne taşıyor? 	süt	10
+12 John koridora geri döndü.
+13 Sandra salona gitti.
+14 Sandra ne taşıyor? 	süt	10
+15 Sandra sütü oraya bıraktı.
+16 John bahçeye gitti.
+17 Sandra ne taşıyor? 	hiç	10 15
+1 Daniel topu oraya aldı.
+2 Daniel banyoya gitti.
+3 Daniel ne taşıyor? 	top	1
+4 Daniel topu bıraktı.
+5 Daniel topu oraya aldı.
+6 Daniel ne taşıyor? 	top	1 4 5
+7 Daniel topu bıraktı.
+8 Mary ofise gitti.
+9 Daniel ne taşıyor? 	hiç	1 4 5 7
+10 Daniel topu oradan aldı.
+11 Daniel topu oraya bıraktı.
+12 Daniel ne taşıyor? 	hiç	1 4 5 7 10 11
+13 Sandra banyoya gitti.
+14 Mary bahçeye gitti.
+15 Daniel ne taşıyor? 	hiç	1 4 5 7 10 11
+1 Daniel mutfağa gitti.
+2 Daniel elmayı oraya aldı.
+3 Daniel ne taşıyor? 	elma	2
+4 John ofise gitti.
+5 Daniel elmayı bıraktı.
+6 Daniel ne taşıyor? 	hiç	2 5
+7 Daniel elmayı oraya aldı.
+8 Daniel elmayı bıraktı.
+9 Daniel ne taşıyor? 	hiç	2 5 7 8
+10 Daniel oradaki elmayı aldı.
+11 Mary salona gitti.
+12 Daniel ne taşıyor? 	elma	2 5 7 8 10
+13 Daniel elmayı bıraktı.
+14 Mary topu oradan aldı.
+15 Daniel ne taşıyor? 	hiç	2 5 7 8 10 13
+1 Sandra salona gitti.
+2 Sandra ofise gitti.
+3 John salona gitti.
+4 Mary koridora gitti.
+5 Sandra mutfağa gitti.
+6 Mary mutfağa gitti.
+7 Sandra salona geri döndü.
+8 Mary ofise gitti.
+9 Daniel salona gitti.
+10 Daniel mutfağa gitti.
+11 Mary mutfağa gitti.
+12 Sandra ofise geri döndü.
+13 Mary koridora gitti.
+14 Sandra bahçeye gitti.
+15 Daniel ofise gitti.
+16 Sandra ofise gitti.
+17 Mary ofise gitti.
+18 Daniel banyoya geri döndü.
+19 Daniel bahçeye gitti.
+20 Daniel banyoya gitti.
+21 John koridora gitti.
+22 Mary bahçeye gitti.
+23 Daniel salona gitti.
+24 John mutfağa gitti.
+25 Mary ofise gitti.
+26 Daniel bahçeye gitti.
+27 Daniel koridora gitti.
+28 John ofise gitti.
+29 Mary bahçeye gitti.
+30 Sandra banyoya gitti.
+31 Sandra oradaki sütü aldı.
+32 Daniel banyoya gitti.
+33 Sandra ne taşıyor? 	süt	31
+34 Daniel mutfağa gitti.
+35 Sandra sütü oraya bıraktı.
+36 Sandra ne taşıyor? 	hiç	31 35
+37 Sandra salona gitti.
+38 Daniel ofise gitti.
+39 Sandra ne taşıyor? 	hiç	31 35
+40 Daniel bahçeye gitti.
+41 Sandra koridora gitti.
+42 Sandra ne taşıyor? 	hiç	31 35
+43 Sandra salona gitti.
+44 John mutfağa gitti.
+45 John salona geri döndü.
+46 John koridora gitti.
+47 John banyoya gitti.
+48 Daniel banyoya gitti.
+49 Daniel oradaki topu aldı.
+50 Sandra bahçeye gitti.
+51 Daniel ne taşıyor? 	top	49
+1 Sandra mutfağa gitti.
+2 John oradaki sütü aldı.
+3 John ne taşıyor? 	süt	2
+4 John sütü bıraktı.
+5 Daniel banyoya geri döndü.
+6 John ne taşıyor? 	hiç	2 4
+7 Mary oradaki sütü aldı.
+8 Mary koridora gitti.
+9 Mary ne taşıyor? 	süt	7
+10 Sandra ofise geri döndü.
+11 Mary salona gitti.
+12 Mary ne taşıyor? 	süt	7
+13 John salona gitti.
+14 Daniel mutfağa geri döndü.
+15 Mary sütü oraya bıraktı.
+16 Mary oradaki sütü aldı.
+17 Mary ne taşıyor? 	süt	7 15 16
+1 Mary mutfağa gitti.
+2 Daniel banyoya gitti.
+3 Daniel bahçeye gitti.
+4 John oradaki elmayı aldı.
+5 John ne taşıyor? 	elma	4
+6 John elmayı bıraktı.
+7 Mary banyoya gitti.
+8 John ne taşıyor? 	hiç	4 6
+9 Daniel koridora geri döndü.
+10 Daniel elmayı oraya aldı.
+11 John ne taşıyor? 	hiç	4 6
+12 Daniel mutfağa gitti.
+13 Daniel banyoya gitti.
+14 Daniel ne taşıyor? 	elma	10
+15 Sandra salona gitti.
+16 Mary koridora gitti.
+17 Daniel ne taşıyor? 	elma	10
+1 Daniel banyoya gitti.
+2 Mary ofise geri döndü.
+3 John oradaki sütü aldı.
+4 Mary topu oraya aldı.
+5 Mary ne taşıyor? 	top	4
+6 Daniel oradaki elmayı aldı.
+7 Mary topu oraya bıraktı.
+8 Daniel ne taşıyor? 	elma	6
+9 Mary oradaki topu aldı.
+10 Daniel elmayı bıraktı.
+11 Daniel ne taşıyor? 	hiç	6 10
+12 Mary topu bıraktı.
+13 Daniel oradaki elmayı aldı.
+14 Mary ne taşıyor? 	hiç	4 7 9 12
+15 Daniel bahçeye gitti.
+16 John sütü bıraktı.
+17 John ne taşıyor? 	hiç	3 16
+1 John oradaki topu aldı.
+2 Sandra salona geri döndü.
+3 John ne taşıyor? 	top	1
+4 Sandra salona gitti.
+5 John topu bıraktı.
+6 John ne taşıyor? 	hiç	1 5
+7 Mary oradaki elmayı aldı.
+8 John oradaki topu aldı.
+9 Mary ne taşıyor? 	elma	7
+10 Mary bahçeye gitti.
+11 Mary elmayı bıraktı.
+12 Mary ne taşıyor? 	hiç	7 11
+13 John koridora gitti.
+14 Mary oradaki elmayı aldı.
+15 Mary ne taşıyor? 	elma	7 11 14
+1 Sandra oradaki sütü aldı.
+2 Sandra salona geri döndü.
+3 Sandra ne taşıyor? 	süt	1
+4 Sandra sütü bıraktı.
+5 Sandra salona gitti.
+6 Sandra ne taşıyor? 	hiç	1 4
+7 John topu oradan aldı.
+8 John topu bıraktı.
+9 John ne taşıyor? 	hiç	7 8
+10 John mutfağa gitti.
+11 Mary mutfağa geri döndü.
+12 John ne taşıyor? 	hiç	7 8
+13 John salona gitti.
+14 Mary bahçeye gitti.
+15 John ne taşıyor? 	hiç	7 8
+1 John salona gitti.
+2 Mary mutfağa gitti.
+3 Sandra bahçeye gitti.
+4 John bahçeye gitti.
+5 Sandra oradaki topu aldı.
+6 Mary oradaki elmayı aldı.
+7 Sandra ne taşıyor? 	top	5
+8 Mary banyoya gitti.
+9 Mary elmayı bıraktı.
+10 Mary ne taşıyor? 	hiç	6 9
+11 John banyoya gitti.
+12 Daniel mutfağa geri döndü.
+13 Mary ne taşıyor? 	hiç	6 9
+14 Mary bahçeye gitti.
+15 Sandra salona gitti.
+16 Mary ne taşıyor? 	hiç	6 9
+17 Sandra topu oraya bıraktı.
+18 Sandra oradaki topu aldı.
+19 Sandra ne taşıyor? 	top	5 17 18
+1 Mary elmayı oraya aldı.
+2 Sandra banyoya gitti.
+3 Mary ne taşıyor? 	elma	1
+4 John banyoya gitti.
+5 Sandra mutfağa gitti.
+6 Mary ne taşıyor? 	elma	1
+7 Mary ofise gitti.
+8 Mary oradaki sütü aldı.
+9 Mary ne taşıyor? 	elma,süt	1 8
+10 Mary oradaki topu aldı.
+11 Sandra koridora gitti.
+12 Mary ne taşıyor? 	elma,süt,top	1 8 10
+13 Sandra salona gitti.
+14 Mary topu bıraktı.
+15 Mary ne taşıyor? 	elma,süt	1 8 10 14
+1 Daniel oradaki topu aldı.
+2 John koridora gitti.
+3 Daniel ne taşıyor? 	top	1
+4 Daniel topu bıraktı.
+5 John topu oraya aldı.
+6 Daniel ne taşıyor? 	hiç	1 4
+7 Mary ofise gitti.
+8 John topu bıraktı.
+9 John ne taşıyor? 	hiç	5 8
+10 Daniel ofise gitti.
+11 Daniel mutfağa gitti.
+12 John ne taşıyor? 	hiç	5 8
+13 John oradaki topu aldı.
+14 Sandra oradaki sütü aldı.
+15 Sandra ne taşıyor? 	süt	14
+1 John ofise gitti.
+2 Daniel koridora geri döndü.
+3 Daniel salona gitti.
+4 Daniel oradaki sütü aldı.
+5 Daniel ne taşıyor? 	süt	4
+6 Daniel mutfağa gitti.
+7 Daniel sütü bıraktı.
+8 Daniel ne taşıyor? 	hiç	4 7
+9 Sandra ofise gitti.
+10 John banyoya gitti.
+11 Daniel ne taşıyor? 	hiç	4 7
+12 John mutfağa gitti.
+13 John oradaki sütü aldı.
+14 John ne taşıyor? 	süt	13
+15 Daniel ofise gitti.
+16 Mary banyoya gitti.
+17 John ne taşıyor? 	süt	13
+1 Daniel bahçeye gitti.
+2 John topu oradan aldı.
+3 John ne taşıyor? 	top	2
+4 John koridora gitti.
+5 Sandra oradaki sütü aldı.
+6 John ne taşıyor? 	top	2
+7 Mary koridora gitti.
+8 Sandra sütü bıraktı.
+9 John ne taşıyor? 	top	2
+10 Sandra oradaki sütü aldı.
+11 John banyoya gitti.
+12 Sandra ne taşıyor? 	süt	5 8 10
+13 John oradaki elmayı aldı.
+14 Sandra sütü oraya bıraktı.
+15 Sandra ne taşıyor? 	hiç	5 8 10 14
+1 Mary bahçeye gitti.
+2 Mary ofise gitti.
+3 John bahçeye gitti.
+4 Mary salona gitti.
+5 Mary oradaki elmayı aldı.
+6 Mary elmayı bıraktı.
+7 Mary ne taşıyor? 	hiç	5 6
+8 Mary bahçeye gitti.
+9 John banyoya gitti.
+10 Mary ne taşıyor? 	hiç	5 6
+11 Daniel koridora gitti.
+12 Daniel mutfağa gitti.
+13 Mary ne taşıyor? 	hiç	5 6
+14 Mary mutfağa geri döndü.
+15 Daniel topu oradan aldı.
+16 Daniel ne taşıyor? 	top	15
+17 Sandra mutfağa geri döndü.
+18 Daniel bahçeye gitti.
+19 Daniel ne taşıyor? 	top	15
+1 John banyoya gitti.
+2 Mary oradaki sütü aldı.
+3 Mary ne taşıyor? 	süt	2
+4 John mutfağa geri döndü.
+5 Daniel koridora gitti.
+6 Mary ne taşıyor? 	süt	2
+7 Mary ofise gitti.
+8 Mary sütü bıraktı.
+9 Mary ne taşıyor? 	hiç	2 8
+10 Sandra ofise gitti.
+11 Mary oradaki sütü aldı.
+12 Mary ne taşıyor? 	süt	2 8 11
+13 Sandra bahçeye gitti.
+14 John salona gitti.
+15 Mary ne taşıyor? 	süt	2 8 11
+1 Mary oradaki sütü aldı.
+2 Mary banyoya gitti.
+3 Mary ne taşıyor? 	süt	1
+4 Mary sütü bıraktı.
+5 John mutfağa gitti.
+6 Mary ne taşıyor? 	hiç	1 4
+7 Mary oradaki sütü aldı.
+8 Mary sütü bıraktı.
+9 Mary ne taşıyor? 	hiç	1 4 7 8
+10 Mary oradaki sütü aldı.
+11 Sandra salona geri döndü.
+12 Mary ne taşıyor? 	süt	1 4 7 8 10
+13 Mary salona gitti.
+14 Mary koridora gitti.
+15 Mary ne taşıyor? 	süt	1 4 7 8 10
+1 Mary koridora gitti.
+2 Mary topu oraya aldı.
+3 Mary ne taşıyor? 	top	2
+4 Daniel salona gitti.
+5 John bahçeye gitti.
+6 Mary ne taşıyor? 	top	2
+7 John koridora gitti.
+8 Daniel banyoya gitti.
+9 Mary ne taşıyor? 	top	2
+10 Daniel koridora geri döndü.
+11 Mary topu bıraktı.
+12 Mary ne taşıyor? 	hiç	2 11
+13 Mary topu oraya aldı.
+14 Mary salona gitti.
+15 Mary ne taşıyor? 	top	2 11 13
+1 Mary banyoya gitti.
+2 John bahçeye gitti.
+3 Sandra bahçeye gitti.
+4 Daniel oradaki topu aldı.
+5 Daniel ne taşıyor? 	top	4
+6 Mary oradaki elmayı aldı.
+7 Mary ofise gitti.
+8 Daniel ne taşıyor? 	top	4
+9 Mary bahçeye gitti.
+10 Daniel topu bıraktı.
+11 Daniel ne taşıyor? 	hiç	4 10
+12 Sandra ofise gitti.
+13 Daniel banyoya gitti.
+14 Daniel ne taşıyor? 	hiç	4 10
+15 Daniel mutfağa geri döndü.
+16 Mary banyoya gitti.
+17 Daniel ne taşıyor? 	hiç	4 10
+1 Sandra salona gitti.
+2 Mary oradaki topu aldı.
+3 Mary ne taşıyor? 	top	2
+4 Daniel mutfağa gitti.
+5 John oradaki elmayı aldı.
+6 John ne taşıyor? 	elma	5
+7 John elmayı bıraktı.
+8 Mary topu bıraktı.
+9 John ne taşıyor? 	hiç	5 7
+10 John oradaki elmayı aldı.
+11 Mary banyoya gitti.
+12 John ne taşıyor? 	elma	5 7 10
+13 Sandra banyoya gitti.
+14 Sandra mutfağa gitti.
+15 John ne taşıyor? 	elma	5 7 10
+1 Sandra koridora gitti.
+2 Mary ofise gitti.
+3 Sandra ofise geri döndü.
+4 Daniel koridora geri döndü.
+5 John oradaki topu aldı.
+6 John topu bıraktı.
+7 John ne taşıyor? 	hiç	5 6
+8 Daniel ofise geri döndü.
+9 Sandra koridora gitti.
+10 John ne taşıyor? 	hiç	5 6
+11 Mary mutfağa geri döndü.
+12 Daniel mutfağa gitti.
+13 John ne taşıyor? 	hiç	5 6
+14 Daniel bahçeye gitti.
+15 Sandra banyoya gitti.
+16 Sandra bahçeye gitti.
+17 Mary banyoya gitti.
+18 John topu oradan aldı.
+19 Sandra banyoya geri döndü.
+20 John ne taşıyor? 	top	5 6 18
+21 Mary oradaki elmayı aldı.
+22 Mary elmayı bıraktı.
+23 Mary ne taşıyor? 	hiç	21 22
+1 Mary banyoya gitti.
+2 Daniel mutfağa geri döndü.
+3 John banyoya gitti.
+4 Sandra ofise gitti.
+5 Daniel topu oraya aldı.
+6 Mary bahçeye gitti.
+7 Daniel ne taşıyor? 	top	5
+8 John bahçeye gitti.
+9 Mary oradaki sütü aldı.
+10 Daniel ne taşıyor? 	top	5
+11 Mary sütü bıraktı.
+12 Mary oradaki sütü aldı.
+13 Mary ne taşıyor? 	süt	9 11 12
+14 Sandra bahçeye gitti.
+15 Daniel topu bıraktı.
+16 Daniel ne taşıyor? 	hiç	5 15
+17 John salona gitti.
+18 Daniel oradaki topu aldı.
+19 Daniel ne taşıyor? 	top	5 15 18
+1 Mary oradaki sütü aldı.
+2 Daniel mutfağa gitti.
+3 Mary ne taşıyor? 	süt	1
+4 John oradaki topu aldı.
+5 Mary koridora gitti.
+6 Mary ne taşıyor? 	süt	1
+7 Mary ofise gitti.
+8 Sandra banyoya gitti.
+9 John ne taşıyor? 	top	4
+10 Mary sütü bıraktı.
+11 Daniel ofise gitti.
+12 Mary ne taşıyor? 	hiç	1 10
+13 Sandra salona geri döndü.
+14 Sandra ofise geri döndü.
+15 Mary ne taşıyor? 	hiç	1 10
+1 Sandra ofise geri döndü.
+2 Daniel oradaki topu aldı.
+3 Daniel ne taşıyor? 	top	2
+4 John salona gitti.
+5 Daniel topu bıraktı.
+6 Daniel ne taşıyor? 	hiç	2 5
+7 John oradaki topu aldı.
+8 Sandra banyoya gitti.
+9 Daniel ne taşıyor? 	hiç	2 5
+10 Sandra salona gitti.
+11 John topu bıraktı.
+12 John ne taşıyor? 	hiç	7 11
+13 Mary bahçeye gitti.
+14 Sandra banyoya gitti.
+15 John ne taşıyor? 	hiç	7 11
+1 Daniel oradaki sütü aldı.
+2 Sandra topu oraya aldı.
+3 Daniel ne taşıyor? 	süt	1
+4 Sandra topu bıraktı.
+5 Mary ofise gitti.
+6 Sandra ne taşıyor? 	hiç	2 4
+7 Daniel sütü bıraktı.
+8 Sandra topu oraya aldı.
+9 Sandra ne taşıyor? 	top	2 4 8
+10 Sandra topu bıraktı.
+11 John oradaki elmayı aldı.
+12 Daniel ne taşıyor? 	hiç	1 7
+13 John elmayı bıraktı.
+14 Daniel oradaki sütü aldı.
+15 Sandra ne taşıyor? 	hiç	2 4 8 10
+1 Daniel ofise gitti.
+2 John salona gitti.
+3 John salona geri döndü.
+4 Sandra oradaki sütü aldı.
+5 Sandra ne taşıyor? 	süt	4
+6 Daniel banyoya gitti.
+7 Sandra banyoya gitti.
+8 Sandra ne taşıyor? 	süt	4
+9 John koridora gitti.
+10 Sandra mutfağa gitti.
+11 Sandra ne taşıyor? 	süt	4
+12 Mary mutfağa geri döndü.
+13 Sandra sütü bıraktı.
+14 Sandra ne taşıyor? 	hiç	4 13
+15 Daniel salona gitti.
+16 Sandra koridora gitti.
+17 Sandra ne taşıyor? 	hiç	4 13
+1 Daniel elmayı oraya aldı.
+2 Daniel mutfağa gitti.
+3 Daniel ne taşıyor? 	elma	1
+4 Daniel bahçeye gitti.
+5 Daniel elmayı bıraktı.
+6 Daniel ne taşıyor? 	hiç	1 5
+7 Daniel salona gitti.
+8 Mary salona geri döndü.
+9 Daniel ne taşıyor? 	hiç	1 5
+10 Sandra koridora geri döndü.
+11 Mary banyoya gitti.
+12 Daniel ne taşıyor? 	hiç	1 5
+13 Mary salona gitti.
+14 Mary koridora gitti.
+15 Daniel oradaki topu aldı.
+16 John bahçeye gitti.
+17 Daniel ne taşıyor? 	top	1 5 15
+1 Mary bahçeye gitti.
+2 Daniel oradaki topu aldı.
+3 Daniel ne taşıyor? 	top	2
+4 Daniel koridora gitti.
+5 Daniel topu bıraktı.
+6 Daniel ne taşıyor? 	hiç	2 5
+7 Daniel ofise gitti.
+8 Sandra banyoya geri döndü.
+9 Daniel ne taşıyor? 	hiç	2 5
+10 Daniel koridora gitti.
+11 Sandra koridora geri döndü.
+12 Daniel ne taşıyor? 	hiç	2 5
+13 Mary salona gitti.
+14 Daniel ofise gitti.
+15 Sandra bahçeye gitti.
+16 Mary oradaki sütü aldı.
+17 Mary ne taşıyor? 	süt	16
+1 Sandra topu oraya aldı.
+2 Sandra ofise gitti.
+3 Sandra ne taşıyor? 	top	1
+4 Mary oradaki elmayı aldı.
+5 Daniel ofise gitti.
+6 Mary ne taşıyor? 	elma	4
+7 Sandra topu bıraktı.
+8 Daniel mutfağa gitti.
+9 Sandra ne taşıyor? 	hiç	1 7
+10 Mary topu oraya aldı.
+11 John mutfağa gitti.
+12 Sandra ne taşıyor? 	hiç	1 7
+13 Mary elmayı bıraktı.
+14 Sandra oradaki elmayı aldı.
+15 Mary ne taşıyor? 	top	4 13 10
+1 John oradaki elmayı aldı.
+2 Sandra koridora gitti.
+3 John ne taşıyor? 	elma	1
+4 Sandra banyoya gitti.
+5 Mary banyoya gitti.
+6 John ne taşıyor? 	elma	1
+7 Mary topu oradan aldı.
+8 Daniel banyoya gitti.
+9 Mary ne taşıyor? 	top	7
+10 Mary oraya topu bıraktı.
+11 John elmayı bıraktı.
+12 Mary ne taşıyor? 	hiç	7 10
+13 John banyoya gitti.
+14 John koridora gitti.
+15 Mary ne taşıyor? 	hiç	7 10
+1 Daniel oradaki sütü aldı.
+2 Daniel bahçeye gitti.
+3 Daniel ne taşıyor? 	süt	1
+4 Sandra banyoya gitti.
+5 John oradaki elmayı aldı.
+6 Daniel ne taşıyor? 	süt	1
+7 Sandra mutfağa gitti.
+8 John oradaki topu aldı.
+9 John ne taşıyor? 	elma,top	5 8
+10 Sandra ofise gitti.
+11 Daniel salona gitti.
+12 John ne taşıyor? 	elma,top	5 8
+13 Mary banyoya gitti.
+14 Daniel mutfağa gitti.
+15 John ne taşıyor? 	elma,top	5 8
+1 Daniel banyoya gitti.
+2 John salona geri döndü.
+3 Mary banyoya gitti.
+4 Daniel bahçeye gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra sütü bıraktı.
+7 Sandra ne taşıyor? 	hiç	5 6
+8 John mutfağa gitti.
+9 John salona gitti.
+10 Sandra ne taşıyor? 	hiç	5 6
+11 Sandra salona gitti.
+12 Mary mutfağa gitti.
+13 Sandra ne taşıyor? 	hiç	5 6
+14 Mary salona geri döndü.
+15 Mary ofise geri döndü.
+16 Mary bahçeye gitti.
+17 Sandra koridora gitti.
+18 John bahçeye gitti.
+19 Sandra salona geri döndü.
+20 Sandra bahçeye gitti.
+21 Daniel ofise gitti.
+22 John ofise gitti.
+23 Mary ofise gitti.
+24 Daniel oradaki sütü aldı.
+25 Daniel sütü bıraktı.
+26 Daniel ne taşıyor? 	hiç	24 25
+27 John salona gitti.
+28 John banyoya geri döndü.
+29 Daniel ne taşıyor? 	hiç	24 25
+1 Sandra salona geri döndü.
+2 Daniel elmayı oraya aldı.
+3 Daniel ne taşıyor? 	elma	2
+4 Sandra mutfağa gitti.
+5 Daniel elmayı bıraktı.
+6 Daniel ne taşıyor? 	hiç	2 5
+7 Mary oradaki sütü aldı.
+8 Mary sütü bıraktı.
+9 Daniel ne taşıyor? 	hiç	2 5
+10 Mary oradaki sütü aldı.
+11 Daniel oradaki elmayı aldı.
+12 Mary ne taşıyor? 	süt	7 8 10
+13 Daniel elmayı bıraktı.
+14 Mary sütü oraya bıraktı.
+15 Mary ne taşıyor? 	hiç	7 8 10 14
+1 Daniel oradaki topu aldı.
+2 Sandra oradaki sütü aldı.
+3 Sandra ne taşıyor? 	süt	2
+4 Daniel topu bıraktı.
+5 John koridora geri döndü.
+6 Daniel ne taşıyor? 	hiç	1 4
+7 Sandra sütü bıraktı.
+8 Mary salona gitti.
+9 Sandra ne taşıyor? 	hiç	2 7
+10 Mary koridora gitti.
+11 Sandra salona gitti.
+12 Sandra ne taşıyor? 	hiç	2 7
+13 Daniel oradaki topu aldı.
+14 Mary banyoya gitti.
+15 Daniel ne taşıyor? 	top	1 4 13
+1 Mary salona gitti.
+2 Sandra elmayı oraya aldı.
+3 Sandra ne taşıyor? 	elma	2
+4 John mutfağa gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra ne taşıyor? 	elma,süt	2 5
+7 Daniel mutfağa gitti.
+8 Mary bahçeye gitti.
+9 Sandra ne taşıyor? 	elma,süt	2 5
+10 Sandra mutfağa gitti.
+11 Sandra salona geri döndü.
+12 Sandra ne taşıyor? 	elma,süt	2 5
+13 Sandra salona gitti.
+14 Daniel salona gitti.
+15 Sandra elmayı bıraktı.
+16 Sandra bahçeye gitti.
+17 Sandra ne taşıyor? 	süt	2 15 5
+1 Daniel bahçeye gitti.
+2 Sandra oradaki topu aldı.
+3 Sandra ne taşıyor? 	top	2
+4 Sandra topu bıraktı.
+5 Sandra oradaki elmayı aldı.
+6 Sandra ne taşıyor? 	elma	2 4 5
+7 Sandra topu oraya aldı.
+8 Sandra topu bıraktı.
+9 Sandra ne taşıyor? 	elma	2 4 7 8 5
+10 Sandra topu oraya aldı.
+11 Sandra topu bıraktı.
+12 Sandra ne taşıyor? 	elma	2 4 7 8 10 11 5
+13 Sandra elmayı bıraktı.
+14 Sandra banyoya gitti.
+15 Sandra ne taşıyor? 	hiç	2 4 7 8 10 11 5 13
+1 Sandra koridora gitti.
+2 Daniel mutfağa gitti.
+3 Mary mutfağa geri döndü.
+4 Mary salona gitti.
+5 Mary salona geri döndü.
+6 Daniel banyoya gitti.
+7 John salona gitti.
+8 Mary banyoya gitti.
+9 Mary oradaki topu aldı.
+10 John ofise gitti.
+11 Mary ne taşıyor? 	top	9
+12 Mary topu bıraktı.
+13 Mary oradaki topu aldı.
+14 Mary ne taşıyor? 	top	9 12 13
+15 Daniel mutfağa gitti.
+16 Mary topu bıraktı.
+17 Mary ne taşıyor? 	hiç	9 12 13 16
+18 Mary salona gitti.
+19 Daniel banyoya gitti.
+20 Mary ne taşıyor? 	hiç	9 12 13 16
+21 Sandra mutfağa gitti.
+22 Daniel salona geri döndü.
+23 Mary ne taşıyor? 	hiç	9 12 13 16
+1 Daniel banyoya gitti.
+2 Mary topu oraya aldı.
+3 Mary ne taşıyor? 	top	2
+4 Mary topu bıraktı.
+5 Sandra bahçeye gitti.
+6 Mary ne taşıyor? 	hiç	2 4
+7 Daniel mutfağa gitti.
+8 Mary oradaki topu aldı.
+9 Mary ne taşıyor? 	top	2 4 8
+10 Mary mutfağa geri döndü.
+11 Daniel ofise gitti.
+12 Mary ne taşıyor? 	top	2 4 8
+13 Mary topu bıraktı.
+14 John koridora gitti.
+15 Mary ne taşıyor? 	hiç	2 4 8 13
+1 Sandra oradaki sütü aldı.
+2 Sandra sütü bıraktı.
+3 Sandra ne taşıyor? 	hiç	1 2
+4 Sandra oradaki sütü aldı.
+5 Mary mutfağa gitti.
+6 Sandra ne taşıyor? 	süt	1 2 4
+7 Sandra sütü bıraktı.
+8 John oradaki sütü aldı.
+9 John ne taşıyor? 	süt	8
+10 Daniel oradaki elmayı aldı.
+11 John mutfağa geri döndü.
+12 John ne taşıyor? 	süt	8
+13 Mary koridora geri döndü.
+14 John banyoya gitti.
+15 John ne taşıyor? 	süt	8
+1 Sandra salona gitti.
+2 Mary mutfağa gitti.
+3 Sandra mutfağa gitti.
+4 Daniel banyoya gitti.
+5 Sandra koridora gitti.
+6 Daniel ofise gitti.
+7 Mary bahçeye gitti.
+8 Mary oradaki sütü aldı.
+9 Mary ne taşıyor? 	süt	8
+10 Mary sütü bıraktı.
+11 Mary mutfağa geri döndü.
+12 Mary ne taşıyor? 	hiç	8 10
+13 Daniel bahçeye gitti.
+14 Daniel oradaki sütü aldı.
+15 Daniel ne taşıyor? 	süt	14
+16 Mary banyoya geri döndü.
+17 John salona geri döndü.
+18 Daniel ne taşıyor? 	süt	14
+19 Daniel sütü oraya bıraktı.
+20 Daniel banyoya gitti.
+21 Daniel ne taşıyor? 	hiç	14 19
+1 Mary ofise gitti.
+2 John salona gitti.
+3 Sandra oradaki sütü aldı.
+4 Sandra topu oraya aldı.
+5 Sandra ne taşıyor? 	süt,top	3 4
+6 Sandra sütü bıraktı.
+7 Sandra ofise gitti.
+8 Sandra ne taşıyor? 	top	3 6 4
+9 Sandra topu bıraktı.
+10 Mary banyoya geri döndü.
+11 Sandra ne taşıyor? 	hiç	3 6 4 9
+12 Mary salona gitti.
+13 Sandra oradaki topu aldı.
+14 Sandra ne taşıyor? 	top	3 6 4 9 13
+15 John banyoya gitti.
+16 Sandra salona gitti.
+17 Sandra ne taşıyor? 	top	3 6 4 9 13
+1 Daniel oradaki topu aldı.
+2 Mary oradaki sütü aldı.
+3 Mary ne taşıyor? 	süt	2
+4 Mary sütü bıraktı.
+5 Mary oradaki sütü aldı.
+6 Mary ne taşıyor? 	süt	2 4 5
+7 Mary sütü bıraktı.
+8 Mary bahçeye gitti.
+9 Mary ne taşıyor? 	hiç	2 4 5 7
+10 Daniel koridora gitti.
+11 Daniel oradaki sütü aldı.
+12 Mary ne taşıyor? 	hiç	2 4 5 7
+13 Daniel topu bıraktı.
+14 Daniel oradaki topu aldı.
+15 Daniel ne taşıyor? 	top,süt	1 13 14 11
+1 Mary banyoya gitti.
+2 Mary mutfağa geri döndü.
+3 Mary banyoya gitti.
+4 Daniel banyoya gitti.
+5 John banyoya gitti.
+6 Mary mutfağa gitti.
+7 John oradaki elmayı aldı.
+8 John salona gitti.
+9 John ne taşıyor? 	elma	7
+10 Mary salona geri döndü.
+11 Mary bahçeye gitti.
+12 John ne taşıyor? 	elma	7
+13 Sandra salona geri döndü.
+14 John ofise gitti.
+15 Sandra koridora gitti.
+16 Daniel ofise geri döndü.
+17 John elmayı bıraktı.
+18 John salona geri döndü.
+19 John ne taşıyor? 	hiç	7 17
+20 Mary ofise gitti.
+21 Mary koridora gitti.
+22 John ne taşıyor? 	hiç	7 17
+23 Daniel elmayı oraya aldı.
+24 Sandra banyoya gitti.
+25 Daniel ne taşıyor? 	elma	23
+1 John ofise gitti.
+2 Sandra oradaki elmayı aldı.
+3 Sandra ne taşıyor? 	elma	2
+4 Sandra elmayı bıraktı.
+5 Daniel banyoya gitti.
+6 Sandra ne taşıyor? 	hiç	2 4
+7 John mutfağa gitti.
+8 Sandra salona geri döndü.
+9 Sandra ne taşıyor? 	hiç	2 4
+10 Daniel salona geri döndü.
+11 Mary topu oradan aldı.
+12 Mary ne taşıyor? 	top	11
+13 Mary salona gitti.
+14 John koridora gitti.
+15 Mary ne taşıyor? 	top	11
+1 John banyoya gitti.
+2 John elmayı oraya aldı.
+3 John ne taşıyor? 	elma	2
+4 Sandra mutfağa geri döndü.
+5 Daniel ofise gitti.
+6 John ne taşıyor? 	elma	2
+7 Mary bahçeye gitti.
+8 Sandra bahçeye gitti.
+9 John ne taşıyor? 	elma	2
+10 Mary ofise gitti.
+11 Mary oradaki sütü aldı.
+12 Mary ne taşıyor? 	süt	11
+13 John elmayı bıraktı.
+14 John mutfağa gitti.
+15 Mary ne taşıyor? 	süt	11
+1 Daniel salona gitti.
+2 John salona gitti.
+3 Daniel oradaki topu aldı.
+4 Sandra mutfağa gitti.
+5 Daniel ne taşıyor? 	top	3
+6 Daniel topu bıraktı.
+7 Daniel banyoya gitti.
+8 Daniel ne taşıyor? 	hiç	3 6
+9 Mary bahçeye gitti.
+10 Mary mutfağa geri döndü.
+11 Daniel ne taşıyor? 	hiç	3 6
+12 John oradaki topu aldı.
+13 Mary koridora geri döndü.
+14 John ne taşıyor? 	top	12
+15 John topu bıraktı.
+16 John topu oradan aldı.
+17 John ne taşıyor? 	top	12 15 16
+1 John salona gitti.
+2 Mary oradaki sütü aldı.
+3 Mary ne taşıyor? 	süt	2
+4 Mary banyoya geri döndü.
+5 Mary sütü bıraktı.
+6 Mary ne taşıyor? 	hiç	2 5
+7 Mary salona gitti.
+8 Mary topu oraya aldı.
+9 Mary ne taşıyor? 	top	2 5 8
+10 Mary oradaki elmayı aldı.
+11 John salona geri döndü.
+12 Mary ne taşıyor? 	top,elma	2 5 8 10
+13 Mary elmayı bıraktı.
+14 Mary oradaki elmayı aldı.
+15 Mary ne taşıyor? 	top,elma	2 5 8 10 13 14
+1 John mutfağa gitti.
+2 Daniel mutfağa gitti.
+3 Mary oradaki sütü aldı.
+4 Sandra mutfağa gitti.
+5 Mary ne taşıyor? 	süt	3
+6 Sandra ofise gitti.
+7 John salona geri döndü.
+8 Mary ne taşıyor? 	süt	3
+9 Mary sütü bıraktı.
+10 John salona gitti.
+11 Mary ne taşıyor? 	hiç	3 9
+12 Mary oradaki sütü aldı.
+13 Daniel koridora gitti.
+14 Mary ne taşıyor? 	süt	3 9 12
+15 Mary sütü oraya bıraktı.
+16 Mary oradaki sütü aldı.
+17 Mary ne taşıyor? 	süt	3 9 12 15 16
+1 Mary banyoya gitti.
+2 John elmayı oraya aldı.
+3 John ne taşıyor? 	elma	2
+4 John ofise gitti.
+5 Mary mutfağa geri döndü.
+6 John ne taşıyor? 	elma	2
+7 Daniel mutfağa geri döndü.
+8 Mary oradaki sütü aldı.
+9 Mary ne taşıyor? 	süt	8
+10 John salona geri döndü.
+11 John ofise gitti.
+12 Mary ne taşıyor? 	süt	8
+13 Mary ofise geri döndü.
+14 Mary sütü bıraktı.
+15 Mary ne taşıyor? 	hiç	8 14
+1 Daniel salona geri döndü.
+2 John oradaki sütü aldı.
+3 John ne taşıyor? 	süt	2
+4 Mary salona gitti.
+5 John bahçeye gitti.
+6 John ne taşıyor? 	süt	2
+7 Sandra koridora geri döndü.
+8 John mutfağa gitti.
+9 John ne taşıyor? 	süt	2
+10 Mary ofise gitti.
+11 Sandra salona gitti.
+12 John ofise gitti.
+13 Sandra mutfağa gitti.
+14 Sandra banyoya gitti.
+15 Sandra mutfağa gitti.
+16 John sütü bıraktı.
+17 John banyoya gitti.
+18 John ne taşıyor? 	hiç	2 16
+19 Sandra oradaki elmayı aldı.
+20 Sandra elmayı bıraktı.
+21 Sandra ne taşıyor? 	hiç	19 20
+1 Sandra koridora gitti.
+2 Mary oradaki topu aldı.
+3 Mary ne taşıyor? 	top	2
+4 Sandra oradaki elmayı aldı.
+5 Sandra bahçeye gitti.
+6 Sandra ne taşıyor? 	elma	4
+7 Sandra oradaki sütü aldı.
+8 Sandra mutfağa gitti.
+9 Sandra ne taşıyor? 	elma,süt	4 7
+10 Mary topu bıraktı.
+11 Daniel salona gitti.
+12 Mary ne taşıyor? 	hiç	2 10
+13 Sandra elmayı bıraktı.
+14 Sandra salona gitti.
+15 Sandra ne taşıyor? 	süt	4 13 7
+1 Mary oradaki elmayı aldı.
+2 Daniel oradaki sütü aldı.
+3 Mary ne taşıyor? 	elma	1
+4 Daniel sütü bıraktı.
+5 Mary elmayı bıraktı.
+6 Daniel ne taşıyor? 	hiç	2 4
+7 Mary oradaki elmayı aldı.
+8 Daniel mutfağa geri döndü.
+9 Daniel ne taşıyor? 	hiç	2 4
+10 Mary elmayı bıraktı.
+11 Daniel bahçeye gitti.
+12 Mary ne taşıyor? 	hiç	1 5 7 10
+13 John koridora gitti.
+14 Mary oradaki elmayı aldı.
+15 Mary ne taşıyor? 	elma	1 5 7 10 14
+1 John mutfağa gitti.
+2 John salona geri döndü.
+3 Daniel mutfağa gitti.
+4 Mary bahçeye gitti.
+5 Mary ofise gitti.
+6 Sandra mutfağa gitti.
+7 Mary mutfağa gitti.
+8 Sandra salona gitti.
+9 John banyoya gitti.
+10 Mary koridora gitti.
+11 Daniel banyoya gitti.
+12 Daniel oradaki elmayı aldı.
+13 Daniel ne taşıyor? 	elma	12
+14 Daniel salona gitti.
+15 Mary oradaki sütü aldı.
+16 Mary ne taşıyor? 	süt	15
+17 John koridora geri döndü.
+18 Sandra bahçeye gitti.
+19 Mary ne taşıyor? 	süt	15
+20 Daniel elmayı bıraktı.
+21 Mary sütü bıraktı.
+22 Mary ne taşıyor? 	hiç	15 21
+23 Daniel salona geri döndü.
+24 Sandra banyoya gitti.
+25 Daniel ne taşıyor? 	hiç	12 20
+1 Daniel koridora gitti.
+2 John mutfağa geri döndü.
+3 Sandra ofise gitti.
+4 John salona gitti.
+5 Sandra koridora geri döndü.
+6 Daniel salona gitti.
+7 Daniel mutfağa gitti.
+8 John oradaki sütü aldı.
+9 John ne taşıyor? 	süt	8
+10 Sandra salona geri döndü.
+11 Sandra salona geri döndü.
+12 John ne taşıyor? 	süt	8
+13 Mary banyoya gitti.
+14 John sütü bıraktı.
+15 John ne taşıyor? 	hiç	8 14
+16 Mary oradaki topu aldı.
+17 Mary topu bıraktı.
+18 John ne taşıyor? 	hiç	8 14
+19 John oradaki elmayı aldı.
+20 Mary topu oraya aldı.
+21 John ne taşıyor? 	elma	8 14 19
+1 John mutfağa gitti.
+2 Mary salona geri döndü.
+3 Sandra banyoya gitti.
+4 Sandra bahçeye gitti.
+5 Mary bahçeye gitti.
+6 Mary oradaki sütü aldı.
+7 Mary ne taşıyor? 	süt	6
+8 Mary sütü bıraktı.
+9 Mary oradaki sütü aldı.
+10 Mary ne taşıyor? 	süt	6 8 9
+11 John salona gitti.
+12 Mary sütü oraya bıraktı.
+13 Mary ne taşıyor? 	hiç	6 8 9 12
+14 John koridora gitti.
+15 Sandra oradaki sütü aldı.
+16 Mary ne taşıyor? 	hiç	6 8 9 12
+17 Mary mutfağa gitti.
+18 Mary oradaki elmayı aldı.
+19 Sandra ne taşıyor? 	süt	15
+1 Sandra koridora gitti.
+2 Sandra mutfağa gitti.
+3 John oradaki elmayı aldı.
+4 Sandra topu oradan aldı.
+5 John ne taşıyor? 	elma	3
+6 Daniel mutfağa gitti.
+7 John elmayı bıraktı.
+8 John ne taşıyor? 	hiç	3 7
+9 John mutfağa geri döndü.
+10 John salona geri döndü.
+11 Sandra ne taşıyor? 	top	4
+12 John oradaki sütü aldı.
+13 Sandra koridora gitti.
+14 John ne taşıyor? 	süt	3 7 12
+15 Sandra bahçeye gitti.
+16 John sütü bıraktı.
+17 John ne taşıyor? 	hiç	3 7 12 16
+1 Sandra koridora gitti.
+2 Mary koridora gitti.
+3 Mary bahçeye gitti.
+4 Mary topu oradan aldı.
+5 Mary ne taşıyor? 	top	4
+6 John ofise gitti.
+7 John banyoya geri döndü.
+8 Mary ne taşıyor? 	top	4
+9 John koridora geri döndü.
+10 Mary topu bıraktı.
+11 Mary ne taşıyor? 	hiç	4 10
+12 Daniel ofise geri döndü.
+13 Mary ofise geri döndü.
+14 Mary ne taşıyor? 	hiç	4 10
+15 John bahçeye gitti.
+16 Mary salona gitti.
+17 Mary ne taşıyor? 	hiç	4 10
+1 Daniel elmayı oraya aldı.
+2 John topu oradan aldı.
+3 John ne taşıyor? 	top	2
+4 Daniel salona gitti.
+5 John ofise gitti.
+6 Daniel ne taşıyor? 	elma	1
+7 John topu bıraktı.
+8 Daniel koridora gitti.
+9 John ne taşıyor? 	hiç	2 7
+10 Mary salona gitti.
+11 Daniel elmayı bıraktı.
+12 Daniel ne taşıyor? 	hiç	1 11
+13 Daniel mutfağa gitti.
+14 John koridora gitti.
+15 Daniel ne taşıyor? 	hiç	1 11
+1 Daniel mutfağa geri döndü.
+2 Daniel ofise gitti.
+3 Sandra bahçeye gitti.
+4 Mary ofise gitti.
+5 Sandra koridora geri döndü.
+6 Mary koridora gitti.
+7 John bahçeye gitti.
+8 John salona gitti.
+9 John oradaki sütü aldı.
+10 John sütü bıraktı.
+11 John ne taşıyor? 	hiç	9 10
+12 John oradaki sütü aldı.
+13 John salona geri döndü.
+14 John ne taşıyor? 	süt	9 10 12
+15 Daniel salona geri döndü.
+16 Sandra salona gitti.
+17 John ne taşıyor? 	süt	9 10 12
+18 Mary banyoya gitti.
+19 Sandra mutfağa gitti.
+20 Daniel mutfağa geri döndü.
+21 Daniel banyoya geri döndü.
+22 Sandra bahçeye gitti.
+23 Daniel mutfağa geri döndü.
+24 Mary ofise gitti.
+25 John sütü bıraktı.
+26 John ne taşıyor? 	hiç	9 10 12 25
+27 John oradaki sütü aldı.
+28 Mary koridora gitti.
+29 John ne taşıyor? 	süt	9 10 12 25 27
+1 Sandra salona geri döndü.
+2 John koridora gitti.
+3 Mary salona geri döndü.
+4 Mary salona geri döndü.
+5 Mary koridora gitti.
+6 Mary salona geri döndü.
+7 Daniel banyoya gitti.
+8 Mary salona geri döndü.
+9 John salona gitti.
+10 Mary banyoya gitti.
+11 Daniel oradaki elmayı aldı.
+12 Sandra koridora gitti.
+13 Daniel ne taşıyor? 	elma	11
+14 Daniel mutfağa gitti.
+15 Mary salona gitti.
+16 Daniel ne taşıyor? 	elma	11
+17 Daniel bahçeye gitti.
+18 Mary ofise geri döndü.
+19 Mary topu oradan aldı.
+20 John koridora gitti.
+21 Mary ne taşıyor? 	top	19
+22 Daniel elmayı bıraktı.
+23 Sandra salona geri döndü.
+24 Mary ne taşıyor? 	top	19
+25 Sandra banyoya gitti.
+26 Daniel mutfağa gitti.
+27 Daniel ne taşıyor? 	hiç	11 22
+1 Sandra bahçeye gitti.
+2 Sandra oradaki elmayı aldı.
+3 Sandra ne taşıyor? 	elma	2
+4 Mary ofise gitti.
+5 Sandra elmayı bıraktı.
+6 Sandra ne taşıyor? 	hiç	2 5
+7 Sandra oradaki elmayı aldı.
+8 Mary salona geri döndü.
+9 Sandra ne taşıyor? 	elma	2 5 7
+10 Sandra elmayı bıraktı.
+11 Sandra oradaki elmayı aldı.
+12 Sandra ne taşıyor? 	elma	2 5 7 10 11
+13 Sandra ofise geri döndü.
+14 John banyoya gitti.
+15 Sandra ne taşıyor? 	elma	2 5 7 10 11
+1 Daniel bahçeye gitti.
+2 Daniel topu oradan aldı.
+3 Daniel ne taşıyor? 	top	2
+4 Sandra salona gitti.
+5 Daniel topu bıraktı.
+6 Daniel ne taşıyor? 	hiç	2 5
+7 Daniel oradaki topu aldı.
+8 Daniel banyoya gitti.
+9 Daniel ne taşıyor? 	top	2 5 7
+10 Mary koridora gitti.
+11 Daniel salona gitti.
+12 Daniel ne taşıyor? 	top	2 5 7
+13 Sandra ofise gitti.
+14 Daniel bahçeye gitti.
+15 Sandra banyoya geri döndü.
+16 Mary salona gitti.
+17 Daniel topu bıraktı.
+18 Sandra mutfağa geri döndü.
+19 Daniel ne taşıyor? 	hiç	2 5 7 17
+1 Mary oradaki sütü aldı.
+2 Mary salona gitti.
+3 Mary ne taşıyor? 	süt	1
+4 Mary topu oraya aldı.
+5 John ofise gitti.
+6 Mary ne taşıyor? 	süt,top	1 4
+7 Sandra salona gitti.
+8 John mutfağa gitti.
+9 Mary ne taşıyor? 	süt,top	1 4
+10 Mary topu bıraktı.
+11 Daniel mutfağa gitti.
+12 Mary ne taşıyor? 	süt	1 4 10
+13 Sandra oradaki topu aldı.
+14 Sandra oradaki elmayı aldı.
+15 Mary ne taşıyor? 	süt	1 4 10
+1 John bahçeye gitti.
+2 Mary salona gitti.
+3 John mutfağa gitti.
+4 Daniel mutfağa geri döndü.
+5 Daniel elmayı oraya aldı.
+6 John banyoya gitti.
+7 Daniel ne taşıyor? 	elma	5
+8 John ofise gitti.
+9 Mary mutfağa gitti.
+10 Daniel ne taşıyor? 	elma	5
+11 Mary banyoya gitti.
+12 Daniel koridora gitti.
+13 John mutfağa gitti.
+14 Daniel bahçeye gitti.
+15 John bahçeye gitti.
+16 John oradaki sütü aldı.
+17 John ne taşıyor? 	süt	16
+18 Mary salona gitti.
+19 Daniel elmayı oraya bıraktı.
+20 John ne taşıyor? 	süt	16
+21 Daniel ofise geri döndü.
+22 John oradaki elmayı aldı.
+23 John ne taşıyor? 	süt,elma	16 22
+1 John banyoya gitti.
+2 Mary banyoya gitti.
+3 Daniel mutfağa gitti.
+4 Daniel bahçeye gitti.
+5 Daniel oradaki elmayı aldı.
+6 John mutfağa gitti.
+7 Daniel ne taşıyor? 	elma	5
+8 Daniel elmayı bıraktı.
+9 John ofise gitti.
+10 Daniel ne taşıyor? 	hiç	5 8
+11 Daniel oradaki elmayı aldı.
+12 Daniel elmayı bıraktı.
+13 Daniel ne taşıyor? 	hiç	5 8 11 12
+14 Mary salona gitti.
+15 John mutfağa gitti.
+16 Daniel ne taşıyor? 	hiç	5 8 11 12
+17 Daniel oradaki elmayı aldı.
+18 Sandra bahçeye gitti.
+19 Daniel ne taşıyor? 	elma	5 8 11 12 17
+1 Sandra mutfağa geri döndü.
+2 John mutfağa gitti.
+3 Sandra salona gitti.
+4 Mary mutfağa geri döndü.
+5 Sandra banyoya geri döndü.
+6 John oradaki elmayı aldı.
+7 John ne taşıyor? 	elma	6
+8 Sandra bahçeye gitti.
+9 Daniel topu oraya aldı.
+10 Daniel ne taşıyor? 	top	9
+11 Mary oradaki sütü aldı.
+12 John elmayı bıraktı.
+13 Mary ne taşıyor? 	süt	11
+14 Daniel topu bıraktı.
+15 John oradaki elmayı aldı.
+16 Daniel ne taşıyor? 	hiç	9 14
+17 Daniel topu oradan aldı.
+18 John salona geri döndü.
+19 John ne taşıyor? 	elma	6 12 15
+1 John banyoya geri döndü.
+2 John koridora gitti.
+3 Mary salona geri döndü.
+4 John banyoya geri döndü.
+5 John bahçeye gitti.
+6 Sandra ofise gitti.
+7 Sandra mutfağa geri döndü.
+8 Mary oradaki elmayı aldı.
+9 Mary ne taşıyor? 	elma	8
+10 Sandra oradaki sütü aldı.
+11 John banyoya gitti.
+12 Sandra ne taşıyor? 	süt	10
+13 John mutfağa gitti.
+14 Mary elmayı bıraktı.
+15 Mary ne taşıyor? 	hiç	8 14
+16 John koridora gitti.
+17 Mary oradaki elmayı aldı.
+18 Mary ne taşıyor? 	elma	8 14 17
+19 Mary elmayı bıraktı.
+20 Mary oradaki elmayı aldı.
+21 Mary ne taşıyor? 	elma	8 14 17 19 20
+1 John banyoya gitti.
+2 Mary salona gitti.
+3 Daniel ofise gitti.
+4 Daniel banyoya gitti.
+5 John ofise gitti.
+6 John mutfağa gitti.
+7 Sandra koridora gitti.
+8 Sandra bahçeye gitti.
+9 Mary ofise gitti.
+10 Mary mutfağa gitti.
+11 Sandra koridora geri döndü.
+12 Sandra oradaki sütü aldı.
+13 Sandra ne taşıyor? 	süt	12
+14 Sandra sütü bıraktı.
+15 Sandra oradaki sütü aldı.
+16 Sandra ne taşıyor? 	süt	12 14 15
+17 John bahçeye gitti.
+18 Mary banyoya gitti.
+19 Sandra ne taşıyor? 	süt	12 14 15
+20 Daniel mutfağa geri döndü.
+21 Sandra sütü bıraktı.
+22 Sandra ne taşıyor? 	hiç	12 14 15 21
+23 John koridora gitti.
+24 John oradaki sütü aldı.
+25 John ne taşıyor? 	süt	24
+1 Sandra salona gitti.
+2 Daniel mutfağa gitti.
+3 Daniel bahçeye gitti.
+4 John salona gitti.
+5 Daniel mutfağa geri döndü.
+6 Mary koridora gitti.
+7 Daniel banyoya gitti.
+8 John oradaki elmayı aldı.
+9 John ne taşıyor? 	elma	8
+10 Mary mutfağa geri döndü.
+11 Daniel salona gitti.
+12 John ne taşıyor? 	elma	8
+13 John ofise geri döndü.
+14 John banyoya gitti.
+15 John ne taşıyor? 	elma	8
+16 Mary bahçeye gitti.
+17 John mutfağa gitti.
+18 John salona gitti.
+19 John elmayı bıraktı.
+20 John ne taşıyor? 	hiç	8 19
+21 Daniel salona geri döndü.
+22 Daniel ofise gitti.
+23 John ne taşıyor? 	hiç	8 19
+1 Mary koridora gitti.
+2 John koridora geri döndü.
+3 Daniel banyoya geri döndü.
+4 Sandra ofise geri döndü.
+5 John mutfağa gitti.
+6 Daniel oradaki topu aldı.
+7 Daniel ne taşıyor? 	top	6
+8 Daniel bahçeye gitti.
+9 Sandra koridora gitti.
+10 Daniel ne taşıyor? 	top	6
+11 Mary ofise gitti.
+12 Daniel oradaki elmayı aldı.
+13 Daniel ne taşıyor? 	top,elma	6 12
+14 Mary oradaki sütü aldı.
+15 Sandra bahçeye gitti.
+16 Mary ne taşıyor? 	süt	14
+17 Sandra banyoya gitti.
+18 Sandra mutfağa geri döndü.
+19 Daniel ne taşıyor? 	top,elma	6 12
+1 Mary ofise gitti.
+2 Mary oradaki sütü aldı.
+3 Mary ne taşıyor? 	süt	2
+4 Mary sütü bıraktı.
+5 John oradaki sütü aldı.
+6 Mary ne taşıyor? 	hiç	2 4
+7 Daniel bahçeye gitti.
+8 Daniel salona gitti.
+9 Mary ne taşıyor? 	hiç	2 4
+10 Sandra ofise gitti.
+11 John sütü oraya bıraktı.
+12 John ne taşıyor? 	hiç	5 11
+13 Daniel banyoya gitti.
+14 Mary oradaki sütü aldı.
+15 John ne taşıyor? 	hiç	5 11
+1 Mary oradaki sütü aldı.
+2 John banyoya gitti.
+3 Mary ne taşıyor? 	süt	1
+4 Sandra salona geri döndü.
+5 Sandra koridora gitti.
+6 Mary ne taşıyor? 	süt	1
+7 John oradaki topu aldı.
+8 Mary elmayı oraya aldı.
+9 Mary ne taşıyor? 	süt,elma	1 8
+10 Daniel salona gitti.
+11 Sandra salona gitti.
+12 John ne taşıyor? 	top	7
+13 John koridora gitti.
+14 Mary sütü bıraktı.
+15 Mary ne taşıyor? 	elma	1 14 8
+1 John mutfağa gitti.
+2 John oradaki elmayı aldı.
+3 John ne taşıyor? 	elma	2
+4 John bahçeye gitti.
+5 Sandra banyoya gitti.
+6 John ne taşıyor? 	elma	2
+7 John koridora gitti.
+8 Daniel salona geri döndü.
+9 John ne taşıyor? 	elma	2
+10 John elmayı bıraktı.
+11 Daniel ofise gitti.
+12 John ne taşıyor? 	hiç	2 10
+13 John oradaki elmayı aldı.
+14 Sandra koridora gitti.
+15 John ne taşıyor? 	elma	2 10 13
+1 John bahçeye gitti.
+2 John banyoya geri döndü.
+3 John salona geri döndü.
+4 Daniel ofise geri döndü.
+5 John mutfağa gitti.
+6 Sandra salona gitti.
+7 Sandra mutfağa gitti.
+8 John salona geri döndü.
+9 Sandra banyoya geri döndü.
+10 Sandra salona gitti.
+11 John elmayı oraya aldı.
+12 John elmayı bıraktı.
+13 John ne taşıyor? 	hiç	11 12
+14 John oradaki elmayı aldı.
+15 Sandra banyoya gitti.
+16 John ne taşıyor? 	elma	11 12 14
+17 Daniel oradaki sütü aldı.
+18 Daniel sütü oraya bıraktı.
+19 Daniel ne taşıyor? 	hiç	17 18
+20 Daniel oradaki sütü aldı.
+21 Daniel sütü bıraktı.
+22 Daniel ne taşıyor? 	hiç	17 18 20 21
+23 John ofise gitti.
+24 John oradaki sütü aldı.
+25 Daniel ne taşıyor? 	hiç	17 18 20 21
+1 Sandra bahçeye gitti.
+2 Sandra salona geri döndü.
+3 John koridora gitti.
+4 Mary mutfağa geri döndü.
+5 John ofise gitti.
+6 John salona gitti.
+7 Sandra ofise geri döndü.
+8 Sandra salona gitti.
+9 Daniel bahçeye gitti.
+10 Mary oradaki elmayı aldı.
+11 Mary ne taşıyor? 	elma	10
+12 John mutfağa gitti.
+13 Daniel banyoya geri döndü.
+14 Mary ne taşıyor? 	elma	10
+15 Daniel topu oradan aldı.
+16 Mary salona geri döndü.
+17 Daniel ne taşıyor? 	top	15
+18 Daniel topu oraya bıraktı.
+19 John salona gitti.
+20 Daniel ne taşıyor? 	hiç	15 18
+21 Sandra mutfağa geri döndü.
+22 Sandra salona gitti.
+23 Daniel ne taşıyor? 	hiç	15 18
+1 Mary koridora gitti.
+2 John salona gitti.
+3 John banyoya gitti.
+4 Mary oradaki sütü aldı.
+5 Mary ne taşıyor? 	süt	4
+6 Sandra salona geri döndü.
+7 Mary sütü bıraktı.
+8 Mary ne taşıyor? 	hiç	4 7
+9 John koridora geri döndü.
+10 Daniel oradaki topu aldı.
+11 Mary ne taşıyor? 	hiç	4 7
+12 Mary oradaki sütü aldı.
+13 John salona geri döndü.
+14 Daniel ne taşıyor? 	top	10
+15 John koridora geri döndü.
+16 Daniel topu bıraktı.
+17 Mary ne taşıyor? 	süt	4 7 12
+1 John oradaki sütü aldı.
+2 John sütü bıraktı.
+3 John ne taşıyor? 	hiç	1 2
+4 Mary elmayı oraya aldı.
+5 Sandra koridora geri döndü.
+6 Mary ne taşıyor? 	elma	4
+7 Mary elmayı bıraktı.
+8 John mutfağa geri döndü.
+9 Mary ne taşıyor? 	hiç	4 7
+10 Daniel salona gitti.
+11 Mary banyoya gitti.
+12 Mary ne taşıyor? 	hiç	4 7
+13 Sandra ofise gitti.
+14 Sandra oradaki elmayı aldı.
+15 Sandra ne taşıyor? 	elma	14
+1 Sandra oradaki elmayı aldı.
+2 Sandra elmayı bıraktı.
+3 Sandra ne taşıyor? 	hiç	1 2
+4 Daniel oradaki elmayı aldı.
+5 Daniel elmayı bıraktı.
+6 Daniel ne taşıyor? 	hiç	4 5
+7 John topu oradan aldı.
+8 John topu bıraktı.
+9 John ne taşıyor? 	hiç	7 8
+10 Sandra banyoya geri döndü.
+11 Daniel ofise gitti.
+12 Daniel ne taşıyor? 	hiç	4 5
+13 John topu oradan aldı.
+14 John topu bıraktı.
+15 John ne taşıyor? 	hiç	7 8 13 14
+1 John koridora gitti.
+2 Sandra ofise gitti.
+3 Mary banyoya geri döndü.
+4 Mary koridora gitti.
+5 Daniel salona geri döndü.
+6 Sandra mutfağa gitti.
+7 Sandra banyoya gitti.
+8 Sandra mutfağa gitti.
+9 John ofise gitti.
+10 Mary salona geri döndü.
+11 John mutfağa gitti.
+12 Mary topu oradan aldı.
+13 Mary ne taşıyor? 	top	12
+14 Mary bahçeye gitti.
+15 Mary ofise gitti.
+16 Mary ne taşıyor? 	top	12
+17 Mary salona geri döndü.
+18 Mary mutfağa geri döndü.
+19 Mary ne taşıyor? 	top	12
+20 Sandra salona gitti.
+21 Daniel oradaki sütü aldı.
+22 Daniel ne taşıyor? 	süt	21
+23 Sandra mutfağa gitti.
+24 John banyoya gitti.
+25 Daniel ne taşıyor? 	süt	21
+1 Daniel bahçeye gitti.
+2 John mutfağa gitti.
+3 John koridora gitti.
+4 Daniel salona gitti.
+5 John mutfağa gitti.
+6 Daniel topu oradan aldı.
+7 Daniel ne taşıyor? 	top	6
+8 Sandra ofise geri döndü.
+9 John banyoya gitti.
+10 Daniel ne taşıyor? 	top	6
+11 John salona gitti.
+12 Daniel oradaki sütü aldı.
+13 Daniel ne taşıyor? 	top,süt	6 12
+14 Daniel sütü bıraktı.
+15 John bahçeye gitti.
+16 Daniel ne taşıyor? 	top	6 12 14
+17 Daniel salona geri döndü.
+18 Mary mutfağa gitti.
+19 Daniel ne taşıyor? 	top	6 12 14
+1 Daniel bahçeye gitti.
+2 John koridora gitti.
+3 Daniel mutfağa gitti.
+4 Sandra banyoya gitti.
+5 Mary oradaki sütü aldı.
+6 Mary sütü bıraktı.
+7 Mary ne taşıyor? 	hiç	5 6
+8 Daniel topu oraya aldı.
+9 Daniel topu bıraktı.
+10 Daniel ne taşıyor? 	hiç	8 9
+11 Daniel topu oraya aldı.
+12 Mary oradaki sütü aldı.
+13 Daniel ne taşıyor? 	top	8 9 11
+14 Mary banyoya geri döndü.
+15 Mary sütü oraya bıraktı.
+16 Mary ne taşıyor? 	hiç	5 6 12 15
+17 John ofise gitti.
+18 Mary mutfağa gitti.
+19 Mary ne taşıyor? 	hiç	5 6 12 15
+1 Mary oradaki sütü aldı.
+2 Mary sütü bıraktı.
+3 Mary ne taşıyor? 	hiç	1 2
+4 Sandra mutfağa gitti.
+5 Sandra oradaki sütü aldı.
+6 Sandra ne taşıyor? 	süt	5
+7 Sandra salona geri döndü.
+8 Daniel salona gitti.
+9 Sandra ne taşıyor? 	süt	5
+10 Daniel ofise gitti.
+11 Sandra banyoya gitti.
+12 Sandra ne taşıyor? 	süt	5
+13 Daniel bahçeye gitti.
+14 Mary ofise gitti.
+15 John banyoya gitti.
+16 Mary oradaki elmayı aldı.
+17 Mary ne taşıyor? 	elma	1 2 16
+1 Mary elmayı oraya aldı.
+2 Mary elmayı oraya bıraktı.
+3 Mary ne taşıyor? 	hiç	1 2
+4 Sandra mutfağa geri döndü.
+5 Daniel ofise gitti.
+6 Mary ne taşıyor? 	hiç	1 2
+7 Mary oradaki sütü aldı.
+8 Mary sütü oraya bıraktı.
+9 Mary ne taşıyor? 	hiç	1 2 7 8
+10 Daniel bahçeye gitti.
+11 Daniel salona gitti.
+12 Mary ne taşıyor? 	hiç	1 2 7 8
+13 Mary ofise gitti.
+14 Daniel topu oradan aldı.
+15 Daniel ne taşıyor? 	top	14
+1 Mary koridora gitti.
+2 Sandra oradaki sütü aldı.
+3 Sandra ne taşıyor? 	süt	2
+4 Sandra banyoya geri döndü.
+5 Daniel oradaki elmayı aldı.
+6 Sandra ne taşıyor? 	süt	2
+7 John banyoya gitti.
+8 Sandra sütü bıraktı.
+9 Sandra ne taşıyor? 	hiç	2 8
+10 Sandra ofise gitti.
+11 Daniel oradaki sütü aldı.
+12 Daniel ne taşıyor? 	elma,süt	5 11
+13 Sandra koridora geri döndü.
+14 Sandra banyoya gitti.
+15 Daniel ne taşıyor? 	elma,süt	5 11
+1 Sandra salona gitti.
+2 Daniel mutfağa gitti.
+3 Mary salona gitti.
+4 Mary bahçeye gitti.
+5 Mary banyoya gitti.
+6 Mary oradaki sütü aldı.
+7 Mary ne taşıyor? 	süt	6
+8 Mary sütü bıraktı.
+9 John koridora gitti.
+10 Mary ne taşıyor? 	hiç	6 8
+11 Mary oradaki sütü aldı.
+12 John oradaki elmayı aldı.
+13 Mary ne taşıyor? 	süt	6 8 11
+14 Sandra banyoya geri döndü.
+15 John bahçeye gitti.
+16 John ne taşıyor? 	elma	12
+17 Mary sütü bıraktı.
+18 Sandra mutfağa gitti.
+19 John ne taşıyor? 	elma	12
+1 Daniel oradaki elmayı aldı.
+2 Daniel oradaki sütü aldı.
+3 Daniel ne taşıyor? 	elma,süt	1 2
+4 Daniel mutfağa gitti.
+5 Sandra salona gitti.
+6 Daniel ne taşıyor? 	elma,süt	1 2
+7 Daniel elmayı bıraktı.
+8 Mary mutfağa gitti.
+9 Daniel ne taşıyor? 	süt	1 7 2
+10 Daniel ofise gitti.
+11 John salona geri döndü.
+12 Daniel ne taşıyor? 	süt	1 7 2
+13 Sandra mutfağa geri döndü.
+14 Mary oradaki elmayı aldı.
+15 Mary ne taşıyor? 	elma	14
+1 Mary ofise gitti.
+2 John salona gitti.
+3 Daniel mutfağa gitti.
+4 Mary banyoya geri döndü.
+5 Sandra koridora geri döndü.
+6 Sandra oradaki sütü aldı.
+7 Sandra ne taşıyor? 	süt	6
+8 Sandra sütü bıraktı.
+9 Sandra oradaki sütü aldı.
+10 Sandra ne taşıyor? 	süt	6 8 9
+11 John banyoya gitti.
+12 Daniel salona gitti.
+13 Sandra ne taşıyor? 	süt	6 8 9
+14 Sandra salona gitti.
+15 Sandra sütü bıraktı.
+16 Sandra ne taşıyor? 	hiç	6 8 9 15
+17 Sandra ofise gitti.
+18 Sandra bahçeye gitti.
+19 Sandra ne taşıyor? 	hiç	6 8 9 15
+1 Sandra mutfağa gitti.
+2 Mary oradaki sütü aldı.
+3 Mary ne taşıyor? 	süt	2
+4 John mutfağa gitti.
+5 John ofise gitti.
+6 Mary ne taşıyor? 	süt	2
+7 Daniel koridora geri döndü.
+8 Mary koridora gitti.
+9 Mary ne taşıyor? 	süt	2
+10 Daniel ofise geri döndü.
+11 John salona geri döndü.
+12 John koridora gitti.
+13 Sandra bahçeye gitti.
+14 John oradaki elmayı aldı.
+15 Sandra ofise gitti.
+16 John ne taşıyor? 	elma	14
+17 Daniel mutfağa geri döndü.
+18 Mary sütü bıraktı.
+19 Mary ne taşıyor? 	hiç	2 18
+1 Daniel oradaki topu aldı.
+2 Sandra mutfağa gitti.
+3 Daniel ne taşıyor? 	top	1
+4 Mary mutfağa gitti.
+5 Daniel koridora gitti.
+6 Daniel ne taşıyor? 	top	1
+7 Daniel oradaki sütü aldı.
+8 Sandra salona gitti.
+9 Daniel ne taşıyor? 	top,süt	1 7
+10 Mary bahçeye gitti.
+11 John salona geri döndü.
+12 Daniel ne taşıyor? 	top,süt	1 7
+13 Mary koridora gitti.
+14 Daniel banyoya gitti.
+15 John ofise gitti.
+16 John salona gitti.
+17 Daniel topu bıraktı.
+18 Daniel sütü bıraktı.
+19 Daniel ne taşıyor? 	hiç	1 17 7 18
+1 John mutfağa gitti.
+2 Daniel oradaki sütü aldı.
+3 Daniel ne taşıyor? 	süt	2
+4 Daniel bahçeye gitti.
+5 John ofise geri döndü.
+6 Daniel ne taşıyor? 	süt	2
+7 Daniel ofise geri döndü.
+8 Sandra ofise geri döndü.
+9 Daniel ne taşıyor? 	süt	2
+10 Sandra koridora geri döndü.
+11 Mary banyoya gitti.
+12 Sandra salona geri döndü.
+13 Mary ofise gitti.
+14 Daniel elmayı oraya aldı.
+15 John salona gitti.
+16 Daniel ne taşıyor? 	süt,elma	2 14
+17 John banyoya geri döndü.
+18 Sandra ofise geri döndü.
+19 Daniel ne taşıyor? 	süt,elma	2 14
+1 John salona gitti.
+2 John mutfağa gitti.
+3 Mary banyoya gitti.
+4 Daniel koridora gitti.
+5 Sandra oradaki topu aldı.
+6 Sandra topu bıraktı.
+7 Sandra ne taşıyor? 	hiç	5 6
+8 Sandra topu oraya aldı.
+9 Mary mutfağa gitti.
+10 Sandra ne taşıyor? 	top	5 6 8
+11 Mary koridora gitti.
+12 Daniel mutfağa geri döndü.
+13 Sandra ne taşıyor? 	top	5 6 8
+14 Mary elmayı oraya aldı.
+15 Mary salona geri döndü.
+16 Mary ne taşıyor? 	elma	14
+17 John ofise geri döndü.
+18 Mary mutfağa gitti.
+19 Mary ne taşıyor? 	elma	14
+1 Mary mutfağa gitti.
+2 John mutfağa gitti.
+3 Daniel mutfağa gitti.
+4 Mary salona geri döndü.
+5 Daniel koridora geri döndü.
+6 Daniel oradaki elmayı aldı.
+7 Daniel ne taşıyor? 	elma	6
+8 Daniel mutfağa gitti.
+9 Mary banyoya gitti.
+10 Daniel ne taşıyor? 	elma	6
+11 Daniel elmayı bıraktı.
+12 John koridora gitti.
+13 Daniel ne taşıyor? 	hiç	6 11
+14 Mary koridora geri döndü.
+15 John ofise gitti.
+16 Daniel ne taşıyor? 	hiç	6 11
+17 Sandra koridora geri döndü.
+18 Sandra bahçeye gitti.
+19 Daniel koridora gitti.
+20 Sandra mutfağa gitti.
+21 Daniel salona geri döndü.
+22 Sandra oradaki elmayı aldı.
+23 Sandra ne taşıyor? 	elma	22
+1 John oradaki sütü aldı.
+2 John sütü bıraktı.
+3 John ne taşıyor? 	hiç	1 2
+4 Daniel koridora geri döndü.
+5 John ofise geri döndü.
+6 John ne taşıyor? 	hiç	1 2
+7 Daniel salona gitti.
+8 John salona geri döndü.
+9 John ne taşıyor? 	hiç	1 2
+10 John salona geri döndü.
+11 Daniel banyoya gitti.
+12 Mary mutfağa gitti.
+13 Sandra bahçeye gitti.
+14 Mary oradaki sütü aldı.
+15 Sandra topu oradan aldı.
+16 Sandra ne taşıyor? 	top	15
+17 Mary sütü bıraktı.
+18 Sandra topu bıraktı.
+19 Sandra ne taşıyor? 	hiç	15 18
+1 Mary oradaki topu aldı.
+2 Daniel oradaki sütü aldı.
+3 Daniel ne taşıyor? 	süt	2
+4 Mary bahçeye gitti.
+5 Mary salona gitti.
+6 Mary ne taşıyor? 	top	1
+7 Daniel sütü bıraktı.
+8 John banyoya gitti.
+9 Daniel ne taşıyor? 	hiç	2 7
+10 John elmayı oraya aldı.
+11 Mary topu bıraktı.
+12 Daniel ne taşıyor? 	hiç	2 7
+13 Daniel oradaki sütü aldı.
+14 John koridora gitti.
+15 Mary ne taşıyor? 	hiç	1 11
+1 John oradaki topu aldı.
+2 Daniel banyoya gitti.
+3 John ne taşıyor? 	top	1
+4 Mary oradaki sütü aldı.
+5 Mary sütü bıraktı.
+6 John ne taşıyor? 	top	1
+7 Daniel koridora gitti.
+8 Mary banyoya gitti.
+9 Mary ne taşıyor? 	hiç	4 5
+10 John topu bıraktı.
+11 Sandra koridora geri döndü.
+12 John ne taşıyor? 	hiç	1 10
+13 John topu oraya aldı.
+14 Daniel oradaki elmayı aldı.
+15 John ne taşıyor? 	top	1 10 13
+1 Daniel bahçeye gitti.
+2 Mary oradaki topu aldı.
+3 Mary ne taşıyor? 	top	2
+4 Mary salona gitti.
+5 Mary mutfağa geri döndü.
+6 Mary ne taşıyor? 	top	2
+7 John salona geri döndü.
+8 Daniel mutfağa geri döndü.
+9 Mary ne taşıyor? 	top	2
+10 John oradaki sütü aldı.
+11 Sandra bahçeye gitti.
+12 John ne taşıyor? 	süt	10
+13 Mary bahçeye gitti.
+14 Daniel koridora gitti.
+15 John ne taşıyor? 	süt	10
+1 John bahçeye gitti.
+2 John koridora geri döndü.
+3 John ofise gitti.
+4 Daniel koridora gitti.
+5 John salona geri döndü.
+6 Mary mutfağa gitti.
+7 Daniel topu oradan aldı.
+8 John koridora gitti.
+9 Daniel ne taşıyor? 	top	7
+10 John salona gitti.
+11 Sandra banyoya gitti.
+12 Daniel ne taşıyor? 	top	7
+13 Daniel topu bıraktı.
+14 Daniel oradaki topu aldı.
+15 Daniel ne taşıyor? 	top	7 13 14
+16 John koridora gitti.
+17 John bahçeye gitti.
+18 Daniel ne taşıyor? 	top	7 13 14
+19 Mary koridora geri döndü.
+20 Daniel topu bıraktı.
+21 Daniel ne taşıyor? 	hiç	7 13 14 20
+1 John koridora gitti.
+2 Sandra bahçeye gitti.
+3 John salona geri döndü.
+4 Daniel koridora gitti.
+5 John oradaki sütü aldı.
+6 Daniel elmayı oraya aldı.
+7 Daniel ne taşıyor? 	elma	6
+8 Mary oradaki topu aldı.
+9 Daniel elmayı bıraktı.
+10 Daniel ne taşıyor? 	hiç	6 9
+11 Mary topu bıraktı.
+12 Sandra mutfağa gitti.
+13 Daniel ne taşıyor? 	hiç	6 9
+14 Daniel oradaki elmayı aldı.
+15 John mutfağa geri döndü.
+16 Daniel ne taşıyor? 	elma	6 9 14
+17 John bahçeye gitti.
+18 Daniel elmayı bıraktı.
+19 Daniel ne taşıyor? 	hiç	6 9 14 18
+1 John oradaki elmayı aldı.
+2 John elmayı bıraktı.
+3 John ne taşıyor? 	hiç	1 2
+4 John oradaki elmayı aldı.
+5 Sandra oradaki sütü aldı.
+6 John ne taşıyor? 	elma	1 2 4
+7 Sandra oradaki topu aldı.
+8 Sandra sütü bıraktı.
+9 John ne taşıyor? 	elma	1 2 4
+10 Sandra oradaki sütü aldı.
+11 Mary koridora geri döndü.
+12 Sandra ne taşıyor? 	süt,top	5 8 10 7
+13 Mary salona gitti.
+14 John elmayı bıraktı.
+15 John ne taşıyor? 	hiç	1 2 4 14
+1 Mary mutfağa gitti.
+2 John oradaki sütü aldı.
+3 John ne taşıyor? 	süt	2
+4 John sütü bıraktı.
+5 John topu oradan aldı.
+6 John ne taşıyor? 	top	2 4 5
+7 John mutfağa gitti.
+8 John bahçeye gitti.
+9 John ne taşıyor? 	top	2 4 5
+10 John topu oraya bıraktı.
+11 Daniel topu oradan aldı.
+12 John ne taşıyor? 	hiç	2 4 5 10
+13 Sandra banyoya gitti.
+14 John ofise gitti.
+15 John ne taşıyor? 	hiç	2 4 5 10
+1 John banyoya gitti.
+2 Sandra bahçeye gitti.
+3 Mary mutfağa gitti.
+4 Sandra mutfağa gitti.
+5 John koridora gitti.
+6 John banyoya geri döndü.
+7 Daniel bahçeye gitti.
+8 Mary banyoya gitti.
+9 Daniel koridora gitti.
+10 John mutfağa gitti.
+11 Sandra banyoya gitti.
+12 John salona gitti.
+13 John topu oraya aldı.
+14 John topu bıraktı.
+15 John ne taşıyor? 	hiç	13 14
+16 Sandra oradaki elmayı aldı.
+17 Mary koridora gitti.
+18 Sandra ne taşıyor? 	elma	16
+19 John ofise gitti.
+20 Sandra salona geri döndü.
+21 John ne taşıyor? 	hiç	13 14
+22 Sandra koridora gitti.
+23 John oradaki sütü aldı.
+24 John ne taşıyor? 	süt	13 14 23
+25 Mary salona gitti.
+26 Sandra elmayı oraya bıraktı.
+27 John ne taşıyor? 	süt	13 14 23
+1 John bahçeye gitti.
+2 John banyoya gitti.
+3 John bahçeye gitti.
+4 Mary elmayı oraya aldı.
+5 Mary ne taşıyor? 	elma	4
+6 Mary oradaki sütü aldı.
+7 Daniel salona gitti.
+8 Mary ne taşıyor? 	elma,süt	4 6
+9 Mary banyoya geri döndü.
+10 Mary koridora gitti.
+11 Mary ne taşıyor? 	elma,süt	4 6
+12 Daniel ofise gitti.
+13 Mary oradaki topu aldı.
+14 Mary ne taşıyor? 	elma,süt,top	4 6 13
+15 Mary elmayı bıraktı.
+16 Mary sütü bıraktı.
+17 Mary ne taşıyor? 	top	4 15 6 16 13
+1 Mary salona gitti.
+2 John banyoya gitti.
+3 Daniel banyoya gitti.
+4 Mary ofise gitti.
+5 Sandra koridora geri döndü.
+6 Mary koridora geri döndü.
+7 Daniel ofise gitti.
+8 Daniel oradaki elmayı aldı.
+9 Daniel ne taşıyor? 	elma	8
+10 Daniel koridora gitti.
+11 Daniel elmayı bıraktı.
+12 Daniel ne taşıyor? 	hiç	8 11
+13 John salona gitti.
+14 Daniel oradaki elmayı aldı.
+15 Daniel ne taşıyor? 	elma	8 11 14
+16 Sandra salona gitti.
+17 Daniel salona gitti.
+18 Daniel ne taşıyor? 	elma	8 11 14
+19 Daniel elmayı oraya bıraktı.
+20 John elmayı oraya aldı.
+21 Daniel ne taşıyor? 	hiç	8 11 14 19
+1 John koridora gitti.
+2 Sandra topu oradan aldı.
+3 Sandra ne taşıyor? 	top	2
+4 Mary mutfağa geri döndü.
+5 Mary koridora gitti.
+6 Sandra ne taşıyor? 	top	2
+7 Mary bahçeye gitti.
+8 Sandra banyoya gitti.
+9 Sandra ne taşıyor? 	top	2
+10 Sandra topu bıraktı.
+11 Daniel bahçeye gitti.
+12 Sandra ne taşıyor? 	hiç	2 10
+13 Mary ofise gitti.
+14 John ofise gitti.
+15 Sandra ne taşıyor? 	hiç	2 10
+1 Daniel bahçeye gitti.
+2 Daniel salona gitti.
+3 Mary ofise gitti.
+4 John elmayı oraya aldı.
+5 John ne taşıyor? 	elma	4
+6 Sandra koridora gitti.
+7 John banyoya gitti.
+8 John ne taşıyor? 	elma	4
+9 John oradaki sütü aldı.
+10 Sandra salona gitti.
+11 John ne taşıyor? 	elma,süt	4 9
+12 Mary banyoya gitti.
+13 John koridora gitti.
+14 John ne taşıyor? 	elma,süt	4 9
+15 John ofise gitti.
+16 Sandra banyoya gitti.
+17 John elmayı bıraktı.
+18 Sandra mutfağa gitti.
+19 John ne taşıyor? 	süt	4 17 9
+1 Mary ofise gitti.
+2 Sandra salona geri döndü.
+3 John ofise gitti.
+4 John mutfağa gitti.
+5 Sandra ofise gitti.
+6 Mary koridora gitti.
+7 Mary banyoya gitti.
+8 John oradaki sütü aldı.
+9 John ne taşıyor? 	süt	8
+10 John sütü oraya bıraktı.
+11 Mary mutfağa geri döndü.
+12 John ne taşıyor? 	hiç	8 10
+13 Mary banyoya geri döndü.
+14 Sandra salona geri döndü.
+15 John ne taşıyor? 	hiç	8 10
+16 John salona gitti.
+17 John mutfağa gitti.
+18 Mary oradaki topu aldı.
+19 John oradaki elmayı aldı.
+20 Mary ne taşıyor? 	top	18
+21 John banyoya gitti.
+22 Mary topu bıraktı.
+23 John ne taşıyor? 	elma	8 10 19
+1 Sandra koridora geri döndü.
+2 Mary oradaki sütü aldı.
+3 Mary ne taşıyor? 	süt	2
+4 Mary sütü bıraktı.
+5 Sandra ofise geri döndü.
+6 Mary ne taşıyor? 	hiç	2 4
+7 Daniel elmayı oraya aldı.
+8 Daniel bahçeye gitti.
+9 Daniel ne taşıyor? 	elma	7
+10 Mary bahçeye gitti.
+11 Daniel topu oraya aldı.
+12 Daniel ne taşıyor? 	elma,top	7 11
+13 Daniel topu bıraktı.
+14 Sandra salona geri döndü.
+15 Daniel ne taşıyor? 	elma	7 11 13
+1 Daniel koridora gitti.
+2 Mary oradaki topu aldı.
+3 Mary ne taşıyor? 	top	2
+4 Sandra banyoya gitti.
+5 Daniel banyoya gitti.
+6 Mary ne taşıyor? 	top	2
+7 John ofise gitti.
+8 Mary banyoya gitti.
+9 Mary ne taşıyor? 	top	2
+10 Sandra oradaki elmayı aldı.
+11 John oradaki sütü aldı.
+12 John ne taşıyor? 	süt	11
+13 Daniel salona geri döndü.
+14 Mary topu bıraktı.
+15 John ne taşıyor? 	süt	11
+1 Daniel banyoya gitti.
+2 Mary koridora gitti.
+3 Daniel salona gitti.
+4 Mary oradaki sütü aldı.
+5 Mary ne taşıyor? 	süt	4
+6 John mutfağa geri döndü.
+7 John ofise geri döndü.
+8 Mary ne taşıyor? 	süt	4
+9 Sandra banyoya gitti.
+10 Mary mutfağa gitti.
+11 Mary ne taşıyor? 	süt	4
+12 Daniel ofise gitti.
+13 Daniel salona gitti.
+14 Sandra salona gitti.
+15 John banyoya geri döndü.
+16 John mutfağa gitti.
+17 Daniel koridora gitti.
+18 Mary sütü oraya bıraktı.
+19 Daniel banyoya gitti.
+20 Mary ne taşıyor? 	hiç	4 18
+21 Mary oradaki sütü aldı.
+22 Mary sütü bıraktı.
+23 Mary ne taşıyor? 	hiç	4 18 21 22
+1 Mary elmayı oraya aldı.
+2 Sandra salona gitti.
+3 Mary ne taşıyor? 	elma	1
+4 Mary salona geri döndü.
+5 Mary topu oradan aldı.
+6 Mary ne taşıyor? 	elma,top	1 5
+7 Mary oradaki sütü aldı.
+8 John banyoya geri döndü.
+9 Mary ne taşıyor? 	elma,top,süt	1 5 7
+10 Daniel salona geri döndü.
+11 Daniel banyoya gitti.
+12 Mary ne taşıyor? 	elma,top,süt	1 5 7
+13 Mary koridora gitti.
+14 Mary banyoya gitti.
+15 Mary koridora gitti.
+16 John salona gitti.
+17 Daniel ofise gitti.
+18 Daniel bahçeye gitti.
+19 Mary topu bıraktı.
+20 Mary topu oradan aldı.
+21 Mary ne taşıyor? 	elma,top,süt	1 5 19 20 7
+1 John salona geri döndü.
+2 Sandra mutfağa gitti.
+3 John mutfağa gitti.
+4 John oradaki topu aldı.
+5 John ne taşıyor? 	top	4
+6 Sandra banyoya gitti.
+7 Sandra oradaki elmayı aldı.
+8 John ne taşıyor? 	top	4
+9 John topu bıraktı.
+10 Sandra oradaki sütü aldı.
+11 Sandra ne taşıyor? 	elma,süt	7 10
+12 Daniel mutfağa gitti.
+13 Mary banyoya gitti.
+14 John ne taşıyor? 	hiç	4 9
+15 Mary mutfağa gitti.
+16 Mary oradaki topu aldı.
+17 Mary ne taşıyor? 	top	16
+1 Mary ofise gitti.
+2 Mary salona geri döndü.
+3 Sandra salona gitti.
+4 Mary topu oraya aldı.
+5 Mary ne taşıyor? 	top	4
+6 Mary topu bıraktı.
+7 Mary ofise geri döndü.
+8 Mary ne taşıyor? 	hiç	4 6
+9 John salona gitti.
+10 John oradaki sütü aldı.
+11 Mary ne taşıyor? 	hiç	4 6
+12 John bahçeye gitti.
+13 Mary banyoya gitti.
+14 John ne taşıyor? 	süt	10
+15 John oradaki topu aldı.
+16 Mary bahçeye gitti.
+17 John ne taşıyor? 	süt,top	10 15
+1 Sandra oradaki sütü aldı.
+2 Daniel koridora gitti.
+3 Sandra ne taşıyor? 	süt	1
+4 Sandra elmayı oraya aldı.
+5 Sandra sütü bıraktı.
+6 Sandra ne taşıyor? 	elma	1 5 4
+7 Sandra oradaki sütü aldı.
+8 Sandra elmayı bıraktı.
+9 Sandra ne taşıyor? 	süt	1 5 7 4 8
+10 Sandra oradaki elmayı aldı.
+11 Sandra bahçeye gitti.
+12 Sandra ne taşıyor? 	süt,elma	1 5 7 4 8 10
+13 Daniel ofise gitti.
+14 Sandra elmayı bıraktı.
+15 Sandra ne taşıyor? 	süt	1 5 7 4 8 10 14
+1 Sandra topu oraya aldı.
+2 Mary bahçeye gitti.
+3 Sandra ne taşıyor? 	top	1
+4 Sandra ofise gitti.
+5 Sandra koridora geri döndü.
+6 Sandra ne taşıyor? 	top	1
+7 Daniel salona gitti.
+8 Mary oradaki elmayı aldı.
+9 Mary ne taşıyor? 	elma	8
+10 Sandra banyoya gitti.
+11 Mary koridora gitti.
+12 Mary ne taşıyor? 	elma	8
+13 John koridora gitti.
+14 Mary elmayı oraya bıraktı.
+15 Mary ne taşıyor? 	hiç	8 14
+1 Mary salona geri döndü.
+2 Daniel ofise geri döndü.
+3 John ofise geri döndü.
+4 Daniel salona gitti.
+5 Mary banyoya gitti.
+6 Mary oradaki topu aldı.
+7 Mary ne taşıyor? 	top	6
+8 Mary topu oraya bıraktı.
+9 Mary topu oradan aldı.
+10 Mary ne taşıyor? 	top	6 8 9
+11 Mary topu bıraktı.
+12 Mary oradaki topu aldı.
+13 Mary ne taşıyor? 	top	6 8 9 11 12
+14 John koridora geri döndü.
+15 John ofise geri döndü.
+16 Mary ne taşıyor? 	top	6 8 9 11 12
+17 Sandra banyoya gitti.
+18 Sandra mutfağa geri döndü.
+19 Mary ne taşıyor? 	top	6 8 9 11 12
+1 Sandra oradaki sütü aldı.
+2 John oradaki elmayı aldı.
+3 Sandra ne taşıyor? 	süt	1
+4 John salona gitti.
+5 Sandra sütü oraya bıraktı.
+6 John ne taşıyor? 	elma	2
+7 Sandra oradaki sütü aldı.
+8 John bahçeye gitti.
+9 John ne taşıyor? 	elma	2
+10 John banyoya geri döndü.
+11 John koridora gitti.
+12 Sandra ne taşıyor? 	süt	1 5 7
+13 Sandra sütü oraya bıraktı.
+14 John elmayı bıraktı.
+15 John ne taşıyor? 	hiç	2 14
+1 Sandra koridora gitti.
+2 Daniel topu oradan aldı.
+3 Daniel ne taşıyor? 	top	2
+4 Daniel mutfağa gitti.
+5 John oradaki sütü aldı.
+6 Daniel ne taşıyor? 	top	2
+7 John sütü bıraktı.
+8 John salona gitti.
+9 John ne taşıyor? 	hiç	5 7
+10 Mary koridora gitti.
+11 Daniel topu bıraktı.
+12 John ne taşıyor? 	hiç	5 7
+13 Mary bahçeye gitti.
+14 John koridora gitti.
+15 Daniel ne taşıyor? 	hiç	2 11
+1 John salona gitti.
+2 Mary salona geri döndü.
+3 John banyoya gitti.
+4 John oradaki elmayı aldı.
+5 John ne taşıyor? 	elma	4
+6 John elmayı bıraktı.
+7 Daniel banyoya gitti.
+8 John ne taşıyor? 	hiç	4 6
+9 Mary mutfağa gitti.
+10 Mary ofise gitti.
+11 John ne taşıyor? 	hiç	4 6
+12 John mutfağa gitti.
+13 Daniel salona gitti.
+14 John bahçeye gitti.
+15 Daniel bahçeye gitti.
+16 John banyoya gitti.
+17 Daniel oradaki sütü aldı.
+18 Daniel ne taşıyor? 	süt	17
+19 John mutfağa gitti.
+20 Sandra salona gitti.
+21 Daniel ne taşıyor? 	süt	17
+1 Daniel ofise gitti.
+2 Mary mutfağa gitti.
+3 Mary ofise gitti.
+4 Daniel salona gitti.
+5 Daniel koridora geri döndü.
+6 Mary oradaki topu aldı.
+7 Mary ne taşıyor? 	top	6
+8 John salona gitti.
+9 John mutfağa gitti.
+10 Mary ne taşıyor? 	top	6
+11 John salona gitti.
+12 John bahçeye gitti.
+13 Mary ne taşıyor? 	top	6
+14 John koridora gitti.
+15 Mary topu bıraktı.
+16 Mary ne taşıyor? 	hiç	6 15
+17 John salona gitti.
+18 Sandra bahçeye gitti.
+19 Mary ne taşıyor? 	hiç	6 15
+1 John oradaki sütü aldı.
+2 Daniel mutfağa gitti.
+3 John ne taşıyor? 	süt	1
+4 Sandra koridora geri döndü.
+5 Mary topu oraya aldı.
+6 Mary ne taşıyor? 	top	5
+7 Daniel salona gitti.
+8 Sandra ofise geri döndü.
+9 Mary ne taşıyor? 	top	5
+10 Mary koridora geri döndü.
+11 Mary topu bıraktı.
+12 Mary ne taşıyor? 	hiç	5 11
+13 Mary oradaki topu aldı.
+14 Sandra oradaki elmayı aldı.
+15 Sandra ne taşıyor? 	elma	14
+1 Sandra ofise gitti.
+2 Daniel banyoya geri döndü.
+3 Sandra koridora geri döndü.
+4 John banyoya gitti.
+5 Daniel koridora geri döndü.
+6 Sandra banyoya gitti.
+7 Mary bahçeye gitti.
+8 Mary mutfağa gitti.
+9 John salona geri döndü.
+10 John mutfağa gitti.
+11 John oradaki elmayı aldı.
+12 Sandra bahçeye gitti.
+13 John ne taşıyor? 	elma	11
+14 John elmayı bıraktı.
+15 Mary ofise gitti.
+16 John ne taşıyor? 	hiç	11 14
+17 Sandra banyoya gitti.
+18 Mary koridora gitti.
+19 John ne taşıyor? 	hiç	11 14
+20 John oradaki elmayı aldı.
+21 John elmayı bıraktı.
+22 John ne taşıyor? 	hiç	11 14 20 21
+23 Sandra koridora gitti.
+24 Daniel mutfağa gitti.
+25 John ne taşıyor? 	hiç	11 14 20 21
+1 Daniel oradaki elmayı aldı.
+2 John banyoya geri döndü.
+3 Daniel ne taşıyor? 	elma	1
+4 Daniel koridora gitti.
+5 Mary koridora gitti.
+6 Daniel ne taşıyor? 	elma	1
+7 Sandra banyoya gitti.
+8 Sandra salona geri döndü.
+9 Daniel elmayı bıraktı.
+10 Mary oradaki elmayı aldı.
+11 Daniel ne taşıyor? 	hiç	1 9
+12 Mary banyoya geri döndü.
+13 Sandra koridora gitti.
+14 Mary ne taşıyor? 	elma	10
+15 Daniel mutfağa gitti.
+16 Mary elmayı bıraktı.
+17 Mary ne taşıyor? 	hiç	10 16
+1 John ofise gitti.
+2 Daniel banyoya gitti.
+3 John koridora geri döndü.
+4 Daniel mutfağa gitti.
+5 Sandra elmayı oraya aldı.
+6 Mary koridora gitti.
+7 Sandra ne taşıyor? 	elma	5
+8 Sandra elmayı bıraktı.
+9 Sandra oradaki elmayı aldı.
+10 Sandra ne taşıyor? 	elma	5 8 9
+11 Sandra banyoya gitti.
+12 Daniel koridora gitti.
+13 Sandra ne taşıyor? 	elma	5 8 9
+14 Sandra elmayı bıraktı.
+15 John salona gitti.
+16 Sandra ne taşıyor? 	hiç	5 8 9 14
+17 Sandra ofise gitti.
+18 Daniel banyoya gitti.
+19 Sandra ne taşıyor? 	hiç	5 8 9 14
+1 Daniel salona geri döndü.
+2 Daniel mutfağa gitti.
+3 Mary bahçeye gitti.
+4 Sandra salona gitti.
+5 Daniel ofise gitti.
+6 John oradaki sütü aldı.
+7 John ne taşıyor? 	süt	6
+8 Sandra banyoya gitti.
+9 Mary ofise gitti.
+10 John ne taşıyor? 	süt	6
+11 Sandra salona gitti.
+12 Daniel salona geri döndü.
+13 John ne taşıyor? 	süt	6
+14 John mutfağa geri döndü.
+15 Sandra topu oradan aldı.
+16 Sandra ne taşıyor? 	top	15
+17 John sütü bıraktı.
+18 Daniel banyoya gitti.
+19 John ne taşıyor? 	hiç	6 17
+1 Daniel banyoya gitti.
+2 Daniel oradaki topu aldı.
+3 Daniel ne taşıyor? 	top	2
+4 John ofise gitti.
+5 Sandra ofise gitti.
+6 Daniel ne taşıyor? 	top	2
+7 Sandra banyoya gitti.
+8 Daniel bahçeye gitti.
+9 Daniel ne taşıyor? 	top	2
+10 Daniel topu oraya bıraktı.
+11 John banyoya gitti.
+12 Daniel ne taşıyor? 	hiç	2 10
+13 Mary bahçeye gitti.
+14 John oradaki sütü aldı.
+15 John ne taşıyor? 	süt	14
+1 Sandra ofise gitti.
+2 Mary mutfağa gitti.
+3 Sandra mutfağa gitti.
+4 Mary oradaki sütü aldı.
+5 Mary ne taşıyor? 	süt	4
+6 Mary ofise gitti.
+7 Mary sütü bıraktı.
+8 Mary ne taşıyor? 	hiç	4 7
+9 John banyoya gitti.
+10 Sandra ofise gitti.
+11 Mary ne taşıyor? 	hiç	4 7
+12 Sandra oradaki sütü aldı.
+13 John koridora gitti.
+14 Mary ne taşıyor? 	hiç	4 7
+15 Sandra salona gitti.
+16 John ofise gitti.
+17 Sandra ne taşıyor? 	süt	12
+1 Mary banyoya gitti.
+2 Daniel koridora gitti.
+3 Sandra oradaki sütü aldı.
+4 Sandra topu oradan aldı.
+5 Sandra ne taşıyor? 	süt,top	3 4
+6 Sandra sütü bıraktı.
+7 Sandra oradaki sütü aldı.
+8 Sandra ne taşıyor? 	süt,top	3 6 7 4
+9 Mary koridora gitti.
+10 Daniel bahçeye gitti.
+11 Sandra ne taşıyor? 	süt,top	3 6 7 4
+12 Mary mutfağa geri döndü.
+13 Sandra bahçeye gitti.
+14 Sandra ne taşıyor? 	süt,top	3 6 7 4
+15 Sandra topu bıraktı.
+16 Sandra salona gitti.
+17 Sandra ne taşıyor? 	süt	3 6 7 4 15
+1 Mary koridora geri döndü.
+2 John ofise geri döndü.
+3 Mary oradaki topu aldı.
+4 Sandra oradaki elmayı aldı.
+5 Sandra ne taşıyor? 	elma	4
+6 Daniel banyoya gitti.
+7 Daniel salona gitti.
+8 Sandra ne taşıyor? 	elma	4
+9 Mary topu bıraktı.
+10 John salona geri döndü.
+11 Mary ne taşıyor? 	hiç	3 9
+12 Sandra ofise gitti.
+13 Sandra elmayı oraya bıraktı.
+14 Mary ne taşıyor? 	hiç	3 9
+15 Mary oradaki topu aldı.
+16 Sandra mutfağa gitti.
+17 Mary ne taşıyor? 	top	3 9 15
+1 Mary ofise gitti.
+2 John ofise gitti.
+3 John banyoya geri döndü.
+4 Daniel ofise gitti.
+5 Daniel koridora gitti.
+6 John bahçeye gitti.
+7 Mary oradaki sütü aldı.
+8 Sandra ofise gitti.
+9 Mary ne taşıyor? 	süt	7
+10 John topu oradan aldı.
+11 Mary sütü bıraktı.
+12 Mary ne taşıyor? 	hiç	7 11
+13 Sandra oradaki sütü aldı.
+14 Sandra sütü bıraktı.
+15 Sandra ne taşıyor? 	hiç	13 14
+16 Sandra mutfağa geri döndü.
+17 Daniel salona geri döndü.
+18 Mary ne taşıyor? 	hiç	7 11
+19 Mary oradaki sütü aldı.
+20 Mary koridora gitti.
+21 Mary ne taşıyor? 	süt	7 11 19
+1 Mary oradaki elmayı aldı.
+2 Mary mutfağa gitti.
+3 Mary ne taşıyor? 	elma	1
+4 Mary elmayı bıraktı.
+5 Mary oradaki sütü aldı.
+6 Mary ne taşıyor? 	süt	1 4 5
+7 Sandra koridora gitti.
+8 Mary elmayı oraya aldı.
+9 Mary ne taşıyor? 	elma,süt	1 4 8 5
+10 John koridora gitti.
+11 Sandra banyoya gitti.
+12 Mary ne taşıyor? 	elma,süt	1 4 8 5
+13 Daniel koridora gitti.
+14 Mary koridora gitti.
+15 Mary ne taşıyor? 	elma,süt	1 4 8 5
+1 Sandra ofise gitti.
+2 Mary elmayı oraya aldı.
+3 Mary ne taşıyor? 	elma	2
+4 Daniel mutfağa gitti.
+5 John oradaki sütü aldı.
+6 John ne taşıyor? 	süt	5
+7 John sütü oraya bıraktı.
+8 Sandra bahçeye gitti.
+9 John ne taşıyor? 	hiç	5 7
+10 John oradaki sütü aldı.
+11 Sandra koridora geri döndü.
+12 John ne taşıyor? 	süt	5 7 10
+13 Mary elmayı bıraktı.
+14 Mary banyoya gitti.
+15 John ne taşıyor? 	süt	5 7 10
+1 Sandra oradaki sütü aldı.
+2 John topu oraya aldı.
+3 John ne taşıyor? 	top	2
+4 John banyoya gitti.
+5 John oradaki elmayı aldı.
+6 John ne taşıyor? 	top,elma	2 5
+7 John topu bıraktı.
+8 Sandra salona geri döndü.
+9 John ne taşıyor? 	elma	2 7 5
+10 Daniel mutfağa gitti.
+11 John oradaki topu aldı.
+12 John ne taşıyor? 	top,elma	2 7 11 5
+13 Daniel banyoya geri döndü.
+14 Daniel mutfağa geri döndü.
+15 John ne taşıyor? 	top,elma	2 7 11 5
+1 Daniel ofise gitti.
+2 Daniel banyoya geri döndü.
+3 Mary bahçeye gitti.
+4 John salona geri döndü.
+5 John topu oraya aldı.
+6 Mary elmayı oraya aldı.
+7 Mary ne taşıyor? 	elma	6
+8 Daniel salona gitti.
+9 Sandra bahçeye gitti.
+10 John ne taşıyor? 	top	5
+11 Mary oradaki sütü aldı.
+12 Daniel banyoya gitti.
+13 Mary ne taşıyor? 	elma,süt	6 11
+14 Sandra ofise geri döndü.
+15 John topu bıraktı.
+16 Mary ne taşıyor? 	elma,süt	6 11
+17 John salona gitti.
+18 John bahçeye gitti.
+19 John ne taşıyor? 	hiç	5 15
+1 Daniel mutfağa geri döndü.
+2 Mary mutfağa geri döndü.
+3 Sandra oradaki elmayı aldı.
+4 Daniel banyoya gitti.
+5 Sandra ne taşıyor? 	elma	3
+6 Daniel bahçeye gitti.
+7 John salona gitti.
+8 Sandra ne taşıyor? 	elma	3
+9 Sandra elmayı bıraktı.
+10 Mary ofise gitti.
+11 Sandra ne taşıyor? 	hiç	3 9
+12 John elmayı oraya aldı.
+13 Sandra ofise gitti.
+14 John ne taşıyor? 	elma	12
+15 Daniel banyoya gitti.
+16 Mary mutfağa gitti.
+17 John ne taşıyor? 	elma	12
+1 John ofise gitti.
+2 Daniel koridora gitti.
+3 Sandra salona gitti.
+4 John banyoya gitti.
+5 Daniel ofise gitti.
+6 Sandra banyoya gitti.
+7 Daniel oradaki elmayı aldı.
+8 Mary bahçeye gitti.
+9 Daniel ne taşıyor? 	elma	7
+10 Daniel elmayı bıraktı.
+11 Daniel mutfağa geri döndü.
+12 Daniel ne taşıyor? 	hiç	7 10
+13 Sandra koridora gitti.
+14 John mutfağa geri döndü.
+15 Daniel ne taşıyor? 	hiç	7 10
+16 Mary salona gitti.
+17 John koridora gitti.
+18 Sandra ofise gitti.
+19 Mary ofise geri döndü.
+20 Sandra banyoya gitti.
+21 Mary oradaki elmayı aldı.
+22 Mary ne taşıyor? 	elma	21
+23 John bahçeye gitti.
+24 Mary elmayı bıraktı.
+25 Mary ne taşıyor? 	hiç	21 24
+1 Mary oradaki sütü aldı.
+2 Daniel banyoya gitti.
+3 Mary ne taşıyor? 	süt	1
+4 Sandra salona gitti.
+5 Mary mutfağa gitti.
+6 Mary ne taşıyor? 	süt	1
+7 Sandra banyoya gitti.
+8 John ofise gitti.
+9 Mary sütü bıraktı.
+10 John oradaki elmayı aldı.
+11 Mary ne taşıyor? 	hiç	1 9
+12 Sandra topu oradan aldı.
+13 John elmayı oraya bıraktı.
+14 Sandra ne taşıyor? 	top	12
+15 Sandra topu oraya bıraktı.
+16 Mary salona gitti.
+17 John ne taşıyor? 	hiç	10 13
+1 Mary bahçeye gitti.
+2 Mary mutfağa gitti.
+3 Mary bahçeye gitti.
+4 Sandra koridora gitti.
+5 John banyoya gitti.
+6 Daniel salona geri döndü.
+7 Mary salona gitti.
+8 Sandra bahçeye gitti.
+9 John topu oraya aldı.
+10 John koridora gitti.
+11 John ne taşıyor? 	top	9
+12 John topu bıraktı.
+13 Sandra mutfağa gitti.
+14 John ne taşıyor? 	hiç	9 12
+15 John elmayı oraya aldı.
+16 John topu oradan aldı.
+17 John ne taşıyor? 	top,elma	9 12 16 15
+18 Mary ofise gitti.
+19 John salona gitti.
+20 John ne taşıyor? 	top,elma	9 12 16 15
+21 John topu bıraktı.
+22 Sandra banyoya gitti.
+23 John ne taşıyor? 	elma	9 12 16 21 15
+1 Daniel koridora geri döndü.
+2 Mary mutfağa gitti.
+3 Mary koridora geri döndü.
+4 Mary banyoya gitti.
+5 John topu oradan aldı.
+6 Sandra oradaki elmayı aldı.
+7 Sandra ne taşıyor? 	elma	6
+8 Mary salona geri döndü.
+9 Mary salona gitti.
+10 John ne taşıyor? 	top	5
+11 Mary mutfağa gitti.
+12 Daniel banyoya gitti.
+13 Sandra ne taşıyor? 	elma	6
+14 John topu bıraktı.
+15 John ofise gitti.
+16 John ne taşıyor? 	hiç	5 14
+17 Sandra ofise gitti.
+18 John salona geri döndü.
+19 John ne taşıyor? 	hiç	5 14
+1 Daniel salona gitti.
+2 John ofise gitti.
+3 John mutfağa geri döndü.
+4 Mary koridora gitti.
+5 Mary salona gitti.
+6 Mary ofise gitti.
+7 Mary koridora geri döndü.
+8 Sandra ofise gitti.
+9 John ofise geri döndü.
+10 Mary ofise gitti.
+11 Mary koridora gitti.
+12 Mary bahçeye gitti.
+13 Daniel ofise geri döndü.
+14 John bahçeye gitti.
+15 Sandra bahçeye gitti.
+16 Sandra mutfağa geri döndü.
+17 Daniel mutfağa gitti.
+18 John banyoya gitti.
+19 Daniel banyoya gitti.
+20 John elmayı oraya aldı.
+21 John ne taşıyor? 	elma	20
+22 Sandra bahçeye gitti.
+23 Daniel salona gitti.
+24 John ne taşıyor? 	elma	20
+25 Mary salona gitti.
+26 John elmayı bıraktı.
+27 John ne taşıyor? 	hiç	20 26
+28 John oradaki elmayı aldı.
+29 Mary bahçeye gitti.
+30 John ne taşıyor? 	elma	20 26 28
+31 John ofise gitti.
+32 Sandra salona gitti.
+33 John ne taşıyor? 	elma	20 26 28
+1 Mary koridora geri döndü.
+2 Mary mutfağa gitti.
+3 John banyoya geri döndü.
+4 Daniel mutfağa gitti.
+5 Mary banyoya gitti.
+6 Sandra salona gitti.
+7 John oradaki elmayı aldı.
+8 Mary oradaki topu aldı.
+9 John ne taşıyor? 	elma	7
+10 Sandra oradaki sütü aldı.
+11 John elmayı bıraktı.
+12 Mary ne taşıyor? 	top	8
+13 John mutfağa geri döndü.
+14 Sandra sütü bıraktı.
+15 John ne taşıyor? 	hiç	7 11
+16 Sandra mutfağa gitti.
+17 Mary koridora gitti.
+18 John ne taşıyor? 	hiç	7 11
+19 Mary salona geri döndü.
+20 Mary topu bıraktı.
+21 Sandra ne taşıyor? 	hiç	10 14
+1 John oradaki sütü aldı.
+2 Mary salona geri döndü.
+3 John ne taşıyor? 	süt	1
+4 John sütü bıraktı.
+5 Sandra banyoya geri döndü.
+6 John ne taşıyor? 	hiç	1 4
+7 John ofise geri döndü.
+8 Daniel koridora gitti.
+9 John ne taşıyor? 	hiç	1 4
+10 John bahçeye gitti.
+11 John oradaki sütü aldı.
+12 John ne taşıyor? 	süt	1 4 11
+13 Daniel oradaki elmayı aldı.
+14 John banyoya gitti.
+15 John ne taşıyor? 	süt	1 4 11
+1 Daniel topu oradan aldı.
+2 Mary banyoya gitti.
+3 Daniel ne taşıyor? 	top	1
+4 Sandra salona gitti.
+5 Daniel topu bıraktı.
+6 Daniel ne taşıyor? 	hiç	1 5
+7 Sandra ofise gitti.
+8 Sandra salona gitti.
+9 Daniel ne taşıyor? 	hiç	1 5
+10 Sandra oradaki elmayı aldı.
+11 Sandra koridora gitti.
+12 Daniel ne taşıyor? 	hiç	1 5
+13 Daniel oradaki topu aldı.
+14 Sandra salona gitti.
+15 Daniel ne taşıyor? 	top	1 5 13
+1 John mutfağa geri döndü.
+2 John koridora geri döndü.
+3 Sandra bahçeye gitti.
+4 John oradaki topu aldı.
+5 John ne taşıyor? 	top	4
+6 John salona gitti.
+7 Daniel salona geri döndü.
+8 John ne taşıyor? 	top	4
+9 Sandra koridora gitti.
+10 Mary ofise gitti.
+11 John ne taşıyor? 	top	4
+12 Mary oradaki sütü aldı.
+13 John topu bıraktı.
+14 John ne taşıyor? 	hiç	4 13
+15 Mary koridora gitti.
+16 Daniel koridora gitti.
+17 Mary ne taşıyor? 	süt	12
+1 Daniel ofise gitti.
+2 Daniel mutfağa gitti.
+3 Mary salona gitti.
+4 Daniel koridora gitti.
+5 Mary bahçeye gitti.
+6 Mary koridora gitti.
+7 Mary bahçeye gitti.
+8 Daniel ofise gitti.
+9 Daniel banyoya gitti.
+10 Daniel topu oradan aldı.
+11 Daniel ne taşıyor? 	top	10
+12 Daniel topu bıraktı.
+13 Daniel oradaki elmayı aldı.
+14 Daniel ne taşıyor? 	elma	10 12 13
+15 Sandra ofise gitti.
+16 Sandra salona gitti.
+17 Daniel ne taşıyor? 	elma	10 12 13
+18 Daniel salona gitti.
+19 Sandra oradaki sütü aldı.
+20 Daniel ne taşıyor? 	elma	10 12 13
+21 Sandra koridora geri döndü.
+22 Mary salona geri döndü.
+23 Sandra ne taşıyor? 	süt	19
+1 Mary salona gitti.
+2 Daniel elmayı oraya aldı.
+3 Daniel ne taşıyor? 	elma	2
+4 Daniel banyoya gitti.
+5 Mary mutfağa gitti.
+6 Daniel ne taşıyor? 	elma	2
+7 Mary koridora geri döndü.
+8 Sandra topu oradan aldı.
+9 Daniel ne taşıyor? 	elma	2
+10 Daniel elmayı bıraktı.
+11 Mary oradaki sütü aldı.
+12 Daniel ne taşıyor? 	hiç	2 10
+13 Daniel salona gitti.
+14 Sandra koridora gitti.
+15 Sandra ne taşıyor? 	top	8
+1 Mary oradaki sütü aldı.
+2 Mary mutfağa gitti.
+3 Mary ne taşıyor? 	süt	1
+4 Mary sütü oraya bıraktı.
+5 Daniel ofise gitti.
+6 Mary ne taşıyor? 	hiç	1 4
+7 John salona gitti.
+8 Sandra ofise gitti.
+9 Mary ne taşıyor? 	hiç	1 4
+10 Daniel bahçeye gitti.
+11 Daniel salona gitti.
+12 Mary oradaki sütü aldı.
+13 John oradaki topu aldı.
+14 Mary ne taşıyor? 	süt	1 4 12
+15 Mary sütü bıraktı.
+16 John topu oraya bıraktı.
+17 John ne taşıyor? 	hiç	13 16
+1 Sandra salona geri döndü.
+2 Daniel mutfağa geri döndü.
+3 Daniel salona gitti.
+4 Mary oradaki sütü aldı.
+5 Mary ne taşıyor? 	süt	4
+6 John bahçeye gitti.
+7 Mary sütü bıraktı.
+8 Mary ne taşıyor? 	hiç	4 7
+9 John elmayı oraya aldı.
+10 Daniel koridora gitti.
+11 Mary ne taşıyor? 	hiç	4 7
+12 John elmayı bıraktı.
+13 John oradaki elmayı aldı.
+14 Mary ne taşıyor? 	hiç	4 7
+15 Sandra bahçeye gitti.
+16 Mary oradaki sütü aldı.
+17 John ne taşıyor? 	elma	9 12 13
+1 John salona gitti.
+2 John banyoya gitti.
+3 Daniel elmayı oraya aldı.
+4 Daniel elmayı oraya bıraktı.
+5 Daniel ne taşıyor? 	hiç	3 4
+6 John koridora gitti.
+7 Sandra salona gitti.
+8 Daniel ne taşıyor? 	hiç	3 4
+9 Daniel oradaki elmayı aldı.
+10 Mary mutfağa gitti.
+11 Daniel ne taşıyor? 	elma	3 4 9
+12 John salona gitti.
+13 Mary salona gitti.
+14 Daniel ne taşıyor? 	elma	3 4 9
+15 Sandra koridora gitti.
+16 John koridora gitti.
+17 Daniel salona gitti.
+18 Sandra ofise geri döndü.
+19 Mary banyoya gitti.
+20 Daniel elmayı oraya bıraktı.
+21 Daniel ne taşıyor? 	hiç	3 4 9 20
+1 Mary ofise gitti.
+2 Sandra salona geri döndü.
+3 John koridora gitti.
+4 Mary koridora gitti.
+5 Sandra banyoya gitti.
+6 Mary ofise gitti.
+7 John banyoya geri döndü.
+8 Daniel ofise gitti.
+9 Sandra mutfağa gitti.
+10 Daniel topu oraya aldı.
+11 Daniel ne taşıyor? 	top	10
+12 Daniel mutfağa gitti.
+13 Sandra koridora gitti.
+14 Daniel ne taşıyor? 	top	10
+15 Sandra ofise gitti.
+16 Daniel topu bıraktı.
+17 Daniel ne taşıyor? 	hiç	10 16
+18 Mary salona gitti.
+19 John koridora geri döndü.
+20 Daniel ne taşıyor? 	hiç	10 16
+21 Mary oradaki sütü aldı.
+22 John salona geri döndü.
+23 Daniel ne taşıyor? 	hiç	10 16

@@ -1,0 +1,3355 @@
+1 Bill dün sinemaya geri döndü.
+2 Julie sabah okula gitti.
+3 Fred dün parka gitti.
+4 Dün Julie ofise gitti.
+5 Julie okuldan önce neredeydi? 	ofis	2 4
+6 Öğlen Julie sinemaya gitti.
+7 Dün Mary parkta gitti.
+8 Julie okuldan önce neredeydi? 	ofis	2 4
+9 Bill sabah okula geri döndü.
+10 bu akşam Julie okula gitti.
+11 Julie okuldan önce neredeydi? 	sinema	10 6
+12 Fred ofise gitti bu sabah.
+13 Öğlen Bill parka gitti.
+14 Bill okuldan önce neredeydi? 	sinema	9 1
+15 Öğlen Fred parka gitti.
+16 Bill bu akşam okula gitti.
+17 Bill okuldan önce neredeydi? 	park	16 13
+1 bu sabah Fred mutfağa gitti.
+2 Fred salona gitti Dün.
+3 Mary bu sabah salona gitti.
+4 Dün Mary sinemaya gitti.
+5 Mary salondan önce neredeydi? 	sinema	3 4
+6 bu sabah Julie ofise gitti.
+7 Dün Julie sinemaya geri döndü.
+8 Julie ofisten önce neredeydi? 	sinema	6 7
+9 Öğlen Julie salona gitti.
+10 Öğlen Fred sinemaya gitti.
+11 Mary salondan önce neredeydi? 	sinema	3 4
+12 Fred mutfağa gitti bu akşam.
+13 Bill dün mutfağa gitti.
+14 Fred mutfaktan önce neredeydi? 	sinema	12 10
+15 Julie sinemaya gitti bu akşam.
+16 bu sabah Bill ofise gitti.
+17 Julie salondan önce neredeydi? 	ofis	9 6
+1 Dün Julie parka geri döndü.
+2 Julie bu sabah salona gitti.
+3 Bill dün sinemaya gitti.
+4 bu sabah Bill parka geri döndü.
+5 Bill parktan önce neredeydi? 	sinema	4 3
+6 bu akşam Julie okula gitti.
+7 Öğlen Julie parka geri döndü.
+8 Julie salondan önce neredeydi? 	park	2 1
+9 Fred dün sinemaya gitti.
+10 Dün Mary mutfağa gitti.
+11 Julie salondan önce neredeydi? 	park	2 1
+12 bu sabah Mary salona gitti.
+13 Bill öğlen mutfağa gitti.
+14 Julie okuldan önce neredeydi? 	park	6 7
+15 Öğlen Mary ofise gitti.
+16 Fred bu sabah ofise gitti.
+17 Mary ofisten önce neredeydi? 	salon	15 12
+1 Bill dün okula gitti.
+2 Dün Julie okula gitti.
+3 Dün Mary sinemaya gitti.
+4 Bill bu sabah ofise gitti.
+5 Bill ofisten önce neredeydi? 	okul	4 1
+6 bu akşam Bill okula gitti.
+7 Bill öğlen parka geri döndü.
+8 Bill ofisten önce neredeydi? 	okul	4 1
+9 Öğlen Mary ofise gitti.
+10 bu sabah Mary mutfağa gitti.
+11 Mary mutfaktan önce neredeydi? 	sinema	10 3
+12 bu sabah Julie ofise gitti.
+13 Dün Fred sinemaya gitti.
+14 Mary ofisten önce neredeydi? 	mutfak	9 10
+15 bu sabah Fred parka gitti.
+16 Öğlen Julie sinemaya gitti.
+17 Julie sinemadan önce neredeydi? 	ofis	16 12
+1 Dün Mary parka gitti.
+2 Fred okula geri döndü Dün.
+3 Julie sinemaya gitti Dün.
+4 bu sabah Mary ofise gitti.
+5 Mary ofisten önce neredeydi? 	park	4 1
+6 Öğlen Mary parka gitti.
+7 Dün Bill mutfağa gitti.
+8 Mary ofisten önce neredeydi? 	park	4 1
+9 bu sabah Bill salona gitti.
+10 Fred bu sabah mutfağa gitti.
+11 Mary parktan önce neredeydi? 	ofis	6 4
+12 bu akşam Fred ofise geri döndü.
+13 Fred öğlen salona gitti.
+14 Bill salondan önce neredeydi? 	mutfak	9 7
+15 Öğlen Julie okula gitti.
+16 Julie bu sabah mutfağa gitti.
+17 Bill salondan önce neredeydi? 	mutfak	9 7
+1 Bill bu sabah mutfağa gitti.
+2 Fred bu sabah mutfağa geri gitti.
+3 Dün Fred sinemaya gitti.
+4 Bill salona gitti Dün.
+5 Fred mutfaktan önce neredeydi? 	sinema	2 3
+6 Öğlen Fred sinemaya gitti.
+7 Mary dün sinemaya geri döndü.
+8 Fred mutfaktan önce neredeydi? 	sinema	2 3
+9 Fred bu akşam okula gitti.
+10 Bill öğlen salona gitti.
+11 Fred okuldan önce neredeydi? 	sinema	9 6
+12 bu akşam Bill okula gitti.
+13 Julie dün sinemaya geri döndü.
+14 Bill okuldan önce neredeydi? 	salon	12 10
+15 Julie öğlen parka geri döndü.
+16 Julie bu sabah ofise gitti.
+17 Julie parktan önce neredeydi? 	ofis	15 16
+1 Mary bu sabah sinemaya gitti.
+2 Dün Mary parka geri döndü.
+3 Julie parka gitti Dün.
+4 Dün Fred mutfağa geri döndü.
+5 Mary sinemadan önce neredeydi? 	park	1 2
+6 bu sabah Fred ofise gitti.
+7 Mary öğlen ofise gitti.
+8 Mary sinemadan önce neredeydi? 	park	1 2
+9 Julie bu sabah ofise gitti.
+10 Dün Bill okula gitti.
+11 Julie ofisten önce neredeydi? 	park	9 3
+12 Fred okula geri döndü Öğlen.
+13 bu sabah Bill parka gitti.
+14 Fred okuldan önce neredeydi? 	ofis	12 6
+15 bu akşam Fred sinemaya geri döndü.
+16 Mary okula gitti bu akşam.
+17 Fred okuldan önce neredeydi? 	ofis	12 6
+1 Julie parka gitti bu sabah.
+2 Julie mutfağa gitti Dün.
+3 Julie parktan önce neredeydi? 	mutfak	1 2
+4 Julie öğlen salona gitti.
+5 Mary okula gitti Dün.
+6 Julie salondan önce neredeydi? 	park	4 1
+7 bu sabah Bill parka gitti.
+8 Dün Bill mutfağa gitti.
+9 Julie parktan önce neredeydi? 	mutfak	1 2
+10 bu sabah Mary ofise gitti.
+11 bu akşam Julie mutfağa gitti.
+12 Julie mutfaktan önce neredeydi? 	salon	11 4
+13 Öğlen Mary sinemaya gitti.
+14 Öğlen Bill mutfağa gitti.
+15 Bill mutfaktan önce neredeydi? 	park	14 7
+1 Mary salona gitti Dün.
+2 Julie dün parka gitti.
+3 Fred parka gitti Dün.
+4 bu sabah Fred sinemaya gitti.
+5 Fred sinemadan önce neredeydi? 	park	4 3
+6 Öğlen Fred ofise geri döndü.
+7 Julie ofise geri döndü bu sabah.
+8 Fred ofisten önce neredeydi? 	sinema	6 4
+9 Öğlen Julie mutfağa gitti.
+10 bu sabah Mary sinemaya gitti.
+11 Mary sinemadan önce neredeydi? 	salon	10 1
+12 Dün Bill sinemaya gitti.
+13 bu akşam Fred sinemaya gitti.
+14 Mary sinemadan önce neredeydi? 	salon	10 1
+15 bu akşam Mary mutfağa gitti.
+16 Mary öğlen ofise gitti.
+17 Mary mutfaktan önce neredeydi? 	ofis	15 16
+1 bu sabah Fred parka gitti.
+2 Mary okula gitti Dün.
+3 Dün Bill mutfağa gitti.
+4 Fred ofise gitti Dün.
+5 Fred parktan önce neredeydi? 	ofis	1 4
+6 Fred okula geri döndü bu akşam.
+7 Fred öğlen salona gitti.
+8 Fred okuldan önce neredeydi? 	salon	6 7
+9 bu sabah Bill parka geri döndü.
+10 bu sabah Mary parka gitti.
+11 Fred okuldan önce neredeydi? 	salon	6 7
+12 Dün Julie parkta gitti.
+13 Öğlen Mary mutfağa gitti.
+14 Bill parktan önce neredeydi? 	mutfak	9 3
+15 Mary ofise gitti bu akşam.
+16 Julie bu sabah mutfağa gitti.
+17 Bill parktan önce neredeydi? 	mutfak	9 3
+1 bu sabah Julie ofise gitti.
+2 Dün Julie parka gitti.
+3 Julie ofisten önce neredeydi? 	park	1 2
+4 bu sabah Mary mutfağa gitti.
+5 Dün Mary parkta gitti.
+6 Julie ofisten önce neredeydi? 	park	1 2
+7 Öğlen Mary okula gitti.
+8 Julie öğlen salona gitti.
+9 Mary mutfaktan önce neredeydi? 	park	4 5
+10 bu sabah Bill mutfağa gitti.
+11 Bill salona gitti Dün.
+12 Julie salondan önce neredeydi? 	ofis	8 1
+13 Fred dün mutfağa gitti.
+14 Mary sinemaya gitti bu akşam.
+15 Bill mutfaktan önce neredeydi? 	salon	10 11
+1 Julie bu sabah sinemaya gitti.
+2 Julie okula geri döndü Dün.
+3 Julie sinemadan önce neredeydi? 	okul	1 2
+4 Bill dün salona gitti.
+5 Dün Mary sinemaya geri döndü.
+6 Julie sinemadan önce neredeydi? 	okul	1 2
+7 Dün Fred sinemaya gitti.
+8 bu sabah Bill mutfağa geri döndü.
+9 Bill mutfaktan önce neredeydi? 	salon	8 4
+10 Öğlen Bill sinemaya gitti.
+11 Fred parka gitti bu sabah.
+12 Bill mutfaktan önce neredeydi? 	salon	8 4
+13 Bill salona gitti bu akşam.
+14 Öğlen Julie ofise gitti.
+15 Bill salondan önce neredeydi? 	sinema	13 10
+1 Mary dün sinemaya gitti.
+2 Dün Julie sinemaya gitti.
+3 bu sabah Julie salona gitti.
+4 Dün Bill parka gitti.
+5 Julie salondan önce neredeydi? 	sinema	3 2
+6 Mary okula gitti bu sabah.
+7 Julie öğlen mutfağa gitti.
+8 Julie mutfaktan önce neredeydi? 	salon	7 3
+9 Julie bu akşam parka geri döndü.
+10 bu sabah Bill ofise geri döndü.
+11 Mary okuldan önce neredeydi? 	sinema	6 1
+12 Dün Fred sinemaya gitti.
+13 Mary ofise gitti Öğlen.
+14 Bill ofisten önce neredeydi? 	park	10 4
+15 Fred parka geri döndü bu sabah.
+16 Mary okula geri döndü bu akşam.
+17 Julie parktan önce neredeydi? 	mutfak	9 7
+1 Dün Bill sinemaya gitti.
+2 Fred bu sabah sinemaya gitti.
+3 Dün Julie parka geri döndü.
+4 Fred parka gitti Dün.
+5 Fred sinemadan önce neredeydi? 	park	2 4
+6 Bill okula gitti bu sabah.
+7 Dün Mary salona geri döndü.
+8 Fred sinemadan önce neredeydi? 	park	2 4
+9 bu sabah Mary okula gitti.
+10 Julie bu sabah salona gitti.
+11 Julie salondan önce neredeydi? 	park	10 3
+12 Mary sinemaya geri döndü Öğlen.
+13 Julie okula gitti Öğlen.
+14 Julie salondan önce neredeydi? 	park	10 3
+15 Julie sinemaya gitti bu akşam.
+16 Öğlen Fred parkta gitti.
+17 Julie sinemadan önce neredeydi? 	okul	15 13
+1 Mary bu sabah sinemaya gitti.
+2 Mary dün salona geri döndü.
+3 Mary sinemadan önce neredeydi? 	salon	1 2
+4 Dün Julie salona geri döndü.
+5 Mary öğlen salona gitti.
+6 Mary salondan önce neredeydi? 	sinema	5 1
+7 bu sabah Julie mutfağa gitti.
+8 Bill dün salona gitti.
+9 Mary salondan önce neredeydi? 	sinema	5 1
+10 Mary okula geri döndü bu akşam.
+11 Julie parka gitti Öğlen.
+12 Mary okuldan önce neredeydi? 	salon	10 5
+13 Bill öğlen ofise gitti.
+14 bu sabah Bill parkta gitti.
+15 Julie mutfaktan önce neredeydi? 	salon	7 4
+1 Mary bu sabah salona gitti.
+2 Mary okula gitti Dün.
+3 Mary salondan önce neredeydi? 	okul	1 2
+4 Öğlen Mary ofise gitti.
+5 Bill parka geri döndü Dün.
+6 Mary salondan önce neredeydi? 	okul	1 2
+7 Dün Julie okula geri döndü.
+8 Bill okula gitti bu sabah.
+9 Mary salondan önce neredeydi? 	okul	1 2
+10 Öğlen Julie mutfağa gitti.
+11 bu sabah Julie ofise gitti.
+12 Julie ofisten önce neredeydi? 	okul	11 7
+13 Öğlen Bill sinemaya geri döndü.
+14 bu akşam Mary sinemaya geri döndü.
+15 Mary sinemadan önce neredeydi? 	ofis	14 4
+1 Fred sinemaya geri döndü bu sabah.
+2 Mary bu sabah mutfağa gitti.
+3 Dün Mary ofise geri döndü.
+4 Fred dün okula gitti.
+5 Mary mutfaktan önce neredeydi? 	ofis	2 3
+6 Fred ofise geri döndü Öğlen.
+7 Mary öğlen ofise gitti.
+8 Fred sinemadan önce neredeydi? 	okul	1 4
+9 bu sabah Julie okula gitti.
+10 Julie parka gitti Dün.
+11 Fred sinemadan önce neredeydi? 	okul	1 4
+12 Fred parka gitti bu akşam.
+13 bu akşam Mary okula gitti.
+14 Fred parktan önce neredeydi? 	ofis	12 6
+15 Öğlen Julie sinemaya geri döndü.
+16 Bill dün sinemaya geri döndü.
+17 Julie sinemadan önce neredeydi? 	okul	15 9
+1 Mary bu sabah parka gitti.
+2 Fred dün sinemaya gitti.
+3 Dün Julie parkta gitti.
+4 Dün Mary ofise gitti.
+5 Mary parktan önce neredeydi? 	ofis	1 4
+6 Mary ofise gitti Öğlen.
+7 bu sabah Fred mutfağa gitti.
+8 Mary ofisten önce neredeydi? 	park	6 1
+9 Julie bu sabah salona gitti.
+10 Öğlen Fred sinemaya gitti.
+11 Fred sinemadan önce neredeydi? 	mutfak	10 7
+12 Öğlen Julie okula gitti.
+13 Dün Bill parka gitti.
+14 Fred sinemadan önce neredeydi? 	mutfak	10 7
+15 bu sabah Bill sinemaya gitti.
+16 bu akşam Mary okula gitti.
+17 Julie okuldan önce neredeydi? 	salon	12 9
+1 Fred bu sabah sinemaya gitti.
+2 Fred dün parka gitti.
+3 Fred sinemadan önce neredeydi? 	park	1 2
+4 Öğlen Fred mutfağa gitti.
+5 Dün Mary ofise gitti.
+6 Fred mutfaktan önce neredeydi? 	sinema	4 1
+7 bu sabah Julie parka geri döndü.
+8 Julie dün salona gitti.
+9 Fred sinemadan önce neredeydi? 	park	1 2
+10 Öğlen Mary ofise gitti.
+11 bu sabah Mary mutfağa gitti.
+12 Mary mutfaktan önce neredeydi? 	ofis	11 5
+13 bu akşam Fred okula gitti.
+14 Öğlen Julie ofise gitti.
+15 Mary mutfaktan önce neredeydi? 	ofis	11 5
+1 bu sabah Julie sinemaya gitti.
+2 Mary sinemaya gitti Dün.
+3 Öğlen Julie salona gitti.
+4 Julie dün ofise gitti.
+5 Julie sinemadan önce neredeydi? 	ofis	1 4
+6 bu akşam Julie parka gitti.
+7 Mary bu sabah mutfağa gitti.
+8 Julie parktan önce neredeydi? 	salon	6 3
+9 Dün Fred ofise gitti.
+10 Dün Bill sinemaya geri döndü.
+11 Mary mutfaktan önce neredeydi? 	sinema	7 2
+12 Öğlen Mary ofise geri döndü.
+13 Fred bu sabah mutfağa gitti.
+14 Fred mutfaktan önce neredeydi? 	ofis	13 9
+15 bu akşam Mary sinemaya gitti.
+16 bu sabah Bill ofise gitti.
+17 Fred mutfaktan önce neredeydi? 	ofis	13 9
+1 Mary bu sabah mutfağa gitti.
+2 Mary dün salona geri döndü.
+3 Mary mutfaktan önce neredeydi? 	salon	1 2
+4 bu akşam Mary mutfağa gitti.
+5 Öğlen Mary sinemaya gitti.
+6 Mary mutfaktan önce neredeydi? 	sinema	4 5
+7 Dün Julie parka gitti.
+8 Dün Bill sinemaya geri döndü.
+9 Mary sinemadan önce neredeydi? 	mutfak	5 1
+10 Julie öğlen sinemaya gitti.
+11 bu sabah Julie ofise geri döndü.
+12 Julie ofisten önce neredeydi? 	park	11 7
+13 Fred dün parka gitti.
+14 bu sabah Bill okula gitti.
+15 Bill okuldan önce neredeydi? 	sinema	14 8
+1 Dün Fred ofise geri döndü.
+2 Fred bu sabah mutfağa gitti.
+3 Mary dün mutfağa gitti.
+4 bu sabah Mary ofise gitti.
+5 Mary ofisten önce neredeydi? 	mutfak	4 3
+6 Dün Bill okula gitti.
+7 Mary salona gitti Öğlen.
+8 Mary ofisten önce neredeydi? 	mutfak	4 3
+9 Mary bu akşam okula gitti.
+10 Öğlen Fred salona gitti.
+11 Mary okuldan önce neredeydi? 	salon	9 7
+12 Julie dün salona gitti.
+13 Bill bu sabah mutfağa gitti.
+14 Mary okuldan önce neredeydi? 	salon	9 7
+15 Fred bu akşam parka geri döndü.
+16 Julie bu sabah mutfağa geri gitti.
+17 Mary okuldan önce neredeydi? 	salon	9 7
+1 bu sabah Julie salona gitti.
+2 Dün Bill mutfağa gitti.
+3 Dün Julie parka gitti.
+4 Dün Mary parka gitti.
+5 Julie salondan önce neredeydi? 	park	1 3
+6 bu sabah Bill sinemaya gitti.
+7 Dün Fred okula gitti.
+8 Bill sinemadan önce neredeydi? 	mutfak	6 2
+9 Julie öğlen okula gitti.
+10 Mary salona gitti bu sabah.
+11 Julie okuldan önce neredeydi? 	salon	9 1
+12 bu sabah Fred parkta gitti.
+13 Öğlen Bill salona geri döndü.
+14 Fred parktan önce neredeydi? 	okul	12 7
+15 bu akşam Bill mutfağa geri döndü.
+16 Mary öğlen okula gitti.
+17 Julie okuldan önce neredeydi? 	salon	9 1
+1 Dün Mary ofise gitti.
+2 bu sabah Mary sinemaya gitti.
+3 Dün Julie salona gitti.
+4 Julie bu sabah sinemaya gitti.
+5 Dün Bill mutfağa gitti.
+6 Dün Fred mutfağa gitti.
+7 Mary sinemadan önce neredeydi? 	ofis	2 1
+8 bu sabah Bill salona geri döndü.
+9 bu sabah Fred salona gitti.
+10 Mary sinemadan önce neredeydi? 	ofis	2 1
+11 Öğlen Bill ofise gitti.
+12 Mary öğlen ofise gitti.
+13 Bill ofisten önce neredeydi? 	salon	11 8
+14 Öğlen Julie okula gitti.
+15 Fred öğlen okula gitti.
+16 Fred okuldan önce neredeydi? 	salon	15 9
+17 bu akşam Bill sinemaya gitti.
+18 Mary bu akşam parka gitti.
+19 Bill ofisten önce neredeydi? 	salon	11 8
+1 bu sabah Julie salona geri döndü.
+2 Dün Fred ofise gitti.
+3 Julie öğlen parka geri döndü.
+4 Julie dün ofise gitti.
+5 Julie salondan önce neredeydi? 	ofis	1 4
+6 bu sabah Fred mutfağa gitti.
+7 Dün Mary parka gitti.
+8 Julie parktan önce neredeydi? 	salon	3 1
+9 Bill dün salona geri döndü.
+10 bu sabah Mary ofise gitti.
+11 Fred mutfaktan önce neredeydi? 	ofis	6 2
+12 bu sabah Bill sinemaya gitti.
+13 bu akşam Julie okula gitti.
+14 Fred mutfaktan önce neredeydi? 	ofis	6 2
+15 Fred salona gitti bu akşam.
+16 Fred öğlen ofise gitti.
+17 Fred ofisten önce neredeydi? 	mutfak	16 6
+1 Bill bu sabah ofise gitti.
+2 Bill dün sinemaya gitti.
+3 Bill ofisten önce neredeydi? 	sinema	1 2
+4 Bill öğlen mutfağa gitti.
+5 Mary dün sinemaya gitti.
+6 Bill mutfaktan önce neredeydi? 	ofis	4 1
+7 Fred dün ofise gitti.
+8 bu akşam Bill sinemaya gitti.
+9 Bill mutfaktan önce neredeydi? 	ofis	4 1
+10 Fred mutfağa gitti Öğlen.
+11 Fred parka gitti bu sabah.
+12 Bill sinemadan önce neredeydi? 	mutfak	8 4
+13 bu sabah Mary salona gitti.
+14 bu akşam Fred parkta gitti.
+15 Fred mutfaktan önce neredeydi? 	park	10 11
+1 Mary bu sabah ofise gitti.
+2 Dün Mary parkta gitti.
+3 Mary ofisten önce neredeydi? 	park	1 2
+4 Mary parka gitti Öğlen.
+5 Dün Julie mutfağa gitti.
+6 Mary parktan önce neredeydi? 	ofis	4 1
+7 Dün Bill sinemaya gitti.
+8 Mary okula gitti bu akşam.
+9 Mary ofisten önce neredeydi? 	park	1 2
+10 Fred bu sabah mutfağa gitti.
+11 Dün Fred ofise gitti.
+12 Mary okuldan önce neredeydi? 	park	8 4
+13 Fred ofise gitti bu akşam.
+14 Fred öğlen sinemaya gitti.
+15 Fred ofisten önce neredeydi? 	sinema	13 14
+1 bu sabah Bill mutfağa gitti.
+2 Julie okula gitti Dün.
+3 Bill okula gitti Öğlen.
+4 Bill dün ofise gitti.
+5 Bill okuldan önce neredeydi? 	mutfak	3 1
+6 Bill bu akşam sinemaya geri döndü.
+7 Dün Fred parkta gitti.
+8 Bill mutfaktan önce neredeydi? 	ofis	1 4
+9 Öğlen Julie parka geri döndü.
+10 bu sabah Julie ofise geri döndü.
+11 Julie parktan önce neredeydi? 	ofis	9 10
+12 bu akşam Julie mutfağa geri döndü.
+13 Dün Mary okula gitti.
+14 Bill sinemadan önce neredeydi? 	okul	6 3
+15 Fred bu sabah sinemaya gitti.
+16 Mary salona gitti bu sabah.
+17 Mary salondan önce neredeydi? 	okul	16 13
+1 bu sabah Mary ofise gitti.
+2 Dün Mary salona geri döndü.
+3 Dün Julie salona gitti.
+4 Bill parka gitti Dün.
+5 Mary ofisten önce neredeydi? 	salon	1 2
+6 Mary sinemaya gitti bu akşam.
+7 Öğlen Mary mutfağa gitti.
+8 Mary mutfaktan önce neredeydi? 	ofis	7 1
+9 bu sabah Fred parka gitti.
+10 Fred dün ofise gitti.
+11 Mary ofisten önce neredeydi? 	salon	1 2
+12 Fred ofise gitti bu akşam.
+13 Fred sinemaya geri döndü Öğlen.
+14 Fred parktan önce neredeydi? 	ofis	9 10
+15 Bill okula gitti Öğlen.
+16 bu sabah Bill ofise gitti.
+17 Fred ofisten önce neredeydi? 	sinema	12 13
+1 Fred parka gitti Dün.
+2 bu sabah Julie salona gitti.
+3 Julie öğlen parka geri döndü.
+4 Julie parka gitti Dün.
+5 Julie parktan önce neredeydi? 	salon	3 2
+6 Bill parka gitti bu sabah.
+7 Bill dün salona gitti.
+8 Bill parktan önce neredeydi? 	salon	6 7
+9 Mary okula gitti Dün.
+10 Julie okula gitti bu akşam.
+11 Julie parktan önce neredeydi? 	salon	3 2
+12 Bill öğlen salona gitti.
+13 bu sabah Fred mutfağa gitti.
+14 Bill salondan önce neredeydi? 	park	12 6
+15 bu sabah Mary mutfağa gitti.
+16 Fred öğlen salona gitti.
+17 Fred salondan önce neredeydi? 	mutfak	16 13
+1 Bill dün mutfağa gitti.
+2 bu sabah Julie mutfağa gitti.
+3 Dün Julie ofise gitti.
+4 Dün Fred sinemaya gitti.
+5 Julie mutfaktan önce neredeydi? 	ofis	2 3
+6 Julie öğlen salona geri döndü.
+7 bu sabah Bill ofise gitti.
+8 Bill ofisten önce neredeydi? 	mutfak	7 1
+9 bu akşam Julie ofise gitti.
+10 Dün Mary okula gitti.
+11 Julie ofisten önce neredeydi? 	salon	9 6
+12 bu sabah Fred mutfağa geri döndü.
+13 Bill parka gitti Öğlen.
+14 Bill parktan önce neredeydi? 	ofis	13 7
+15 bu akşam Fred parka gitti.
+16 Öğlen Fred okula gitti.
+17 Fred parktan önce neredeydi? 	okul	15 16
+1 Öğlen Julie mutfağa gitti.
+2 Julie salona gitti Dün.
+3 Dün Bill salona gitti.
+4 bu sabah Julie ofise gitti.
+5 Julie mutfaktan önce neredeydi? 	ofis	1 4
+6 Mary dün ofise gitti.
+7 bu akşam Julie okula gitti.
+8 Julie okuldan önce neredeydi? 	mutfak	7 1
+9 bu sabah Fred ofise gitti.
+10 Fred dün salona gitti.
+11 Julie mutfaktan önce neredeydi? 	ofis	1 4
+12 Bill sabah okula geri döndü.
+13 Fred okula gitti Öğlen.
+14 Fred ofisten önce neredeydi? 	salon	9 10
+15 Mary bu sabah salona gitti.
+16 Öğlen Bill ofise gitti.
+17 Bill okuldan önce neredeydi? 	salon	12 3
+1 Dün Bill parka gitti.
+2 Bill sabah okula geri döndü.
+3 Julie okula gitti Dün.
+4 Dün Mary okula gitti.
+5 Bill okuldan önce neredeydi? 	park	2 1
+6 Mary bu sabah mutfağa gitti.
+7 bu sabah Julie mutfağa gitti.
+8 Bill okuldan önce neredeydi? 	park	2 1
+9 Fred dün parka gitti.
+10 Öğlen Mary okula gitti.
+11 Julie mutfaktan önce neredeydi? 	okul	7 3
+12 Julie öğlen ofise gitti.
+13 Fred bu sabah mutfağa geri gitti.
+14 Mary okuldan önce neredeydi? 	mutfak	10 6
+15 Bill öğlen ofise gitti.
+16 Mary bu akşam salona gitti.
+17 Mary salondan önce neredeydi? 	okul	16 10
+1 bu sabah Fred ofise gitti.
+2 Bill dün sinemaya gitti.
+3 Julie dün sinemaya gitti.
+4 Fred okula geri döndü Dün.
+5 Fred ofisten önce neredeydi? 	okul	1 4
+6 Öğlen Julie parka gitti.
+7 bu sabah Julie okula gitti.
+8 Fred ofisten önce neredeydi? 	okul	1 4
+9 Mary ofise gitti Dün.
+10 Fred parka gitti Öğlen.
+11 Julie parktan önce neredeydi? 	okul	6 7
+12 Bill öğlen salona gitti.
+13 Bill okula gitti bu sabah.
+14 Bill salondan önce neredeydi? 	okul	12 13
+15 Mary bu sabah mutfağa gitti.
+16 Fred salona gitti bu akşam.
+17 Fred salondan önce neredeydi? 	park	16 10
+1 Bill bu sabah mutfağa gitti.
+2 Dün Bill parka geri döndü.
+3 Bill mutfaktan önce neredeydi? 	park	1 2
+4 Dün Mary okula gitti.
+5 Öğlen Bill ofise gitti.
+6 Bill mutfaktan önce neredeydi? 	park	1 2
+7 Dün Julie okula geri döndü.
+8 Dün Fred okula gitti.
+9 Bill ofisten önce neredeydi? 	mutfak	5 1
+10 bu sabah Mary parkta gitti.
+11 Julie bu sabah sinemaya gitti.
+12 Julie sinemadan önce neredeydi? 	okul	11 7
+13 Mary öğlen mutfağa geri döndü.
+14 Bill bu akşam salona gitti.
+15 Mary mutfaktan önce neredeydi? 	park	13 10
+1 Dün Mary mutfağa gitti.
+2 bu sabah Fred sinemaya geri döndü.
+3 Dün Julie sinemaya gitti.
+4 Fred salona gitti Dün.
+5 Fred sinemadan önce neredeydi? 	salon	2 4
+6 Julie salona geri döndü bu sabah.
+7 Fred öğlen okula gitti.
+8 Julie salondan önce neredeydi? 	sinema	6 3
+9 Mary bu sabah salona gitti.
+10 Öğlen Julie parka geri döndü.
+11 Fred okuldan önce neredeydi? 	sinema	7 2
+12 Mary öğlen mutfağa geri döndü.
+13 bu akşam Julie mutfağa gitti.
+14 Mary mutfaktan önce neredeydi? 	salon	12 9
+15 Dün Bill sinemaya gitti.
+16 Mary bu akşam sinemaya geri döndü.
+17 Julie mutfaktan önce neredeydi? 	park	13 10
+1 bu sabah Bill okula gitti.
+2 Bill ofise gitti Dün.
+3 Bill ofise geri döndü Öğlen.
+4 Dün Fred okula gitti.
+5 Bill okuldan önce neredeydi? 	ofis	1 2
+6 Dün Julie ofise gitti.
+7 bu akşam Bill mutfağa gitti.
+8 Bill ofisten önce neredeydi? 	okul	3 1
+9 Fred bu sabah salona gitti.
+10 Dün Mary mutfağa gitti.
+11 Bill mutfaktan önce neredeydi? 	ofis	7 3
+12 bu sabah Julie okula geri döndü.
+13 Öğlen Fred okula gitti.
+14 Fred salondan önce neredeydi? 	okul	9 4
+15 Mary öğlen parka gitti.
+16 Mary bu sabah sinemaya gitti.
+17 Mary parktan önce neredeydi? 	sinema	15 16
+1 Dün Julie salona gitti.
+2 Fred bu sabah mutfağa gitti.
+3 Fred dün sinemaya geri döndü.
+4 Mary dün sinemaya geri döndü.
+5 Fred mutfaktan önce neredeydi? 	sinema	2 3
+6 bu sabah Bill okula gitti.
+7 Dün Bill parka gitti.
+8 Fred mutfaktan önce neredeydi? 	sinema	2 3
+9 Öğlen Julie ofise gitti.
+10 Julie bu sabah mutfağa gitti.
+11 Julie ofisten önce neredeydi? 	mutfak	9 10
+12 Bill öğlen salona geri döndü.
+13 bu sabah Mary salona gitti.
+14 Bill salondan önce neredeydi? 	okul	12 6
+15 bu akşam Julie parka gitti.
+16 Mary öğlen mutfağa gitti.
+17 Bill salondan önce neredeydi? 	okul	12 6
+1 Bill sabah okula gitti.
+2 Bill dün sinemaya geri döndü.
+3 Bill okuldan önce neredeydi? 	sinema	1 2
+4 Öğlen Bill salona gitti.
+5 Dün Julie sinemaya gitti.
+6 Bill salondan önce neredeydi? 	okul	4 1
+7 Mary okula geri döndü Dün.
+8 bu akşam Bill sinemaya gitti.
+9 Bill okuldan önce neredeydi? 	sinema	1 2
+10 Julie salona gitti bu sabah.
+11 Mary parka gitti bu sabah.
+12 Bill salondan önce neredeydi? 	okul	4 1
+13 Dün Fred mutfağa gitti.
+14 Mary sinemaya gitti Öğlen.
+15 Mary sinemadan önce neredeydi? 	park	14 11
+1 Dün Julie mutfağa gitti.
+2 Julie sinemaya geri döndü bu sabah.
+3 Fred dün salona gitti.
+4 Dün Mary parkta gitti.
+5 Julie sinemadan önce neredeydi? 	mutfak	2 1
+6 Bill dün sinemaya gitti.
+7 bu sabah Mary salona gitti.
+8 Mary salondan önce neredeydi? 	park	7 4
+9 bu sabah Bill okula gitti.
+10 Fred bu sabah ofise gitti.
+11 Fred ofisten önce neredeydi? 	salon	10 3
+12 bu akşam Julie sinemaya gitti.
+13 Öğlen Julie parka gitti.
+14 Julie parktan önce neredeydi? 	sinema	13 2
+15 Öğlen Bill sinemaya gitti.
+16 Öğlen Fred salona gitti.
+17 Bill okuldan önce neredeydi? 	sinema	9 6
+1 Fred mutfağa gitti Dün.
+2 Mary okula geri döndü Dün.
+3 Mary parka gitti bu sabah.
+4 Dün Julie ofise gitti.
+5 Mary parktan önce neredeydi? 	okul	3 2
+6 bu sabah Fred okula gitti.
+7 bu sabah Julie okula gitti.
+8 Fred okuldan önce neredeydi? 	mutfak	6 1
+9 Fred okula gitti bu akşam.
+10 Öğlen Fred salona geri döndü.
+11 Fred okuldan önce neredeydi? 	salon	9 10
+12 Bill dün salona gitti.
+13 Öğlen Mary salona gitti.
+14 Fred salondan önce neredeydi? 	okul	10 6
+15 Öğlen Bill okula gitti.
+16 bu sabah Bill ofise gitti.
+17 Fred okuldan önce neredeydi? 	salon	9 10
+1 Bill dün sinemaya geri döndü.
+2 Bill parka gitti bu sabah.
+3 Dün Julie salona gitti.
+4 Mary parka gitti Dün.
+5 Bill parktan önce neredeydi? 	sinema	2 1
+6 Mary bu sabah mutfağa gitti.
+7 Öğlen Bill mutfağa gitti.
+8 Bill mutfaktan önce neredeydi? 	park	7 2
+9 Mary öğlen ofise gitti.
+10 bu akşam Bill sinemaya gitti.
+11 Bill mutfaktan önce neredeydi? 	park	7 2
+12 Mary mutfağa gitti bu akşam.
+13 Dün Fred okula gitti.
+14 Mary mutfaktan önce neredeydi? 	ofis	12 9
+15 Öğlen Fred okula geri döndü.
+16 Fred bu sabah salona gitti.
+17 Fred okuldan önce neredeydi? 	salon	15 16
+1 bu sabah Bill okula gitti.
+2 Dün Mary salona gitti.
+3 Dün Bill ofise gitti.
+4 Julie mutfağa geri döndü Dün.
+5 Bill okuldan önce neredeydi? 	ofis	1 3
+6 bu akşam Bill parkta gitti.
+7 Öğlen Bill salona gitti.
+8 Bill parktan önce neredeydi? 	salon	6 7
+9 bu sabah Mary sinemaya gitti.
+10 bu sabah Julie ofise gitti.
+11 Mary sinemadan önce neredeydi? 	salon	9 2
+12 Öğlen Mary mutfağa geri döndü.
+13 Öğlen Julie parka geri döndü.
+14 Julie parktan önce neredeydi? 	ofis	13 10
+15 Julie ofise gitti bu akşam.
+16 Dün Fred parka gitti.
+17 Julie parktan önce neredeydi? 	ofis	13 10
+1 Mary okula gitti Öğlen.
+2 Mary bu sabah ofise gitti.
+3 Mary mutfağa gitti Dün.
+4 Dün Fred ofise gitti.
+5 Mary ofisten önce neredeydi? 	mutfak	2 3
+6 bu sabah Fred sinemaya gitti.
+7 bu akşam Mary parka gitti.
+8 Mary ofisten önce neredeydi? 	mutfak	2 3
+9 bu sabah Julie sinemaya geri döndü.
+10 Dün Julie mutfağa gitti.
+11 Mary parktan önce neredeydi? 	okul	7 1
+12 Öğlen Fred salona geri döndü.
+13 Bill dün salona gitti.
+14 Fred salondan önce neredeydi? 	sinema	12 6
+15 Öğlen Bill okula geri döndü.
+16 Bill ofise geri döndü bu sabah.
+17 Bill okuldan önce neredeydi? 	ofis	15 16
+1 Dün Fred parka geri döndü.
+2 Dün Mary sinemaya geri döndü.
+3 Julie bu sabah sinemaya gitti.
+4 Julie okula gitti Dün.
+5 Julie sinemadan önce neredeydi? 	okul	3 4
+6 Bill okula gitti Dün.
+7 Julie öğlen salona gitti.
+8 Julie sinemadan önce neredeydi? 	okul	3 4
+9 Bill öğlen salona gitti.
+10 Bill bu sabah ofise gitti.
+11 Julie sinemadan önce neredeydi? 	okul	3 4
+12 bu akşam Bill ofise gitti.
+13 Mary parka gitti bu sabah.
+14 Bill salondan önce neredeydi? 	ofis	9 10
+15 bu akşam Mary parka gitti.
+16 Mary öğlen ofise gitti.
+17 Mary parktan önce neredeydi? 	ofis	15 16
+1 bu sabah Fred okula gitti.
+2 Julie dün sinemaya geri döndü.
+3 Mary dün salona gitti.
+4 Fred salona gitti Dün.
+5 Fred okuldan önce neredeydi? 	salon	1 4
+6 Bill dün mutfağa gitti.
+7 Öğlen Fred ofise gitti.
+8 Fred okuldan önce neredeydi? 	salon	1 4
+9 Fred parka gitti bu akşam.
+10 Mary bu sabah ofise gitti.
+11 Fred ofisten önce neredeydi? 	okul	7 1
+12 Öğlen Mary sinemaya geri döndü.
+13 bu sabah Julie ofise gitti.
+14 Mary ofisten önce neredeydi? 	salon	10 3
+15 bu sabah Bill parka gitti.
+16 Julie öğlen salona geri döndü.
+17 Julie salondan önce neredeydi? 	ofis	16 13
+1 Dün Bill parka gitti.
+2 Bill bu sabah mutfağa gitti.
+3 Dün Mary okula geri döndü.
+4 Dün Fred sinemaya geri döndü.
+5 Bill mutfaktan önce neredeydi? 	park	2 1
+6 Dün Julie salona gitti.
+7 Mary bu sabah salona gitti.
+8 Bill mutfaktan önce neredeydi? 	park	2 1
+9 bu sabah Fred mutfağa gitti.
+10 Öğlen Bill sinemaya geri döndü.
+11 Fred mutfaktan önce neredeydi? 	sinema	9 4
+12 bu akşam Bill ofise gitti.
+13 Julie sabah okula geri döndü.
+14 Julie okuldan önce neredeydi? 	salon	13 6
+15 bu akşam Mary salona geri döndü.
+16 Mary ofise gitti Öğlen.
+17 Mary salondan önce neredeydi? 	ofis	15 16
+1 Dün Fred mutfağa gitti.
+2 Öğlen Julie sinemaya gitti.
+3 Julie parka gitti Dün.
+4 bu sabah Julie mutfağa gitti.
+5 Julie mutfaktan önce neredeydi? 	park	4 3
+6 bu sabah Fred okula gitti.
+7 Dün Mary salona gitti.
+8 Julie mutfaktan önce neredeydi? 	park	4 3
+9 Dün Bill ofise gitti.
+10 bu sabah Mary sinemaya gitti.
+11 Fred okuldan önce neredeydi? 	mutfak	6 1
+12 bu akşam Julie parka gitti.
+13 Fred mutfağa gitti Öğlen.
+14 Fred mutfaktan önce neredeydi? 	okul	13 6
+15 bu sabah Bill salona gitti.
+16 Fred salona geri döndü bu akşam.
+17 Bill salondan önce neredeydi? 	ofis	15 9
+1 Dün Bill ofise gitti.
+2 bu sabah Julie sinemaya gitti.
+3 Julie dün salona gitti.
+4 Dün Fred okula gitti.
+5 Julie sinemadan önce neredeydi? 	salon	2 3
+6 Öğlen Julie parka gitti.
+7 Mary dün ofise gitti.
+8 Julie sinemadan önce neredeydi? 	salon	2 3
+9 Julie salona gitti bu akşam.
+10 bu sabah Fred salona gitti.
+11 Julie parktan önce neredeydi? 	sinema	6 2
+12 Bill ofise geri döndü Öğlen.
+13 Bill bu sabah mutfağa gitti.
+14 Julie salondan önce neredeydi? 	park	9 6
+15 Fred sinemaya gitti Öğlen.
+16 bu akşam Bill sinemaya geri döndü.
+17 Julie salondan önce neredeydi? 	park	9 6
+1 bu sabah Mary okula gitti.
+2 Öğlen Mary salona geri döndü.
+3 Bill sinemaya gitti Dün.
+4 Dün Mary mutfağa gitti.
+5 Mary okuldan önce neredeydi? 	mutfak	1 4
+6 Fred bu sabah okula gitti.
+7 Fred dün salona gitti.
+8 Mary okuldan önce neredeydi? 	mutfak	1 4
+9 Fred ofise gitti Öğlen.
+10 Mary okula geri döndü bu akşam.
+11 Fred ofisten önce neredeydi? 	okul	9 6
+12 bu sabah Bill ofise gitti.
+13 bu akşam Fred parka gitti.
+14 Fred ofisten önce neredeydi? 	okul	9 6
+15 Julie bu sabah sinemaya gitti.
+16 Julie dün mutfağa gitti.
+17 Bill ofisten önce neredeydi? 	sinema	12 3
+1 Dün Julie mutfağa gitti.
+2 Fred bu sabah mutfağa gitti.
+3 Dün Fred sinemaya gitti.
+4 Julie ofise gitti bu sabah.
+5 Dün Bill okula geri döndü.
+6 Mary dün mutfağa gitti.
+7 Julie ofisten önce neredeydi? 	mutfak	4 1
+8 bu akşam Julie mutfağa geri döndü.
+9 Öğlen Julie okula gitti.
+10 Julie ofisten önce neredeydi? 	mutfak	4 1
+11 Mary bu sabah ofise gitti.
+12 bu sabah Bill salona geri döndü.
+13 Julie ofisten önce neredeydi? 	mutfak	4 1
+14 bu akşam Fred ofise gitti.
+15 Fred sinemaya gitti Öğlen.
+16 Bill salondan önce neredeydi? 	okul	12 5
+17 Bill öğlen ofise gitti.
+18 Mary öğlen salona gitti.
+19 Mary ofisten önce neredeydi? 	mutfak	11 6
+1 Julie dün salona gitti.
+2 Fred dün parka gitti.
+3 Bill dün sinemaya geri döndü.
+4 Bill bu sabah salona gitti.
+5 Bill salondan önce neredeydi? 	sinema	4 3
+6 Mary salona gitti bu sabah.
+7 Mary dün okula gitti.
+8 Bill salondan önce neredeydi? 	sinema	4 3
+9 bu sabah Julie sinemaya gitti.
+10 Öğlen Bill ofise gitti.
+11 Julie sinemadan önce neredeydi? 	salon	9 1
+12 Fred bu sabah mutfağa gitti.
+13 Öğlen Julie mutfağa geri döndü.
+14 Julie mutfaktan önce neredeydi? 	sinema	13 9
+15 Öğlen Mary parka gitti.
+16 bu akşam Julie sinemaya gitti.
+17 Mary parktan önce neredeydi? 	salon	15 6
+1 Julie bu sabah sinemaya gitti.
+2 Dün Julie okula gitti.
+3 Fred dün sinemaya gitti.
+4 Mary salona gitti Dün.
+5 Julie sinemadan önce neredeydi? 	okul	1 2
+6 Öğlen Julie mutfağa gitti.
+7 Dün Bill ofise gitti.
+8 Julie mutfaktan önce neredeydi? 	sinema	6 1
+9 Mary ofise gitti bu sabah.
+10 bu akşam Julie okula gitti.
+11 Julie okuldan önce neredeydi? 	mutfak	10 6
+12 Mary bu akşam sinemaya geri döndü.
+13 Öğlen Mary okula gitti.
+14 Mary okuldan önce neredeydi? 	ofis	13 9
+15 Bill sabah okula gitti.
+16 bu sabah Fred salona gitti.
+17 Mary okuldan önce neredeydi? 	ofis	13 9
+1 Dün Julie mutfağa gitti.
+2 Dün Fred okula gitti.
+3 bu sabah Julie sinemaya gitti.
+4 Bill sinemaya gitti Dün.
+5 Julie sinemadan önce neredeydi? 	mutfak	3 1
+6 Fred sinemaya geri döndü bu sabah.
+7 Dün Mary sinemaya gitti.
+8 Fred sinemadan önce neredeydi? 	okul	6 2
+9 Bill sinemaya gitti Öğlen.
+10 bu sabah Bill parka gitti.
+11 Bill parktan önce neredeydi? 	sinema	10 4
+12 Mary ofise gitti bu sabah.
+13 Öğlen Fred ofise gitti.
+14 Fred ofisten önce neredeydi? 	sinema	13 6
+15 bu akşam Fred mutfağa gitti.
+16 Öğlen Mary parka geri döndü.
+17 Fred mutfaktan önce neredeydi? 	ofis	15 13
+1 Fred dün sinemaya gitti.
+2 bu sabah Bill okula gitti.
+3 Mary dün ofise gitti.
+4 Bill dün ofise gitti.
+5 Bill okuldan önce neredeydi? 	ofis	2 4
+6 Dün Julie sinemaya geri döndü.
+7 Öğlen Bill parka geri döndü.
+8 Bill parktan önce neredeydi? 	okul	7 2
+9 bu sabah Fred okula geri döndü.
+10 bu akşam Bill ofise gitti.
+11 Fred okuldan önce neredeydi? 	sinema	9 1
+12 bu sabah Julie salona gitti.
+13 Mary bu sabah mutfağa gitti.
+14 Bill ofisten önce neredeydi? 	park	10 7
+15 Fred salona gitti bu akşam.
+16 Öğlen Fred mutfağa gitti.
+17 Fred mutfaktan önce neredeydi? 	okul	16 9
+1 Bill dün salona geri döndü.
+2 Dün Fred mutfağa gitti.
+3 bu sabah Bill mutfağa gitti.
+4 Mary bu sabah ofise gitti.
+5 Julie okula gitti Dün.
+6 Mary okula geri döndü Dün.
+7 Mary ofisten önce neredeydi? 	okul	4 6
+8 bu sabah Fred okula gitti.
+9 Mary öğlen okula gitti.
+10 Mary okuldan önce neredeydi? 	ofis	9 4
+11 Julie salona geri döndü bu sabah.
+12 Mary ofise gitti bu akşam.
+13 Bill mutfaktan önce neredeydi? 	salon	3 1
+14 Öğlen Julie sinemaya gitti.
+15 Fred öğlen mutfağa geri döndü.
+16 Julie salondan önce neredeydi? 	okul	11 5
+17 Fred sinemaya gitti bu akşam.
+18 bu akşam Julie parka geri döndü.
+19 Julie salondan önce neredeydi? 	okul	11 5
+1 Bill öğlen mutfağa gitti.
+2 Bill sabah okula gitti.
+3 Dün Fred ofise gitti.
+4 Dün Bill ofise gitti.
+5 Bill mutfaktan önce neredeydi? 	okul	1 2
+6 Dün Julie ofise gitti.
+7 bu akşam Bill salona gitti.
+8 Bill salondan önce neredeydi? 	mutfak	7 1
+9 Fred bu sabah okula gitti.
+10 Julie bu sabah sinemaya gitti.
+11 Julie sinemadan önce neredeydi? 	ofis	10 6
+12 Fred mutfağa gitti Öğlen.
+13 Julie ofise gitti Öğlen.
+14 Julie ofisten önce neredeydi? 	sinema	13 10
+15 bu akşam Fred ofise gitti.
+16 bu akşam Julie mutfağa gitti.
+17 Julie mutfaktan önce neredeydi? 	ofis	16 13
+1 Julie dün sinemaya gitti.
+2 Dün Mary parka geri döndü.
+3 bu sabah Bill mutfağa gitti.
+4 Fred dün mutfağa gitti.
+5 Dün Bill okula geri döndü.
+6 bu sabah Fred sinemaya gitti.
+7 Fred sinemadan önce neredeydi? 	mutfak	6 4
+8 bu sabah Mary okula gitti.
+9 Öğlen Bill sinemaya geri döndü.
+10 Fred sinemadan önce neredeydi? 	mutfak	6 4
+11 Julie sinemaya gitti Öğlen.
+12 bu sabah Julie mutfağa gitti.
+13 Julie mutfaktan önce neredeydi? 	sinema	12 1
+14 Öğlen Mary salona gitti.
+15 Julie ofise gitti bu akşam.
+16 Julie mutfaktan önce neredeydi? 	sinema	12 1
+17 Bill salona gitti bu akşam.
+18 Öğlen Fred parka gitti.
+19 Julie sinemadan önce neredeydi? 	mutfak	11 12
+1 Dün Julie salona gitti.
+2 Dün Bill mutfağa gitti.
+3 bu sabah Julie mutfağa geri döndü.
+4 Dün Mary parka gitti.
+5 Fred dün salona geri döndü.
+6 Fred bu sabah sinemaya gitti.
+7 Fred sinemadan önce neredeydi? 	salon	6 5
+8 Fred ofise gitti bu akşam.
+9 Fred öğlen salona gitti.
+10 Fred salondan önce neredeydi? 	sinema	9 6
+11 Öğlen Julie salona gitti.
+12 Mary bu sabah okula gitti.
+13 Fred salondan önce neredeydi? 	sinema	9 6
+14 bu akşam Mary salona gitti.
+15 Öğlen Mary mutfağa gitti.
+16 Mary salondan önce neredeydi? 	mutfak	14 15
+17 Bill öğlen salona gitti.
+18 Bill bu sabah sinemaya gitti.
+19 Bill sinemadan önce neredeydi? 	mutfak	18 2
+1 Dün Julie mutfağa gitti.
+2 bu sabah Mary parka gitti.
+3 Dün Mary okula gitti.
+4 Bill dün salona gitti.
+5 Mary parktan önce neredeydi? 	okul	2 3
+6 bu sabah Fred ofise geri döndü.
+7 Fred dün salona gitti.
+8 Fred ofisten önce neredeydi? 	salon	6 7
+9 Öğlen Bill salona gitti.
+10 Bill parka gitti bu sabah.
+11 Bill salondan önce neredeydi? 	park	9 10
+12 Julie bu sabah ofise gitti.
+13 bu akşam Bill sinemaya gitti.
+14 Bill parktan önce neredeydi? 	salon	10 4
+15 Fred öğlen sinemaya gitti.
+16 Öğlen Julie sinemaya gitti.
+17 Julie ofisten önce neredeydi? 	mutfak	12 1
+1 Bill bu sabah mutfağa gitti.
+2 Dün Bill okula geri döndü.
+3 Bill mutfaktan önce neredeydi? 	okul	1 2
+4 Öğlen Bill sinemaya gitti.
+5 Dün Fred ofise gitti.
+6 Bill sinemadan önce neredeydi? 	mutfak	4 1
+7 bu sabah Fred parka geri döndü.
+8 Dün Mary ofise geri döndü.
+9 Bill mutfaktan önce neredeydi? 	okul	1 2
+10 Dün Julie salona gitti.
+11 Bill salona gitti bu akşam.
+12 Bill sinemadan önce neredeydi? 	mutfak	4 1
+13 bu sabah Mary parka geri döndü.
+14 bu sabah Julie sinemaya gitti.
+15 Bill salondan önce neredeydi? 	sinema	11 4
+1 bu sabah Mary parka geri döndü.
+2 Mary salona gitti Dün.
+3 Mary parktan önce neredeydi? 	salon	1 2
+4 Julie sabah okula geri döndü.
+5 Dün Julie parka gitti.
+6 Julie okuldan önce neredeydi? 	park	4 5
+7 bu sabah Bill okula gitti.
+8 Dün Bill salona gitti.
+9 Bill okuldan önce neredeydi? 	salon	7 8
+10 Julie sinemaya gitti Öğlen.
+11 Öğlen Mary okula gitti.
+12 Julie okuldan önce neredeydi? 	park	4 5
+13 bu sabah Fred ofise gitti.
+14 Dün Fred salona gitti.
+15 Julie sinemadan önce neredeydi? 	okul	10 4
+1 Dün Bill sinemaya gitti.
+2 Mary salona geri döndü bu sabah.
+3 Fred sinemaya gitti Dün.
+4 Dün Mary sinemaya gitti.
+5 Mary salondan önce neredeydi? 	sinema	2 4
+6 Julie bu sabah salona gitti.
+7 Julie dün mutfağa gitti.
+8 Mary salondan önce neredeydi? 	sinema	2 4
+9 Bill salona gitti bu sabah.
+10 Fred bu sabah parka gitti.
+11 Mary salondan önce neredeydi? 	sinema	2 4
+12 Mary sinemaya geri döndü Öğlen.
+13 Julie öğlen parka gitti.
+14 Bill salondan önce neredeydi? 	sinema	9 1
+15 bu akşam Mary parka gitti.
+16 Fred öğlen salona gitti.
+17 Bill salondan önce neredeydi? 	sinema	9 1
+1 Mary dün okula gitti.
+2 Dün Bill mutfağa gitti.
+3 Julie okula gitti bu sabah.
+4 Julie dün parka gitti.
+5 Fred dün sinemaya geri döndü.
+6 Mary bu sabah sinemaya gitti.
+7 Mary sinemadan önce neredeydi? 	okul	6 1
+8 Bill bu sabah ofise gitti.
+9 Mary öğlen salona gitti.
+10 Bill ofisten önce neredeydi? 	mutfak	8 2
+11 Fred bu sabah mutfağa gitti.
+12 Mary bu akşam parka gitti.
+13 Fred mutfaktan önce neredeydi? 	sinema	11 5
+14 Julie ofise gitti bu akşam.
+15 Öğlen Julie mutfağa gitti.
+16 Bill ofisten önce neredeydi? 	mutfak	8 2
+17 Fred okula gitti Öğlen.
+18 Öğlen Bill parka gitti.
+19 Julie ofisten önce neredeydi? 	mutfak	14 15
+1 Dün Mary parka gitti.
+2 Bill okula gitti Dün.
+3 Julie sabah okula geri döndü.
+4 Julie dün salona gitti.
+5 Julie okuldan önce neredeydi? 	salon	3 4
+6 Dün Fred sinemaya gitti.
+7 Bill bu sabah ofise gitti.
+8 Julie okuldan önce neredeydi? 	salon	3 4
+9 Fred parka gitti Öğlen.
+10 Fred bu sabah ofise gitti.
+11 Bill ofisten önce neredeydi? 	okul	7 2
+12 Mary sabah okula geri döndü.
+13 Öğlen Bill salona gitti.
+14 Bill salondan önce neredeydi? 	ofis	13 7
+15 Öğlen Julie ofise gitti.
+16 Öğlen Mary ofise geri döndü.
+17 Mary okuldan önce neredeydi? 	park	12 1
+1 Julie ofise gitti bu sabah.
+2 Bill dün mutfağa gitti.
+3 Mary ofise geri döndü Dün.
+4 Dün Julie salona gitti.
+5 Julie ofisten önce neredeydi? 	salon	1 4
+6 Julie sinemaya geri döndü Öğlen.
+7 Fred parka geri döndü Dün.
+8 Julie sinemadan önce neredeydi? 	ofis	6 1
+9 Julie okula geri döndü bu akşam.
+10 Bill sinemaya geri döndü bu sabah.
+11 Julie ofisten önce neredeydi? 	salon	1 4
+12 Öğlen Bill okula gitti.
+13 Mary okula gitti bu sabah.
+14 Bill sinemadan önce neredeydi? 	mutfak	10 2
+15 Mary öğlen sinemaya gitti.
+16 Fred bu sabah sinemaya gitti.
+17 Fred sinemadan önce neredeydi? 	park	16 7
+1 Bill dün ofise gitti.
+2 Dün Mary sinemaya gitti.
+3 bu sabah Julie mutfağa gitti.
+4 Julie salona gitti Dün.
+5 Julie mutfaktan önce neredeydi? 	salon	3 4
+6 Fred dün salona gitti.
+7 Julie öğlen parka gitti.
+8 Julie mutfaktan önce neredeydi? 	salon	3 4
+9 bu sabah Bill salona geri döndü.
+10 bu sabah Mary mutfağa gitti.
+11 Bill salondan önce neredeydi? 	ofis	9 1
+12 Julie salona gitti bu akşam.
+13 bu sabah Fred okula geri döndü.
+14 Mary mutfaktan önce neredeydi? 	sinema	10 2
+15 Mary ofise gitti bu akşam.
+16 Öğlen Mary parka gitti.
+17 Mary parktan önce neredeydi? 	mutfak	16 10
+1 bu sabah Fred parka gitti.
+2 Dün Fred ofise gitti.
+3 Fred parktan önce neredeydi? 	ofis	1 2
+4 Öğlen Fred ofise gitti.
+5 Dün Mary ofise gitti.
+6 Fred ofisten önce neredeydi? 	park	4 1
+7 bu sabah Bill mutfağa gitti.
+8 Bill dün sinemaya gitti.
+9 Fred parktan önce neredeydi? 	ofis	1 2
+10 Bill öğlen parka gitti.
+11 Dün Julie okula gitti.
+12 Fred ofisten önce neredeydi? 	park	4 1
+13 bu akşam Bill ofise gitti.
+14 bu akşam Fred parka geri döndü.
+15 Fred parktan önce neredeydi? 	ofis	14 4
+1 Julie sinemaya geri döndü bu sabah.
+2 Mary mutfağa gitti Dün.
+3 Bill dün salona gitti.
+4 Dün Julie salona gitti.
+5 Julie sinemadan önce neredeydi? 	salon	1 4
+6 Fred bu sabah sinemaya gitti.
+7 Fred dün mutfağa gitti.
+8 Fred sinemadan önce neredeydi? 	mutfak	6 7
+9 Fred okula gitti Öğlen.
+10 bu sabah Bill sinemaya gitti.
+11 Fred okuldan önce neredeydi? 	sinema	9 6
+12 Julie öğlen salona geri döndü.
+13 Fred mutfağa gitti bu akşam.
+14 Fred sinemadan önce neredeydi? 	mutfak	6 7
+15 Mary sinemaya gitti Öğlen.
+16 bu sabah Mary okula gitti.
+17 Fred okuldan önce neredeydi? 	sinema	9 6
+1 Öğlen Fred salona gitti.
+2 bu sabah Fred mutfağa gitti.
+3 Dün Fred parka gitti.
+4 Dün Julie ofise geri döndü.
+5 Fred mutfaktan önce neredeydi? 	park	2 3
+6 Dün Bill sinemaya gitti.
+7 bu akşam Fred mutfağa geri döndü.
+8 Fred salondan önce neredeydi? 	mutfak	1 2
+9 Dün Mary parka gitti.
+10 Bill parka gitti bu sabah.
+11 Bill parktan önce neredeydi? 	sinema	10 6
+12 bu sabah Mary okula gitti.
+13 Bill sinemaya gitti Öğlen.
+14 Mary okuldan önce neredeydi? 	park	12 9
+15 bu sabah Julie mutfağa geri döndü.
+16 bu akşam Bill parkta gitti.
+17 Julie mutfaktan önce neredeydi? 	ofis	15 4
+1 Dün Mary parkta gitti.
+2 Dün Bill parka gitti.
+3 bu sabah Fred mutfağa geri döndü.
+4 Julie sinemaya gitti Dün.
+5 Fred sinemaya gitti Öğlen.
+6 Dün Fred parka gitti.
+7 Fred sinemadan önce neredeydi? 	mutfak	5 3
+8 Bill bu sabah sinemaya gitti.
+9 bu sabah Julie okula geri döndü.
+10 Fred mutfaktan önce neredeydi? 	park	3 6
+11 bu akşam Fred ofise gitti.
+12 bu sabah Mary okula gitti.
+13 Fred sinemadan önce neredeydi? 	mutfak	5 3
+14 bu akşam Bill mutfağa gitti.
+15 Bill öğlen ofise gitti.
+16 Mary okuldan önce neredeydi? 	park	12 1
+17 Julie öğlen mutfağa gitti.
+18 Öğlen Mary salona gitti.
+19 Bill mutfaktan önce neredeydi? 	ofis	14 15
+1 Bill parka gitti bu sabah.
+2 Bill ofise gitti Dün.
+3 bu sabah Mary sinemaya gitti.
+4 Dün Mary mutfağa gitti.
+5 Mary sinemadan önce neredeydi? 	mutfak	3 4
+6 Dün Julie mutfağa gitti.
+7 Bill okula gitti Öğlen.
+8 Bill parktan önce neredeydi? 	ofis	1 2
+9 bu sabah Julie salona gitti.
+10 Bill ofise gitti bu akşam.
+11 Mary sinemadan önce neredeydi? 	mutfak	3 4
+12 Mary parka gitti Öğlen.
+13 Julie öğlen ofise gitti.
+14 Julie salondan önce neredeydi? 	mutfak	9 6
+15 bu akşam Mary salona gitti.
+16 bu akşam Julie mutfağa gitti.
+17 Julie ofisten önce neredeydi? 	salon	13 9
+1 Mary okula geri döndü Dün.
+2 Julie okula geri döndü Öğlen.
+3 Dün Julie ofise gitti.
+4 Julie parka gitti bu sabah.
+5 Julie okuldan önce neredeydi? 	park	2 4
+6 bu sabah Fred okula geri döndü.
+7 Dün Fred mutfağa gitti.
+8 Fred okuldan önce neredeydi? 	mutfak	6 7
+9 Fred sinemaya gitti bu akşam.
+10 Öğlen Fred ofise gitti.
+11 Fred sinemadan önce neredeydi? 	ofis	9 10
+12 Julie parka gitti bu akşam.
+13 Dün Bill salona geri döndü.
+14 Fred okuldan önce neredeydi? 	mutfak	6 7
+15 Bill öğlen salona gitti.
+16 Bill bu sabah ofise gitti.
+17 Bill ofisten önce neredeydi? 	salon	16 13
+1 Dün Mary ofise gitti.
+2 Dün Bill mutfağa gitti.
+3 bu sabah Julie sinemaya gitti.
+4 Julie dün mutfağa gitti.
+5 Julie sinemadan önce neredeydi? 	mutfak	3 4
+6 Julie mutfağa gitti Öğlen.
+7 Dün Fred parka gitti.
+8 Julie mutfaktan önce neredeydi? 	sinema	6 3
+9 bu akşam Julie okula geri döndü.
+10 bu sabah Fred salona gitti.
+11 Julie sinemadan önce neredeydi? 	mutfak	3 4
+12 bu sabah Bill okula gitti.
+13 Öğlen Fred ofise gitti.
+14 Fred salondan önce neredeydi? 	park	10 7
+15 Mary parka gitti bu sabah.
+16 Fred mutfağa geri döndü bu akşam.
+17 Bill okuldan önce neredeydi? 	mutfak	12 2
+1 Fred okula gitti Dün.
+2 bu sabah Fred mutfağa gitti.
+3 Fred ofise gitti Öğlen.
+4 Bill dün sinemaya geri döndü.
+5 Fred mutfaktan önce neredeydi? 	okul	2 1
+6 bu akşam Fred okula geri döndü.
+7 bu sabah Bill okula gitti.
+8 Bill okuldan önce neredeydi? 	sinema	7 4
+9 Bill mutfağa gitti Öğlen.
+10 Dün Julie sinemaya gitti.
+11 Fred okuldan önce neredeydi? 	ofis	6 3
+12 bu akşam Bill okula gitti.
+13 bu sabah Julie parka gitti.
+14 Julie parktan önce neredeydi? 	sinema	13 10
+15 Dün Mary okula gitti.
+16 Julie okula geri döndü Öğlen.
+17 Bill mutfaktan önce neredeydi? 	okul	9 7
+1 Fred bu sabah salona gitti.
+2 Fred parka geri döndü Dün.
+3 Fred salondan önce neredeydi? 	park	1 2
+4 Bill okula geri döndü Dün.
+5 Julie dün ofise gitti.
+6 Fred salondan önce neredeydi? 	park	1 2
+7 Öğlen Fred okula gitti.
+8 bu sabah Bill parka gitti.
+9 Bill parktan önce neredeydi? 	okul	8 4
+10 Julie bu sabah mutfağa geri gitti.
+11 bu akşam Fred mutfağa gitti.
+12 Julie mutfaktan önce neredeydi? 	ofis	10 5
+13 Bill öğlen salona gitti.
+14 Julie sinemaya geri döndü Öğlen.
+15 Fred mutfaktan önce neredeydi? 	okul	11 7
+1 bu sabah Julie ofise geri döndü.
+2 Bill dün ofise gitti.
+3 Mary dün sinemaya gitti.
+4 Julie parka geri döndü Dün.
+5 Julie ofisten önce neredeydi? 	park	1 4
+6 Fred salona gitti Dün.
+7 bu sabah Bill sinemaya gitti.
+8 Julie ofisten önce neredeydi? 	park	1 4
+9 Öğlen Julie salona gitti.
+10 Fred bu sabah ofise gitti.
+11 Bill sinemadan önce neredeydi? 	ofis	7 2
+12 bu sabah Mary ofise geri döndü.
+13 Öğlen Bill okula gitti.
+14 Bill okuldan önce neredeydi? 	sinema	13 7
+15 Fred mutfağa gitti Öğlen.
+16 Öğlen Mary parka geri döndü.
+17 Mary parktan önce neredeydi? 	ofis	16 12
+1 bu sabah Fred mutfağa gitti.
+2 Mary ofise geri döndü Dün.
+3 Dün Bill mutfağa gitti.
+4 Dün Fred salona gitti.
+5 Fred mutfaktan önce neredeydi? 	salon	1 4
+6 bu sabah Bill salona gitti.
+7 Öğlen Fred ofise gitti.
+8 Fred mutfaktan önce neredeydi? 	salon	1 4
+9 Julie okula gitti Dün.
+10 Fred mutfağa geri döndü bu akşam.
+11 Bill salondan önce neredeydi? 	mutfak	6 3
+12 bu sabah Mary mutfağa gitti.
+13 Julie bu sabah sinemaya gitti.
+14 Julie sinemadan önce neredeydi? 	okul	13 9
+15 Öğlen Julie okula geri döndü.
+16 Mary sinemaya gitti Öğlen.
+17 Julie okuldan önce neredeydi? 	sinema	15 13
+1 Dün Bill sinemaya geri döndü.
+2 Dün Mary okula gitti.
+3 bu sabah Fred ofise gitti.
+4 Fred sinemaya gitti Dün.
+5 Fred ofisten önce neredeydi? 	sinema	3 4
+6 bu akşam Fred salona gitti.
+7 Fred sinemaya gitti Öğlen.
+8 Fred sinemadan önce neredeydi? 	ofis	7 3
+9 Bill parka gitti bu sabah.
+10 Julie dün salona gitti.
+11 Fred sinemadan önce neredeydi? 	ofis	7 3
+12 Öğlen Bill mutfağa gitti.
+13 Julie sabah okula geri döndü.
+14 Bill parktan önce neredeydi? 	sinema	9 1
+15 Mary öğlen parka geri döndü.
+16 bu sabah Mary ofise gitti.
+17 Julie okuldan önce neredeydi? 	salon	13 10
+1 Bill mutfağa gitti Dün.
+2 Dün Julie okula gitti.
+3 Dün Fred parka gitti.
+4 Julie bu sabah mutfağa gitti.
+5 Julie ofise gitti Öğlen.
+6 Dün Mary mutfağa gitti.
+7 Julie ofisten önce neredeydi? 	mutfak	5 4
+8 bu sabah Bill sinemaya gitti.
+9 Julie mutfağa gitti bu akşam.
+10 Julie mutfaktan önce neredeydi? 	ofis	9 5
+11 Fred bu sabah mutfağa gitti.
+12 Öğlen Bill mutfağa gitti.
+13 Bill mutfaktan önce neredeydi? 	sinema	12 8
+14 bu akşam Fred okula gitti.
+15 Fred öğlen sinemaya gitti.
+16 Bill mutfaktan önce neredeydi? 	sinema	12 8
+17 bu sabah Mary ofise gitti.
+18 bu akşam Bill okula gitti.
+19 Fred okuldan önce neredeydi? 	sinema	14 15
+1 bu sabah Julie mutfağa gitti.
+2 Julie dün okula gitti.
+3 Julie mutfaktan önce neredeydi? 	okul	1 2
+4 Dün Bill mutfağa gitti.
+5 Julie öğlen sinemaya gitti.
+6 Julie sinemadan önce neredeydi? 	mutfak	5 1
+7 Mary dün salona gitti.
+8 Fred dün parka gitti.
+9 Julie mutfaktan önce neredeydi? 	okul	1 2
+10 Julie ofise gitti bu akşam.
+11 bu sabah Bill salona gitti.
+12 Bill salondan önce neredeydi? 	mutfak	11 4
+13 Fred okula geri döndü Öğlen.
+14 bu sabah Fred ofise gitti.
+15 Bill salondan önce neredeydi? 	mutfak	11 4
+1 Mary bu sabah mutfağa gitti.
+2 Mary okula gitti Dün.
+3 Mary mutfaktan önce neredeydi? 	okul	1 2
+4 bu sabah Julie okula gitti.
+5 Julie parka geri döndü Dün.
+6 Julie okuldan önce neredeydi? 	park	4 5
+7 Julie sinemaya gitti Öğlen.
+8 Mary parka gitti Öğlen.
+9 Mary mutfaktan önce neredeydi? 	okul	1 2
+10 Bill dün sinemaya gitti.
+11 Mary ofise gitti bu akşam.
+12 Julie sinemadan önce neredeydi? 	okul	7 4
+13 bu sabah Fred sinemaya gitti.
+14 Dün Fred okula gitti.
+15 Fred sinemadan önce neredeydi? 	okul	13 14
+1 bu sabah Julie okula gitti.
+2 Mary parka gitti Dün.
+3 Dün Fred mutfağa gitti.
+4 Dün Julie sinemaya gitti.
+5 Julie okuldan önce neredeydi? 	sinema	1 4
+6 bu akşam Julie ofise gitti.
+7 Julie öğlen salona gitti.
+8 Julie ofisten önce neredeydi? 	salon	6 7
+9 Öğlen Fred okula gitti.
+10 Fred parka gitti bu sabah.
+11 Fred okuldan önce neredeydi? 	park	9 10
+12 Mary bu sabah sinemaya gitti.
+13 Bill ofise gitti Dün.
+14 Fred okuldan önce neredeydi? 	park	9 10
+15 Mary öğlen parka gitti.
+16 bu akşam Fred salona gitti.
+17 Fred salondan önce neredeydi? 	okul	16 9
+1 Dün Mary salona gitti.
+2 bu sabah Mary mutfağa gitti.
+3 Bill dün salona gitti.
+4 Fred okula gitti Dün.
+5 Mary mutfaktan önce neredeydi? 	salon	2 1
+6 Öğlen Bill okula gitti.
+7 bu sabah Bill sinemaya gitti.
+8 Bill okuldan önce neredeydi? 	sinema	6 7
+9 bu sabah Julie parka gitti.
+10 Dün Julie salona gitti.
+11 Julie parktan önce neredeydi? 	salon	9 10
+12 bu sabah Fred sinemaya gitti.
+13 Bill sinemaya gitti bu akşam.
+14 Fred sinemadan önce neredeydi? 	okul	12 4
+15 Julie mutfağa gitti bu akşam.
+16 Julie öğlen ofise gitti.
+17 Fred sinemadan önce neredeydi? 	okul	12 4
+1 Bill bu sabah mutfağa gitti.
+2 Bill salona gitti Dün.
+3 Dün Julie okula geri döndü.
+4 Mary mutfağa gitti Dün.
+5 Bill mutfaktan önce neredeydi? 	salon	1 2
+6 Julie bu sabah sinemaya gitti.
+7 bu sabah Mary sinemaya geri döndü.
+8 Mary sinemadan önce neredeydi? 	mutfak	7 4
+9 Öğlen Mary mutfağa gitti.
+10 Öğlen Bill salona gitti.
+11 Mary sinemadan önce neredeydi? 	mutfak	7 4
+12 bu sabah Fred salona gitti.
+13 Dün Fred okula geri döndü.
+14 Bill salondan önce neredeydi? 	mutfak	10 1
+15 Öğlen Julie okula gitti.
+16 Öğlen Fred okula gitti.
+17 Fred salondan önce neredeydi? 	okul	12 13
+1 Dün Mary salona gitti.
+2 bu sabah Bill salona gitti.
+3 Julie dün sinemaya geri döndü.
+4 Bill okula gitti Dün.
+5 Bill salondan önce neredeydi? 	okul	2 4
+6 Öğlen Bill sinemaya gitti.
+7 Fred salona gitti Dün.
+8 Bill salondan önce neredeydi? 	okul	2 4
+9 bu sabah Julie okula gitti.
+10 Bill okula gitti bu akşam.
+11 Bill okuldan önce neredeydi? 	sinema	10 6
+12 Öğlen Julie sinemaya gitti.
+13 bu sabah Fred parka gitti.
+14 Julie okuldan önce neredeydi? 	sinema	9 3
+15 bu akşam Julie parka gitti.
+16 Öğlen Fred salona gitti.
+17 Julie sinemadan önce neredeydi? 	okul	12 9
+1 Bill okula geri döndü Dün.
+2 Dün Julie mutfağa gitti.
+3 Fred bu sabah salona gitti.
+4 Fred dün mutfağa gitti.
+5 Fred salondan önce neredeydi? 	mutfak	3 4
+6 Mary mutfağa gitti Dün.
+7 Julie bu sabah ofise gitti.
+8 Fred salondan önce neredeydi? 	mutfak	3 4
+9 Öğlen Fred okula gitti.
+10 Mary bu sabah parka gitti.
+11 Fred salondan önce neredeydi? 	mutfak	3 4
+12 Öğlen Mary salona gitti.
+13 Öğlen Julie okula gitti.
+14 Mary parktan önce neredeydi? 	mutfak	10 6
+15 bu akşam Mary ofise gitti.
+16 Bill bu sabah parka gitti.
+17 Mary ofisten önce neredeydi? 	salon	15 12
+1 Bill parka geri döndü bu sabah.
+2 bu sabah Julie mutfağa gitti.
+3 Julie dün salona gitti.
+4 Bill sinemaya gitti Dün.
+5 Bill parktan önce neredeydi? 	sinema	1 4
+6 Bill öğlen mutfağa geri döndü.
+7 Fred parka gitti Dün.
+8 Bill mutfaktan önce neredeydi? 	park	6 1
+9 Öğlen Julie okula geri döndü.
+10 Fred salona gitti bu sabah.
+11 Fred salondan önce neredeydi? 	park	10 7
+12 Mary bu sabah mutfağa gitti.
+13 Dün Mary okula gitti.
+14 Mary mutfaktan önce neredeydi? 	okul	12 13
+15 Bill ofise geri döndü bu akşam.
+16 Mary parka gitti Öğlen.
+17 Mary mutfaktan önce neredeydi? 	okul	12 13
+1 bu sabah Mary parka gitti.
+2 Mary ofise gitti Dün.
+3 Mary parktan önce neredeydi? 	ofis	1 2
+4 Öğlen Mary salona gitti.
+5 Dün Julie sinemaya gitti.
+6 Mary parktan önce neredeydi? 	ofis	1 2
+7 Dün Bill parka gitti.
+8 bu akşam Mary parka gitti.
+9 Mary parktan önce neredeydi? 	salon	8 4
+10 Fred bu sabah okula gitti.
+11 Dün Fred parka geri döndü.
+12 Mary salondan önce neredeydi? 	park	4 1
+13 Julie öğlen mutfağa geri döndü.
+14 bu sabah Julie ofise gitti.
+15 Fred okuldan önce neredeydi? 	park	10 11
+1 Mary sabah okula geri döndü.
+2 Dün Mary parka gitti.
+3 Mary okuldan önce neredeydi? 	park	1 2
+4 Dün Bill okula gitti.
+5 Dün Fred okula gitti.
+6 Mary okuldan önce neredeydi? 	park	1 2
+7 bu sabah Fred sinemaya gitti.
+8 Öğlen Mary sinemaya geri döndü.
+9 Mary sinemadan önce neredeydi? 	okul	8 1
+10 bu akşam Mary parka gitti.
+11 Dün Julie sinemaya geri döndü.
+12 Mary sinemadan önce neredeydi? 	okul	8 1
+13 bu sabah Julie mutfağa gitti.
+14 bu sabah Bill parka gitti.
+15 Mary parktan önce neredeydi? 	sinema	10 8
+1 Bill dün salona gitti.
+2 Bill sinemaya geri döndü bu sabah.
+3 Dün Mary ofise gitti.
+4 Dün Fred parka geri döndü.
+5 Bill sinemadan önce neredeydi? 	salon	2 1
+6 Julie dün mutfağa gitti.
+7 bu sabah Fred salona gitti.
+8 Fred salondan önce neredeydi? 	park	7 4
+9 Bill öğlen salona gitti.
+10 Julie bu sabah salona gitti.
+11 Julie salondan önce neredeydi? 	mutfak	10 6
+12 bu akşam Bill okula geri döndü.
+13 Julie parka gitti Öğlen.
+14 Bill salondan önce neredeydi? 	sinema	9 2
+15 Öğlen Mary parka geri döndü.
+16 Mary salona geri döndü bu sabah.
+17 Mary parktan önce neredeydi? 	salon	15 16
+1 Mary bu sabah salona gitti.
+2 Dün Bill mutfağa gitti.
+3 Dün Mary sinemaya gitti.
+4 Julie ofise gitti Dün.
+5 Mary salondan önce neredeydi? 	sinema	1 3
+6 Öğlen Julie salona gitti.
+7 bu sabah Julie sinemaya gitti.
+8 Julie sinemadan önce neredeydi? 	ofis	7 4
+9 Fred dün ofise gitti.
+10 Öğlen Mary ofise gitti.
+11 Julie sinemadan önce neredeydi? 	ofis	7 4
+12 bu sabah Fred sinemaya gitti.
+13 Julie ofise gitti bu akşam.
+14 Julie salondan önce neredeydi? 	sinema	6 7
+15 Fred öğlen mutfağa gitti.
+16 bu akşam Mary sinemaya geri döndü.
+17 Julie ofisten önce neredeydi? 	salon	13 6
+1 Dün Julie sinemaya gitti.
+2 Bill dün sinemaya gitti.
+3 Dün Fred parkta gitti.
+4 Julie ofise gitti Öğlen.
+5 Mary ofise gitti Dün.
+6 Julie bu sabah salona gitti.
+7 Julie ofisten önce neredeydi? 	salon	4 6
+8 Fred sinemaya gitti Öğlen.
+9 bu sabah Fred ofise gitti.
+10 Julie ofisten önce neredeydi? 	salon	4 6
+11 Julie parka gitti bu akşam.
+12 bu sabah Bill ofise gitti.
+13 Fred ofisten önce neredeydi? 	park	9 3
+14 Mary bu sabah salona gitti.
+15 Bill mutfağa gitti Öğlen.
+16 Julie parktan önce neredeydi? 	ofis	11 4
+17 bu akşam Fred salona gitti.
+18 Mary okula gitti Öğlen.
+19 Julie parktan önce neredeydi? 	ofis	11 4
+1 bu sabah Bill parka gitti.
+2 Bill okula gitti Dün.
+3 Bill parktan önce neredeydi? 	okul	1 2
+4 Julie dün sinemaya gitti.
+5 Öğlen Bill sinemaya gitti.
+6 Bill sinemadan önce neredeydi? 	park	5 1
+7 bu akşam Bill parka geri döndü.
+8 Julie parka gitti bu sabah.
+9 Bill parktan önce neredeydi? 	sinema	7 5
+10 bu sabah Fred parkta gitti.
+11 Dün Fred salona gitti.
+12 Julie parktan önce neredeydi? 	sinema	8 4
+13 Dün Mary ofise gitti.
+14 Julie öğlen ofise gitti.
+15 Julie ofisten önce neredeydi? 	park	14 8
+1 Julie bu sabah mutfağa gitti.
+2 Julie ofise gitti Dün.
+3 Dün Fred okula gitti.
+4 Dün Mary ofise gitti.
+5 Julie mutfaktan önce neredeydi? 	ofis	1 2
+6 Dün Bill mutfağa gitti.
+7 bu sabah Mary parka geri döndü.
+8 Mary parktan önce neredeydi? 	ofis	7 4
+9 bu akşam Julie okula geri döndü.
+10 Öğlen Julie ofise geri döndü.
+11 Julie mutfaktan önce neredeydi? 	ofis	1 2
+12 Bill ofise gitti bu sabah.
+13 Öğlen Mary okula gitti.
+14 Julie ofisten önce neredeydi? 	mutfak	10 1
+15 Fred salona gitti bu sabah.
+16 Bill öğlen parka gitti.
+17 Mary okuldan önce neredeydi? 	park	13 7
+1 Dün Julie mutfağa gitti.
+2 Bill dün salona gitti.
+3 Mary bu sabah parka gitti.
+4 Dün Mary okula gitti.
+5 Mary parktan önce neredeydi? 	okul	3 4
+6 bu sabah Bill okula gitti.
+7 bu sabah Julie parka geri döndü.
+8 Bill okuldan önce neredeydi? 	salon	6 2
+9 Mary okula gitti Öğlen.
+10 Fred mutfağa gitti Dün.
+11 Bill okuldan önce neredeydi? 	salon	6 2
+12 Bill sinemaya gitti Öğlen.
+13 Julie öğlen mutfağa gitti.
+14 Bill sinemadan önce neredeydi? 	okul	12 6
+15 bu akşam Julie ofise gitti.
+16 bu akşam Bill ofise gitti.
+17 Bill ofisten önce neredeydi? 	sinema	16 12
+1 Dün Fred parkta gitti.
+2 bu sabah Julie ofise gitti.
+3 Dün Bill sinemaya gitti.
+4 Dün Julie sinemaya gitti.
+5 Julie ofisten önce neredeydi? 	sinema	2 4
+6 Julie mutfağa gitti bu akşam.
+7 Julie öğlen salona geri döndü.
+8 Julie salondan önce neredeydi? 	ofis	7 2
+9 bu sabah Fred mutfağa gitti.
+10 bu sabah Bill mutfağa gitti.
+11 Bill mutfaktan önce neredeydi? 	sinema	10 3
+12 bu akşam Fred salona geri döndü.
+13 Öğlen Fred parka gitti.
+14 Fred salondan önce neredeydi? 	park	12 13
+15 bu sabah Mary sinemaya gitti.
+16 Dün Mary okula gitti.
+17 Fred salondan önce neredeydi? 	park	12 13
+1 Mary salona gitti Dün.
+2 Bill dün salona gitti.
+3 bu sabah Julie salona gitti.
+4 Dün Julie mutfağa geri döndü.
+5 Julie salondan önce neredeydi? 	mutfak	3 4
+6 Fred dün sinemaya gitti.
+7 bu sabah Mary sinemaya gitti.
+8 Julie salondan önce neredeydi? 	mutfak	3 4
+9 Julie mutfağa gitti Öğlen.
+10 Mary öğlen ofise gitti.
+11 Mary sinemadan önce neredeydi? 	salon	7 1
+12 Bill öğlen ofise gitti.
+13 Bill bu sabah mutfağa gitti.
+14 Mary ofisten önce neredeydi? 	sinema	10 7
+15 Mary okula gitti bu akşam.
+16 Bill sinemaya gitti bu akşam.
+17 Mary okuldan önce neredeydi? 	ofis	15 10
+1 Mary okula gitti bu sabah.
+2 Mary parka gitti Dün.
+3 Mary okuldan önce neredeydi? 	park	1 2
+4 Fred dün sinemaya gitti.
+5 Dün Bill parkta gitti.
+6 Mary okuldan önce neredeydi? 	park	1 2
+7 Dün Julie mutfağa geri döndü.
+8 Bill bu sabah sinemaya gitti.
+9 Bill sinemadan önce neredeydi? 	park	8 5
+10 Fred ofise gitti Öğlen.
+11 bu sabah Fred salona gitti.
+12 Bill sinemadan önce neredeydi? 	park	8 5
+13 Julie öğlen salona gitti.
+14 bu sabah Julie parka gitti.
+15 Julie parktan önce neredeydi? 	mutfak	14 7
+1 Fred bu sabah salona gitti.
+2 Fred okula geri döndü Öğlen.
+3 Fred dün sinemaya gitti.
+4 Mary dün parka gitti.
+5 Fred okuldan önce neredeydi? 	salon	2 1
+6 Julie okula gitti Dün.
+7 Fred mutfağa gitti bu akşam.
+8 Fred salondan önce neredeydi? 	sinema	1 3
+9 bu sabah Bill mutfağa geri döndü.
+10 Dün Bill salona gitti.
+11 Bill mutfaktan önce neredeydi? 	salon	9 10
+12 Bill ofise gitti Öğlen.
+13 bu sabah Mary ofise gitti.
+14 Bill mutfaktan önce neredeydi? 	salon	9 10
+15 Julie bu sabah mutfağa geri gitti.
+16 Bill parka gitti bu akşam.
+17 Bill parktan önce neredeydi? 	ofis	16 12
+1 bu sabah Bill salona geri döndü.
+2 Fred dün sinemaya gitti.
+3 Dün Bill ofise gitti.
+4 Fred bu sabah ofise gitti.
+5 Bill salondan önce neredeydi? 	ofis	1 3
+6 Dün Mary salona gitti.
+7 Dün Julie salona gitti.
+8 Fred ofisten önce neredeydi? 	sinema	4 2
+9 Fred parka gitti bu akşam.
+10 Fred sinemaya gitti Öğlen.
+11 Fred parktan önce neredeydi? 	sinema	9 10
+12 Mary sabah okula gitti.
+13 Julie parka gitti bu sabah.
+14 Mary okuldan önce neredeydi? 	salon	12 6
+15 Öğlen Bill sinemaya gitti.
+16 Mary sinemaya gitti Öğlen.
+17 Mary okuldan önce neredeydi? 	salon	12 6
+1 Bill dün salona gitti.
+2 bu sabah Bill parka gitti.
+3 Mary dün mutfağa gitti.
+4 Dün Julie salona gitti.
+5 Bill parktan önce neredeydi? 	salon	2 1
+6 Mary bu sabah ofise gitti.
+7 Dün Fred salona gitti.
+8 Bill parktan önce neredeydi? 	salon	2 1
+9 Bill öğlen mutfağa gitti.
+10 Julie ofise gitti bu sabah.
+11 Bill mutfaktan önce neredeydi? 	park	9 2
+12 Öğlen Fred sinemaya geri döndü.
+13 bu sabah Fred mutfağa gitti.
+14 Fred mutfaktan önce neredeydi? 	salon	13 7
+15 Bill okula gitti bu akşam.
+16 bu akşam Fred salona gitti.
+17 Bill mutfaktan önce neredeydi? 	park	9 2
+1 Fred okula gitti Dün.
+2 Fred bu sabah ofise gitti.
+3 Mary okula gitti Dün.
+4 Dün Bill ofise geri döndü.
+5 Fred ofisten önce neredeydi? 	okul	2 1
+6 Bill salona gitti bu sabah.
+7 Öğlen Fred mutfağa gitti.
+8 Bill salondan önce neredeydi? 	ofis	6 4
+9 bu akşam Fred sinemaya gitti.
+10 Öğlen Bill parka gitti.
+11 Bill parktan önce neredeydi? 	salon	10 6
+12 bu sabah Mary salona geri döndü.
+13 Bill ofise gitti bu akşam.
+14 Bill parktan önce neredeydi? 	salon	10 6
+15 Julie dün parka gitti.
+16 Öğlen Mary parka gitti.
+17 Mary parktan önce neredeydi? 	salon	16 12
+1 Fred dün mutfağa gitti.
+2 Öğlen Fred parka geri döndü.
+3 Julie mutfağa gitti Dün.
+4 bu sabah Fred sinemaya gitti.
+5 Fred parktan önce neredeydi? 	sinema	2 4
+6 Bill bu sabah ofise gitti.
+7 Dün Bill mutfağa gitti.
+8 Bill ofisten önce neredeydi? 	mutfak	6 7
+9 bu akşam Fred ofise geri döndü.
+10 Julie bu sabah sinemaya gitti.
+11 Bill ofisten önce neredeydi? 	mutfak	6 7
+12 Julie mutfağa gitti bu akşam.
+13 Julie ofise geri döndü Öğlen.
+14 Julie sinemadan önce neredeydi? 	mutfak	10 3
+15 Bill ofise geri döndü bu akşam.
+16 Öğlen Bill okula gitti.
+17 Julie mutfaktan önce neredeydi? 	ofis	12 13
+1 bu sabah Mary okula gitti.
+2 Fred dün salona geri döndü.
+3 Dün Bill okula gitti.
+4 Dün Mary ofise gitti.
+5 Mary okuldan önce neredeydi? 	ofis	1 4
+6 Fred bu sabah sinemaya gitti.
+7 Mary öğlen salona gitti.
+8 Mary salondan önce neredeydi? 	okul	7 1
+9 Öğlen Fred salona gitti.
+10 Mary ofise gitti bu akşam.
+11 Mary okuldan önce neredeydi? 	ofis	1 4
+12 Julie bu sabah sinemaya gitti.
+13 Julie mutfağa gitti Dün.
+14 Fred sinemadan önce neredeydi? 	salon	6 2
+15 Öğlen Julie ofise gitti.
+16 Fred okula gitti bu akşam.
+17 Fred okuldan önce neredeydi? 	salon	16 9
+1 Dün Bill ofise gitti.
+2 Mary parka gitti bu sabah.
+3 Dün Fred okula gitti.
+4 Dün Mary salona gitti.
+5 Mary parktan önce neredeydi? 	salon	2 4
+6 Julie okula gitti bu sabah.
+7 Dün Julie sinemaya gitti.
+8 Julie okuldan önce neredeydi? 	sinema	6 7
+9 Bill bu sabah sinemaya gitti.
+10 Julie ofise geri döndü Öğlen.
+11 Bill sinemadan önce neredeydi? 	ofis	9 1
+12 Julie bu akşam parka geri döndü.
+13 Mary salona gitti Öğlen.
+14 Bill sinemadan önce neredeydi? 	ofis	9 1
+15 Öğlen Bill mutfağa gitti.
+16 bu sabah Fred sinemaya gitti.
+17 Julie parktan önce neredeydi? 	ofis	12 10
+1 bu sabah Bill salona gitti.
+2 Dün Julie mutfağa gitti.
+3 Dün Bill okula gitti.
+4 Fred okula geri döndü Dün.
+5 Bill salondan önce neredeydi? 	okul	1 3
+6 Mary dün salona gitti.
+7 bu sabah Julie salona gitti.
+8 Bill salondan önce neredeydi? 	okul	1 3
+9 Öğlen Bill okula gitti.
+10 Öğlen Julie parkta gitti.
+11 Julie salondan önce neredeydi? 	mutfak	7 2
+12 bu akşam Bill parkta gitti.
+13 Mary parka geri döndü bu sabah.
+14 Bill parktan önce neredeydi? 	okul	12 9
+15 bu akşam Mary ofise gitti.
+16 Mary sinemaya gitti Öğlen.
+17 Bill okuldan önce neredeydi? 	salon	9 1
+1 Dün Mary parka gitti.
+2 bu sabah Julie ofise gitti.
+3 bu sabah Mary mutfağa geri döndü.
+4 Julie okula gitti Dün.
+5 Julie ofisten önce neredeydi? 	okul	2 4
+6 Dün Fred mutfağa geri döndü.
+7 Mary ofise gitti Öğlen.
+8 Mary ofisten önce neredeydi? 	mutfak	7 3
+9 Mary bu akşam salona gitti.
+10 Dün Bill okula gitti.
+11 Mary ofisten önce neredeydi? 	mutfak	7 3
+12 Bill parka gitti bu sabah.
+13 Fred bu sabah ofise gitti.
+14 Bill parktan önce neredeydi? 	okul	12 10
+15 Fred öğlen salona geri döndü.
+16 Julie okula gitti Öğlen.
+17 Fred salondan önce neredeydi? 	ofis	15 13
+1 Julie dün sinemaya geri döndü.
+2 bu sabah Mary ofise gitti.
+3 Mary okula gitti Dün.
+4 Bill parka gitti Dün.
+5 Mary ofisten önce neredeydi? 	okul	2 3
+6 Mary öğlen parka geri döndü.
+7 bu sabah Bill salona gitti.
+8 Mary ofisten önce neredeydi? 	okul	2 3
+9 bu akşam Bill ofise geri döndü.
+10 Öğlen Bill okula gitti.
+11 Bill salondan önce neredeydi? 	park	7 4
+12 Fred dün salona gitti.
+13 Julie parka geri döndü bu sabah.
+14 Bill ofisten önce neredeydi? 	okul	9 10
+15 Öğlen Julie sinemaya gitti.
+16 bu akşam Mary okula gitti.
+17 Julie parktan önce neredeydi? 	sinema	13 1
+1 bu sabah Bill mutfağa gitti.
+2 Bill dün sinemaya gitti.
+3 bu sabah Julie parka gitti.
+4 Julie mutfağa gitti Dün.
+5 Bill mutfaktan önce neredeydi? 	sinema	1 2
+6 Mary dün sinemaya gitti.
+7 Fred salona gitti Dün.
+8 Bill mutfaktan önce neredeydi? 	sinema	1 2
+9 Fred parka gitti Öğlen.
+10 Fred bu sabah mutfağa gitti.
+11 Fred mutfaktan önce neredeydi? 	salon	10 7
+12 bu sabah Mary okula gitti.
+13 Öğlen Julie sinemaya geri döndü.
+14 Fred mutfaktan önce neredeydi? 	salon	10 7
+15 Fred sinemaya gitti bu akşam.
+16 Öğlen Mary salona gitti.
+17 Mary salondan önce neredeydi? 	okul	16 12
+1 Mary sinemaya geri döndü bu sabah.
+2 Dün Julie okula gitti.
+3 Dün Mary mutfağa gitti.
+4 Dün Bill parka geri döndü.
+5 Mary sinemadan önce neredeydi? 	mutfak	1 3
+6 bu sabah Bill okula gitti.
+7 Dün Fred okula gitti.
+8 Bill okuldan önce neredeydi? 	park	6 4
+9 bu sabah Julie sinemaya gitti.
+10 Öğlen Bill sinemaya gitti.
+11 Mary sinemadan önce neredeydi? 	mutfak	1 3
+12 Öğlen Mary mutfağa geri döndü.
+13 Julie öğlen ofise gitti.
+14 Julie sinemadan önce neredeydi? 	okul	9 2
+15 Fred bu sabah sinemaya gitti.
+16 bu akşam Bill salona geri döndü.
+17 Julie sinemadan önce neredeydi? 	okul	9 2
+1 Öğlen Mary salona gitti.
+2 Mary bu sabah sinemaya gitti.
+3 Mary parka gitti Dün.
+4 Fred ofise gitti Dün.
+5 Mary salondan önce neredeydi? 	sinema	1 2
+6 bu sabah Julie salona gitti.
+7 Julie mutfağa gitti Dün.
+8 Julie salondan önce neredeydi? 	mutfak	6 7
+9 Julie sinemaya gitti Öğlen.
+10 bu akşam Mary parka gitti.
+11 Mary salondan önce neredeydi? 	sinema	1 2
+12 Bill bu sabah salona gitti.
+13 Bill okula gitti Dün.
+14 Julie salondan önce neredeydi? 	mutfak	6 7
+15 Fred salona gitti Öğlen.
+16 bu sabah Fred okula gitti.
+17 Fred okuldan önce neredeydi? 	ofis	16 4
+1 Dün Fred ofise gitti.
+2 Julie salona gitti Dün.
+3 bu sabah Mary okula gitti.
+4 Dün Mary mutfağa geri döndü.
+5 Mary okuldan önce neredeydi? 	mutfak	3 4
+6 Fred bu sabah mutfağa gitti.
+7 Bill dün sinemaya gitti.
+8 Fred mutfaktan önce neredeydi? 	ofis	6 1
+9 Bill bu sabah ofise gitti.
+10 Öğlen Fred parka gitti.
+11 Fred parktan önce neredeydi? 	mutfak	10 6
+12 bu akşam Fred sinemaya gitti.
+13 Bill sinemaya gitti Öğlen.
+14 Fred sinemadan önce neredeydi? 	park	12 10
+15 Mary sinemaya gitti Öğlen.
+16 Bill bu akşam parka gitti.
+17 Mary sinemadan önce neredeydi? 	okul	15 3
+1 Bill bu sabah ofise gitti.
+2 Dün Bill salona geri döndü.
+3 Bill ofisten önce neredeydi? 	salon	1 2
+4 Dün Mary sinemaya gitti.
+5 Öğlen Bill salona gitti.
+6 Bill salondan önce neredeydi? 	ofis	5 1
+7 Dün Julie okula gitti.
+8 bu akşam Bill okula gitti.
+9 Bill ofisten önce neredeydi? 	salon	1 2
+10 Mary öğlen ofise gitti.
+11 Mary okula gitti bu sabah.
+12 Mary okuldan önce neredeydi? 	sinema	11 4
+13 bu akşam Mary mutfağa gitti.
+14 bu sabah Julie parka gitti.
+15 Mary ofisten önce neredeydi? 	okul	10 11
+1 bu sabah Julie ofise gitti.
+2 Dün Julie salona geri döndü.
+3 Mary okula gitti Dün.
+4 Bill dün mutfağa gitti.
+5 Julie ofisten önce neredeydi? 	salon	1 2
+6 Mary bu sabah mutfağa gitti.
+7 bu sabah Bill ofise gitti.
+8 Mary mutfaktan önce neredeydi? 	okul	6 3
+9 Öğlen Mary ofise gitti.
+10 Julie öğlen mutfağa geri döndü.
+11 Mary ofisten önce neredeydi? 	mutfak	9 6
+12 Bill öğlen mutfağa gitti.
+13 bu akşam Mary mutfağa geri döndü.
+14 Bill mutfaktan önce neredeydi? 	ofis	12 7
+15 Dün Fred salona geri döndü.
+16 bu akşam Julie ofise gitti.
+17 Bill mutfaktan önce neredeydi? 	ofis	12 7
+1 bu sabah Fred salona gitti.
+2 Dün Mary ofise geri döndü.
+3 Bill dün ofise gitti.
+4 Dün Fred parka gitti.
+5 Fred salondan önce neredeydi? 	park	1 4
+6 bu sabah Mary salona geri döndü.
+7 Julie dün sinemaya gitti.
+8 Mary salondan önce neredeydi? 	ofis	6 2
+9 Öğlen Mary ofise geri döndü.
+10 bu sabah Bill salona gitti.
+11 Mary salondan önce neredeydi? 	ofis	6 2
+12 bu akşam Mary sinemaya gitti.
+13 bu sabah Julie salona geri döndü.
+14 Mary sinemadan önce neredeydi? 	ofis	12 9
+15 Öğlen Julie parka geri döndü.
+16 Fred parka gitti Öğlen.
+17 Julie salondan önce neredeydi? 	sinema	13 7
+1 Dün Fred ofise gitti.
+2 Bill dün ofise gitti.
+3 Fred parka gitti bu sabah.
+4 Mary parka gitti Dün.
+5 Fred parktan önce neredeydi? 	ofis	3 1
+6 Dün Julie sinemaya gitti.
+7 Öğlen Fred okula gitti.
+8 Fred parktan önce neredeydi? 	ofis	3 1
+9 bu sabah Mary ofise gitti.
+10 Julie bu sabah mutfağa gitti.
+11 Fred parktan önce neredeydi? 	ofis	3 1
+12 bu akşam Fred parkta gitti.
+13 Julie öğlen sinemaya gitti.
+14 Julie sinemadan önce neredeydi? 	mutfak	13 10
+15 Mary öğlen parka geri döndü.
+16 bu akşam Julie mutfağa gitti.
+17 Julie mutfaktan önce neredeydi? 	sinema	16 13
+1 bu sabah Fred okula gitti.
+2 Bill dün mutfağa gitti.
+3 Mary mutfağa gitti Dün.
+4 Fred dün ofise gitti.
+5 Fred okuldan önce neredeydi? 	ofis	1 4
+6 Öğlen Fred mutfağa gitti.
+7 Bill parka gitti bu sabah.
+8 Bill parktan önce neredeydi? 	mutfak	7 2
+9 Bill sinemaya gitti Öğlen.
+10 bu sabah Mary parka gitti.
+11 Bill sinemadan önce neredeydi? 	park	9 7
+12 Julie ofise gitti Dün.
+13 Öğlen Mary salona geri döndü.
+14 Mary salondan önce neredeydi? 	park	13 10
+15 Fred okula gitti bu akşam.
+16 bu akşam Mary ofise gitti.
+17 Mary ofisten önce neredeydi? 	salon	16 13
+1 Mary sabah okula geri döndü.
+2 Mary ofise geri döndü Dün.
+3 Mary okuldan önce neredeydi? 	ofis	1 2
+4 Fred dün parka gitti.
+5 Dün Julie salona gitti.
+6 Mary okuldan önce neredeydi? 	ofis	1 2
+7 Öğlen Mary parka geri döndü.
+8 Bill dün sinemaya gitti.
+9 Mary okuldan önce neredeydi? 	ofis	1 2
+10 bu sabah Julie okula geri döndü.
+11 Fred sabah okula gitti.
+12 Fred okuldan önce neredeydi? 	park	11 4
+13 Öğlen Julie sinemaya gitti.
+14 bu akşam Mary okula gitti.
+15 Fred okuldan önce neredeydi? 	park	11 4
+1 Julie ofise geri döndü bu sabah.
+2 Fred bu sabah sinemaya gitti.
+3 Dün Julie salona gitti.
+4 Fred mutfağa geri döndü Dün.
+5 Dün Bill parka gitti.
+6 Mary mutfağa gitti Dün.
+7 Julie ofisten önce neredeydi? 	salon	1 3
+8 Mary sinemaya geri döndü bu sabah.
+9 Öğlen Julie sinemaya gitti.
+10 Fred sinemadan önce neredeydi? 	mutfak	2 4
+11 Öğlen Fred salona gitti.
+12 Julie mutfağa gitti bu akşam.
+13 Julie mutfaktan önce neredeydi? 	sinema	12 9
+14 Fred sinemaya gitti bu akşam.
+15 bu sabah Bill salona gitti.
+16 Bill salondan önce neredeydi? 	park	15 5
+17 Bill sinemaya gitti. bu akşam.
+18 Öğlen Bill ofise gitti.
+19 Bill ofisten önce neredeydi? 	salon	18 15
+1 bu sabah Fred parka gitti.
+2 Bill dün sinemaya gitti.
+3 Fred dün ofise gitti.
+4 Dün Julie okula gitti.
+5 Öğlen Fred okula gitti.
+6 Dün Mary parka geri döndü.
+7 Fred okuldan önce neredeydi? 	park	5 1
+8 Bill okula gitti bu sabah.
+9 Fred sinemaya gitti. bu akşam.
+10 Bill okuldan önce neredeydi? 	sinema	8 2
+11 bu sabah Julie parka gitti.
+12 Bill öğlen sinemaya gitti.
+13 Fred sinemadan önce neredeydi? 	okul	9 5
+14 bu sabah Mary okula gitti.
+15 bu akşam Bill parkta gitti.
+16 Bill okuldan önce neredeydi? 	sinema	8 2
+17 Mary mutfağa gitti bu akşam.
+18 Öğlen Mary ofise geri döndü.
+19 Mary mutfaktan önce neredeydi? 	ofis	17 18
+1 bu sabah Julie salona gitti.
+2 Julie dün ofise gitti.
+3 Julie mutfağa gitti Öğlen.
+4 Fred dün salona gitti.
+5 Julie mutfaktan önce neredeydi? 	salon	3 1
+6 Julie ofise gitti bu akşam.
+7 bu sabah Fred okula gitti.
+8 Julie salondan önce neredeydi? 	ofis	1 2
+9 Mary okula gitti Dün.
+10 Dün Bill salona gitti.
+11 Fred okuldan önce neredeydi? 	salon	7 4
+12 Bill parka gitti bu sabah.
+13 Mary bu sabah mutfağa gitti.
+14 Bill parktan önce neredeydi? 	salon	12 10
+15 Bill okula gitti Öğlen.
+16 Öğlen Fred parkta gitti.
+17 Fred parktan önce neredeydi? 	okul	16 7
+1 Mary okula gitti bu sabah.
+2 Mary dün ofise gitti.
+3 Mary okuldan önce neredeydi? 	ofis	1 2
+4 Bill dün salona gitti.
+5 Dün Julie sinemaya gitti.
+6 Mary okuldan önce neredeydi? 	ofis	1 2
+7 bu sabah Bill okula gitti.
+8 Dün Fred salona gitti.
+9 Mary okuldan önce neredeydi? 	ofis	1 2
+10 Bill ofise gitti Öğlen.
+11 bu sabah Julie ofise gitti.
+12 Bill ofisten önce neredeydi? 	okul	10 7
+13 bu sabah Fred parka gitti.
+14 Öğlen Mary mutfağa gitti.
+15 Bill ofisten önce neredeydi? 	okul	10 7
+1 Dün Julie salona gitti.
+2 Dün Mary mutfağa gitti.
+3 Bill okula gitti bu sabah.
+4 Bill dün ofise gitti.
+5 Bill okuldan önce neredeydi? 	ofis	3 4
+6 bu sabah Julie sinemaya gitti.
+7 Mary bu sabah sinemaya gitti.
+8 Julie sinemadan önce neredeydi? 	salon	6 1
+9 Dün Fred okula gitti.
+10 Öğlen Mary mutfağa gitti.
+11 Bill okuldan önce neredeydi? 	ofis	3 4
+12 bu sabah Fred mutfağa geri döndü.
+13 Mary bu akşam okula gitti.
+14 Fred mutfaktan önce neredeydi? 	okul	12 9
+15 Julie okula gitti bu akşam.
+16 Julie öğlen salona gitti.
+17 Julie salondan önce neredeydi? 	sinema	16 6
+1 Julie dün sinemaya geri döndü.
+2 Mary ofise gitti Dün.
+3 Julie bu sabah mutfağa gitti.
+4 Dün Bill salona gitti.
+5 Julie mutfaktan önce neredeydi? 	sinema	3 1
+6 Dün Fred salona geri döndü.
+7 bu sabah Bill parka gitti.
+8 Bill parktan önce neredeydi? 	salon	7 4
+9 bu sabah Mary sinemaya gitti.
+10 Fred bu sabah mutfağa geri gitti.
+11 Mary sinemadan önce neredeydi? 	ofis	9 2
+12 bu akşam Bill salona gitti.
+13 Öğlen Bill ofise gitti.
+14 Mary sinemadan önce neredeydi? 	ofis	9 2
+15 Mary öğlen salona gitti.
+16 Fred öğlen ofise gitti.
+17 Bill ofisten önce neredeydi? 	park	13 7
+1 Julie parka geri döndü Dün.
+2 Dün Fred okula geri döndü.
+3 Julie ofise gitti bu sabah.
+4 Mary sinemaya gitti Dün.
+5 Julie ofisten önce neredeydi? 	park	3 1
+6 bu akşam Julie okula gitti.
+7 Julie sinemaya gitti Öğlen.
+8 Julie ofisten önce neredeydi? 	park	3 1
+9 Fred bu sabah ofise gitti.
+10 Bill ofise gitti Dün.
+11 Julie ofisten önce neredeydi? 	park	3 1
+12 Mary bu sabah ofise gitti.
+13 Öğlen Fred parka geri döndü.
+14 Mary ofisten önce neredeydi? 	sinema	12 4
+15 Fred bu akşam sinemaya geri döndü.
+16 Öğlen Mary mutfağa geri döndü.
+17 Fred parktan önce neredeydi? 	ofis	13 9
+1 Bill ofise gitti Dün.
+2 bu sabah Julie okula gitti.
+3 Julie parka gitti Dün.
+4 Dün Mary ofise gitti.
+5 Julie okuldan önce neredeydi? 	park	2 3
+6 Dün Fred parka gitti.
+7 Öğlen Julie sinemaya gitti.
+8 Julie okuldan önce neredeydi? 	park	2 3
+9 Mary bu sabah sinemaya gitti.
+10 bu sabah Bill okula gitti.
+11 Bill okuldan önce neredeydi? 	ofis	10 1
+12 Öğlen Mary mutfağa gitti.
+13 bu akşam Julie okula gitti.
+14 Bill okuldan önce neredeydi? 	ofis	10 1
+15 bu akşam Bill sinemaya gitti.
+16 Bill mutfağa gitti Öğlen.
+17 Julie okuldan önce neredeydi? 	sinema	13 7
+1 bu sabah Bill salona gitti.
+2 Dün Bill sinemaya gitti.
+3 Mary dün salona gitti.
+4 Julie dün sinemaya gitti.
+5 Bill salondan önce neredeydi? 	sinema	1 2
+6 Julie bu sabah ofise gitti.
+7 Öğlen Bill mutfağa gitti.
+8 Julie ofisten önce neredeydi? 	sinema	6 4
+9 Fred mutfağa gitti Dün.
+10 Mary bu sabah sinemaya gitti.
+11 Bill salondan önce neredeydi? 	sinema	1 2
+12 Fred bu sabah salona gitti.
+13 Mary ofise geri döndü Öğlen.
+14 Fred salondan önce neredeydi? 	mutfak	12 9
+15 Mary salona gitti bu akşam.
+16 Fred sinemaya gitti Öğlen.
+17 Fred sinemadan önce neredeydi? 	salon	16 12
+1 bu sabah Mary ofise gitti.
+2 Mary mutfağa gitti Dün.
+3 Mary ofisten önce neredeydi? 	mutfak	1 2
+4 Dün Fred parka gitti.
+5 Bill parka geri döndü Dün.
+6 Mary ofisten önce neredeydi? 	mutfak	1 2
+7 Öğlen Bill mutfağa gitti.
+8 Bill bu sabah salona gitti.
+9 Mary ofisten önce neredeydi? 	mutfak	1 2
+10 Öğlen Mary salona gitti.
+11 bu sabah Fred ofise gitti.
+12 Bill salondan önce neredeydi? 	park	8 5
+13 Fred öğlen salona geri döndü.
+14 Mary parka gitti bu akşam.
+15 Mary parktan önce neredeydi? 	salon	14 10
+1 Julie parka gitti bu sabah.
+2 Fred parka gitti bu sabah.
+3 Dün Mary ofise geri döndü.
+4 Dün Fred ofise gitti.
+5 Dün Julie sinemaya gitti.
+6 Dün Bill parka gitti.
+7 Fred parktan önce neredeydi? 	ofis	2 4
+8 bu akşam Julie okula geri döndü.
+9 Julie mutfağa gitti Öğlen.
+10 Julie mutfaktan önce neredeydi? 	park	9 1
+11 Öğlen Fred sinemaya gitti.
+12 bu sabah Bill okula gitti.
+13 Bill okuldan önce neredeydi? 	park	12 6
+14 bu akşam Bill okula gitti.
+15 Bill mutfağa gitti Öğlen.
+16 Bill okuldan önce neredeydi? 	mutfak	14 15
+17 bu sabah Mary parka gitti.
+18 Fred mutfağa gitti bu akşam.
+19 Bill okuldan önce neredeydi? 	mutfak	14 15
+1 Mary bu sabah sinemaya gitti.
+2 Mary parka geri döndü Dün.
+3 Mary sinemadan önce neredeydi? 	park	1 2
+4 Mary okula gitti bu akşam.
+5 Mary mutfağa gitti Öğlen.
+6 Mary okuldan önce neredeydi? 	mutfak	4 5
+7 Dün Bill sinemaya geri döndü.
+8 Dün Fred okula gitti.
+9 Mary okuldan önce neredeydi? 	mutfak	4 5
+10 bu sabah Julie ofise gitti.
+11 Dün Julie salona gitti.
+12 Mary okuldan önce neredeydi? 	mutfak	4 5
+13 bu sabah Bill ofise gitti.
+14 Öğlen Julie parkta gitti.
+15 Bill ofisten önce neredeydi? 	sinema	13 7
+1 bu sabah Mary mutfağa gitti.
+2 Julie okula gitti Dün.
+3 Mary ofise gitti Dün.
+4 Dün Bill sinemaya geri döndü.
+5 Mary mutfaktan önce neredeydi? 	ofis	1 3
+6 Fred dün salona gitti.
+7 bu sabah Bill parka gitti.
+8 Mary mutfaktan önce neredeydi? 	ofis	1 3
+9 Fred parka gitti bu sabah.
+10 bu sabah Julie sinemaya gitti.
+11 Mary mutfaktan önce neredeydi? 	ofis	1 3
+12 bu akşam Fred sinemaya gitti.
+13 Öğlen Fred ofise gitti.
+14 Fred parktan önce neredeydi? 	salon	9 6
+15 Öğlen Bill okula geri döndü.
+16 Mary parka gitti Öğlen.
+17 Fred ofisten önce neredeydi? 	park	13 9
+1 Dün Julie okula gitti.
+2 Dün Fred mutfağa gitti.
+3 Dün Mary ofise gitti.
+4 Fred bu sabah ofise gitti.
+5 Fred ofisten önce neredeydi? 	mutfak	4 2
+6 Öğlen Mary salona gitti.
+7 bu sabah Mary parka gitti.
+8 Fred ofisten önce neredeydi? 	mutfak	4 2
+9 Öğlen Fred salona gitti.
+10 Julie ofise geri döndü bu sabah.
+11 Mary salondan önce neredeydi? 	park	6 7
+12 Bill sinemaya gitti Dün.
+13 bu akşam Mary mutfağa gitti.
+14 Mary salondan önce neredeydi? 	park	6 7
+15 Fred mutfağa gitti bu akşam.
+16 bu sabah Bill mutfağa gitti.
+17 Mary mutfaktan önce neredeydi? 	salon	13 6
+1 Bill dün salona geri döndü.
+2 Fred dün sinemaya gitti.
+3 Mary ofise geri döndü Dün.
+4 bu sabah Mary sinemaya gitti.
+5 Mary sinemadan önce neredeydi? 	ofis	4 3
+6 Öğlen Fred parka gitti.
+7 Fred bu sabah mutfağa gitti.
+8 Fred mutfaktan önce neredeydi? 	sinema	7 2
+9 Fred bu akşam okula gitti.
+10 Mary salona gitti Öğlen.
+11 Fred parktan önce neredeydi? 	mutfak	6 7
+12 bu sabah Bill mutfağa geri döndü.
+13 Mary ofise gitti bu akşam.
+14 Bill mutfaktan önce neredeydi? 	salon	12 1
+15 bu akşam Bill okula geri döndü.
+16 Bill öğlen ofise gitti.
+17 Mary ofisten önce neredeydi? 	salon	13 10
+1 Bill bu sabah ofise gitti.
+2 Dün Bill okula gitti.
+3 Julie okula gitti Dün.
+4 Dün Fred mutfağa geri döndü.
+5 Bill ofisten önce neredeydi? 	okul	1 2
+6 bu sabah Fred okula geri döndü.
+7 bu sabah Julie parka gitti.
+8 Fred okuldan önce neredeydi? 	mutfak	6 4
+9 Öğlen Bill sinemaya gitti.
+10 Fred ofise gitti Öğlen.
+11 Fred okuldan önce neredeydi? 	mutfak	6 4
+12 Öğlen Julie okula gitti.
+13 bu akşam Fred okula gitti.
+14 Fred okuldan önce neredeydi? 	ofis	13 10
+15 bu akşam Bill parka gitti.
+16 Mary dün okula gitti.
+17 Bill sinemadan önce neredeydi? 	ofis	9 1
+1 bu sabah Julie salona gitti.
+2 Julie dün parka gitti.
+3 Julie salondan önce neredeydi? 	park	1 2
+4 Fred dün sinemaya gitti.
+5 Julie sinemaya gitti Öğlen.
+6 Julie sinemadan önce neredeydi? 	salon	5 1
+7 Öğlen Fred parkta gitti.
+8 bu sabah Fred mutfağa gitti.
+9 Fred parktan önce neredeydi? 	mutfak	7 8
+10 Dün Mary ofise gitti.
+11 bu akşam Julie salona gitti.
+12 Julie salondan önce neredeydi? 	sinema	11 5
+13 Mary bu sabah mutfağa gitti.
+14 bu akşam Fred okula gitti.
+15 Mary mutfaktan önce neredeydi? 	ofis	13 10
+1 Dün Fred parkta gitti.
+2 Dün Bill parka geri döndü.
+3 Julie ofise geri döndü bu sabah.
+4 Julie dün sinemaya gitti.
+5 Julie ofisten önce neredeydi? 	sinema	3 4
+6 Fred sabah okula gitti.
+7 bu sabah Bill ofise gitti.
+8 Julie ofisten önce neredeydi? 	sinema	3 4
+9 bu akşam Bill salona geri döndü.
+10 Öğlen Bill okula gitti.
+11 Bill okuldan önce neredeydi? 	ofis	10 7
+12 Dün Mary salona geri döndü.
+13 Öğlen Julie salona gitti.
+14 Fred okuldan önce neredeydi? 	park	6 1
+15 Mary bu sabah parka gitti.
+16 Julie mutfağa gitti bu akşam.
+17 Bill salondan önce neredeydi? 	okul	9 10
+1 Mary dün salona gitti.
+2 Dün Bill okula gitti.
+3 Mary okula gitti bu sabah.
+4 Dün Fred mutfağa geri döndü.
+5 Mary okuldan önce neredeydi? 	salon	3 1
+6 bu sabah Fred ofise geri döndü.
+7 Bill parka gitti bu sabah.
+8 Bill parktan önce neredeydi? 	okul	7 2
+9 Fred okula gitti Öğlen.
+10 Mary öğlen mutfağa gitti.
+11 Mary okuldan önce neredeydi? 	salon	3 1
+12 bu akşam Fred mutfağa gitti.
+13 Öğlen Bill ofise gitti.
+14 Mary mutfaktan önce neredeydi? 	okul	10 3
+15 bu akşam Mary parka gitti.
+16 Bill okula gitti bu akşam.
+17 Bill ofisten önce neredeydi? 	park	13 7
+1 bu sabah Bill ofise geri döndü.
+2 Bill okula gitti Dün.
+3 Bill sinemaya gitti Öğlen.
+4 Julie dün parka gitti.
+5 Bill sinemadan önce neredeydi? 	ofis	3 1
+6 bu akşam Bill salona gitti.
+7 bu sabah Julie ofise gitti.
+8 Bill sinemadan önce neredeydi? 	ofis	3 1
+9 bu akşam Julie ofise geri döndü.
+10 Julie öğlen mutfağa gitti.
+11 Bill sinemadan önce neredeydi? 	ofis	3 1
+12 Mary bu sabah salona gitti.
+13 Mary ofise gitti Dün.
+14 Bill salondan önce neredeydi? 	sinema	6 3
+15 Öğlen Mary mutfağa gitti.
+16 Dün Fred okula gitti.
+17 Mary salondan önce neredeydi? 	ofis	12 13
+1 bu sabah Fred mutfağa gitti.
+2 Mary dün ofise gitti.
+3 Dün Fred salona gitti.
+4 Julie mutfağa gitti Dün.
+5 Fred mutfaktan önce neredeydi? 	salon	1 3
+6 Julie parka gitti bu sabah.
+7 Fred okula gitti Öğlen.
+8 Julie parktan önce neredeydi? 	mutfak	6 4
+9 Mary öğlen ofise gitti.
+10 bu sabah Mary salona gitti.
+11 Mary ofisten önce neredeydi? 	salon	9 10
+12 Julie öğlen mutfağa gitti.
+13 Bill ofise geri döndü Dün.
+14 Julie mutfaktan önce neredeydi? 	park	12 6
+15 bu akşam Fred mutfağa gitti.
+16 bu akşam Julie ofise gitti.
+17 Julie mutfaktan önce neredeydi? 	park	12 6
+1 Bill mutfağa gitti Öğlen.
+2 bu sabah Bill okula gitti.
+3 Bill ofise gitti Dün.
+4 Dün Mary ofise gitti.
+5 Bill mutfaktan önce neredeydi? 	okul	1 2
+6 Dün Julie okula gitti.
+7 Dün Fred mutfağa geri döndü.
+8 Bill mutfaktan önce neredeydi? 	okul	1 2
+9 Bill ofise geri döndü bu akşam.
+10 bu sabah Julie parka gitti.
+11 Bill mutfaktan önce neredeydi? 	okul	1 2
+12 bu sabah Fred parka gitti.
+13 Julie öğlen ofise gitti.
+14 Fred parktan önce neredeydi? 	mutfak	12 7
+15 bu akşam Julie parka gitti.
+16 Öğlen Fred mutfağa gitti.
+17 Bill ofisten önce neredeydi? 	mutfak	9 1
+1 bu sabah Julie salona gitti.
+2 Dün Mary parkta gitti.
+3 Fred mutfağa gitti Dün.
+4 Fred salona gitti bu sabah.
+5 Dün Julie sinemaya gitti.
+6 Dün Bill salona gitti.
+7 Fred salondan önce neredeydi? 	mutfak	4 3
+8 Bill parka gitti bu sabah.
+9 Julie öğlen ofise gitti.
+10 Julie salondan önce neredeydi? 	sinema	1 5
+11 Bill okula gitti Öğlen.
+12 bu akşam Julie salona geri döndü.
+13 Julie ofisten önce neredeydi? 	salon	9 1
+14 Mary ofise geri döndü bu sabah.
+15 Bill sinemaya gitti bu akşam.
+16 Bill sinemadan önce neredeydi? 	okul	15 11
+17 Fred bu akşam salona gitti.
+18 Öğlen Fred ofise gitti.
+19 Bill sinemadan önce neredeydi? 	okul	15 11
+1 Mary dün parka gitti.
+2 Bill sinemaya geri döndü bu sabah.
+3 Bill dün mutfağa gitti.
+4 bu sabah Mary sinemaya gitti.
+5 Mary sinemadan önce neredeydi? 	park	4 1
+6 Julie dün okula gitti.
+7 Dün Fred mutfağa gitti.
+8 Mary sinemadan önce neredeydi? 	park	4 1
+9 Fred bu sabah sinemaya gitti.
+10 Öğlen Mary okula gitti.
+11 Bill sinemadan önce neredeydi? 	mutfak	2 3
+12 Mary sinemaya gitti bu akşam.
+13 Fred okula gitti Öğlen.
+14 Fred okuldan önce neredeydi? 	sinema	13 9
+15 Bill okula gitti Öğlen.
+16 Fred salona gitti bu akşam.
+17 Fred okuldan önce neredeydi? 	sinema	13 9
+1 bu sabah Mary ofise gitti.
+2 Mary dün sinemaya gitti.
+3 Öğlen Mary mutfağa geri döndü.
+4 Dün Fred okula gitti.
+5 Mary ofisten önce neredeydi? 	sinema	1 2
+6 Mary ofise gitti bu akşam.
+7 bu sabah Fred salona gitti.
+8 Mary ofisten önce neredeydi? 	mutfak	6 3
+9 Dün Bill mutfağa gitti.
+10 Fred parka gitti Öğlen.
+11 Fred parktan önce neredeydi? 	salon	10 7
+12 bu sabah Bill sinemaya gitti.
+13 Fred mutfağa gitti bu akşam.
+14 Mary ofisten önce neredeydi? 	mutfak	6 3
+15 bu sabah Julie parka gitti.
+16 Dün Julie mutfağa geri döndü.
+17 Bill sinemadan önce neredeydi? 	mutfak	12 9
+1 Dün Julie parka gitti.
+2 Dün Mary sinemaya geri döndü.
+3 bu sabah Julie sinemaya gitti.
+4 Dün Fred sinemaya geri döndü.
+5 Julie sinemadan önce neredeydi? 	park	3 1
+6 Bill bu sabah ofise gitti.
+7 Bill dün salona geri döndü.
+8 Julie sinemadan önce neredeydi? 	park	3 1
+9 Öğlen Fred parka gitti.
+10 bu sabah Fred okula gitti.
+11 Fred parktan önce neredeydi? 	okul	9 10
+12 Öğlen Bill sinemaya gitti.
+13 bu akşam Fred sinemaya gitti.
+14 Fred sinemadan önce neredeydi? 	park	13 9
+15 bu akşam Bill mutfağa gitti.
+16 Julie mutfağa gitti Öğlen.
+17 Bill mutfaktan önce neredeydi? 	sinema	15 12
+1 Mary dün salona gitti.
+2 Fred bu sabah sinemaya gitti.
+3 bu sabah Julie sinemaya gitti.
+4 Dün Bill parkta gitti.
+5 Dün Julie parka gitti.
+6 Dün Fred mutfağa gitti.
+7 Fred sinemadan önce neredeydi? 	mutfak	2 6
+8 Mary ofise gitti bu sabah.
+9 Julie öğlen mutfağa gitti.
+10 Mary ofisten önce neredeydi? 	salon	8 1
+11 Fred parka gitti Öğlen.
+12 Julie okula gitti bu akşam.
+13 Fred parktan önce neredeydi? 	sinema	11 2
+14 Mary sinemaya gitti. bu akşam.
+15 Mary öğlen parka geri döndü.
+16 Mary sinemadan önce neredeydi? 	park	14 15
+17 Bill bu sabah okula gitti.
+18 Fred mutfağa gitti bu akşam.
+19 Mary parktan önce neredeydi? 	ofis	15 8
+1 Mary dün mutfağa gitti.
+2 Bill bu sabah mutfağa gitti.
+3 Julie dün parka gitti.
+4 Fred mutfağa gitti Dün.
+5 bu sabah Fred parka geri döndü.
+6 Bill dün salona gitti.
+7 Bill mutfaktan önce neredeydi? 	salon	2 6
+8 Öğlen Bill parka gitti.
+9 Fred öğlen salona gitti.
+10 Bill mutfaktan önce neredeydi? 	salon	2 6
+11 Öğlen Mary sinemaya gitti.
+12 bu sabah Mary salona gitti.
+13 Bill parktan önce neredeydi? 	mutfak	8 2
+14 Fred mutfağa gitti bu akşam.
+15 bu akşam Bill sinemaya geri döndü.
+16 Mary sinemadan önce neredeydi? 	salon	11 12
+17 Julie sinemaya geri döndü bu sabah.
+18 Mary okula geri döndü bu akşam.
+19 Julie sinemadan önce neredeydi? 	park	17 3
+1 bu sabah Fred okula gitti.
+2 Dün Fred sinemaya gitti.
+3 Dün Bill salona gitti.
+4 Dün Mary ofise gitti.
+5 Fred okuldan önce neredeydi? 	sinema	1 2
+6 Dün Julie sinemaya gitti.
+7 bu sabah Mary okula gitti.
+8 Mary okuldan önce neredeydi? 	ofis	7 4
+9 bu sabah Julie okula geri döndü.
+10 Öğlen Mary parka geri döndü.
+11 Julie okuldan önce neredeydi? 	sinema	9 6
+12 Fred öğlen ofise gitti.
+13 bu akşam Mary mutfağa gitti.
+14 Mary parktan önce neredeydi? 	okul	10 7
+15 Julie parka gitti Öğlen.
+16 Fred sinemaya gitti bu akşam.
+17 Julie okuldan önce neredeydi? 	sinema	9 6
+1 Fred bu sabah sinemaya gitti.
+2 Bill dün salona gitti.
+3 Dün Fred mutfağa gitti.
+4 Mary sinemaya gitti Dün.
+5 Fred sinemadan önce neredeydi? 	mutfak	1 3
+6 Julie dün salona gitti.
+7 Fred okula gitti Öğlen.
+8 Fred sinemadan önce neredeydi? 	mutfak	1 3
+9 Mary parka gitti bu sabah.
+10 Julie bu sabah mutfağa gitti.
+11 Julie mutfaktan önce neredeydi? 	salon	10 6
+12 Mary okula gitti Öğlen.
+13 Fred ofise gitti bu akşam.
+14 Fred ofisten önce neredeydi? 	okul	13 7
+15 Bill parka gitti bu sabah.
+16 Öğlen Julie okula gitti.
+17 Fred ofisten önce neredeydi? 	okul	13 7
+1 Bill bu sabah okula gitti.
+2 Dün Bill ofise gitti.
+3 Bill okuldan önce neredeydi? 	ofis	1 2
+4 Fred sabah okula geri döndü.
+5 Dün Fred ofise gitti.
+6 Fred okuldan önce neredeydi? 	ofis	4 5
+7 Öğlen Bill ofise gitti.
+8 Mary ofise geri döndü Dün.
+9 Bill okuldan önce neredeydi? 	ofis	1 2
+10 Fred ofise gitti Öğlen.
+11 Mary bu sabah salona gitti.
+12 Fred okuldan önce neredeydi? 	ofis	4 5
+13 Öğlen Mary ofise gitti.
+14 Bill parka gitti bu akşam.
+15 Bill parktan önce neredeydi? 	ofis	14 7
+1 Bill dün parka gitti.
+2 Dün Fred sinemaya geri döndü.
+3 bu sabah Fred mutfağa geri döndü.
+4 Mary dün salona gitti.
+5 Fred mutfaktan önce neredeydi? 	sinema	3 2
+6 Dün Julie ofise geri döndü.
+7 Öğlen Fred salona gitti.
+8 Fred salondan önce neredeydi? 	mutfak	7 3
+9 bu sabah Bill ofise gitti.
+10 bu sabah Julie parka gitti.
+11 Fred mutfaktan önce neredeydi? 	sinema	3 2
+12 bu akşam Bill okula gitti.
+13 Öğlen Bill mutfağa gitti.
+14 Bill mutfaktan önce neredeydi? 	ofis	13 9
+15 Öğlen Julie ofise gitti.
+16 bu sabah Mary ofise gitti.
+17 Bill mutfaktan önce neredeydi? 	ofis	13 9
+1 Mary öğlen mutfağa geri döndü.
+2 Dün Bill salona gitti.
+3 Julie dün sinemaya gitti.
+4 Dün Mary sinemaya gitti.
+5 Dün Fred ofise gitti.
+6 bu sabah Mary ofise gitti.
+7 Mary ofisten önce neredeydi? 	sinema	6 4
+8 Bill öğlen salona gitti.
+9 bu sabah Bill okula geri döndü.
+10 Bill okuldan önce neredeydi? 	salon	9 2
+11 bu sabah Fred sinemaya gitti.
+12 Bill bu akşam parka gitti.
+13 Bill okuldan önce neredeydi? 	salon	9 2
+14 bu sabah Julie mutfağa geri döndü.
+15 Fred mutfağa gitti Öğlen.
+16 Bill parktan önce neredeydi? 	salon	12 8
+17 Fred ofise gitti bu akşam.
+18 Mary parka gitti bu akşam.
+19 Fred mutfaktan önce neredeydi? 	sinema	15 11
+1 Julie bu sabah parka gitti.
+2 Fred bu sabah ofise gitti.
+3 Dün Fred salona geri döndü.
+4 Julie sinemaya gitti Dün.
+5 Julie parktan önce neredeydi? 	sinema	1 4
+6 Öğlen Fred okula geri döndü.
+7 Julie salona gitti Öğlen.
+8 Julie parktan önce neredeydi? 	sinema	1 4
+9 Dün Mary okula gitti.
+10 bu akşam Julie parka gitti.
+11 Julie parktan önce neredeydi? 	salon	10 7
+12 bu akşam Fred ofise geri döndü.
+13 Bill dün parka gitti.
+14 Fred ofisten önce neredeydi? 	okul	12 6
+15 Öğlen Mary salona gitti.
+16 Mary bu sabah parka gitti.
+17 Mary parktan önce neredeydi? 	okul	16 9
+1 Dün Bill parkta gitti.
+2 Bill bu sabah sinemaya gitti.
+3 Öğlen Bill salona gitti.
+4 Julie dün sinemaya gitti.
+5 Bill salondan önce neredeydi? 	sinema	3 2
+6 Dün Mary ofise geri döndü.
+7 Julie okula gitti bu sabah.
+8 Julie okuldan önce neredeydi? 	sinema	7 4
+9 Öğlen Julie parka gitti.
+10 Mary bu sabah salona gitti.
+11 Mary salondan önce neredeydi? 	ofis	10 6
+12 Dün Fred mutfağa gitti.
+13 bu akşam Julie mutfağa gitti.
+14 Mary salondan önce neredeydi? 	ofis	10 6
+15 bu sabah Fred sinemaya gitti.
+16 Bill okula gitti bu akşam.
+17 Julie mutfaktan önce neredeydi? 	park	13 9
+1 Bill bu sabah ofise gitti.
+2 Bill okula gitti Dün.
+3 Bill ofisten önce neredeydi? 	okul	1 2
+4 Julie mutfağa gitti Dün.
+5 Öğlen Bill parkta gitti.
+6 Bill parktan önce neredeydi? 	ofis	5 1
+7 bu sabah Fred sinemaya geri döndü.
+8 Dün Fred ofise gitti.
+9 Bill parktan önce neredeydi? 	ofis	5 1
+10 bu akşam Bill sinemaya gitti.
+11 bu sabah Julie salona gitti.
+12 Julie salondan önce neredeydi? 	mutfak	11 4
+13 Dün Mary ofise gitti.
+14 Fred ofise geri döndü Öğlen.
+15 Julie salondan önce neredeydi? 	mutfak	11 4
+1 bu sabah Fred sinemaya gitti.
+2 Bill parka gitti bu sabah.
+3 Bill dün salona gitti.
+4 Dün Fred okula gitti.
+5 Bill parktan önce neredeydi? 	salon	2 3
+6 Öğlen Bill mutfağa geri döndü.
+7 Dün Julie parka gitti.
+8 Bill mutfaktan önce neredeydi? 	park	6 2
+9 Öğlen Fred mutfağa gitti.
+10 bu sabah Julie ofise geri döndü.
+11 Bill mutfaktan önce neredeydi? 	park	6 2
+12 Mary bu sabah mutfağa geri gitti.
+13 Dün Mary ofise gitti.
+14 Fred mutfaktan önce neredeydi? 	sinema	9 1
+15 Fred bu akşam okula gitti.
+16 bu akşam Bill ofise gitti.
+17 Fred okuldan önce neredeydi? 	mutfak	15 9
+1 bu sabah Bill ofise gitti.
+2 Bill okula gitti Öğlen.
+3 Dün Fred okula gitti.
+4 Bill dün okula gitti.
+5 Bill ofisten önce neredeydi? 	okul	1 4
+6 bu sabah Fred salona gitti.
+7 Dün Julie parka geri döndü.
+8 Bill okuldan önce neredeydi? 	ofis	2 1
+9 Julie sabah okula gitti.
+10 Öğlen Fred parka gitti.
+11 Fred parktan önce neredeydi? 	salon	10 6
+12 Mary dün sinemaya geri döndü.
+13 bu akşam Fred okula gitti.
+14 Fred okuldan önce neredeydi? 	park	13 10
+15 Mary ofise gitti Öğlen.
+16 Mary bu sabah mutfağa geri gitti.
+17 Julie okuldan önce neredeydi? 	park	9 7
+1 Öğlen Bill okula gitti.
+2 Julie mutfağa gitti Dün.
+3 Dün Bill okula gitti.
+4 Bill bu sabah sinemaya gitti.
+5 Bill okuldan önce neredeydi? 	sinema	1 4
+6 Dün Fred mutfağa gitti.
+7 bu akşam Bill mutfağa gitti.
+8 Bill sinemadan önce neredeydi? 	okul	4 3
+9 Mary bu sabah salona gitti.
+10 Mary okula gitti Dün.
+11 Bill okuldan önce neredeydi? 	sinema	1 4
+12 bu sabah Fred okula gitti.
+13 Öğlen Mary okula gitti.
+14 Mary okuldan önce neredeydi? 	salon	13 9
+15 Fred öğlen ofise gitti.
+16 Julie ofise gitti bu sabah.
+17 Mary salondan önce neredeydi? 	okul	9 10
+1 Fred okula geri döndü Dün.
+2 Dün Mary salona gitti.
+3 Julie parka geri döndü bu sabah.
+4 Julie okula gitti Dün.
+5 Julie parktan önce neredeydi? 	okul	3 4
+6 Öğlen Fred salona gitti.
+7 Fred bu sabah mutfağa gitti.
+8 Fred salondan önce neredeydi? 	mutfak	6 7
+9 bu sabah Bill parka gitti.
+10 Dün Bill salona gitti.
+11 Julie parktan önce neredeydi? 	okul	3 4
+12 bu sabah Mary okula gitti.
+13 Bill sinemaya geri döndü Öğlen.
+14 Bill parktan önce neredeydi? 	salon	9 10
+15 Bill bu akşam parka gitti.
+16 Öğlen Julie salona gitti.
+17 Mary okuldan önce neredeydi? 	salon	12 2
+1 Julie bu sabah mutfağa gitti.
+2 Julie dün parka gitti.
+3 Julie mutfaktan önce neredeydi? 	park	1 2
+4 Julie öğlen salona gitti.
+5 Mary dün sinemaya gitti.
+6 Julie salondan önce neredeydi? 	mutfak	4 1
+7 bu sabah Mary parka geri döndü.
+8 Dün Bill mutfağa gitti.
+9 Mary parktan önce neredeydi? 	sinema	7 5
+10 Fred mutfağa gitti Dün.
+11 bu akşam Julie mutfağa gitti.
+12 Julie salondan önce neredeydi? 	mutfak	4 1
+13 bu akşam Mary mutfağa geri döndü.
+14 Mary ofise gitti Öğlen.
+15 Julie mutfaktan önce neredeydi? 	salon	11 4
+1 bu sabah Mary sinemaya geri döndü.
+2 Dün Fred okula geri döndü.
+3 Mary ofise gitti Dün.
+4 Julie dün parka gitti.
+5 Mary sinemadan önce neredeydi? 	ofis	1 3
+6 Fred bu sabah salona gitti.
+7 Dün Bill okula gitti.
+8 Fred salondan önce neredeydi? 	okul	6 2
+9 Fred mutfağa gitti Öğlen.
+10 Julie bu sabah salona gitti.
+11 Julie salondan önce neredeydi? 	park	10 4
+12 Bill bu sabah salona gitti.
+13 Mary öğlen ofise gitti.
+14 Mary ofisten önce neredeydi? 	sinema	13 1
+15 Öğlen Julie mutfağa gitti.
+16 Bill öğlen sinemaya gitti.
+17 Fred mutfaktan önce neredeydi? 	salon	9 6
+1 Bill dün sinemaya gitti.
+2 Julie bu sabah mutfağa gitti.
+3 bu sabah Mary ofise gitti.
+4 Dün Julie ofise gitti.
+5 Fred dün salona gitti.
+6 Mary dün salona gitti.
+7 Mary ofisten önce neredeydi? 	salon	3 6
+8 Öğlen Mary sinemaya gitti.
+9 bu sabah Bill parka gitti.
+10 Bill parktan önce neredeydi? 	sinema	9 1
+11 Bill sinemaya gitti Öğlen.
+12 Öğlen Julie salona gitti.
+13 Julie salondan önce neredeydi? 	mutfak	12 2
+14 bu akşam Julie mutfağa geri döndü.
+15 bu akşam Bill okula geri döndü.
+16 Julie mutfaktan önce neredeydi? 	salon	14 12
+17 Fred bu sabah mutfağa gitti.
+18 Mary okula gitti bu akşam.
+19 Julie mutfaktan önce neredeydi? 	salon	14 12
+1 Dün Julie mutfağa gitti.
+2 Mary salona gitti Dün.
+3 Dün Fred sinemaya gitti.
+4 bu sabah Julie sinemaya gitti.
+5 Julie sinemadan önce neredeydi? 	mutfak	4 1
+6 Mary okula gitti bu sabah.
+7 Fred parka gitti bu sabah.
+8 Julie sinemadan önce neredeydi? 	mutfak	4 1
+9 Fred bu akşam salona gitti.
+10 Fred ofise gitti Öğlen.
+11 Fred ofisten önce neredeydi? 	park	10 7
+12 Dün Bill salona gitti.
+13 Mary öğlen sinemaya gitti.
+14 Mary okuldan önce neredeydi? 	salon	6 2
+15 bu sabah Bill okula gitti.
+16 bu akşam Mary mutfağa gitti.
+17 Mary sinemadan önce neredeydi? 	okul	13 6
+1 Fred sinemaya gitti Dün.
+2 Dün Julie mutfağa gitti.
+3 Dün Bill mutfağa gitti.
+4 bu sabah Bill parka gitti.
+5 Bill parktan önce neredeydi? 	mutfak	4 3
+6 bu sabah Julie parka gitti.
+7 Fred okula gitti bu sabah.
+8 Julie parktan önce neredeydi? 	mutfak	6 2
+9 Julie okula gitti Öğlen.
+10 Öğlen Fred mutfağa gitti.
+11 Fred okuldan önce neredeydi? 	sinema	7 1
+12 Fred parka gitti bu akşam.
+13 Julie sinemaya gitti. bu akşam.
+14 Julie okuldan önce neredeydi? 	park	9 6
+15 bu akşam Bill salona gitti.
+16 Öğlen Bill mutfağa gitti.
+17 Bill salondan önce neredeydi? 	mutfak	15 16
+1 Mary dün salona gitti.
+2 Fred bu sabah mutfağa gitti.
+3 Julie dün okula gitti.
+4 Fred ofise gitti Dün.
+5 Fred mutfaktan önce neredeydi? 	ofis	2 4
+6 bu sabah Mary sinemaya gitti.
+7 bu sabah Julie ofise geri döndü.
+8 Fred mutfaktan önce neredeydi? 	ofis	2 4
+9 Dün Bill okula gitti.
+10 Öğlen Julie salona gitti.
+11 Julie salondan önce neredeydi? 	ofis	10 7
+12 bu akşam Fred salona geri döndü.
+13 Fred sinemaya gitti Öğlen.
+14 Mary sinemadan önce neredeydi? 	salon	6 1
+15 bu akşam Mary sinemaya gitti.
+16 Mary parka gitti Öğlen.
+17 Fred salondan önce neredeydi? 	sinema	12 13
+1 Dün Julie okula gitti.
+2 Julie salona gitti bu sabah.
+3 Dün Mary mutfağa gitti.
+4 bu sabah Mary parka gitti.
+5 Julie salondan önce neredeydi? 	okul	2 1
+6 bu sabah Bill sinemaya geri döndü.
+7 Dün Bill salona gitti.
+8 Bill sinemadan önce neredeydi? 	salon	6 7
+9 Öğlen Julie ofise gitti.
+10 Dün Fred ofise gitti.
+11 Julie ofisten önce neredeydi? 	salon	9 2
+12 bu akşam Mary sinemaya gitti.
+13 Mary öğlen ofise gitti.
+14 Mary sinemadan önce neredeydi? 	ofis	12 13
+15 Fred salona gitti bu sabah.
+16 Julie mutfağa gitti bu akşam.
+17 Mary sinemadan önce neredeydi? 	ofis	12 13
+1 Fred bu sabah okula gitti.
+2 Öğlen Fred parka gitti.
+3 Dün Mary parka gitti.
+4 Fred mutfağa geri döndü Dün.
+5 Fred okuldan önce neredeydi? 	mutfak	1 4
+6 Dün Bill mutfağa gitti.
+7 Fred okula gitti bu akşam.
+8 Fred okuldan önce neredeydi? 	park	7 2
+9 bu sabah Julie parka gitti.
+10 Dün Julie sinemaya geri döndü.
+11 Julie parktan önce neredeydi? 	sinema	9 10
+12 Julie öğlen ofise gitti.
+13 bu sabah Bill parka gitti.
+14 Bill parktan önce neredeydi? 	mutfak	13 6
+15 Bill okula gitti bu akşam.
+16 Öğlen Bill salona gitti.
+17 Julie ofisten önce neredeydi? 	park	12 9
+1 Mary dün sinemaya gitti.
+2 Fred bu sabah parka gitti.
+3 Dün Bill okula gitti.
+4 Dün Fred salona gitti.
+5 Fred parktan önce neredeydi? 	salon	2 4
+6 bu sabah Bill salona gitti.
+7 Mary salona gitti bu sabah.
+8 Mary salondan önce neredeydi? 	sinema	7 1
+9 bu sabah Julie mutfağa gitti.
+10 Dün Julie salona gitti.
+11 Bill salondan önce neredeydi? 	okul	6 3
+12 Öğlen Julie sinemaya gitti.
+13 Mary öğlen mutfağa gitti.
+14 Julie mutfaktan önce neredeydi? 	salon	9 10
+15 Fred öğlen salona gitti.
+16 Mary parka gitti bu akşam.
+17 Mary parktan önce neredeydi? 	mutfak	16 13
+1 Julie parka gitti bu sabah.
+2 bu sabah Mary salona gitti.
+3 Julie dün ofise gitti.
+4 Dün Mary mutfağa gitti.
+5 Mary salondan önce neredeydi? 	mutfak	2 4
+6 bu sabah Fred okula gitti.
+7 Fred parka gitti Dün.
+8 Fred okuldan önce neredeydi? 	park	6 7
+9 bu akşam Mary ofise geri döndü.
+10 Öğlen Mary okula gitti.
+11 Mary ofisten önce neredeydi? 	okul	9 10
+12 bu akşam Fred sinemaya gitti.
+13 Fred öğlen ofise gitti.
+14 Fred ofisten önce neredeydi? 	okul	13 6
+15 Dün Bill parka geri döndü.
+16 Öğlen Julie ofise gitti.
+17 Fred ofisten önce neredeydi? 	okul	13 6
+1 Fred dün ofise gitti.
+2 Fred bu sabah sinemaya gitti.
+3 Öğlen Fred parkta gitti.
+4 Dün Mary ofise gitti.
+5 Fred parktan önce neredeydi? 	sinema	3 2
+6 bu sabah Mary parka geri döndü.
+7 Dün Julie ofise gitti.
+8 Mary parktan önce neredeydi? 	ofis	6 4
+9 Mary öğlen mutfağa gitti.
+10 Bill dün parka gitti.
+11 Fred parktan önce neredeydi? 	sinema	3 2
+12 bu sabah Bill ofise gitti.
+13 Mary bu akşam salona gitti.
+14 Mary parktan önce neredeydi? 	ofis	6 4
+15 Öğlen Bill mutfağa geri döndü.
+16 bu akşam Fred sinemaya gitti.
+17 Fred sinemadan önce neredeydi? 	park	16 3
+1 bu sabah Bill mutfağa gitti.
+2 bu sabah Mary salona gitti.
+3 Dün Bill salona gitti.
+4 Dün Mary okula gitti.
+5 Bill mutfaktan önce neredeydi? 	salon	1 3
+6 Mary ofise gitti Öğlen.
+7 Julie okula gitti Dün.
+8 Mary salondan önce neredeydi? 	okul	2 4
+9 Öğlen Bill ofise gitti.
+10 Dün Fred mutfağa geri döndü.
+11 Bill ofisten önce neredeydi? 	mutfak	9 1
+12 Fred bu sabah ofise gitti.
+13 bu akşam Bill okula gitti.
+14 Mary ofisten önce neredeydi? 	salon	6 2
+15 Mary bu akşam sinemaya geri döndü.
+16 Julie bu sabah salona gitti.
+17 Julie salondan önce neredeydi? 	okul	16 7
+1 Dün Julie parka gitti.
+2 Fred dün salona gitti.
+3 Dün Bill salona gitti.
+4 bu sabah Julie mutfağa gitti.
+5 Julie mutfaktan önce neredeydi? 	park	4 1
+6 Fred öğlen mutfağa gitti.
+7 Fred bu sabah okula gitti.
+8 Julie mutfaktan önce neredeydi? 	park	4 1
+9 Julie okula gitti Öğlen.
+10 Mary okula gitti Dün.
+11 Fred mutfaktan önce neredeydi? 	okul	6 7
+12 bu sabah Bill okula gitti.
+13 Julie bu akşam parka gitti.
+14 Julie parktan önce neredeydi? 	okul	13 9
+15 Bill sinemaya geri döndü Öğlen.
+16 Fred parka gitti bu akşam.
+17 Julie okuldan önce neredeydi? 	mutfak	9 4
+1 bu sabah Mary ofise gitti.
+2 Mary dün mutfağa gitti.
+3 Bill dün okula gitti.
+4 Dün Fred ofise gitti.
+5 Mary ofisten önce neredeydi? 	mutfak	1 2
+6 bu sabah Fred okula gitti.
+7 Julie sinemaya gitti Dün.
+8 Fred okuldan önce neredeydi? 	ofis	6 4
+9 bu sabah Bill parka gitti.
+10 Öğlen Fred mutfağa geri döndü.
+11 Bill parktan önce neredeydi? 	okul	9 3
+12 Mary öğlen parka gitti.
+13 bu akşam Fred sinemaya gitti.
+14 Fred sinemadan önce neredeydi? 	mutfak	13 10
+15 Julie sabah okula geri döndü.
+16 Mary mutfağa gitti bu akşam.
+17 Fred sinemadan önce neredeydi? 	mutfak	13 10
+1 Mary mutfağa geri döndü Dün.
+2 Dün Fred parka gitti.
+3 Mary bu sabah ofise gitti.
+4 Julie dün sinemaya geri döndü.
+5 Bill dün salona gitti.
+6 Julie bu sabah okula gitti.
+7 Mary ofisten önce neredeydi? 	mutfak	3 1
+8 Fred parka gitti Öğlen.
+9 Fred bu sabah mutfağa geri gitti.
+10 Mary ofisten önce neredeydi? 	mutfak	3 1
+11 bu akşam Fred ofise gitti.
+12 Mary öğlen parka gitti.
+13 Mary parktan önce neredeydi? 	ofis	12 3
+14 Mary ofise gitti bu akşam.
+15 bu sabah Bill ofise gitti.
+16 Mary parktan önce neredeydi? 	ofis	12 3
+17 Julie öğlen parka geri döndü.
+18 Öğlen Bill sinemaya gitti.
+19 Bill ofisten önce neredeydi? 	salon	15 5
+1 Fred parka gitti bu sabah.
+2 Dün Fred salona gitti.
+3 Dün Mary okula geri döndü.
+4 Dün Julie parkta gitti.
+5 Fred parktan önce neredeydi? 	salon	1 2
+6 Dün Bill parka gitti.
+7 Mary bu sabah sinemaya gitti.
+8 Mary sinemadan önce neredeydi? 	okul	7 3
+9 bu akşam Fred okula gitti.
+10 Fred öğlen mutfağa gitti.
+11 Fred mutfaktan önce neredeydi? 	park	10 1
+12 bu akşam Mary ofise geri döndü.
+13 Öğlen Mary mutfağa gitti.
+14 Mary ofisten önce neredeydi? 	mutfak	12 13
+15 Julie okula gitti Öğlen.
+16 bu sabah Julie salona gitti.
+17 Mary ofisten önce neredeydi? 	mutfak	12 13
+1 Fred salona gitti bu sabah.
+2 Mary dün salona gitti.
+3 Bill dün parka gitti.
+4 bu sabah Bill mutfağa gitti.
+5 Julie ofise gitti Dün.
+6 Dün Fred mutfağa geri döndü.
+7 Bill mutfaktan önce neredeydi? 	park	4 3
+8 Julie okula gitti Öğlen.
+9 Julie bu sabah salona gitti.
+10 Bill mutfaktan önce neredeydi? 	park	4 3
+11 Öğlen Bill ofise geri döndü.
+12 Öğlen Fred ofise gitti.
+13 Julie okuldan önce neredeydi? 	salon	8 9
+14 Fred parka gitti bu akşam.
+15 Julie sinemaya gitti bu akşam.
+16 Bill ofisten önce neredeydi? 	mutfak	11 4
+17 bu sabah Mary okula geri döndü.
+18 bu akşam Bill salona gitti.
+19 Fred parktan önce neredeydi? 	ofis	14 12
+1 Bill bu sabah parka gitti.
+2 Bill öğlen salona gitti.
+3 Julie mutfağa geri döndü Dün.
+4 Dün Bill ofise gitti.
+5 Bill parktan önce neredeydi? 	ofis	1 4
+6 Fred bu sabah mutfağa gitti.
+7 Dün Fred salona gitti.
+8 Bill salondan önce neredeydi? 	park	2 1
+9 Öğlen Fred parka gitti.
+10 Julie bu sabah sinemaya gitti.
+11 Fred parktan önce neredeydi? 	mutfak	9 6
+12 Fred mutfağa gitti bu akşam.
+13 Julie öğlen salona geri döndü.
+14 Fred parktan önce neredeydi? 	mutfak	9 6
+15 Bill parka gitti bu akşam.
+16 Dün Mary mutfağa geri döndü.
+17 Bill parktan önce neredeydi? 	salon	15 2
+1 Mary bu sabah sinemaya gitti.
+2 Julie okula gitti bu sabah.
+3 Dün Julie ofise gitti.
+4 Mary parka gitti Dün.
+5 Mary sinemadan önce neredeydi? 	park	1 4
+6 bu sabah Bill mutfağa gitti.
+7 Dün Bill parka gitti.
+8 Bill mutfaktan önce neredeydi? 	park	6 7
+9 Mary öğlen parka gitti.
+10 Bill öğlen ofise gitti.
+11 Bill ofisten önce neredeydi? 	mutfak	10 6
+12 Fred mutfağa gitti Dün.
+13 Öğlen Julie mutfağa gitti.
+14 Bill mutfaktan önce neredeydi? 	park	6 7
+15 bu sabah Fred parka gitti.
+16 bu akşam Julie sinemaya geri döndü.
+17 Mary parktan önce neredeydi? 	sinema	9 1
+1 bu sabah Julie okula gitti.
+2 Dün Mary salona gitti.
+3 Dün Julie mutfağa gitti.
+4 Dün Bill parka gitti.
+5 Julie okuldan önce neredeydi? 	mutfak	1 3
+6 Öğlen Julie parka geri döndü.
+7 Mary parka geri döndü bu sabah.
+8 Julie parktan önce neredeydi? 	okul	6 1
+9 Mary okula gitti Öğlen.
+10 bu akşam Julie okula gitti.
+11 Julie okuldan önce neredeydi? 	park	10 6
+12 Bill bu sabah mutfağa gitti.
+13 bu akşam Mary mutfağa geri döndü.
+14 Bill mutfaktan önce neredeydi? 	park	12 4
+15 Bill sinemaya geri döndü Öğlen.
+16 Fred dün mutfağa gitti.
+17 Bill mutfaktan önce neredeydi? 	park	12 4
+1 Julie bu sabah salona gitti.
+2 Bill sinemaya gitti Dün.
+3 Dün Julie sinemaya gitti.
+4 Mary ofise geri döndü Dün.
+5 Julie salondan önce neredeydi? 	sinema	1 3
+6 Bill bu sabah mutfağa gitti.
+7 Julie öğlen mutfağa gitti.
+8 Julie mutfaktan önce neredeydi? 	salon	7 1
+9 Bill bu akşam salona gitti.
+10 Bill öğlen parka gitti.
+11 Bill salondan önce neredeydi? 	park	9 10
+12 bu sabah Fred salona gitti.
+13 Dün Fred parka geri döndü.
+14 Bill parktan önce neredeydi? 	mutfak	10 6
+15 bu akşam Fred okula gitti.
+16 Fred öğlen parka gitti.
+17 Fred okuldan önce neredeydi? 	park	15 16
+1 Bill dün sinemaya geri döndü.
+2 Mary salona gitti Dün.
+3 Mary bu sabah mutfağa gitti.
+4 Dün Fred okula gitti.
+5 Mary mutfaktan önce neredeydi? 	salon	3 2
+6 Julie bu sabah mutfağa gitti.
+7 Julie okula gitti Dün.
+8 Julie mutfaktan önce neredeydi? 	okul	6 7
+9 bu sabah Bill okula gitti.
+10 Fred bu sabah ofise gitti.
+11 Mary mutfaktan önce neredeydi? 	salon	3 2
+12 Fred ofise gitti bu akşam.
+13 Öğlen Fred mutfağa gitti.
+14 Fred ofisten önce neredeydi? 	mutfak	12 13
+15 Öğlen Mary okula gitti.
+16 Julie ofise gitti Öğlen.
+17 Julie ofisten önce neredeydi? 	mutfak	16 6
+1 bu sabah Bill sinemaya gitti.
+2 Julie dün salona gitti.
+3 Dün Bill mutfağa gitti.
+4 Mary mutfağa gitti Dün.
+5 Bill sinemadan önce neredeydi? 	mutfak	1 3
+6 Fred ofise geri döndü Dün.
+7 bu sabah Mary ofise gitti.
+8 Bill sinemadan önce neredeydi? 	mutfak	1 3
+9 Öğlen Mary parka gitti.
+10 Bill öğlen salona geri döndü.
+11 Bill salondan önce neredeydi? 	sinema	10 1
+12 Bill sinemaya gitti bu akşam.
+13 Julie okula gitti bu sabah.
+14 Bill salondan önce neredeydi? 	sinema	10 1
+15 bu sabah Fred okula gitti.
+16 bu akşam Mary mutfağa gitti.
+17 Fred okuldan önce neredeydi? 	ofis	15 6
+1 Fred bu sabah salona gitti.
+2 Dün Mary parka gitti.
+3 Fred dün parka gitti.
+4 Julie ofise gitti Dün.
+5 Fred salondan önce neredeydi? 	park	1 3
+6 bu sabah Mary mutfağa gitti.
+7 Öğlen Fred ofise geri döndü.
+8 Fred ofisten önce neredeydi? 	salon	7 1
+9 Mary sinemaya geri döndü Öğlen.
+10 bu akşam Fred sinemaya gitti.
+11 Mary sinemadan önce neredeydi? 	mutfak	9 6
+12 bu sabah Bill sinemaya gitti.
+13 Bill dün salona gitti.
+14 Mary mutfaktan önce neredeydi? 	park	6 2
+15 Mary ofise gitti bu akşam.
+16 Julie bu sabah sinemaya gitti.
+17 Bill sinemadan önce neredeydi? 	salon	12 13
+1 Julie dün salona gitti.
+2 Dün Mary ofise gitti.
+3 Dün Bill okula gitti.
+4 bu sabah Bill mutfağa gitti.
+5 Bill mutfaktan önce neredeydi? 	okul	4 3
+6 bu sabah Julie okula geri döndü.
+7 Dün Fred ofise gitti.
+8 Bill mutfaktan önce neredeydi? 	okul	4 3
+9 bu sabah Mary okula gitti.
+10 bu sabah Fred sinemaya gitti.
+11 Julie okuldan önce neredeydi? 	salon	6 1
+12 Fred salona gitti Öğlen.
+13 Mary öğlen mutfağa gitti.
+14 Mary okuldan önce neredeydi? 	ofis	9 2
+15 Fred bu akşam sinemaya geri döndü.
+16 Bill öğlen ofise gitti.
+17 Fred sinemadan önce neredeydi? 	salon	15 12
+1 Julie bu sabah mutfağa gitti.
+2 Dün Fred salona gitti.
+3 Dün Bill salona gitti.
+4 Julie dün ofise gitti.
+5 Julie mutfaktan önce neredeydi? 	ofis	1 4
+6 Julie sinemaya gitti Öğlen.
+7 Dün Mary sinemaya gitti.
+8 Julie sinemadan önce neredeydi? 	mutfak	6 1
+9 Julie mutfağa gitti bu akşam.
+10 bu sabah Bill okula gitti.
+11 Bill okuldan önce neredeydi? 	salon	10 3
+12 Bill öğlen salona gitti.
+13 bu sabah Mary parka gitti.
+14 Julie sinemadan önce neredeydi? 	mutfak	6 1
+15 bu akşam Bill ofise geri döndü.
+16 Öğlen Mary ofise gitti.
+17 Bill ofisten önce neredeydi? 	salon	15 12
+1 bu sabah Julie parka gitti.
+2 Öğlen Julie sinemaya gitti.
+3 Julie dün sinemaya gitti.
+4 Dün Bill salona gitti.
+5 Julie sinemadan önce neredeydi? 	park	2 1
+6 Mary parka gitti bu sabah.
+7 Dün Mary ofise gitti.
+8 Julie parktan önce neredeydi? 	sinema	1 3
+9 Öğlen Mary okula gitti.
+10 Bill okula gitti bu sabah.
+11 Mary parktan önce neredeydi? 	ofis	6 7
+12 Mary bu akşam salona gitti.
+13 Öğlen Bill salona gitti.
+14 Bill salondan önce neredeydi? 	okul	13 10
+15 Fred ofise geri döndü Dün.
+16 Julie mutfağa geri döndü bu akşam.
+17 Mary okuldan önce neredeydi? 	park	9 6
+1 bu sabah Julie mutfağa gitti.
+2 Dün Julie okula gitti.
+3 Julie mutfaktan önce neredeydi? 	okul	1 2
+4 Öğlen Julie okula gitti.
+5 Dün Mary ofise gitti.
+6 Julie okuldan önce neredeydi? 	mutfak	4 1
+7 Dün Bill ofise gitti.
+8 bu akşam Julie parkta gitti.
+9 Julie mutfaktan önce neredeydi? 	okul	1 2
+10 Mary parka gitti bu sabah.
+11 bu sabah Bill sinemaya gitti.
+12 Bill sinemadan önce neredeydi? 	ofis	11 7
+13 Bill mutfağa gitti bu akşam.
+14 Öğlen Bill okula gitti.
+15 Mary parktan önce neredeydi? 	ofis	10 5
+1 bu sabah Fred parka gitti.
+2 Fred salona gitti Dün.
+3 Fred parktan önce neredeydi? 	salon	1 2
+4 Öğlen Fred sinemaya gitti.
+5 Julie dün mutfağa gitti.
+6 Fred parktan önce neredeydi? 	salon	1 2
+7 bu sabah Mary mutfağa gitti.
+8 Mary dün parka gitti.
+9 Mary mutfaktan önce neredeydi? 	park	7 8
+10 Fred salona geri döndü bu akşam.
+11 Mary sinemaya geri döndü Öğlen.
+12 Mary mutfaktan önce neredeydi? 	park	7 8
+13 bu sabah Julie okula gitti.
+14 bu akşam Mary okula gitti.
+15 Mary mutfaktan önce neredeydi? 	park	7 8
+1 Fred dün mutfağa gitti.
+2 Mary dün mutfağa gitti.
+3 Fred bu sabah parka gitti.
+4 Bill dün mutfağa gitti.
+5 Fred parktan önce neredeydi? 	mutfak	3 1
+6 Dün Julie mutfağa geri döndü.
+7 bu sabah Mary sinemaya geri döndü.
+8 Mary sinemadan önce neredeydi? 	mutfak	7 2
+9 Julie salona gitti bu sabah.
+10 Fred okula gitti Öğlen.
+11 Fred parktan önce neredeydi? 	mutfak	3 1
+12 Mary öğlen ofise gitti.
+13 bu sabah Bill okula gitti.
+14 Fred okuldan önce neredeydi? 	park	10 3
+15 Öğlen Julie parka gitti.
+16 Mary mutfağa gitti bu akşam.
+17 Mary mutfaktan önce neredeydi? 	ofis	16 12
+1 Dün Mary ofise geri döndü.
+2 Dün Fred parka gitti.
+3 Bill dün salona gitti.
+4 bu sabah Bill okula gitti.
+5 Bill okuldan önce neredeydi? 	salon	4 3
+6 bu sabah Julie salona gitti.
+7 Dün Julie parkta gitti.
+8 Bill okuldan önce neredeydi? 	salon	4 3
+9 Mary salona geri döndü bu sabah.
+10 bu sabah Fred mutfağa gitti.
+11 Mary salondan önce neredeydi? 	ofis	9 1
+12 Julie öğlen mutfağa gitti.
+13 Öğlen Fred sinemaya gitti.
+14 Fred mutfaktan önce neredeydi? 	park	10 2
+15 bu akşam Fred salona gitti.
+16 bu akşam Julie ofise gitti.
+17 Fred salondan önce neredeydi? 	sinema	15 13
+1 Dün Bill ofise gitti.
+2 Fred dün salona gitti.
+3 Mary dün sinemaya gitti.
+4 Mary parka gitti bu sabah.
+5 Mary parktan önce neredeydi? 	sinema	4 3
+6 Mary mutfağa gitti bu akşam.
+7 Mary öğlen salona geri döndü.
+8 Mary parktan önce neredeydi? 	sinema	4 3
+9 Julie dün sinemaya gitti.
+10 Fred bu sabah mutfağa gitti.
+11 Fred mutfaktan önce neredeydi? 	salon	10 2
+12 Fred öğlen salona gitti.
+13 bu sabah Bill salona gitti.
+14 Bill salondan önce neredeydi? 	ofis	13 1
+15 Julie bu sabah okula gitti.
+16 Fred bu akşam okula gitti.
+17 Fred salondan önce neredeydi? 	mutfak	12 10
+1 bu sabah Mary okula gitti.
+2 Dün Mary sinemaya gitti.
+3 Mary okuldan önce neredeydi? 	sinema	1 2
+4 Mary salona gitti Öğlen.
+5 Bill parka geri döndü Dün.
+6 Mary salondan önce neredeydi? 	okul	4 1
+7 Mary ofise gitti bu akşam.
+8 Julie ofise geri döndü Dün.
+9 Mary ofisten önce neredeydi? 	salon	7 4
+10 bu sabah Bill ofise geri döndü.
+11 bu sabah Julie okula geri döndü.
+12 Julie okuldan önce neredeydi? 	ofis	11 8
+13 Bill okula gitti bu akşam.
+14 Bill öğlen mutfağa gitti.
+15 Mary ofisten önce neredeydi? 	salon	7 4
+1 Dün Mary salona gitti.
+2 Dün Bill okula geri döndü.
+3 Fred mutfağa gitti Dün.
+4 bu sabah Mary sinemaya gitti.
+5 Julie sinemaya gitti Dün.
+6 Fred sinemaya geri döndü bu sabah.
+7 Fred sinemadan önce neredeydi? 	mutfak	6 3
+8 bu akşam Mary mutfağa geri döndü.
+9 Öğlen Mary parka gitti.
+10 Mary parktan önce neredeydi? 	sinema	9 4
+11 bu sabah Bill parka geri döndü.
+12 Öğlen Fred mutfağa geri döndü.
+13 Fred mutfaktan önce neredeydi? 	sinema	12 6
+14 bu akşam Fred salona gitti.
+15 Julie okula gitti bu sabah.
+16 Fred mutfaktan önce neredeydi? 	sinema	12 6
+17 bu akşam Julie sinemaya geri döndü.
+18 Julie öğlen mutfağa gitti.
+19 Julie okuldan önce neredeydi? 	sinema	15 5
+1 bu sabah Fred okula gitti.
+2 Dün Fred parka gitti.
+3 Fred okuldan önce neredeydi? 	park	1 2
+4 Fred ofise gitti Öğlen.
+5 Dün Julie sinemaya gitti.
+6 Fred ofisten önce neredeydi? 	okul	4 1
+7 bu sabah Bill parkta gitti.
+8 Dün Bill ofise geri döndü.
+9 Bill parktan önce neredeydi? 	ofis	7 8
+10 Mary parka gitti bu sabah.
+11 Mary dün salona gitti.
+12 Mary parktan önce neredeydi? 	salon	10 11
+13 bu sabah Julie mutfağa gitti.
+14 Öğlen Bill sinemaya gitti.
+15 Bill sinemadan önce neredeydi? 	park	14 7
+1 Dün Bill salona gitti.
+2 Julie okula geri döndü Dün.
+3 bu sabah Fred parka gitti.
+4 Fred okula gitti Dün.
+5 Fred parktan önce neredeydi? 	okul	3 4
+6 Julie öğlen ofise gitti.
+7 bu sabah Julie parka gitti.
+8 Julie parktan önce neredeydi? 	okul	7 2
+9 Mary dün sinemaya gitti.
+10 Fred öğlen salona gitti.
+11 Fred parktan önce neredeydi? 	okul	3 4
+12 Fred bu akşam okula gitti.
+13 Mary bu sabah mutfağa gitti.
+14 Fred okuldan önce neredeydi? 	salon	12 10
+15 bu akşam Julie sinemaya gitti.
+16 Bill sabah okula geri döndü.
+17 Bill okuldan önce neredeydi? 	salon	16 1
+1 Mary bu sabah sinemaya gitti.
+2 Julie parka gitti bu sabah.
+3 Dün Bill salona gitti.
+4 Julie dün salona gitti.
+5 Fred dün parka gitti.
+6 Mary dün salona gitti.
+7 Mary sinemadan önce neredeydi? 	salon	1 6
+8 bu sabah Fred sinemaya gitti.
+9 bu sabah Bill parka geri döndü.
+10 Julie parktan önce neredeydi? 	salon	2 4
+11 Bill ofise gitti Öğlen.
+12 Öğlen Julie okula gitti.
+13 Fred sinemadan önce neredeydi? 	park	8 5
+14 bu akşam Mary ofise geri döndü.
+15 Mary öğlen salona gitti.
+16 Fred sinemadan önce neredeydi? 	park	8 5
+17 bu akşam Julie parka gitti.
+18 bu akşam Bill parka gitti.
+19 Bill ofisten önce neredeydi? 	park	11 9
+1 Dün Bill okula gitti.
+2 Mary dün sinemaya gitti.
+3 bu sabah Julie mutfağa geri döndü.
+4 Dün Julie ofise gitti.
+5 Julie mutfaktan önce neredeydi? 	ofis	3 4
+6 Öğlen Julie sinemaya gitti.
+7 bu sabah Bill mutfağa gitti.
+8 Bill mutfaktan önce neredeydi? 	okul	7 1
+9 Bill öğlen salona gitti.
+10 Dün Fred salona gitti.
+11 Bill mutfaktan önce neredeydi? 	okul	7 1
+12 Julie okula gitti bu akşam.
+13 bu akşam Bill parka gitti.
+14 Bill parktan önce neredeydi? 	salon	13 9
+15 Mary bu sabah ofise gitti.
+16 bu sabah Fred sinemaya gitti.
+17 Julie okuldan önce neredeydi? 	sinema	12 6
+1 Mary bu sabah mutfağa geri gitti.
+2 Dün Mary parka gitti.
+3 Mary mutfaktan önce neredeydi? 	park	1 2
+4 Dün Fred mutfağa geri döndü.
+5 Öğlen Mary okula gitti.
+6 Mary mutfaktan önce neredeydi? 	park	1 2
+7 Bill bu sabah mutfağa gitti.
+8 Dün Bill parka gitti.
+9 Mary mutfaktan önce neredeydi? 	park	1 2
+10 Mary parka gitti bu akşam.
+11 bu sabah Fred sinemaya gitti.
+12 Mary parktan önce neredeydi? 	okul	10 5
+13 Öğlen Bill salona gitti.
+14 Öğlen Fred mutfağa gitti.
+15 Bill salondan önce neredeydi? 	mutfak	13 7
+1 Fred salona gitti bu sabah.
+2 Fred dün parka gitti.
+3 Dün Julie sinemaya gitti.
+4 Julie bu sabah mutfağa gitti.
+5 Julie mutfaktan önce neredeydi? 	sinema	4 3
+6 bu akşam Fred ofise gitti.
+7 Öğlen Fred parka gitti.
+8 Fred salondan önce neredeydi? 	park	1 2
+9 Dün Bill salona geri döndü.
+10 Mary mutfağa geri döndü Dün.
+11 Fred ofisten önce neredeydi? 	park	6 7
+12 Mary bu sabah ofise gitti.
+13 bu sabah Bill parka gitti.
+14 Mary ofisten önce neredeydi? 	mutfak	12 10
+15 Öğlen Julie sinemaya geri döndü.
+16 Mary öğlen salona gitti.
+17 Bill parktan önce neredeydi? 	salon	13 9

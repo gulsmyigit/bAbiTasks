@@ -1,0 +1,5000 @@
+1 The bathroom is east the park.
+2 The park is south the bedroom.
+3 The park is east the library.
+4 The park is north the office.
+5 What is the path from office to bedroom?	s,s	2 4
+1 The kitchen is east the school.
+2 The school is east the bedroom.
+3 The bookstore is north the bathroom.
+4 The bookstore is south the school.
+5 What is the path from kitchen to bookstore?	e,n	1 4
+1 The home is north the library.
+2 The bedroom is north the home.
+3 The school is north the bedroom.
+4 The hallway is west the school.
+5 What is the path from school to home?	n,n	2 3
+1 The bookstore is west the home.
+2 The school is west the library.
+3 The home is north the garden.
+4 The library is south the garden.
+5 What is the path from library to home?	s,s	3 4
+1 The bedroom is east the school.
+2 The school is south the hallway.
+3 The hallway is east the bathroom.
+4 The bookstore is west the bathroom.
+5 What is the path from school to bathroom?	s,e	2 3
+1 The garden is west the home.
+2 The home is west the bedroom.
+3 The garden is east the park.
+4 The library is north the home.
+5 What is the path from library to garden?	n,e	1 4
+1 The kitchen is west the school.
+2 The kitchen is north the hallway.
+3 The kitchen is east the office.
+4 The park is north the kitchen.
+5 What is the path from hallway to school?	s,w	1 2
+1 The library is east the office.
+2 The bathroom is east the library.
+3 The office is north the garden.
+4 The garden is north the hallway.
+5 What is the path from garden to library?	s,w	1 3
+1 The school is south the garden.
+2 The home is east the office.
+3 The school is west the bedroom.
+4 The home is west the school.
+5 What is the path from school to office?	e,e	2 4
+1 The kitchen is west the park.
+2 The bathroom is north the restaurant.
+3 The park is north the bathroom.
+4 The bathroom is west the library.
+5 What is the path from library to park?	e,s	3 4
+1 The home is south the hallway.
+2 The garden is south the bedroom.
+3 The garden is west the hallway.
+4 The kitchen is east the home.
+5 What is the path from bedroom to hallway?	n,w	2 3
+1 The hallway is north the park.
+2 The hallway is west the home.
+3 The hallway is south the bookstore.
+4 The garden is south the park.
+5 What is the path from bookstore to home?	n,w	2 3
+1 The bedroom is north the garden.
+2 The bathroom is south the park.
+3 The bookstore is west the bathroom.
+4 The bathroom is west the bedroom.
+5 What is the path from park to bedroom?	n,w	2 4
+1 The bookstore is west the garden.
+2 The bedroom is south the home.
+3 The home is south the bathroom.
+4 The home is west the bookstore.
+5 What is the path from bookstore to bedroom?	e,n	2 4
+1 The home is west the park.
+2 The bedroom is east the park.
+3 The bedroom is north the restaurant.
+4 The home is north the bathroom.
+5 What is the path from home to bedroom?	w,w	1 2
+1 The garden is west the office.
+2 The bathroom is south the office.
+3 The bedroom is east the bathroom.
+4 The office is south the school.
+5 What is the path from school to garden?	n,e	1 4
+1 The school is south the restaurant.
+2 The bathroom is north the home.
+3 The home is east the library.
+4 The library is north the restaurant.
+5 What is the path from home to restaurant?	e,n	3 4
+1 The bookstore is east the garden.
+2 The hallway is north the office.
+3 The hallway is west the garden.
+4 The bedroom is west the office.
+5 What is the path from office to garden?	s,w	2 3
+1 The hallway is north the bookstore.
+2 The bookstore is north the bathroom.
+3 The bedroom is east the bookstore.
+4 The restaurant is west the bookstore.
+5 What is the path from hallway to bedroom?	n,w	1 3
+1 The garden is north the hallway.
+2 The library is south the bathroom.
+3 The restaurant is east the library.
+4 The library is north the garden.
+5 What is the path from restaurant to bathroom?	e,s	2 3
+1 The school is south the bedroom.
+2 The bedroom is south the library.
+3 The bookstore is west the home.
+4 The library is east the home.
+5 What is the path from library to school?	n,n	1 2
+1 The kitchen is north the garden.
+2 The kitchen is south the park.
+3 The hallway is west the kitchen.
+4 The bookstore is east the park.
+5 What is the path from park to hallway?	n,e	2 3
+1 The school is west the library.
+2 The bathroom is north the bedroom.
+3 The bedroom is east the library.
+4 The bedroom is north the hallway.
+5 What is the path from bathroom to library?	n,e	2 3
+1 The home is west the school.
+2 The school is north the kitchen.
+3 The library is east the garden.
+4 The school is south the garden.
+5 What is the path from kitchen to garden?	s,s	2 4
+1 The office is south the park.
+2 The office is east the garden.
+3 The bookstore is south the office.
+4 The park is south the kitchen.
+5 What is the path from park to garden?	n,e	1 2
+1 The bookstore is north the home.
+2 The library is west the home.
+3 The library is north the park.
+4 The bookstore is south the kitchen.
+5 What is the path from kitchen to home?	n,n	1 4
+1 The hallway is east the park.
+2 The hallway is south the kitchen.
+3 The school is south the park.
+4 The kitchen is west the bookstore.
+5 What is the path from bookstore to hallway?	e,n	2 4
+1 The office is north the bathroom.
+2 The library is west the park.
+3 The school is north the office.
+4 The park is south the bathroom.
+5 What is the path from park to office?	s,s	1 4
+1 The hallway is west the bookstore.
+2 The school is west the park.
+3 The school is south the bathroom.
+4 The school is east the bookstore.
+5 What is the path from school to hallway?	e,e	1 4
+1 The office is south the bookstore.
+2 The kitchen is west the library.
+3 The office is north the bathroom.
+4 The bathroom is west the kitchen.
+5 What is the path from bathroom to bookstore?	s,s	1 3
+1 The bookstore is east the office.
+2 The bathroom is west the office.
+3 The park is north the office.
+4 The restaurant is south the bathroom.
+5 What is the path from bookstore to bathroom?	e,e	1 2
+1 The restaurant is north the kitchen.
+2 The kitchen is east the park.
+3 The park is east the bedroom.
+4 The bookstore is east the restaurant.
+5 What is the path from bedroom to kitchen?	w,w	2 3
+1 The bedroom is west the kitchen.
+2 The kitchen is north the restaurant.
+3 The park is east the restaurant.
+4 The park is west the bookstore.
+5 What is the path from kitchen to park?	n,w	2 3
+1 The garden is south the park.
+2 The park is west the school.
+3 The school is south the bookstore.
+4 The bedroom is west the park.
+5 What is the path from park to bookstore?	w,s	2 3
+1 The restaurant is north the kitchen.
+2 The restaurant is east the bathroom.
+3 The bathroom is south the hallway.
+4 The kitchen is north the garden.
+5 What is the path from bathroom to kitchen?	w,n	1 2
+1 The bookstore is east the office.
+2 The garden is east the library.
+3 The office is south the garden.
+4 The library is south the bedroom.
+5 What is the path from garden to bookstore?	n,w	1 3
+1 The office is north the garden.
+2 The school is west the office.
+3 The garden is north the kitchen.
+4 The bookstore is north the school.
+5 What is the path from bookstore to office?	n,w	2 4
+1 The kitchen is west the hallway.
+2 The office is south the home.
+3 The home is west the kitchen.
+4 The home is south the garden.
+5 What is the path from kitchen to garden?	e,s	3 4
+1 The bedroom is east the kitchen.
+2 The kitchen is north the office.
+3 The home is north the school.
+4 The school is north the kitchen.
+5 What is the path from school to office?	n,n	2 4
+1 The bookstore is east the garden.
+2 The bookstore is south the restaurant.
+3 The library is south the bookstore.
+4 The library is north the bathroom.
+5 What is the path from library to restaurant?	s,s	2 3
+1 The school is south the restaurant.
+2 The office is east the school.
+3 The park is east the office.
+4 The hallway is north the restaurant.
+5 What is the path from office to restaurant?	e,s	1 2
+1 The bookstore is north the garden.
+2 The office is west the restaurant.
+3 The bedroom is south the office.
+4 The garden is east the restaurant.
+5 What is the path from office to garden?	w,w	2 4
+1 The home is north the library.
+2 The home is south the office.
+3 The office is east the hallway.
+4 The garden is east the home.
+5 What is the path from office to library?	n,n	1 2
+1 The bathroom is south the restaurant.
+2 The library is east the school.
+3 The restaurant is west the school.
+4 The park is north the library.
+5 What is the path from school to park?	w,s	2 4
+1 The garden is north the bedroom.
+2 The library is south the school.
+3 The kitchen is west the bedroom.
+4 The bedroom is west the school.
+5 What is the path from kitchen to school?	w,w	3 4
+1 The restaurant is south the school.
+2 The restaurant is west the kitchen.
+3 The park is north the bedroom.
+4 The school is east the bedroom.
+5 What is the path from kitchen to school?	e,s	1 2
+1 The garden is east the kitchen.
+2 The garden is south the office.
+3 The park is north the office.
+4 The bedroom is south the garden.
+5 What is the path from park to garden?	n,n	2 3
+1 The hallway is south the bookstore.
+2 The restaurant is west the hallway.
+3 The kitchen is east the hallway.
+4 The park is south the kitchen.
+5 What is the path from bookstore to restaurant?	n,e	1 2
+1 The garden is east the kitchen.
+2 The restaurant is west the kitchen.
+3 The office is south the kitchen.
+4 The restaurant is east the bathroom.
+5 What is the path from office to garden?	s,w	1 3
+1 The library is west the school.
+2 The bookstore is north the library.
+3 The office is south the home.
+4 The home is south the library.
+5 What is the path from bookstore to school?	n,w	1 2
+1 The hallway is north the office.
+2 The office is east the kitchen.
+3 The garden is east the school.
+4 The school is south the office.
+5 What is the path from school to hallway?	s,s	1 4
+1 The park is west the restaurant.
+2 The garden is south the park.
+3 The park is east the library.
+4 The library is south the bathroom.
+5 What is the path from garden to library?	s,e	2 3
+1 The library is east the restaurant.
+2 The school is east the garden.
+3 The library is west the home.
+4 The home is north the garden.
+5 What is the path from restaurant to home?	w,w	1 3
+1 The restaurant is south the bookstore.
+2 The restaurant is north the garden.
+3 The hallway is west the restaurant.
+4 The restaurant is west the home.
+5 What is the path from bookstore to hallway?	n,e	1 3
+1 The bedroom is west the library.
+2 The restaurant is south the library.
+3 The park is west the school.
+4 The park is north the library.
+5 What is the path from library to school?	s,w	3 4
+1 The bathroom is south the garden.
+2 The garden is west the hallway.
+3 The school is east the hallway.
+4 The bedroom is south the bathroom.
+5 What is the path from bathroom to hallway?	s,w	1 2
+1 The bathroom is south the garden.
+2 The home is west the office.
+3 The park is east the bathroom.
+4 The bathroom is east the office.
+5 What is the path from office to garden?	w,s	1 4
+1 The garden is south the park.
+2 The bedroom is east the bathroom.
+3 The hallway is east the park.
+4 The bedroom is west the garden.
+5 What is the path from park to bedroom?	n,e	1 4
+1 The bedroom is east the park.
+2 The hallway is east the kitchen.
+3 The kitchen is south the bookstore.
+4 The bedroom is west the kitchen.
+5 What is the path from kitchen to park?	e,e	1 4
+1 The office is south the garden.
+2 The bathroom is west the bedroom.
+3 The bedroom is west the park.
+4 The garden is south the park.
+5 What is the path from bedroom to garden?	w,n	3 4
+1 The bathroom is west the park.
+2 The garden is south the school.
+3 The bathroom is south the garden.
+4 The school is east the library.
+5 What is the path from park to garden?	e,s	1 3
+1 The home is south the library.
+2 The bedroom is north the park.
+3 The bookstore is east the park.
+4 The library is east the bookstore.
+5 What is the path from library to park?	e,e	3 4
+1 The park is west the bookstore.
+2 The bathroom is east the bookstore.
+3 The bookstore is south the home.
+4 The school is west the park.
+5 What is the path from bathroom to park?	e,e	1 2
+1 The home is east the bookstore.
+2 The library is west the office.
+3 The park is south the bookstore.
+4 The bookstore is south the office.
+5 What is the path from home to park?	e,n	1 3
+1 The park is east the bookstore.
+2 The bedroom is north the school.
+3 The bookstore is north the hallway.
+4 The park is west the school.
+5 What is the path from park to hallway?	e,n	1 3
+1 The home is north the bedroom.
+2 The restaurant is south the bedroom.
+3 The home is east the kitchen.
+4 The school is east the bedroom.
+5 What is the path from home to school?	n,w	1 4
+1 The park is east the school.
+2 The bedroom is south the school.
+3 The hallway is south the bedroom.
+4 The library is west the school.
+5 What is the path from park to library?	e,e	1 4
+1 The kitchen is east the office.
+2 The school is north the bedroom.
+3 The bedroom is east the park.
+4 The kitchen is south the park.
+5 What is the path from school to park?	n,e	2 3
+1 The home is east the kitchen.
+2 The kitchen is south the bookstore.
+3 The bedroom is west the bookstore.
+4 The bedroom is east the garden.
+5 What is the path from kitchen to bedroom?	s,e	2 3
+1 The bookstore is north the office.
+2 The library is east the office.
+3 The office is north the garden.
+4 The park is west the garden.
+5 What is the path from bookstore to garden?	n,n	1 3
+1 The bedroom is east the kitchen.
+2 The school is north the bedroom.
+3 The home is east the bedroom.
+4 The bookstore is west the kitchen.
+5 What is the path from school to kitchen?	n,e	1 2
+1 The home is south the bedroom.
+2 The home is east the park.
+3 The park is east the library.
+4 The bookstore is south the library.
+5 What is the path from park to bedroom?	w,s	1 2
+1 The bookstore is east the kitchen.
+2 The bookstore is west the bedroom.
+3 The office is west the kitchen.
+4 The library is south the office.
+5 What is the path from bookstore to office?	e,e	1 3
+1 The restaurant is south the kitchen.
+2 The garden is east the home.
+3 The park is north the kitchen.
+4 The kitchen is east the garden.
+5 What is the path from kitchen to home?	e,e	2 4
+1 The bathroom is south the office.
+2 The bathroom is west the park.
+3 The bookstore is north the bedroom.
+4 The park is west the bookstore.
+5 What is the path from bookstore to bathroom?	e,e	2 4
+1 The bathroom is north the school.
+2 The bedroom is south the home.
+3 The restaurant is north the bathroom.
+4 The bedroom is north the restaurant.
+5 What is the path from bathroom to bedroom?	s,s	3 4
+1 The home is west the restaurant.
+2 The kitchen is east the garden.
+3 The restaurant is north the library.
+4 The restaurant is south the garden.
+5 What is the path from library to garden?	s,s	3 4
+1 The kitchen is north the home.
+2 The office is east the home.
+3 The office is west the bedroom.
+4 The school is east the bedroom.
+5 What is the path from kitchen to office?	n,w	1 2
+1 The bathroom is north the school.
+2 The park is east the school.
+3 The school is east the restaurant.
+4 The garden is south the school.
+5 What is the path from bathroom to restaurant?	n,e	1 3
+1 The restaurant is north the garden.
+2 The hallway is north the restaurant.
+3 The bathroom is west the park.
+4 The restaurant is west the bathroom.
+5 What is the path from garden to bathroom?	s,w	1 4
+1 The park is west the library.
+2 The kitchen is west the bathroom.
+3 The kitchen is north the library.
+4 The bathroom is west the hallway.
+5 What is the path from kitchen to park?	n,e	1 3
+1 The bathroom is south the park.
+2 The restaurant is east the park.
+3 The school is south the bathroom.
+4 The home is west the park.
+5 What is the path from school to park?	s,s	1 3
+1 The garden is north the bedroom.
+2 The library is west the garden.
+3 The park is west the library.
+4 The garden is south the home.
+5 What is the path from bedroom to library?	s,e	1 2
+1 The kitchen is west the office.
+2 The bathroom is south the bedroom.
+3 The bathroom is east the office.
+4 The bookstore is east the bathroom.
+5 What is the path from bookstore to office?	e,e	3 4
+1 The kitchen is east the garden.
+2 The garden is north the home.
+3 The bookstore is north the bathroom.
+4 The home is east the bookstore.
+5 What is the path from garden to bookstore?	n,e	2 4
+1 The school is west the library.
+2 The library is north the bedroom.
+3 The school is south the park.
+4 The bedroom is west the bathroom.
+5 What is the path from bathroom to library?	e,s	2 4
+1 The garden is north the home.
+2 The home is west the bathroom.
+3 The home is north the park.
+4 The park is east the bookstore.
+5 What is the path from bathroom to park?	e,n	2 3
+1 The office is west the home.
+2 The bathroom is south the library.
+3 The home is south the bathroom.
+4 The bedroom is east the library.
+5 What is the path from home to library?	s,s	2 3
+1 The school is north the kitchen.
+2 The school is east the hallway.
+3 The hallway is east the home.
+4 The bedroom is north the hallway.
+5 What is the path from kitchen to hallway?	s,e	1 2
+1 The kitchen is south the bathroom.
+2 The kitchen is north the library.
+3 The library is west the park.
+4 The restaurant is west the bathroom.
+5 What is the path from library to bathroom?	s,s	1 2
+1 The hallway is east the garden.
+2 The library is south the restaurant.
+3 The library is east the hallway.
+4 The bookstore is south the garden.
+5 What is the path from hallway to restaurant?	w,s	2 3
+1 The restaurant is east the bedroom.
+2 The bathroom is south the bookstore.
+3 The bookstore is east the home.
+4 The bedroom is south the bathroom.
+5 What is the path from bathroom to home?	s,e	2 3
+1 The restaurant is north the library.
+2 The bedroom is west the restaurant.
+3 The library is west the bookstore.
+4 The restaurant is south the park.
+5 What is the path from library to park?	s,s	1 4
+1 The home is east the bedroom.
+2 The school is south the office.
+3 The office is south the bathroom.
+4 The office is east the home.
+5 What is the path from school to home?	s,e	2 4
+1 The bedroom is west the library.
+2 The bedroom is east the school.
+3 The hallway is south the bedroom.
+4 The hallway is north the restaurant.
+5 What is the path from hallway to library?	s,w	1 3
+1 The park is east the hallway.
+2 The school is east the bedroom.
+3 The school is south the garden.
+4 The park is south the bedroom.
+5 What is the path from park to school?	s,w	2 4
+1 The bedroom is west the hallway.
+2 The bedroom is east the home.
+3 The garden is east the bookstore.
+4 The bookstore is north the hallway.
+5 What is the path from hallway to garden?	s,w	3 4
+1 The garden is south the bedroom.
+2 The park is west the bedroom.
+3 The bookstore is north the park.
+4 The garden is west the school.
+5 What is the path from bookstore to bedroom?	n,w	2 3
+1 The home is east the library.
+2 The school is south the bookstore.
+3 The hallway is north the home.
+4 The hallway is west the school.
+5 What is the path from hallway to library?	n,e	1 3
+1 The restaurant is east the bathroom.
+2 The bathroom is east the office.
+3 The hallway is south the restaurant.
+4 The restaurant is south the bookstore.
+5 What is the path from bookstore to hallway?	n,n	3 4
+1 The bathroom is north the garden.
+2 The bookstore is south the park.
+3 The garden is east the park.
+4 The home is west the park.
+5 What is the path from bookstore to garden?	s,w	2 3
+1 The hallway is north the office.
+2 The office is north the garden.
+3 The hallway is east the bathroom.
+4 The library is east the garden.
+5 What is the path from garden to hallway?	s,s	1 2
+1 The school is east the restaurant.
+2 The library is north the home.
+3 The office is east the home.
+4 The library is south the restaurant.
+5 What is the path from library to office?	n,w	2 3
+1 The office is north the library.
+2 The garden is south the kitchen.
+3 The home is east the kitchen.
+4 The kitchen is south the library.
+5 What is the path from home to library?	e,s	3 4
+1 The park is south the home.
+2 The home is south the bookstore.
+3 The park is east the restaurant.
+4 The office is east the park.
+5 What is the path from home to restaurant?	n,e	1 3
+1 The office is east the bookstore.
+2 The restaurant is south the bookstore.
+3 The library is west the bookstore.
+4 The bookstore is south the hallway.
+5 What is the path from restaurant to library?	s,e	2 3
+1 The park is north the library.
+2 The park is west the home.
+3 The kitchen is west the park.
+4 The park is south the bathroom.
+5 What is the path from home to library?	e,n	1 2
+1 The garden is east the office.
+2 The bedroom is west the kitchen.
+3 The hallway is east the garden.
+4 The bedroom is north the hallway.
+5 What is the path from hallway to kitchen?	s,w	2 4
+1 The hallway is south the kitchen.
+2 The hallway is north the garden.
+3 The kitchen is west the home.
+4 The home is west the bedroom.
+5 What is the path from bedroom to kitchen?	e,e	3 4
+1 The restaurant is east the library.
+2 The home is east the restaurant.
+3 The school is north the park.
+4 The park is north the library.
+5 What is the path from home to library?	e,e	1 2
+1 The library is east the bookstore.
+2 The garden is east the library.
+3 The home is west the bookstore.
+4 The bedroom is south the bookstore.
+5 What is the path from home to library?	w,w	1 3
+1 The hallway is east the park.
+2 The library is south the bedroom.
+3 The library is north the park.
+4 The hallway is north the restaurant.
+5 What is the path from park to restaurant?	w,n	1 4
+1 The park is north the library.
+2 The restaurant is north the school.
+3 The office is east the park.
+4 The park is south the school.
+5 What is the path from library to office?	s,w	1 3
+1 The garden is south the school.
+2 The office is west the garden.
+3 The office is north the kitchen.
+4 The school is south the bedroom.
+5 What is the path from office to school?	w,s	1 2
+1 The bedroom is east the bookstore.
+2 The park is south the garden.
+3 The bookstore is north the restaurant.
+4 The park is north the bookstore.
+5 What is the path from restaurant to bedroom?	s,w	1 3
+1 The office is south the bedroom.
+2 The bathroom is south the restaurant.
+3 The restaurant is west the office.
+4 The office is west the library.
+5 What is the path from restaurant to library?	w,w	3 4
+1 The library is south the bathroom.
+2 The home is east the library.
+3 The kitchen is south the library.
+4 The kitchen is north the restaurant.
+5 What is the path from home to bathroom?	e,s	1 2
+1 The school is east the library.
+2 The kitchen is east the park.
+3 The park is east the office.
+4 The library is north the kitchen.
+5 What is the path from library to park?	n,e	2 4
+1 The library is north the school.
+2 The bookstore is east the home.
+3 The school is east the bookstore.
+4 The bedroom is south the home.
+5 What is the path from home to school?	w,w	2 3
+1 The bedroom is east the kitchen.
+2 The hallway is north the office.
+3 The office is west the home.
+4 The office is north the bedroom.
+5 What is the path from bedroom to hallway?	s,s	2 4
+1 The park is south the school.
+2 The school is west the hallway.
+3 The library is south the park.
+4 The bedroom is south the library.
+5 What is the path from bedroom to park?	s,s	3 4
+1 The school is north the park.
+2 The school is south the office.
+3 The park is north the bedroom.
+4 The home is west the office.
+5 What is the path from park to office?	s,s	1 2
+1 The park is east the restaurant.
+2 The restaurant is east the hallway.
+3 The bookstore is west the hallway.
+4 The bedroom is south the restaurant.
+5 What is the path from bedroom to park?	s,w	1 4
+1 The park is west the bookstore.
+2 The bedroom is north the park.
+3 The garden is north the bedroom.
+4 The library is west the park.
+5 What is the path from bookstore to bedroom?	e,s	1 2
+1 The kitchen is west the bookstore.
+2 The office is north the kitchen.
+3 The library is east the bookstore.
+4 The kitchen is north the home.
+5 What is the path from office to home?	n,n	2 4
+1 The bathroom is north the park.
+2 The bathroom is west the garden.
+3 The hallway is west the restaurant.
+4 The restaurant is west the bathroom.
+5 What is the path from restaurant to garden?	w,w	2 4
+1 The hallway is east the park.
+2 The hallway is west the bedroom.
+3 The hallway is south the bookstore.
+4 The kitchen is south the park.
+5 What is the path from hallway to kitchen?	e,n	1 4
+1 The bookstore is west the restaurant.
+2 The bookstore is south the hallway.
+3 The home is north the hallway.
+4 The home is east the office.
+5 What is the path from hallway to restaurant?	n,w	1 2
+1 The hallway is west the office.
+2 The bedroom is south the park.
+3 The hallway is east the bedroom.
+4 The bedroom is east the bookstore.
+5 What is the path from park to bookstore?	n,e	2 4
+1 The bookstore is north the hallway.
+2 The garden is east the kitchen.
+3 The bookstore is south the garden.
+4 The garden is west the restaurant.
+5 What is the path from restaurant to bookstore?	e,n	3 4
+1 The garden is east the library.
+2 The bedroom is north the library.
+3 The garden is north the office.
+4 The library is east the restaurant.
+5 What is the path from bedroom to garden?	n,w	1 2
+1 The office is east the home.
+2 The office is west the library.
+3 The bookstore is south the home.
+4 The home is east the garden.
+5 What is the path from library to home?	e,e	1 2
+1 The bedroom is east the bookstore.
+2 The kitchen is east the garden.
+3 The kitchen is south the home.
+4 The bookstore is south the kitchen.
+5 What is the path from bookstore to garden?	s,e	2 4
+1 The bedroom is south the hallway.
+2 The kitchen is west the bedroom.
+3 The garden is north the office.
+4 The hallway is west the office.
+5 What is the path from hallway to garden?	w,s	3 4
+1 The bookstore is east the hallway.
+2 The bathroom is north the hallway.
+3 The restaurant is west the hallway.
+4 The bedroom is south the bookstore.
+5 What is the path from bathroom to restaurant?	n,e	2 3
+1 The school is west the library.
+2 The bathroom is south the park.
+3 The hallway is south the school.
+4 The school is south the bathroom.
+5 What is the path from school to park?	s,s	2 4
+1 The kitchen is north the park.
+2 The kitchen is west the hallway.
+3 The hallway is west the bathroom.
+4 The bathroom is west the bedroom.
+5 What is the path from kitchen to bathroom?	w,w	2 3
+1 The bathroom is east the office.
+2 The hallway is north the garden.
+3 The bathroom is west the garden.
+4 The kitchen is south the bathroom.
+5 What is the path from garden to kitchen?	e,n	3 4
+1 The restaurant is east the office.
+2 The kitchen is north the bathroom.
+3 The park is south the bathroom.
+4 The restaurant is west the bathroom.
+5 What is the path from park to kitchen?	s,s	2 3
+1 The bedroom is north the school.
+2 The library is north the office.
+3 The library is east the school.
+4 The bedroom is east the bookstore.
+5 What is the path from library to bedroom?	e,s	1 3
+1 The bathroom is north the kitchen.
+2 The restaurant is east the school.
+3 The restaurant is west the library.
+4 The library is west the kitchen.
+5 What is the path from bathroom to library?	n,e	1 4
+1 The restaurant is north the hallway.
+2 The restaurant is south the kitchen.
+3 The bookstore is west the kitchen.
+4 The restaurant is west the office.
+5 What is the path from restaurant to bookstore?	s,e	2 3
+1 The library is south the home.
+2 The bookstore is west the home.
+3 The library is west the park.
+4 The school is south the library.
+5 What is the path from library to bookstore?	s,e	1 2
+1 The hallway is west the bedroom.
+2 The hallway is south the garden.
+3 The school is south the bookstore.
+4 The hallway is east the bookstore.
+5 What is the path from school to hallway?	s,w	3 4
+1 The bathroom is north the park.
+2 The park is north the hallway.
+3 The home is north the restaurant.
+4 The home is west the hallway.
+5 What is the path from park to home?	n,e	2 4
+1 The park is west the library.
+2 The kitchen is south the office.
+3 The kitchen is west the bookstore.
+4 The library is north the office.
+5 What is the path from kitchen to library?	s,s	2 4
+1 The office is west the bedroom.
+2 The home is north the kitchen.
+3 The kitchen is north the office.
+4 The library is west the kitchen.
+5 What is the path from kitchen to bedroom?	n,w	1 3
+1 The home is west the hallway.
+2 The park is west the office.
+3 The school is north the hallway.
+4 The park is south the hallway.
+5 What is the path from office to hallway?	e,s	2 4
+1 The restaurant is west the library.
+2 The bathroom is south the school.
+3 The school is west the hallway.
+4 The library is south the bathroom.
+5 What is the path from school to library?	n,n	2 4
+1 The park is west the hallway.
+2 The bedroom is north the school.
+3 The bedroom is west the park.
+4 The bedroom is east the home.
+5 What is the path from school to park?	s,w	2 3
+1 The garden is west the bookstore.
+2 The restaurant is west the hallway.
+3 The school is south the bookstore.
+4 The hallway is south the school.
+5 What is the path from bookstore to hallway?	n,n	3 4
+1 The library is south the kitchen.
+2 The hallway is north the office.
+3 The hallway is east the library.
+4 The restaurant is west the library.
+5 What is the path from hallway to kitchen?	e,s	1 3
+1 The hallway is north the library.
+2 The library is north the restaurant.
+3 The school is north the hallway.
+4 The bathroom is west the restaurant.
+5 What is the path from restaurant to hallway?	s,s	1 2
+1 The kitchen is east the restaurant.
+2 The restaurant is north the garden.
+3 The hallway is north the bathroom.
+4 The restaurant is east the bathroom.
+5 What is the path from kitchen to bathroom?	e,e	1 4
+1 The garden is west the office.
+2 The park is west the restaurant.
+3 The garden is north the restaurant.
+4 The home is north the office.
+5 What is the path from garden to home?	w,s	1 4
+1 The home is west the garden.
+2 The bedroom is north the park.
+3 The bedroom is west the hallway.
+4 The garden is west the park.
+5 What is the path from bedroom to garden?	n,e	2 4
+1 The park is north the school.
+2 The school is east the bookstore.
+3 The bookstore is north the office.
+4 The office is north the bathroom.
+5 What is the path from school to office?	e,n	2 3
+1 The home is north the park.
+2 The bathroom is north the home.
+3 The park is east the hallway.
+4 The home is west the garden.
+5 What is the path from garden to bathroom?	e,s	2 4
+1 The bathroom is north the bedroom.
+2 The office is south the park.
+3 The office is east the bookstore.
+4 The bookstore is east the bathroom.
+5 What is the path from bedroom to bookstore?	s,w	1 4
+1 The restaurant is north the home.
+2 The garden is east the restaurant.
+3 The bathroom is north the school.
+4 The school is north the restaurant.
+5 What is the path from home to school?	s,s	1 4
+1 The restaurant is north the park.
+2 The office is east the library.
+3 The library is south the bedroom.
+4 The restaurant is south the library.
+5 What is the path from park to library?	s,s	1 4
+1 The hallway is north the bedroom.
+2 The school is east the bathroom.
+3 The home is west the hallway.
+4 The school is west the home.
+5 What is the path from home to bathroom?	e,e	2 4
+1 The bedroom is south the home.
+2 The home is south the garden.
+3 The bedroom is east the restaurant.
+4 The bedroom is north the park.
+5 What is the path from restaurant to home?	w,s	1 3
+1 The kitchen is east the bathroom.
+2 The hallway is west the library.
+3 The park is south the library.
+4 The bathroom is north the library.
+5 What is the path from bathroom to hallway?	n,e	2 4
+1 The office is east the bathroom.
+2 The school is south the office.
+3 The office is south the park.
+4 The office is west the restaurant.
+5 What is the path from bathroom to school?	w,n	1 2
+1 The restaurant is north the garden.
+2 The kitchen is north the hallway.
+3 The kitchen is south the garden.
+4 The kitchen is west the bookstore.
+5 What is the path from garden to bookstore?	n,w	3 4
+1 The office is east the garden.
+2 The bookstore is east the restaurant.
+3 The bedroom is south the garden.
+4 The restaurant is south the bedroom.
+5 What is the path from garden to restaurant?	n,n	3 4
+1 The bathroom is south the office.
+2 The office is west the bookstore.
+3 The home is west the restaurant.
+4 The restaurant is west the office.
+5 What is the path from home to office?	w,w	3 4
+1 The bathroom is south the school.
+2 The school is south the garden.
+3 The office is north the hallway.
+4 The hallway is east the garden.
+5 What is the path from bathroom to garden?	s,s	1 2
+1 The park is west the bathroom.
+2 The park is east the bedroom.
+3 The hallway is south the restaurant.
+4 The bathroom is west the hallway.
+5 What is the path from park to hallway?	w,w	1 4
+1 The restaurant is east the school.
+2 The restaurant is west the bookstore.
+3 The bedroom is south the restaurant.
+4 The kitchen is west the school.
+5 What is the path from kitchen to restaurant?	w,w	1 4
+1 The school is east the office.
+2 The office is east the home.
+3 The home is north the bedroom.
+4 The hallway is south the school.
+5 What is the path from hallway to office?	s,e	1 4
+1 The garden is north the bathroom.
+2 The garden is south the library.
+3 The library is east the kitchen.
+4 The bookstore is west the kitchen.
+5 What is the path from garden to kitchen?	s,e	2 3
+1 The library is north the home.
+2 The bookstore is west the garden.
+3 The garden is south the office.
+4 The library is east the garden.
+5 What is the path from home to garden?	s,e	1 4
+1 The bathroom is east the library.
+2 The bedroom is east the office.
+3 The library is north the school.
+4 The office is east the bathroom.
+5 What is the path from library to office?	w,w	1 4
+1 The bedroom is east the school.
+2 The restaurant is south the office.
+3 The restaurant is west the kitchen.
+4 The office is east the bedroom.
+5 What is the path from office to kitchen?	n,w	2 3
+1 The office is north the bookstore.
+2 The bookstore is west the restaurant.
+3 The restaurant is west the school.
+4 The garden is south the restaurant.
+5 What is the path from school to bookstore?	e,e	2 3
+1 The bedroom is east the bookstore.
+2 The home is west the office.
+3 The library is east the office.
+4 The bedroom is north the home.
+5 What is the path from office to bedroom?	e,s	2 4
+1 The garden is south the home.
+2 The garden is west the park.
+3 The park is west the bedroom.
+4 The park is north the bathroom.
+5 What is the path from garden to bathroom?	w,n	2 4
+1 The office is west the garden.
+2 The home is south the garden.
+3 The garden is south the bookstore.
+4 The school is south the home.
+5 What is the path from home to office?	s,e	1 2
+1 The garden is north the bookstore.
+2 The garden is south the bedroom.
+3 The library is east the garden.
+4 The office is west the bedroom.
+5 What is the path from garden to office?	s,e	2 4
+1 The bedroom is west the library.
+2 The school is west the restaurant.
+3 The bedroom is south the restaurant.
+4 The office is south the bedroom.
+5 What is the path from office to restaurant?	s,s	3 4
+1 The bedroom is south the park.
+2 The library is north the park.
+3 The bathroom is south the bedroom.
+4 The home is north the library.
+5 What is the path from home to park?	n,n	2 4
+1 The park is south the bedroom.
+2 The park is north the office.
+3 The office is north the home.
+4 The office is east the restaurant.
+5 What is the path from home to restaurant?	s,e	3 4
+1 The office is east the home.
+2 The bedroom is east the office.
+3 The home is south the garden.
+4 The office is north the bookstore.
+5 What is the path from garden to office?	n,w	1 3
+1 The restaurant is east the school.
+2 The restaurant is north the hallway.
+3 The bathroom is south the park.
+4 The bathroom is north the restaurant.
+5 What is the path from bathroom to school?	n,e	1 4
+1 The library is west the bookstore.
+2 The park is south the garden.
+3 The bookstore is west the restaurant.
+4 The park is north the library.
+5 What is the path from bookstore to park?	e,s	1 4
+1 The park is north the bathroom.
+2 The park is west the library.
+3 The hallway is north the school.
+4 The library is south the school.
+5 What is the path from bathroom to library?	s,w	1 2
+1 The bathroom is north the office.
+2 The office is east the home.
+3 The office is west the park.
+4 The school is south the home.
+5 What is the path from school to office?	s,w	2 4
+1 The hallway is east the park.
+2 The school is south the kitchen.
+3 The home is east the hallway.
+4 The kitchen is east the home.
+5 What is the path from home to park?	e,e	1 3
+1 The office is south the library.
+2 The bedroom is east the garden.
+3 The garden is north the library.
+4 The garden is east the kitchen.
+5 What is the path from garden to office?	n,n	1 3
+1 The home is east the hallway.
+2 The kitchen is east the restaurant.
+3 The kitchen is south the hallway.
+4 The kitchen is north the bedroom.
+5 What is the path from hallway to bedroom?	n,n	3 4
+1 The hallway is east the kitchen.
+2 The bathroom is south the restaurant.
+3 The bathroom is west the school.
+4 The hallway is west the bathroom.
+5 What is the path from kitchen to bathroom?	w,w	1 4
+1 The bathroom is west the office.
+2 The school is south the home.
+3 The office is west the bedroom.
+4 The school is north the bathroom.
+5 What is the path from office to school?	e,s	1 4
+1 The restaurant is north the hallway.
+2 The home is west the garden.
+3 The restaurant is south the garden.
+4 The restaurant is west the library.
+5 What is the path from garden to hallway?	n,n	1 3
+1 The restaurant is west the kitchen.
+2 The garden is south the bookstore.
+3 The bookstore is south the kitchen.
+4 The kitchen is west the school.
+5 What is the path from kitchen to garden?	n,n	2 3
+1 The school is west the bookstore.
+2 The restaurant is east the bathroom.
+3 The school is south the restaurant.
+4 The hallway is south the bookstore.
+5 What is the path from restaurant to bookstore?	n,w	1 3
+1 The restaurant is east the office.
+2 The restaurant is north the library.
+3 The school is north the restaurant.
+4 The home is south the library.
+5 What is the path from school to office?	n,e	1 3
+1 The school is west the park.
+2 The restaurant is north the home.
+3 The park is north the restaurant.
+4 The park is south the office.
+5 What is the path from park to home?	n,n	2 3
+1 The bathroom is west the kitchen.
+2 The kitchen is south the hallway.
+3 The bookstore is south the library.
+4 The kitchen is north the library.
+5 What is the path from kitchen to bookstore?	n,n	3 4
+1 The kitchen is north the park.
+2 The bathroom is west the park.
+3 The hallway is north the kitchen.
+4 The bookstore is east the hallway.
+5 What is the path from park to hallway?	s,s	1 3
+1 The bathroom is south the bookstore.
+2 The park is east the restaurant.
+3 The bathroom is north the restaurant.
+4 The restaurant is east the office.
+5 What is the path from office to bathroom?	w,s	3 4
+1 The bathroom is east the garden.
+2 The bedroom is east the office.
+3 The bathroom is west the office.
+4 The home is south the office.
+5 What is the path from bathroom to home?	w,n	3 4
+1 The office is west the bookstore.
+2 The bedroom is north the kitchen.
+3 The office is north the bedroom.
+4 The office is south the library.
+5 What is the path from bookstore to library?	e,s	1 4
+1 The office is south the bathroom.
+2 The restaurant is east the bathroom.
+3 The bookstore is north the bathroom.
+4 The bookstore is east the garden.
+5 What is the path from bookstore to office?	n,n	1 3
+1 The library is south the office.
+2 The restaurant is west the bathroom.
+3 The office is east the bathroom.
+4 The library is north the bookstore.
+5 What is the path from bathroom to library?	w,n	1 3
+1 The restaurant is north the kitchen.
+2 The kitchen is west the bathroom.
+3 The kitchen is east the home.
+4 The kitchen is north the school.
+5 What is the path from bathroom to school?	e,n	2 4
+1 The library is west the park.
+2 The bookstore is south the kitchen.
+3 The library is south the bookstore.
+4 The office is south the library.
+5 What is the path from office to bookstore?	s,s	3 4
+1 The garden is west the kitchen.
+2 The kitchen is north the home.
+3 The home is north the hallway.
+4 The hallway is north the bathroom.
+5 What is the path from home to garden?	s,e	1 2
+1 The garden is east the bedroom.
+2 The garden is west the hallway.
+3 The kitchen is north the restaurant.
+4 The restaurant is north the hallway.
+5 What is the path from restaurant to garden?	n,e	2 4
+1 The home is west the hallway.
+2 The hallway is west the bookstore.
+3 The bedroom is north the home.
+4 The garden is north the bookstore.
+5 What is the path from home to bookstore?	w,w	1 2
+1 The home is south the bedroom.
+2 The bedroom is west the park.
+3 The office is west the bedroom.
+4 The bedroom is south the hallway.
+5 What is the path from home to office?	s,e	1 3
+1 The kitchen is west the home.
+2 The park is west the bookstore.
+3 The bathroom is north the kitchen.
+4 The park is south the home.
+5 What is the path from kitchen to park?	w,n	1 4
+1 The home is north the library.
+2 The restaurant is south the library.
+3 The library is east the bathroom.
+4 The park is north the home.
+5 What is the path from bathroom to home?	w,s	1 3
+1 The bathroom is west the school.
+2 The kitchen is west the bathroom.
+3 The home is south the restaurant.
+4 The restaurant is east the school.
+5 What is the path from school to home?	w,n	3 4
+1 The hallway is west the school.
+2 The hallway is south the kitchen.
+3 The home is north the garden.
+4 The garden is west the kitchen.
+5 What is the path from hallway to garden?	s,e	2 4
+1 The hallway is north the library.
+2 The restaurant is east the hallway.
+3 The school is north the kitchen.
+4 The library is north the school.
+5 What is the path from library to restaurant?	s,w	1 2
+1 The bedroom is west the kitchen.
+2 The office is south the library.
+3 The kitchen is west the office.
+4 The park is south the office.
+5 What is the path from library to kitchen?	n,e	2 3
+1 The hallway is north the bedroom.
+2 The garden is west the bedroom.
+3 The library is west the garden.
+4 The office is east the hallway.
+5 What is the path from office to bedroom?	e,n	1 4
+1 The hallway is south the bookstore.
+2 The library is south the park.
+3 The home is east the hallway.
+4 The library is west the bookstore.
+5 What is the path from bookstore to home?	n,w	1 3
+1 The restaurant is north the kitchen.
+2 The garden is west the restaurant.
+3 The hallway is east the kitchen.
+4 The garden is south the library.
+5 What is the path from restaurant to hallway?	n,w	1 3
+1 The bookstore is east the office.
+2 The office is east the library.
+3 The home is south the office.
+4 The hallway is north the office.
+5 What is the path from home to library?	s,e	2 3
+1 The office is south the bathroom.
+2 The library is south the office.
+3 The library is east the school.
+4 The park is south the library.
+5 What is the path from office to park?	n,n	2 4
+1 The restaurant is north the garden.
+2 The park is east the garden.
+3 The garden is north the kitchen.
+4 The park is west the school.
+5 What is the path from park to restaurant?	e,s	1 2
+1 The garden is north the library.
+2 The kitchen is east the park.
+3 The bathroom is north the kitchen.
+4 The library is east the bathroom.
+5 What is the path from kitchen to library?	s,w	3 4
+1 The bookstore is south the office.
+2 The bookstore is north the bathroom.
+3 The bookstore is east the school.
+4 The school is east the park.
+5 What is the path from park to bookstore?	w,w	3 4
+1 The library is south the restaurant.
+2 The garden is west the restaurant.
+3 The bathroom is east the school.
+4 The restaurant is west the school.
+5 What is the path from school to garden?	e,e	2 4
+1 The park is south the home.
+2 The hallway is north the bathroom.
+3 The home is south the bathroom.
+4 The office is west the hallway.
+5 What is the path from hallway to home?	n,n	2 3
+1 The bookstore is east the school.
+2 The library is south the restaurant.
+3 The kitchen is north the bookstore.
+4 The restaurant is south the school.
+5 What is the path from bookstore to restaurant?	e,n	1 4
+1 The bookstore is east the school.
+2 The bookstore is west the bedroom.
+3 The restaurant is east the hallway.
+4 The school is south the restaurant.
+5 What is the path from hallway to school?	w,n	3 4
+1 The park is north the home.
+2 The garden is north the hallway.
+3 The hallway is east the restaurant.
+4 The restaurant is north the park.
+5 What is the path from restaurant to garden?	w,s	2 3
+1 The bookstore is east the school.
+2 The kitchen is north the bookstore.
+3 The home is north the bedroom.
+4 The bedroom is west the school.
+5 What is the path from bookstore to bedroom?	e,e	1 4
+1 The park is south the bookstore.
+2 The kitchen is south the garden.
+3 The bathroom is west the bookstore.
+4 The park is west the garden.
+5 What is the path from kitchen to park?	s,e	2 4
+1 The school is west the office.
+2 The bookstore is west the library.
+3 The bookstore is north the office.
+4 The library is south the home.
+5 What is the path from office to library?	s,w	2 3
+1 The restaurant is west the garden.
+2 The bedroom is east the bathroom.
+3 The park is south the garden.
+4 The restaurant is south the bedroom.
+5 What is the path from bedroom to garden?	n,w	1 4
+1 The kitchen is south the office.
+2 The office is east the library.
+3 The kitchen is west the school.
+4 The restaurant is east the school.
+5 What is the path from library to kitchen?	w,n	1 2
+1 The home is east the bathroom.
+2 The bathroom is north the bookstore.
+3 The office is east the home.
+4 The bathroom is east the garden.
+5 What is the path from home to garden?	e,e	1 4
+1 The park is north the garden.
+2 The bathroom is north the park.
+3 The office is south the garden.
+4 The home is east the garden.
+5 What is the path from bathroom to garden?	n,n	1 2
+1 The kitchen is west the hallway.
+2 The garden is south the school.
+3 The kitchen is east the school.
+4 The school is east the bookstore.
+5 What is the path from bookstore to garden?	w,n	2 4
+1 The bedroom is west the garden.
+2 The bathroom is east the library.
+3 The bedroom is south the park.
+4 The garden is west the library.
+5 What is the path from garden to bathroom?	w,w	2 4
+1 The garden is west the library.
+2 The library is west the home.
+3 The bookstore is south the home.
+4 The park is north the library.
+5 What is the path from park to home?	n,w	2 4
+1 The library is east the park.
+2 The park is east the garden.
+3 The bedroom is south the park.
+4 The home is east the library.
+5 What is the path from park to home?	w,w	1 4
+1 The bathroom is west the kitchen.
+2 The bathroom is east the bedroom.
+3 The park is south the kitchen.
+4 The park is north the home.
+5 What is the path from home to kitchen?	s,s	3 4
+1 The bookstore is south the park.
+2 The library is south the home.
+3 The garden is east the bookstore.
+4 The home is east the garden.
+5 What is the path from library to garden?	s,e	2 4
+1 The bathroom is north the school.
+2 The library is south the school.
+3 The restaurant is east the library.
+4 The kitchen is north the bathroom.
+5 What is the path from school to restaurant?	n,w	2 3
+1 The home is east the bedroom.
+2 The kitchen is east the home.
+3 The home is south the office.
+4 The home is north the park.
+5 What is the path from bedroom to office?	w,s	1 3
+1 The park is south the office.
+2 The school is east the park.
+3 The garden is south the park.
+4 The home is west the office.
+5 What is the path from school to office?	e,s	1 2
+1 The bedroom is north the park.
+2 The bedroom is south the bathroom.
+3 The home is west the school.
+4 The park is north the home.
+5 What is the path from bedroom to home?	n,n	1 4
+1 The library is south the garden.
+2 The bookstore is north the garden.
+3 The hallway is east the bathroom.
+4 The garden is west the bathroom.
+5 What is the path from bookstore to bathroom?	n,w	2 4
+1 The bedroom is west the bathroom.
+2 The park is north the home.
+3 The bookstore is south the bathroom.
+4 The home is east the bathroom.
+5 What is the path from home to bedroom?	e,e	1 4
+1 The kitchen is west the home.
+2 The kitchen is north the bedroom.
+3 The home is west the office.
+4 The hallway is south the office.
+5 What is the path from office to kitchen?	e,e	1 3
+1 The bookstore is north the bathroom.
+2 The bookstore is south the park.
+3 The restaurant is west the school.
+4 The bookstore is west the restaurant.
+5 What is the path from school to bookstore?	e,e	3 4
+1 The restaurant is east the hallway.
+2 The park is east the restaurant.
+3 The office is east the park.
+4 The kitchen is north the park.
+5 What is the path from park to hallway?	e,e	1 2
+1 The school is north the hallway.
+2 The hallway is east the library.
+3 The bookstore is south the hallway.
+4 The bedroom is east the bookstore.
+5 What is the path from bookstore to library?	s,e	2 3
+1 The bookstore is north the garden.
+2 The park is south the garden.
+3 The kitchen is west the bookstore.
+4 The kitchen is south the bedroom.
+5 What is the path from kitchen to garden?	w,n	1 3
+1 The restaurant is south the park.
+2 The school is east the bookstore.
+3 The park is south the bookstore.
+4 The school is south the bedroom.
+5 What is the path from school to park?	e,n	2 3
+1 The bathroom is north the restaurant.
+2 The library is east the bathroom.
+3 The office is south the kitchen.
+4 The bathroom is east the office.
+5 What is the path from restaurant to office?	s,e	1 4
+1 The garden is north the bookstore.
+2 The bookstore is west the kitchen.
+3 The home is west the garden.
+4 The home is south the park.
+5 What is the path from bookstore to home?	s,e	1 3
+1 The bedroom is south the bookstore.
+2 The home is west the bookstore.
+3 The kitchen is west the bathroom.
+4 The kitchen is east the bookstore.
+5 What is the path from home to kitchen?	w,w	2 4
+1 The hallway is west the bathroom.
+2 The hallway is north the garden.
+3 The bathroom is west the bedroom.
+4 The kitchen is north the bedroom.
+5 What is the path from bathroom to kitchen?	w,s	3 4
+1 The office is north the kitchen.
+2 The hallway is east the office.
+3 The garden is south the kitchen.
+4 The home is west the kitchen.
+5 What is the path from home to office?	w,s	1 4
+1 The hallway is south the home.
+2 The home is west the bedroom.
+3 The hallway is north the library.
+4 The library is east the park.
+5 What is the path from home to library?	n,n	1 3
+1 The garden is south the bathroom.
+2 The garden is west the library.
+3 The garden is east the restaurant.
+4 The restaurant is east the home.
+5 What is the path from bathroom to restaurant?	n,e	1 3
+1 The home is west the library.
+2 The library is south the park.
+3 The bedroom is west the restaurant.
+4 The library is north the bedroom.
+5 What is the path from bedroom to home?	s,e	1 4
+1 The office is west the kitchen.
+2 The bedroom is south the office.
+3 The office is east the library.
+4 The bathroom is north the office.
+5 What is the path from kitchen to bedroom?	e,n	1 2
+1 The bedroom is west the home.
+2 The garden is north the hallway.
+3 The hallway is west the bedroom.
+4 The park is south the hallway.
+5 What is the path from hallway to home?	w,w	1 3
+1 The office is east the library.
+2 The park is north the bookstore.
+3 The office is west the park.
+4 The library is east the restaurant.
+5 What is the path from park to library?	e,e	1 3
+1 The library is north the hallway.
+2 The kitchen is north the library.
+3 The school is east the kitchen.
+4 The kitchen is east the office.
+5 What is the path from school to office?	e,e	3 4
+1 The hallway is south the kitchen.
+2 The kitchen is south the garden.
+3 The garden is south the school.
+4 The kitchen is west the office.
+5 What is the path from kitchen to school?	s,s	2 3
+1 The garden is north the bathroom.
+2 The kitchen is north the bedroom.
+3 The kitchen is south the bathroom.
+4 The hallway is east the kitchen.
+5 What is the path from hallway to bathroom?	e,s	3 4
+1 The school is south the park.
+2 The park is west the bookstore.
+3 The bathroom is west the park.
+4 The park is south the bedroom.
+5 What is the path from bedroom to school?	n,n	1 4
+1 The library is west the kitchen.
+2 The home is south the restaurant.
+3 The restaurant is south the garden.
+4 The kitchen is north the garden.
+5 What is the path from library to garden?	w,n	1 4
+1 The library is west the park.
+2 The kitchen is west the library.
+3 The park is south the home.
+4 The park is north the restaurant.
+5 What is the path from library to restaurant?	w,n	1 4
+1 The garden is south the bookstore.
+2 The park is east the office.
+3 The office is north the bookstore.
+4 The library is north the office.
+5 What is the path from library to park?	n,w	2 4
+1 The bedroom is south the kitchen.
+2 The library is west the bookstore.
+3 The kitchen is south the hallway.
+4 The bedroom is east the bookstore.
+5 What is the path from bedroom to hallway?	s,s	1 3
+1 The restaurant is north the home.
+2 The garden is west the hallway.
+3 The restaurant is east the bookstore.
+4 The garden is east the home.
+5 What is the path from home to hallway?	w,w	2 4
+1 The restaurant is south the park.
+2 The hallway is south the garden.
+3 The hallway is east the library.
+4 The park is west the library.
+5 What is the path from hallway to park?	e,e	3 4
+1 The restaurant is north the library.
+2 The home is north the restaurant.
+3 The park is west the office.
+4 The office is north the home.
+5 What is the path from restaurant to office?	s,s	2 4
+1 The bookstore is north the park.
+2 The home is west the school.
+3 The park is north the kitchen.
+4 The bookstore is east the school.
+5 What is the path from school to park?	w,n	1 4
+1 The restaurant is north the bedroom.
+2 The hallway is north the restaurant.
+3 The kitchen is north the hallway.
+4 The restaurant is east the library.
+5 What is the path from restaurant to kitchen?	s,s	2 3
+1 The office is east the bedroom.
+2 The bedroom is east the park.
+3 The park is east the hallway.
+4 The kitchen is north the bedroom.
+5 What is the path from office to park?	e,e	1 2
+1 The bedroom is west the restaurant.
+2 The bedroom is east the garden.
+3 The bathroom is north the garden.
+4 The garden is north the bookstore.
+5 What is the path from bedroom to bookstore?	e,n	2 4
+1 The restaurant is south the office.
+2 The hallway is north the school.
+3 The school is west the library.
+4 The office is south the school.
+5 What is the path from office to hallway?	s,s	2 4
+1 The library is east the home.
+2 The hallway is west the garden.
+3 The office is south the hallway.
+4 The hallway is east the library.
+5 What is the path from office to library?	s,e	3 4
+1 The home is east the school.
+2 The hallway is west the school.
+3 The park is south the bedroom.
+4 The hallway is east the park.
+5 What is the path from hallway to home?	w,w	1 2
+1 The garden is south the bookstore.
+2 The hallway is south the home.
+3 The bedroom is east the bookstore.
+4 The bookstore is south the hallway.
+5 What is the path from bedroom to garden?	e,n	1 3
+1 The hallway is east the home.
+2 The hallway is west the bathroom.
+3 The library is west the office.
+4 The bathroom is west the library.
+5 What is the path from library to hallway?	e,e	2 4
+1 The library is north the hallway.
+2 The bookstore is west the kitchen.
+3 The kitchen is north the park.
+4 The kitchen is south the hallway.
+5 What is the path from hallway to bookstore?	n,e	2 4
+1 The kitchen is south the garden.
+2 The office is east the library.
+3 The garden is south the office.
+4 The office is south the bedroom.
+5 What is the path from bedroom to library?	n,e	2 4
+1 The kitchen is west the restaurant.
+2 The restaurant is west the bathroom.
+3 The bookstore is east the bathroom.
+4 The garden is north the restaurant.
+5 What is the path from restaurant to bookstore?	w,w	2 3
+1 The bedroom is north the bathroom.
+2 The school is north the home.
+3 The home is west the office.
+4 The home is north the bedroom.
+5 What is the path from bedroom to office?	s,w	3 4
+1 The office is east the restaurant.
+2 The bedroom is east the office.
+3 The office is north the garden.
+4 The restaurant is south the kitchen.
+5 What is the path from garden to restaurant?	s,e	1 3
+1 The bathroom is east the hallway.
+2 The bedroom is east the garden.
+3 The restaurant is south the garden.
+4 The bathroom is south the restaurant.
+5 What is the path from garden to bathroom?	n,n	3 4
+1 The home is south the hallway.
+2 The home is north the bookstore.
+3 The home is west the bathroom.
+4 The garden is east the bathroom.
+5 What is the path from bookstore to bathroom?	s,w	2 3
+1 The garden is south the office.
+2 The kitchen is south the bookstore.
+3 The restaurant is east the kitchen.
+4 The bookstore is east the garden.
+5 What is the path from bookstore to office?	e,s	1 4
+1 The home is east the garden.
+2 The restaurant is east the home.
+3 The park is north the home.
+4 The school is east the restaurant.
+5 What is the path from park to garden?	n,e	1 3
+1 The bookstore is north the garden.
+2 The park is east the garden.
+3 The hallway is east the park.
+4 The restaurant is south the park.
+5 What is the path from bookstore to park?	n,w	1 2
+1 The library is south the school.
+2 The restaurant is west the bedroom.
+3 The kitchen is south the library.
+4 The bedroom is north the school.
+5 What is the path from restaurant to school?	w,n	2 4
+1 The restaurant is west the office.
+2 The bookstore is south the bathroom.
+3 The school is north the office.
+4 The bookstore is east the school.
+5 What is the path from school to restaurant?	n,e	1 3
+1 The park is north the school.
+2 The bathroom is west the home.
+3 The bedroom is north the bathroom.
+4 The park is south the bathroom.
+5 What is the path from park to bedroom?	s,s	3 4
+1 The school is north the library.
+2 The restaurant is west the hallway.
+3 The library is north the hallway.
+4 The hallway is north the office.
+5 What is the path from office to library?	s,s	3 4
+1 The office is south the bookstore.
+2 The garden is south the office.
+3 The library is west the office.
+4 The home is east the office.
+5 What is the path from library to home?	w,w	3 4
+1 The bookstore is south the garden.
+2 The bedroom is west the restaurant.
+3 The school is north the restaurant.
+4 The bedroom is east the garden.
+5 What is the path from bedroom to school?	w,s	2 3
+1 The bookstore is north the kitchen.
+2 The office is south the home.
+3 The garden is west the kitchen.
+4 The kitchen is north the home.
+5 What is the path from garden to home?	w,n	3 4
+1 The school is north the park.
+2 The park is east the bookstore.
+3 The kitchen is south the bookstore.
+4 The school is south the restaurant.
+5 What is the path from bookstore to school?	w,s	1 2
+1 The bookstore is north the restaurant.
+2 The bedroom is north the bookstore.
+3 The hallway is east the bathroom.
+4 The bathroom is east the restaurant.
+5 What is the path from bookstore to bathroom?	n,w	1 4
+1 The office is west the home.
+2 The hallway is south the home.
+3 The restaurant is north the home.
+4 The office is east the library.
+5 What is the path from restaurant to office?	n,e	1 3
+1 The home is west the school.
+2 The restaurant is west the kitchen.
+3 The bookstore is south the kitchen.
+4 The kitchen is west the home.
+5 What is the path from bookstore to restaurant?	s,e	2 3
+1 The garden is south the school.
+2 The home is south the library.
+3 The bookstore is south the home.
+4 The school is west the bookstore.
+5 What is the path from garden to bookstore?	s,w	1 4
+1 The restaurant is south the hallway.
+2 The bedroom is north the hallway.
+3 The bedroom is east the kitchen.
+4 The bathroom is north the kitchen.
+5 What is the path from restaurant to bedroom?	s,s	1 2
+1 The bedroom is east the bathroom.
+2 The hallway is east the bedroom.
+3 The home is south the bedroom.
+4 The bedroom is south the office.
+5 What is the path from hallway to bathroom?	e,e	1 2
+1 The bathroom is east the kitchen.
+2 The kitchen is east the school.
+3 The restaurant is north the kitchen.
+4 The kitchen is north the office.
+5 What is the path from restaurant to bathroom?	n,w	1 3
+1 The bedroom is east the school.
+2 The school is north the bathroom.
+3 The bedroom is west the bookstore.
+4 The bathroom is east the restaurant.
+5 What is the path from bedroom to bathroom?	e,n	1 2
+1 The school is north the restaurant.
+2 The library is east the school.
+3 The home is south the restaurant.
+4 The home is north the bathroom.
+5 What is the path from home to school?	s,s	1 3
+1 The bathroom is north the kitchen.
+2 The bedroom is west the home.
+3 The kitchen is north the home.
+4 The garden is east the bathroom.
+5 What is the path from garden to kitchen?	e,n	1 4
+1 The home is south the office.
+2 The bookstore is south the home.
+3 The garden is west the bookstore.
+4 The school is south the garden.
+5 What is the path from garden to home?	w,s	2 3
+1 The bathroom is south the bedroom.
+2 The restaurant is north the bookstore.
+3 The bedroom is west the hallway.
+4 The bedroom is south the bookstore.
+5 What is the path from hallway to bathroom?	e,n	1 3
+1 The school is east the bookstore.
+2 The hallway is south the school.
+3 The office is east the hallway.
+4 The library is north the bookstore.
+5 What is the path from bookstore to hallway?	w,n	1 2
+1 The office is west the school.
+2 The restaurant is west the hallway.
+3 The office is south the hallway.
+4 The restaurant is south the park.
+5 What is the path from school to hallway?	e,s	1 3
+1 The school is south the bedroom.
+2 The park is east the office.
+3 The hallway is east the park.
+4 The school is north the park.
+5 What is the path from school to hallway?	n,w	3 4
+1 The home is east the bathroom.
+2 The bedroom is north the library.
+3 The home is west the school.
+4 The bedroom is south the home.
+5 What is the path from bathroom to school?	w,w	1 3
+1 The hallway is east the kitchen.
+2 The kitchen is east the library.
+3 The hallway is west the garden.
+4 The hallway is north the bathroom.
+5 What is the path from hallway to library?	e,e	1 2
+1 The garden is north the bookstore.
+2 The school is west the bookstore.
+3 The hallway is east the garden.
+4 The bookstore is north the restaurant.
+5 What is the path from garden to school?	n,e	1 2
+1 The park is east the bathroom.
+2 The home is south the restaurant.
+3 The restaurant is south the park.
+4 The garden is east the restaurant.
+5 What is the path from garden to home?	e,n	2 4
+1 The office is north the bathroom.
+2 The hallway is west the bathroom.
+3 The bookstore is south the bathroom.
+4 The bathroom is west the garden.
+5 What is the path from bookstore to garden?	s,w	3 4
+1 The bookstore is east the school.
+2 The bookstore is south the home.
+3 The restaurant is east the bookstore.
+4 The bedroom is south the bookstore.
+5 What is the path from school to home?	w,s	1 2
+1 The hallway is west the kitchen.
+2 The kitchen is north the bookstore.
+3 The kitchen is south the library.
+4 The bookstore is north the bathroom.
+5 What is the path from kitchen to bathroom?	n,n	2 4
+1 The library is west the hallway.
+2 The office is east the hallway.
+3 The office is west the bedroom.
+4 The hallway is north the school.
+5 What is the path from school to office?	s,w	2 4
+1 The garden is north the home.
+2 The garden is west the bathroom.
+3 The bathroom is west the bedroom.
+4 The restaurant is north the bedroom.
+5 What is the path from garden to bedroom?	w,w	2 3
+1 The bookstore is south the kitchen.
+2 The bedroom is north the kitchen.
+3 The school is west the bookstore.
+4 The school is east the hallway.
+5 What is the path from bedroom to bookstore?	n,n	1 2
+1 The hallway is west the park.
+2 The hallway is north the restaurant.
+3 The library is east the home.
+4 The library is west the hallway.
+5 What is the path from restaurant to park?	s,w	1 2
+1 The kitchen is east the school.
+2 The garden is west the school.
+3 The kitchen is north the library.
+4 The bathroom is east the kitchen.
+5 What is the path from bathroom to school?	e,e	1 4
+1 The bathroom is south the library.
+2 The bedroom is west the bathroom.
+3 The kitchen is west the bedroom.
+4 The garden is south the bathroom.
+5 What is the path from library to bedroom?	n,e	1 2
+1 The restaurant is south the library.
+2 The hallway is west the park.
+3 The library is west the hallway.
+4 The school is south the park.
+5 What is the path from hallway to restaurant?	e,n	1 3
+1 The library is north the park.
+2 The bathroom is north the library.
+3 The park is north the garden.
+4 The bathroom is west the restaurant.
+5 What is the path from bathroom to park?	n,n	1 2
+1 The library is west the school.
+2 The hallway is south the library.
+3 The bookstore is south the garden.
+4 The bookstore is west the library.
+5 What is the path from hallway to bookstore?	s,e	2 4
+1 The office is east the school.
+2 The office is west the kitchen.
+3 The bedroom is south the garden.
+4 The kitchen is west the bedroom.
+5 What is the path from bedroom to office?	e,e	2 4
+1 The garden is east the office.
+2 The office is north the hallway.
+3 The bedroom is west the office.
+4 The bathroom is north the office.
+5 What is the path from garden to bathroom?	e,s	1 4
+1 The kitchen is east the restaurant.
+2 The kitchen is south the home.
+3 The library is east the home.
+4 The office is north the home.
+5 What is the path from restaurant to home?	w,s	1 2
+1 The restaurant is west the bathroom.
+2 The bathroom is west the garden.
+3 The school is south the garden.
+4 The kitchen is east the garden.
+5 What is the path from kitchen to school?	e,n	3 4
+1 The bathroom is west the school.
+2 The bedroom is south the school.
+3 The garden is east the school.
+4 The bathroom is east the home.
+5 What is the path from garden to bathroom?	e,e	1 3
+1 The bookstore is east the bathroom.
+2 The library is south the bathroom.
+3 The office is north the bathroom.
+4 The office is south the home.
+5 What is the path from library to bookstore?	s,w	1 2
+1 The kitchen is south the office.
+2 The home is west the office.
+3 The office is west the garden.
+4 The office is south the school.
+5 What is the path from home to school?	w,s	2 4
+1 The office is north the school.
+2 The park is west the library.
+3 The park is south the restaurant.
+4 The park is east the office.
+5 What is the path from restaurant to office?	n,e	3 4
+1 The home is west the garden.
+2 The school is north the hallway.
+3 The garden is south the hallway.
+4 The restaurant is east the garden.
+5 What is the path from restaurant to home?	e,e	1 4
+1 The hallway is east the office.
+2 The office is east the park.
+3 The home is south the bathroom.
+4 The home is east the hallway.
+5 What is the path from bathroom to hallway?	n,e	3 4
+1 The kitchen is west the restaurant.
+2 The restaurant is south the home.
+3 The bedroom is south the kitchen.
+4 The restaurant is west the hallway.
+5 What is the path from kitchen to home?	w,s	1 2
+1 The bathroom is north the kitchen.
+2 The home is north the garden.
+3 The library is east the bathroom.
+4 The garden is east the library.
+5 What is the path from home to library?	n,e	2 4
+1 The office is north the garden.
+2 The park is north the bathroom.
+3 The office is west the bathroom.
+4 The hallway is west the office.
+5 What is the path from park to office?	n,e	2 3
+1 The home is south the kitchen.
+2 The home is north the bathroom.
+3 The bathroom is north the garden.
+4 The school is east the home.
+5 What is the path from garden to home?	s,s	2 3
+1 The office is south the hallway.
+2 The restaurant is west the school.
+3 The restaurant is south the home.
+4 The office is north the home.
+5 What is the path from hallway to home?	n,n	1 4
+1 The bookstore is west the garden.
+2 The bookstore is south the home.
+3 The home is south the restaurant.
+4 The bathroom is west the home.
+5 What is the path from home to garden?	n,w	1 2
+1 The bookstore is west the bedroom.
+2 The library is south the garden.
+3 The library is east the hallway.
+4 The bedroom is north the garden.
+5 What is the path from bedroom to library?	n,n	2 4
+1 The bathroom is north the bedroom.
+2 The kitchen is west the bedroom.
+3 The home is west the kitchen.
+4 The school is west the home.
+5 What is the path from kitchen to school?	e,e	3 4
+1 The park is north the library.
+2 The park is west the bathroom.
+3 The bathroom is west the restaurant.
+4 The garden is east the restaurant.
+5 What is the path from library to bathroom?	s,w	1 2
+1 The office is south the restaurant.
+2 The home is east the office.
+3 The hallway is north the restaurant.
+4 The home is west the bathroom.
+5 What is the path from hallway to office?	n,n	1 3
+1 The park is south the kitchen.
+2 The restaurant is west the park.
+3 The bathroom is north the kitchen.
+4 The park is north the bedroom.
+5 What is the path from bedroom to restaurant?	s,e	2 4
+1 The bathroom is east the home.
+2 The hallway is east the bathroom.
+3 The bedroom is west the home.
+4 The bedroom is north the office.
+5 What is the path from office to home?	s,w	3 4
+1 The library is east the school.
+2 The garden is east the library.
+3 The hallway is north the office.
+4 The school is north the hallway.
+5 What is the path from garden to school?	e,e	1 2
+1 The kitchen is east the bathroom.
+2 The restaurant is west the bathroom.
+3 The park is south the bathroom.
+4 The kitchen is south the bedroom.
+5 What is the path from kitchen to park?	e,n	1 3
+1 The hallway is west the bathroom.
+2 The kitchen is north the bathroom.
+3 The bathroom is north the bookstore.
+4 The bookstore is north the bedroom.
+5 What is the path from bookstore to hallway?	s,e	1 3
+1 The bedroom is south the bookstore.
+2 The bookstore is south the office.
+3 The bathroom is south the library.
+4 The library is south the bedroom.
+5 What is the path from library to bookstore?	s,s	1 4
+1 The library is east the hallway.
+2 The school is south the library.
+3 The library is south the bathroom.
+4 The bathroom is south the restaurant.
+5 What is the path from bathroom to school?	n,n	2 3
+1 The bathroom is east the home.
+2 The hallway is west the home.
+3 The hallway is south the library.
+4 The bathroom is west the school.
+5 What is the path from hallway to bathroom?	w,w	1 2
+1 The hallway is east the kitchen.
+2 The home is south the restaurant.
+3 The kitchen is north the restaurant.
+4 The office is north the kitchen.
+5 What is the path from office to hallway?	n,w	1 4
+1 The restaurant is east the garden.
+2 The school is north the bookstore.
+3 The restaurant is north the library.
+4 The bookstore is east the restaurant.
+5 What is the path from library to bookstore?	s,w	3 4
+1 The kitchen is north the garden.
+2 The park is west the bookstore.
+3 The restaurant is east the bookstore.
+4 The restaurant is west the kitchen.
+5 What is the path from kitchen to bookstore?	e,e	3 4
+1 The garden is west the park.
+2 The hallway is east the park.
+3 The hallway is west the kitchen.
+4 The library is north the hallway.
+5 What is the path from hallway to garden?	e,e	1 2
+1 The hallway is south the kitchen.
+2 The hallway is east the bathroom.
+3 The home is east the hallway.
+4 The home is north the garden.
+5 What is the path from kitchen to bathroom?	n,e	1 2
+1 The restaurant is north the library.
+2 The office is west the library.
+3 The library is west the garden.
+4 The home is south the library.
+5 What is the path from home to garden?	s,w	3 4
+1 The park is east the bedroom.
+2 The office is south the school.
+3 The garden is north the park.
+4 The park is north the school.
+5 What is the path from bedroom to school?	w,n	1 4
+1 The home is north the garden.
+2 The office is west the bookstore.
+3 The restaurant is west the office.
+4 The garden is north the restaurant.
+5 What is the path from office to garden?	e,s	3 4
+1 The home is west the library.
+2 The home is east the bedroom.
+3 The bedroom is north the school.
+4 The hallway is north the bedroom.
+5 What is the path from bedroom to library?	w,w	1 2
+1 The garden is north the kitchen.
+2 The kitchen is north the bookstore.
+3 The bathroom is east the garden.
+4 The park is west the kitchen.
+5 What is the path from garden to park?	n,e	1 4
+1 The kitchen is south the garden.
+2 The library is north the bedroom.
+3 The library is east the kitchen.
+4 The bathroom is south the bedroom.
+5 What is the path from library to garden?	e,s	1 3
+1 The bookstore is north the garden.
+2 The home is east the kitchen.
+3 The bookstore is west the bedroom.
+4 The kitchen is north the bedroom.
+5 What is the path from kitchen to bookstore?	n,e	3 4
+1 The hallway is south the bathroom.
+2 The library is south the hallway.
+3 The kitchen is west the home.
+4 The library is west the kitchen.
+5 What is the path from home to library?	e,e	3 4
+1 The park is west the garden.
+2 The hallway is east the bedroom.
+3 The hallway is south the bathroom.
+4 The park is south the hallway.
+5 What is the path from hallway to garden?	n,w	1 4
+1 The bedroom is south the office.
+2 The office is south the bathroom.
+3 The bathroom is east the bookstore.
+4 The office is west the school.
+5 What is the path from bedroom to bathroom?	s,s	1 2
+1 The office is west the bookstore.
+2 The kitchen is east the bookstore.
+3 The home is south the bookstore.
+4 The bookstore is south the garden.
+5 What is the path from kitchen to home?	e,n	2 3
+1 The garden is west the home.
+2 The bathroom is east the home.
+3 The garden is north the office.
+4 The home is south the bookstore.
+5 What is the path from garden to bookstore?	w,s	1 4
+1 The hallway is north the bedroom.
+2 The bookstore is south the garden.
+3 The hallway is east the office.
+4 The hallway is south the bookstore.
+5 What is the path from garden to hallway?	n,n	2 4
+1 The home is west the bedroom.
+2 The bookstore is south the restaurant.
+3 The bookstore is north the bathroom.
+4 The home is east the bathroom.
+5 What is the path from restaurant to bathroom?	n,n	2 3
+1 The park is east the office.
+2 The library is south the office.
+3 The kitchen is west the office.
+4 The office is south the bathroom.
+5 What is the path from bathroom to park?	n,w	1 4
+1 The bedroom is north the restaurant.
+2 The restaurant is north the office.
+3 The garden is east the bedroom.
+4 The school is east the garden.
+5 What is the path from garden to restaurant?	e,n	1 3
+1 The hallway is north the garden.
+2 The bedroom is south the home.
+3 The garden is east the office.
+4 The office is east the bedroom.
+5 What is the path from garden to bedroom?	e,e	3 4
+1 The bathroom is west the office.
+2 The garden is south the bathroom.
+3 The garden is north the restaurant.
+4 The restaurant is west the kitchen.
+5 What is the path from bathroom to restaurant?	n,n	2 3
+1 The garden is east the hallway.
+2 The garden is south the park.
+3 The garden is north the home.
+4 The home is north the library.
+5 What is the path from park to home?	n,n	2 3
+1 The bedroom is west the library.
+2 The office is west the bedroom.
+3 The school is south the office.
+4 The garden is west the school.
+5 What is the path from bedroom to school?	e,n	2 3
+1 The hallway is west the library.
+2 The library is west the garden.
+3 The hallway is north the school.
+4 The park is north the library.
+5 What is the path from park to hallway?	n,e	1 4
+1 The kitchen is north the hallway.
+2 The bathroom is west the hallway.
+3 The bathroom is north the restaurant.
+4 The home is west the restaurant.
+5 What is the path from restaurant to hallway?	s,w	2 3
+1 The bathroom is west the hallway.
+2 The bathroom is south the park.
+3 The bathroom is north the kitchen.
+4 The hallway is west the garden.
+5 What is the path from hallway to park?	e,s	1 2
+1 The school is south the bathroom.
+2 The park is south the bedroom.
+3 The park is north the bathroom.
+4 The home is west the bathroom.
+5 What is the path from bathroom to bedroom?	s,s	2 3
+1 The office is north the bathroom.
+2 The office is south the library.
+3 The home is north the library.
+4 The office is west the bookstore.
+5 What is the path from office to home?	s,s	2 3
+1 The bathroom is north the office.
+2 The office is north the garden.
+3 The bathroom is south the library.
+4 The library is east the school.
+5 What is the path from bathroom to garden?	n,n	1 2
+1 The kitchen is east the library.
+2 The bathroom is south the school.
+3 The garden is north the school.
+4 The kitchen is west the school.
+5 What is the path from kitchen to bathroom?	w,n	2 4
+1 The kitchen is east the park.
+2 The bedroom is west the park.
+3 The bathroom is south the office.
+4 The bathroom is north the park.
+5 What is the path from bedroom to bathroom?	w,s	2 4
+1 The restaurant is east the library.
+2 The bathroom is south the hallway.
+3 The bathroom is west the office.
+4 The bathroom is north the restaurant.
+5 What is the path from restaurant to office?	s,w	3 4
+1 The bedroom is north the school.
+2 The kitchen is east the garden.
+3 The office is east the school.
+4 The office is north the garden.
+5 What is the path from garden to school?	s,e	3 4
+1 The school is north the park.
+2 The bookstore is west the school.
+3 The office is east the restaurant.
+4 The office is north the bookstore.
+5 What is the path from restaurant to bookstore?	w,n	3 4
+1 The bathroom is west the kitchen.
+2 The park is east the kitchen.
+3 The garden is south the kitchen.
+4 The hallway is north the park.
+5 What is the path from garden to park?	s,w	2 3
+1 The bookstore is east the office.
+2 The restaurant is north the garden.
+3 The kitchen is east the restaurant.
+4 The bookstore is north the restaurant.
+5 What is the path from kitchen to bookstore?	e,s	3 4
+1 The restaurant is east the school.
+2 The hallway is west the school.
+3 The bookstore is north the restaurant.
+4 The school is north the kitchen.
+5 What is the path from restaurant to kitchen?	e,n	1 4
+1 The bathroom is north the garden.
+2 The kitchen is west the office.
+3 The home is south the kitchen.
+4 The office is south the garden.
+5 What is the path from kitchen to garden?	w,s	2 4
+1 The garden is east the bedroom.
+2 The park is east the library.
+3 The garden is south the library.
+4 The office is north the park.
+5 What is the path from bedroom to library?	w,s	1 3
+1 The school is north the library.
+2 The school is west the office.
+3 The home is west the restaurant.
+4 The home is south the library.
+5 What is the path from school to home?	n,n	1 4
+1 The kitchen is west the garden.
+2 The garden is south the bookstore.
+3 The school is east the garden.
+4 The bookstore is south the office.
+5 What is the path from bookstore to school?	n,w	2 3
+1 The kitchen is west the bookstore.
+2 The bedroom is west the garden.
+3 The park is west the kitchen.
+4 The park is north the garden.
+5 What is the path from park to bookstore?	w,w	1 3
+1 The bathroom is west the hallway.
+2 The bathroom is north the office.
+3 The restaurant is east the bedroom.
+4 The office is east the restaurant.
+5 What is the path from bathroom to restaurant?	n,e	2 4
+1 The library is south the restaurant.
+2 The school is north the restaurant.
+3 The library is north the home.
+4 The kitchen is west the library.
+5 What is the path from kitchen to restaurant?	w,s	1 4
+1 The library is west the hallway.
+2 The kitchen is east the bedroom.
+3 The school is north the hallway.
+4 The hallway is north the bedroom.
+5 What is the path from bedroom to school?	s,s	3 4
+1 The bedroom is south the park.
+2 The restaurant is north the school.
+3 The home is east the bedroom.
+4 The bedroom is east the restaurant.
+5 What is the path from bedroom to school?	e,n	2 4
+1 The garden is west the library.
+2 The bedroom is north the hallway.
+3 The bathroom is west the hallway.
+4 The garden is south the hallway.
+5 What is the path from garden to bedroom?	s,s	2 4
+1 The garden is south the hallway.
+2 The bookstore is east the park.
+3 The school is south the garden.
+4 The bookstore is north the hallway.
+5 What is the path from hallway to park?	s,e	2 4
+1 The bookstore is north the garden.
+2 The office is west the kitchen.
+3 The office is east the restaurant.
+4 The office is north the bookstore.
+5 What is the path from office to garden?	n,n	1 4
+1 The bookstore is east the kitchen.
+2 The restaurant is north the school.
+3 The restaurant is south the bathroom.
+4 The kitchen is east the restaurant.
+5 What is the path from bathroom to kitchen?	n,w	3 4
+1 The home is west the bathroom.
+2 The library is east the bathroom.
+3 The bathroom is north the park.
+4 The home is south the office.
+5 What is the path from home to park?	w,n	1 3
+1 The school is south the garden.
+2 The hallway is west the kitchen.
+3 The bathroom is west the garden.
+4 The garden is west the hallway.
+5 What is the path from bathroom to hallway?	w,w	3 4
+1 The bathroom is south the library.
+2 The office is west the park.
+3 The bedroom is east the park.
+4 The bathroom is north the park.
+5 What is the path from bathroom to office?	n,e	2 4
+1 The restaurant is east the park.
+2 The restaurant is north the bedroom.
+3 The library is south the bedroom.
+4 The library is north the school.
+5 What is the path from restaurant to library?	n,n	2 3
+1 The bedroom is west the restaurant.
+2 The bathroom is west the bookstore.
+3 The park is south the restaurant.
+4 The bedroom is south the bookstore.
+5 What is the path from bedroom to park?	w,n	1 3
+1 The school is south the garden.
+2 The office is east the park.
+3 The bedroom is south the school.
+4 The school is east the office.
+5 What is the path from garden to bedroom?	n,n	1 3
+1 The park is east the bedroom.
+2 The bookstore is east the kitchen.
+3 The office is south the park.
+4 The kitchen is east the office.
+5 What is the path from kitchen to park?	e,s	3 4
+1 The home is east the bookstore.
+2 The bookstore is east the bathroom.
+3 The bathroom is south the park.
+4 The garden is south the bathroom.
+5 What is the path from garden to bookstore?	s,w	2 4
+1 The office is north the bedroom.
+2 The office is west the park.
+3 The office is south the library.
+4 The library is south the garden.
+5 What is the path from library to bedroom?	n,n	1 3
+1 The hallway is south the school.
+2 The school is west the garden.
+3 The office is east the garden.
+4 The office is west the bookstore.
+5 What is the path from hallway to garden?	s,w	1 2
+1 The office is east the kitchen.
+2 The home is east the office.
+3 The office is north the garden.
+4 The office is south the restaurant.
+5 What is the path from home to kitchen?	e,e	1 2
+1 The office is north the library.
+2 The garden is east the bookstore.
+3 The library is east the park.
+4 The bookstore is south the library.
+5 What is the path from bookstore to park?	s,e	3 4
+1 The garden is east the library.
+2 The library is east the kitchen.
+3 The office is north the kitchen.
+4 The school is west the kitchen.
+5 What is the path from school to office?	w,s	3 4
+1 The garden is south the bookstore.
+2 The bookstore is south the hallway.
+3 The hallway is west the bathroom.
+4 The garden is east the kitchen.
+5 What is the path from kitchen to bookstore?	w,s	1 4
+1 The park is west the bedroom.
+2 The garden is west the kitchen.
+3 The bathroom is north the garden.
+4 The bedroom is north the bathroom.
+5 What is the path from kitchen to bathroom?	e,s	2 3
+1 The bathroom is east the bookstore.
+2 The office is south the bathroom.
+3 The garden is north the school.
+4 The school is north the bookstore.
+5 What is the path from bookstore to office?	w,n	1 2
+1 The bathroom is west the bookstore.
+2 The hallway is east the garden.
+3 The hallway is north the park.
+4 The bookstore is north the garden.
+5 What is the path from garden to park?	w,n	2 3
+1 The restaurant is south the kitchen.
+2 The school is west the restaurant.
+3 The kitchen is south the hallway.
+4 The restaurant is west the garden.
+5 What is the path from garden to school?	e,e	2 4
+1 The office is north the home.
+2 The park is north the school.
+3 The school is east the office.
+4 The office is east the library.
+5 What is the path from library to school?	w,w	3 4
+1 The hallway is north the bathroom.
+2 The office is south the bookstore.
+3 The hallway is west the office.
+4 The home is west the hallway.
+5 What is the path from hallway to bookstore?	w,s	2 3
+1 The park is south the restaurant.
+2 The park is west the garden.
+3 The park is north the bookstore.
+4 The park is east the kitchen.
+5 What is the path from restaurant to kitchen?	n,e	1 4
+1 The school is south the library.
+2 The bedroom is east the bookstore.
+3 The library is west the hallway.
+4 The library is east the bedroom.
+5 What is the path from hallway to bedroom?	e,e	3 4
+1 The hallway is east the restaurant.
+2 The restaurant is east the garden.
+3 The bedroom is north the garden.
+4 The kitchen is west the garden.
+5 What is the path from bedroom to restaurant?	n,w	2 3
+1 The home is south the bedroom.
+2 The bookstore is south the office.
+3 The library is west the office.
+4 The library is south the home.
+5 What is the path from home to office?	n,w	3 4
+1 The bedroom is east the garden.
+2 The bedroom is west the bathroom.
+3 The bedroom is south the school.
+4 The hallway is north the school.
+5 What is the path from bedroom to hallway?	s,s	3 4
+1 The home is west the bathroom.
+2 The bathroom is west the bookstore.
+3 The bookstore is west the restaurant.
+4 The restaurant is west the garden.
+5 What is the path from bookstore to home?	e,e	1 2
+1 The office is east the school.
+2 The bookstore is north the office.
+3 The school is east the bedroom.
+4 The bookstore is south the park.
+5 What is the path from bedroom to office?	w,w	1 3
+1 The garden is north the bookstore.
+2 The bedroom is west the garden.
+3 The garden is west the library.
+4 The bedroom is south the restaurant.
+5 What is the path from library to bedroom?	e,e	2 3
+1 The home is north the school.
+2 The kitchen is north the home.
+3 The restaurant is east the school.
+4 The library is west the home.
+5 What is the path from kitchen to school?	n,n	1 2
+1 The library is west the park.
+2 The park is south the restaurant.
+3 The bookstore is south the bathroom.
+4 The restaurant is west the bookstore.
+5 What is the path from park to bookstore?	s,w	2 4
+1 The office is west the school.
+2 The home is north the hallway.
+3 The bookstore is south the school.
+4 The home is south the bookstore.
+5 What is the path from bookstore to office?	s,e	1 3
+1 The hallway is north the bathroom.
+2 The office is east the bathroom.
+3 The hallway is east the kitchen.
+4 The office is west the bookstore.
+5 What is the path from office to hallway?	e,s	1 2
+1 The bedroom is west the hallway.
+2 The bedroom is north the bathroom.
+3 The garden is west the bedroom.
+4 The office is south the bathroom.
+5 What is the path from hallway to garden?	e,e	1 3
+1 The library is north the bookstore.
+2 The kitchen is east the library.
+3 The restaurant is north the library.
+4 The kitchen is west the garden.
+5 What is the path from kitchen to bookstore?	e,n	1 2
+1 The library is south the home.
+2 The home is east the bookstore.
+3 The home is west the office.
+4 The park is north the home.
+5 What is the path from bookstore to office?	w,w	2 3
+1 The bathroom is north the hallway.
+2 The office is east the restaurant.
+3 The bathroom is south the restaurant.
+4 The school is west the hallway.
+5 What is the path from bathroom to office?	s,w	2 3
+1 The library is east the restaurant.
+2 The hallway is south the bookstore.
+3 The bathroom is north the restaurant.
+4 The bookstore is south the library.
+5 What is the path from restaurant to bookstore?	w,n	1 4
+1 The home is south the garden.
+2 The garden is west the bedroom.
+3 The bookstore is north the bedroom.
+4 The bookstore is south the school.
+5 What is the path from bedroom to home?	e,n	1 2
+1 The garden is north the bookstore.
+2 The hallway is north the restaurant.
+3 The restaurant is west the garden.
+4 The restaurant is east the school.
+5 What is the path from garden to hallway?	e,s	2 3
+1 The restaurant is south the hallway.
+2 The park is east the office.
+3 The bathroom is east the park.
+4 The hallway is west the office.
+5 What is the path from office to restaurant?	e,n	1 4
+1 The bookstore is west the bedroom.
+2 The hallway is east the school.
+3 The hallway is south the bookstore.
+4 The bedroom is west the library.
+5 What is the path from hallway to bedroom?	s,w	1 3
+1 The restaurant is north the garden.
+2 The restaurant is east the kitchen.
+3 The garden is north the school.
+4 The library is north the restaurant.
+5 What is the path from kitchen to garden?	w,n	1 2
+1 The office is east the park.
+2 The library is east the office.
+3 The school is south the library.
+4 The school is north the restaurant.
+5 What is the path from office to school?	w,n	2 3
+1 The bookstore is east the restaurant.
+2 The bookstore is south the office.
+3 The restaurant is east the bedroom.
+4 The restaurant is north the garden.
+5 What is the path from garden to bookstore?	s,w	1 4
+1 The garden is north the restaurant.
+2 The restaurant is north the library.
+3 The park is west the restaurant.
+4 The park is east the home.
+5 What is the path from library to park?	s,e	2 3
+1 The hallway is north the restaurant.
+2 The park is north the hallway.
+3 The park is south the school.
+4 The home is west the hallway.
+5 What is the path from home to park?	w,s	2 4
+1 The office is south the home.
+2 The hallway is west the library.
+3 The home is south the bookstore.
+4 The office is east the library.
+5 What is the path from office to hallway?	e,e	2 4
+1 The bedroom is north the kitchen.
+2 The bedroom is east the office.
+3 The bookstore is west the office.
+4 The bookstore is east the school.
+5 What is the path from bedroom to bookstore?	e,e	2 3
+1 The kitchen is west the library.
+2 The kitchen is east the garden.
+3 The home is east the library.
+4 The office is south the kitchen.
+5 What is the path from office to library?	s,w	1 4
+1 The park is west the kitchen.
+2 The restaurant is west the office.
+3 The office is south the park.
+4 The restaurant is north the library.
+5 What is the path from office to library?	e,n	2 4
+1 The office is west the bookstore.
+2 The kitchen is south the garden.
+3 The office is north the garden.
+4 The garden is east the school.
+5 What is the path from bookstore to garden?	e,n	1 3
+1 The bathroom is east the school.
+2 The bedroom is east the garden.
+3 The school is north the bedroom.
+4 The home is north the school.
+5 What is the path from home to bedroom?	n,n	3 4
+1 The bedroom is west the park.
+2 The office is east the bathroom.
+3 The hallway is north the bedroom.
+4 The office is west the bedroom.
+5 What is the path from park to hallway?	e,s	1 3
+1 The park is west the bookstore.
+2 The park is east the hallway.
+3 The hallway is east the garden.
+4 The library is north the park.
+5 What is the path from hallway to bookstore?	w,w	1 2
+1 The office is south the hallway.
+2 The park is east the school.
+3 The bathroom is south the office.
+4 The hallway is east the park.
+5 What is the path from bathroom to hallway?	s,s	1 3
+1 The home is north the garden.
+2 The bookstore is west the kitchen.
+3 The bookstore is east the restaurant.
+4 The home is south the bookstore.
+5 What is the path from kitchen to home?	e,n	2 4
+1 The kitchen is south the hallway.
+2 The kitchen is east the home.
+3 The hallway is west the garden.
+4 The garden is west the office.
+5 What is the path from home to hallway?	w,s	1 2
+1 The park is south the home.
+2 The restaurant is north the home.
+3 The school is east the home.
+4 The kitchen is west the restaurant.
+5 What is the path from school to restaurant?	e,s	2 3
+1 The school is west the bookstore.
+2 The school is east the bedroom.
+3 The bathroom is north the bedroom.
+4 The library is south the school.
+5 What is the path from bookstore to bedroom?	e,e	1 2
+1 The hallway is west the restaurant.
+2 The restaurant is west the bedroom.
+3 The bathroom is south the kitchen.
+4 The bathroom is north the restaurant.
+5 What is the path from hallway to bathroom?	w,s	1 4
+1 The garden is south the library.
+2 The garden is north the park.
+3 The park is north the restaurant.
+4 The office is west the park.
+5 What is the path from park to library?	s,s	1 2
+1 The hallway is south the bedroom.
+2 The kitchen is east the bedroom.
+3 The office is north the bedroom.
+4 The bedroom is east the home.
+5 What is the path from hallway to kitchen?	s,w	1 2
+1 The bathroom is south the bookstore.
+2 The kitchen is west the bathroom.
+3 The bathroom is west the garden.
+4 The bathroom is north the hallway.
+5 What is the path from hallway to kitchen?	s,e	2 4
+1 The bookstore is north the park.
+2 The bedroom is south the park.
+3 The hallway is west the school.
+4 The park is east the school.
+5 What is the path from school to bookstore?	w,s	1 4
+1 The kitchen is north the park.
+2 The library is north the garden.
+3 The kitchen is west the bathroom.
+4 The bathroom is west the library.
+5 What is the path from bathroom to park?	e,n	1 3
+1 The bathroom is west the hallway.
+2 The bathroom is east the restaurant.
+3 The restaurant is north the park.
+4 The hallway is south the garden.
+5 What is the path from hallway to restaurant?	e,e	1 2
+1 The bathroom is west the home.
+2 The park is south the bathroom.
+3 The library is east the home.
+4 The restaurant is north the home.
+5 What is the path from restaurant to library?	n,w	3 4
+1 The home is south the bedroom.
+2 The bathroom is east the home.
+3 The park is south the home.
+4 The bedroom is south the hallway.
+5 What is the path from bathroom to park?	e,n	2 3
+1 The hallway is west the restaurant.
+2 The garden is east the library.
+3 The office is north the library.
+4 The garden is north the hallway.
+5 What is the path from garden to restaurant?	n,w	1 4
+1 The bedroom is west the kitchen.
+2 The bookstore is south the park.
+3 The bedroom is south the bathroom.
+4 The park is south the kitchen.
+5 What is the path from park to bedroom?	s,e	1 4
+1 The office is west the park.
+2 The bookstore is south the office.
+3 The school is south the kitchen.
+4 The bookstore is north the kitchen.
+5 What is the path from bookstore to school?	n,n	3 4
+1 The bookstore is west the park.
+2 The school is west the kitchen.
+3 The bookstore is north the kitchen.
+4 The school is north the bathroom.
+5 What is the path from bathroom to kitchen?	s,w	2 4
+1 The library is east the bookstore.
+2 The library is west the hallway.
+3 The bookstore is east the park.
+4 The hallway is west the restaurant.
+5 What is the path from park to library?	w,w	1 3
+1 The library is north the restaurant.
+2 The school is south the bookstore.
+3 The library is west the kitchen.
+4 The bookstore is west the restaurant.
+5 What is the path from school to restaurant?	s,w	2 4
+1 The bedroom is west the hallway.
+2 The school is north the library.
+3 The bedroom is south the library.
+4 The restaurant is west the bedroom.
+5 What is the path from restaurant to library?	w,s	3 4
+1 The home is north the restaurant.
+2 The park is east the home.
+3 The kitchen is north the park.
+4 The garden is east the kitchen.
+5 What is the path from park to garden?	s,w	3 4
+1 The office is west the bathroom.
+2 The office is east the library.
+3 The hallway is west the library.
+4 The hallway is north the home.
+5 What is the path from library to home?	e,n	3 4
+1 The kitchen is north the school.
+2 The library is north the kitchen.
+3 The kitchen is east the bookstore.
+4 The school is west the bathroom.
+5 What is the path from library to bookstore?	n,e	2 3
+1 The restaurant is east the bookstore.
+2 The restaurant is north the park.
+3 The hallway is east the restaurant.
+4 The restaurant is south the bathroom.
+5 What is the path from hallway to park?	e,n	2 3
+1 The restaurant is north the park.
+2 The park is west the bookstore.
+3 The home is east the bookstore.
+4 The bookstore is north the school.
+5 What is the path from school to home?	s,w	3 4
+1 The home is south the restaurant.
+2 The garden is west the restaurant.
+3 The bathroom is north the bookstore.
+4 The bookstore is east the restaurant.
+5 What is the path from bathroom to restaurant?	n,e	3 4
+1 The kitchen is north the hallway.
+2 The bookstore is east the home.
+3 The home is south the garden.
+4 The hallway is west the garden.
+5 What is the path from home to hallway?	s,e	3 4
+1 The school is south the office.
+2 The hallway is west the office.
+3 The hallway is east the library.
+4 The home is north the office.
+5 What is the path from library to office?	w,w	2 3
+1 The bedroom is south the library.
+2 The restaurant is west the park.
+3 The library is south the restaurant.
+4 The home is west the library.
+5 What is the path from park to library?	e,n	2 3
+1 The home is north the park.
+2 The library is east the park.
+3 The restaurant is west the garden.
+4 The restaurant is south the library.
+5 What is the path from park to restaurant?	w,n	2 4
+1 The hallway is north the home.
+2 The kitchen is south the office.
+3 The office is south the home.
+4 The kitchen is west the bookstore.
+5 What is the path from home to kitchen?	n,n	2 3
+1 The bathroom is east the garden.
+2 The bathroom is west the hallway.
+3 The bathroom is south the kitchen.
+4 The bathroom is north the park.
+5 What is the path from garden to kitchen?	w,s	1 3
+1 The school is east the restaurant.
+2 The office is north the restaurant.
+3 The kitchen is south the school.
+4 The school is west the bedroom.
+5 What is the path from office to school?	n,w	1 2
+1 The bathroom is south the bookstore.
+2 The garden is north the bookstore.
+3 The home is north the garden.
+4 The bathroom is west the kitchen.
+5 What is the path from bookstore to home?	s,s	2 3
+1 The library is east the kitchen.
+2 The garden is south the park.
+3 The kitchen is south the garden.
+4 The park is east the bathroom.
+5 What is the path from library to garden?	e,s	1 3
+1 The school is east the library.
+2 The hallway is east the restaurant.
+3 The kitchen is south the school.
+4 The hallway is south the kitchen.
+5 What is the path from restaurant to kitchen?	w,s	2 4
+1 The garden is south the bedroom.
+2 The bathroom is south the garden.
+3 The bookstore is east the garden.
+4 The office is west the garden.
+5 What is the path from bathroom to bedroom?	s,s	1 2
+1 The home is east the bathroom.
+2 The bedroom is west the garden.
+3 The school is east the home.
+4 The school is south the bedroom.
+5 What is the path from school to garden?	s,w	2 4
+1 The bathroom is north the bookstore.
+2 The kitchen is south the bookstore.
+3 The kitchen is north the garden.
+4 The bedroom is west the bathroom.
+5 What is the path from bookstore to bedroom?	s,e	1 4
+1 The home is west the hallway.
+2 The hallway is north the bedroom.
+3 The school is south the bookstore.
+4 The hallway is south the school.
+5 What is the path from bedroom to home?	s,e	1 2
+1 The park is north the office.
+2 The bookstore is south the office.
+3 The bedroom is south the bookstore.
+4 The home is west the bookstore.
+5 What is the path from bookstore to park?	s,s	1 2
+1 The bedroom is south the park.
+2 The school is north the garden.
+3 The school is south the bedroom.
+4 The kitchen is east the school.
+5 What is the path from garden to kitchen?	s,w	2 4
+1 The bedroom is west the bathroom.
+2 The restaurant is north the library.
+3 The home is north the restaurant.
+4 The home is east the bathroom.
+5 What is the path from library to home?	s,s	2 3
+1 The home is east the office.
+2 The bedroom is north the garden.
+3 The office is east the park.
+4 The park is north the bedroom.
+5 What is the path from home to park?	e,e	1 3
+1 The school is west the bookstore.
+2 The bathroom is north the restaurant.
+3 The home is east the bookstore.
+4 The bathroom is south the school.
+5 What is the path from bathroom to bookstore?	s,w	1 4
+1 The kitchen is west the office.
+2 The garden is south the bedroom.
+3 The office is south the garden.
+4 The office is north the bookstore.
+5 What is the path from kitchen to garden?	w,s	1 3
+1 The hallway is north the restaurant.
+2 The garden is east the hallway.
+3 The library is east the kitchen.
+4 The library is west the hallway.
+5 What is the path from garden to restaurant?	e,n	1 2
+1 The bookstore is south the kitchen.
+2 The school is east the restaurant.
+3 The restaurant is east the kitchen.
+4 The kitchen is south the office.
+5 What is the path from kitchen to school?	w,w	2 3
+1 The kitchen is west the restaurant.
+2 The bedroom is north the office.
+3 The school is east the office.
+4 The office is north the restaurant.
+5 What is the path from school to restaurant?	e,n	3 4
+1 The park is east the school.
+2 The bedroom is west the hallway.
+3 The garden is south the park.
+4 The park is west the bedroom.
+5 What is the path from garden to bedroom?	s,w	3 4
+1 The hallway is north the kitchen.
+2 The school is west the hallway.
+3 The office is east the bathroom.
+4 The bathroom is north the hallway.
+5 What is the path from kitchen to school?	s,e	1 2
+1 The park is west the bookstore.
+2 The school is west the bathroom.
+3 The home is north the bathroom.
+4 The home is west the park.
+5 What is the path from bookstore to home?	e,e	1 4
+1 The kitchen is north the park.
+2 The kitchen is south the garden.
+3 The home is east the school.
+4 The kitchen is east the home.
+5 What is the path from park to garden?	s,s	1 2
+1 The library is west the restaurant.
+2 The library is north the park.
+3 The park is east the bookstore.
+4 The restaurant is south the bedroom.
+5 What is the path from bookstore to library?	w,s	2 3
+1 The restaurant is east the office.
+2 The restaurant is west the home.
+3 The restaurant is south the park.
+4 The garden is south the restaurant.
+5 What is the path from office to home?	w,w	1 2
+1 The hallway is north the home.
+2 The garden is east the school.
+3 The home is west the school.
+4 The bookstore is south the school.
+5 What is the path from garden to home?	e,e	2 3
+1 The bookstore is south the home.
+2 The restaurant is north the school.
+3 The school is west the office.
+4 The office is west the bookstore.
+5 What is the path from office to home?	w,s	1 4
+1 The school is east the bedroom.
+2 The kitchen is east the school.
+3 The office is north the home.
+4 The kitchen is west the home.
+5 What is the path from home to school?	e,e	2 4
+1 The home is east the park.
+2 The library is south the bathroom.
+3 The library is north the home.
+4 The kitchen is east the library.
+5 What is the path from home to bathroom?	s,s	2 3
+1 The bathroom is west the garden.
+2 The office is north the bedroom.
+3 The bedroom is west the kitchen.
+4 The office is south the garden.
+5 What is the path from office to kitchen?	n,w	2 3
+1 The library is east the office.
+2 The library is south the school.
+3 The kitchen is east the library.
+4 The library is north the garden.
+5 What is the path from office to school?	w,s	1 2
+1 The garden is north the home.
+2 The school is west the office.
+3 The garden is south the office.
+4 The home is east the hallway.
+5 What is the path from school to garden?	w,n	2 3
+1 The home is west the library.
+2 The library is west the hallway.
+3 The school is north the park.
+4 The park is north the hallway.
+5 What is the path from park to library?	n,e	2 4
+1 The kitchen is east the library.
+2 The home is west the bedroom.
+3 The kitchen is west the garden.
+4 The library is north the bedroom.
+5 What is the path from library to garden?	w,w	1 3
+1 The bathroom is south the restaurant.
+2 The home is east the bookstore.
+3 The home is west the bathroom.
+4 The hallway is north the restaurant.
+5 What is the path from hallway to bathroom?	n,n	1 4
+1 The home is east the library.
+2 The school is south the bathroom.
+3 The bathroom is west the park.
+4 The school is north the library.
+5 What is the path from park to school?	e,n	2 3
+1 The bookstore is west the library.
+2 The kitchen is south the bathroom.
+3 The office is west the bookstore.
+4 The kitchen is north the office.
+5 What is the path from bookstore to kitchen?	e,s	3 4
+1 The kitchen is south the restaurant.
+2 The bedroom is north the restaurant.
+3 The office is east the restaurant.
+4 The office is west the bathroom.
+5 What is the path from office to kitchen?	e,n	1 3
+1 The restaurant is west the bookstore.
+2 The school is west the garden.
+3 The library is west the school.
+4 The garden is north the restaurant.
+5 What is the path from school to restaurant?	w,n	2 4
+1 The library is east the park.
+2 The office is east the bedroom.
+3 The bedroom is south the home.
+4 The library is west the bedroom.
+5 What is the path from library to home?	w,s	3 4
+1 The garden is south the kitchen.
+2 The bookstore is south the bedroom.
+3 The kitchen is south the bookstore.
+4 The office is west the bedroom.
+5 What is the path from bookstore to office?	s,e	2 4
+1 The bookstore is west the restaurant.
+2 The office is east the restaurant.
+3 The garden is north the bookstore.
+4 The bathroom is south the office.
+5 What is the path from bookstore to office?	w,w	1 2
+1 The bathroom is north the school.
+2 The school is west the hallway.
+3 The park is south the school.
+4 The park is north the garden.
+5 What is the path from garden to school?	s,s	3 4
+1 The office is south the park.
+2 The bedroom is south the restaurant.
+3 The park is south the hallway.
+4 The hallway is east the bedroom.
+5 What is the path from hallway to restaurant?	e,s	2 4
+1 The library is north the bedroom.
+2 The park is south the bookstore.
+3 The library is west the kitchen.
+4 The library is east the park.
+5 What is the path from bedroom to kitchen?	s,w	1 3
+1 The bedroom is south the home.
+2 The bedroom is north the office.
+3 The office is east the library.
+4 The library is north the park.
+5 What is the path from bedroom to library?	n,e	2 3
+1 The park is west the bookstore.
+2 The restaurant is north the home.
+3 The kitchen is west the restaurant.
+4 The restaurant is south the park.
+5 What is the path from restaurant to bookstore?	s,w	1 4
+1 The library is south the bedroom.
+2 The kitchen is west the home.
+3 The bedroom is south the office.
+4 The bedroom is west the kitchen.
+5 What is the path from bedroom to home?	w,w	2 4
+1 The home is south the garden.
+2 The hallway is west the office.
+3 The bedroom is west the home.
+4 The home is north the hallway.
+5 What is the path from office to home?	e,s	2 4
+1 The kitchen is south the park.
+2 The kitchen is east the bathroom.
+3 The bathroom is east the bedroom.
+4 The school is east the kitchen.
+5 What is the path from park to bathroom?	n,e	1 2
+1 The office is east the school.
+2 The park is north the school.
+3 The hallway is west the bedroom.
+4 The park is east the bedroom.
+5 What is the path from school to bedroom?	s,e	2 4
+1 The bathroom is east the garden.
+2 The garden is north the home.
+3 The bathroom is west the library.
+4 The park is west the home.
+5 What is the path from library to garden?	e,e	1 3
+1 The library is south the restaurant.
+2 The library is north the home.
+3 The library is east the bedroom.
+4 The restaurant is west the bathroom.
+5 What is the path from bathroom to library?	e,n	1 4
+1 The bookstore is east the bedroom.
+2 The hallway is north the bookstore.
+3 The bookstore is west the restaurant.
+4 The kitchen is east the restaurant.
+5 What is the path from hallway to bedroom?	n,e	1 2
+1 The park is west the library.
+2 The garden is east the kitchen.
+3 The garden is north the park.
+4 The hallway is south the library.
+5 What is the path from library to garden?	e,s	1 3
+1 The kitchen is north the bathroom.
+2 The library is south the bathroom.
+3 The library is east the garden.
+4 The hallway is south the garden.
+5 What is the path from library to kitchen?	s,s	1 2
+1 The bookstore is north the bedroom.
+2 The bedroom is west the garden.
+3 The bedroom is north the park.
+4 The park is north the school.
+5 What is the path from bedroom to school?	n,n	3 4
+1 The restaurant is south the home.
+2 The school is south the kitchen.
+3 The home is east the bedroom.
+4 The home is south the school.
+5 What is the path from school to bedroom?	n,e	3 4
+1 The bathroom is west the library.
+2 The bedroom is south the park.
+3 The bedroom is north the school.
+4 The bathroom is east the bedroom.
+5 What is the path from bathroom to school?	e,n	3 4
+1 The bookstore is south the library.
+2 The restaurant is east the bookstore.
+3 The hallway is north the library.
+4 The bookstore is east the bedroom.
+5 What is the path from restaurant to library?	e,s	1 2
+1 The bathroom is west the bookstore.
+2 The hallway is west the bathroom.
+3 The bedroom is south the bathroom.
+4 The bookstore is south the school.
+5 What is the path from school to bathroom?	n,e	1 4
+1 The park is south the bathroom.
+2 The garden is west the park.
+3 The park is north the restaurant.
+4 The bathroom is west the bookstore.
+5 What is the path from garden to bathroom?	w,s	1 2
+1 The office is north the school.
+2 The bedroom is south the bathroom.
+3 The bedroom is west the office.
+4 The bathroom is east the kitchen.
+5 What is the path from bathroom to office?	n,w	2 3
+1 The library is east the bedroom.
+2 The park is south the bedroom.
+3 The office is north the hallway.
+4 The hallway is west the bedroom.
+5 What is the path from hallway to library?	w,w	1 4
+1 The park is west the library.
+2 The garden is north the bedroom.
+3 The bedroom is east the home.
+4 The bedroom is west the park.
+5 What is the path from home to garden?	w,s	2 3
+1 The bedroom is north the hallway.
+2 The restaurant is north the bedroom.
+3 The library is west the bedroom.
+4 The restaurant is south the park.
+5 What is the path from bedroom to park?	s,s	2 4
+1 The bookstore is west the home.
+2 The bookstore is east the park.
+3 The park is south the restaurant.
+4 The hallway is south the bookstore.
+5 What is the path from home to park?	e,e	1 2
+1 The school is west the bedroom.
+2 The bathroom is south the library.
+3 The library is east the bookstore.
+4 The school is east the library.
+5 What is the path from bookstore to bathroom?	w,n	2 3
+1 The bedroom is east the school.
+2 The restaurant is east the office.
+3 The restaurant is north the bookstore.
+4 The restaurant is west the school.
+5 What is the path from school to bookstore?	e,n	3 4
+1 The bathroom is west the bookstore.
+2 The garden is south the park.
+3 The bathroom is south the kitchen.
+4 The bookstore is north the park.
+5 What is the path from garden to bookstore?	s,s	2 4
+1 The garden is west the school.
+2 The garden is south the bookstore.
+3 The school is west the park.
+4 The bookstore is south the hallway.
+5 What is the path from park to garden?	e,e	1 3
+1 The restaurant is north the home.
+2 The home is east the office.
+3 The hallway is north the bathroom.
+4 The hallway is east the home.
+5 What is the path from hallway to office?	e,e	2 4
+1 The garden is north the library.
+2 The home is west the garden.
+3 The office is east the park.
+4 The library is north the park.
+5 What is the path from library to office?	n,w	3 4
+1 The park is west the library.
+2 The restaurant is south the library.
+3 The garden is east the hallway.
+4 The park is south the garden.
+5 What is the path from hallway to park?	w,n	3 4
+1 The restaurant is north the kitchen.
+2 The library is west the hallway.
+3 The home is west the kitchen.
+4 The kitchen is north the library.
+5 What is the path from library to home?	s,e	3 4
+1 The bedroom is north the office.
+2 The office is north the kitchen.
+3 The park is north the bedroom.
+4 The school is west the kitchen.
+5 What is the path from office to park?	s,s	1 3
+1 The office is north the school.
+2 The library is north the home.
+3 The home is north the office.
+4 The park is west the office.
+5 What is the path from home to school?	n,n	1 3
+1 The restaurant is south the bathroom.
+2 The bedroom is west the school.
+3 The home is north the bedroom.
+4 The bathroom is south the school.
+5 What is the path from home to school?	n,w	2 3
+1 The garden is east the bathroom.
+2 The hallway is north the school.
+3 The hallway is east the garden.
+4 The library is north the garden.
+5 What is the path from bathroom to hallway?	w,w	1 3
+1 The home is east the bookstore.
+2 The library is east the home.
+3 The bookstore is south the bathroom.
+4 The bookstore is east the school.
+5 What is the path from bookstore to library?	w,w	1 2
+1 The restaurant is west the hallway.
+2 The restaurant is east the bathroom.
+3 The park is north the hallway.
+4 The bathroom is north the school.
+5 What is the path from restaurant to school?	e,n	2 4
+1 The bookstore is north the garden.
+2 The bedroom is west the garden.
+3 The park is south the bathroom.
+4 The bookstore is west the park.
+5 What is the path from bathroom to bookstore?	n,e	3 4
+1 The garden is north the bedroom.
+2 The garden is east the restaurant.
+3 The school is north the garden.
+4 The school is west the bathroom.
+5 What is the path from bedroom to restaurant?	s,e	1 2
+1 The school is north the restaurant.
+2 The restaurant is east the office.
+3 The bookstore is east the restaurant.
+4 The bookstore is west the hallway.
+5 What is the path from office to school?	w,s	1 2
+1 The park is east the bookstore.
+2 The kitchen is east the office.
+3 The kitchen is north the bedroom.
+4 The kitchen is south the bookstore.
+5 What is the path from kitchen to park?	s,w	1 4
+1 The home is east the park.
+2 The bathroom is west the kitchen.
+3 The kitchen is south the garden.
+4 The park is south the kitchen.
+5 What is the path from bathroom to park?	w,n	2 4
+1 The bathroom is north the hallway.
+2 The library is north the home.
+3 The hallway is west the park.
+4 The home is west the bathroom.
+5 What is the path from home to hallway?	w,n	1 4
+1 The bathroom is south the garden.
+2 The bookstore is south the library.
+3 The garden is west the kitchen.
+4 The bathroom is east the library.
+5 What is the path from kitchen to bathroom?	e,n	1 3
+1 The office is west the bathroom.
+2 The office is east the bedroom.
+3 The garden is south the kitchen.
+4 The kitchen is east the bathroom.
+5 What is the path from garden to bathroom?	s,e	3 4
+1 The library is north the hallway.
+2 The school is south the hallway.
+3 The kitchen is west the restaurant.
+4 The kitchen is north the library.
+5 What is the path from restaurant to library?	e,n	3 4
+1 The hallway is east the bookstore.
+2 The bedroom is west the home.
+3 The bathroom is north the hallway.
+4 The bedroom is east the bathroom.
+5 What is the path from bathroom to home?	w,w	2 4
+1 The hallway is south the bathroom.
+2 The hallway is east the home.
+3 The bedroom is west the home.
+4 The bedroom is north the office.
+5 What is the path from bedroom to hallway?	w,w	2 3
+1 The library is north the home.
+2 The bedroom is east the hallway.
+3 The library is west the hallway.
+4 The restaurant is north the library.
+5 What is the path from home to hallway?	s,w	1 3
+1 The bedroom is west the bookstore.
+2 The hallway is east the bookstore.
+3 The hallway is south the home.
+4 The garden is south the bookstore.
+5 What is the path from bookstore to home?	w,s	2 3
+1 The home is south the bathroom.
+2 The home is east the garden.
+3 The kitchen is south the garden.
+4 The restaurant is south the kitchen.
+5 What is the path from bathroom to garden?	n,e	1 2
+1 The kitchen is east the garden.
+2 The kitchen is south the hallway.
+3 The bookstore is west the bedroom.
+4 The garden is north the bedroom.
+5 What is the path from bedroom to kitchen?	s,w	1 4
+1 The office is east the restaurant.
+2 The bathroom is north the park.
+3 The bathroom is south the office.
+4 The hallway is north the office.
+5 What is the path from hallway to restaurant?	n,e	1 4
+1 The office is north the bathroom.
+2 The kitchen is east the park.
+3 The office is south the park.
+4 The bathroom is east the hallway.
+5 What is the path from bathroom to park?	s,s	1 3
+1 The garden is west the restaurant.
+2 The park is north the restaurant.
+3 The hallway is north the kitchen.
+4 The hallway is east the restaurant.
+5 What is the path from park to garden?	n,e	1 2
+1 The restaurant is south the bathroom.
+2 The restaurant is east the hallway.
+3 The bathroom is south the park.
+4 The bathroom is west the kitchen.
+5 What is the path from kitchen to restaurant?	e,n	1 4
+1 The home is south the garden.
+2 The garden is east the school.
+3 The hallway is east the office.
+4 The hallway is north the school.
+5 What is the path from garden to hallway?	e,s	2 4
+1 The park is east the restaurant.
+2 The garden is south the restaurant.
+3 The bathroom is north the bedroom.
+4 The bedroom is west the restaurant.
+5 What is the path from bathroom to restaurant?	n,w	3 4
+1 The bedroom is south the library.
+2 The bookstore is north the school.
+3 The library is west the garden.
+4 The library is south the school.
+5 What is the path from garden to school?	e,s	3 4
+1 The park is west the garden.
+2 The garden is west the library.
+3 The office is west the kitchen.
+4 The office is north the library.
+5 What is the path from office to garden?	n,e	2 4
+1 The office is south the bookstore.
+2 The park is east the library.
+3 The park is west the bedroom.
+4 The library is south the office.
+5 What is the path from library to bookstore?	s,s	1 4
+1 The bedroom is east the bathroom.
+2 The bookstore is east the bedroom.
+3 The bookstore is west the office.
+4 The home is south the bedroom.
+5 What is the path from bookstore to bathroom?	e,e	1 2
+1 The bookstore is west the bedroom.
+2 The hallway is north the bookstore.
+3 The bathroom is west the hallway.
+4 The bedroom is west the garden.
+5 What is the path from bookstore to garden?	w,w	1 4
+1 The hallway is north the library.
+2 The hallway is west the home.
+3 The school is south the library.
+4 The garden is west the school.
+5 What is the path from library to home?	s,w	1 2
+1 The kitchen is east the library.
+2 The bookstore is west the library.
+3 The hallway is north the garden.
+4 The library is north the hallway.
+5 What is the path from hallway to bookstore?	s,e	2 4
+1 The garden is south the kitchen.
+2 The kitchen is west the hallway.
+3 The home is south the bookstore.
+4 The kitchen is east the home.
+5 What is the path from kitchen to bookstore?	e,s	3 4
+1 The bedroom is south the home.
+2 The bedroom is west the park.
+3 The kitchen is west the bookstore.
+4 The bookstore is west the bedroom.
+5 What is the path from home to bookstore?	n,e	1 4
+1 The bookstore is east the kitchen.
+2 The bookstore is north the bedroom.
+3 The school is west the hallway.
+4 The bookstore is south the school.
+5 What is the path from hallway to bookstore?	e,n	3 4
+1 The kitchen is east the hallway.
+2 The home is south the kitchen.
+3 The hallway is east the garden.
+4 The garden is south the school.
+5 What is the path from garden to kitchen?	w,w	1 3
+1 The bathroom is north the bedroom.
+2 The park is east the garden.
+3 The bathroom is east the park.
+4 The garden is north the library.
+5 What is the path from garden to bathroom?	w,w	2 3
+1 The garden is north the school.
+2 The restaurant is west the bathroom.
+3 The school is west the hallway.
+4 The bathroom is south the school.
+5 What is the path from bathroom to garden?	s,s	1 4
+1 The bedroom is east the restaurant.
+2 The bedroom is north the home.
+3 The home is north the bookstore.
+4 The restaurant is south the school.
+5 What is the path from home to restaurant?	s,e	1 2
+1 The bedroom is north the bookstore.
+2 The restaurant is south the bookstore.
+3 The hallway is west the bookstore.
+4 The bookstore is west the bathroom.
+5 What is the path from hallway to bathroom?	w,w	3 4
+1 The hallway is north the bookstore.
+2 The garden is south the bedroom.
+3 The office is south the garden.
+4 The hallway is south the office.
+5 What is the path from office to bedroom?	s,s	2 3
+1 The restaurant is east the bedroom.
+2 The restaurant is west the garden.
+3 The library is north the restaurant.
+4 The school is south the bedroom.
+5 What is the path from library to bedroom?	n,e	1 3
+1 The bookstore is west the kitchen.
+2 The kitchen is west the bathroom.
+3 The school is east the bathroom.
+4 The kitchen is south the home.
+5 What is the path from school to kitchen?	e,e	2 3
+1 The bedroom is east the park.
+2 The garden is north the park.
+3 The kitchen is east the bathroom.
+4 The kitchen is west the garden.
+5 What is the path from park to kitchen?	s,e	2 4
+1 The bathroom is south the library.
+2 The school is north the library.
+3 The library is west the hallway.
+4 The bathroom is north the office.
+5 What is the path from bathroom to school?	s,s	1 2
+1 The library is north the home.
+2 The home is north the office.
+3 The school is south the office.
+4 The bathroom is east the library.
+5 What is the path from office to library?	s,s	1 2
+1 The bedroom is north the home.
+2 The kitchen is east the garden.
+3 The bedroom is east the restaurant.
+4 The garden is north the bedroom.
+5 What is the path from garden to restaurant?	n,e	3 4
+1 The school is south the home.
+2 The bathroom is west the bedroom.
+3 The garden is east the bedroom.
+4 The home is south the bedroom.
+5 What is the path from bathroom to home?	w,n	2 4
+1 The restaurant is north the home.
+2 The bookstore is east the school.
+3 The school is east the garden.
+4 The restaurant is south the school.
+5 What is the path from restaurant to bookstore?	s,w	2 4
+1 The bathroom is east the bookstore.
+2 The restaurant is east the bathroom.
+3 The bookstore is north the park.
+4 The library is north the bathroom.
+5 What is the path from park to bathroom?	s,w	1 3
+1 The school is east the kitchen.
+2 The hallway is north the school.
+3 The office is east the garden.
+4 The garden is east the hallway.
+5 What is the path from school to garden?	s,w	2 4
+1 The garden is east the bathroom.
+2 The school is north the bedroom.
+3 The bedroom is west the hallway.
+4 The garden is west the bedroom.
+5 What is the path from bathroom to bedroom?	w,w	1 4
+1 The home is east the office.
+2 The school is east the bookstore.
+3 The school is north the park.
+4 The park is north the home.
+5 What is the path from park to office?	n,e	1 4
+1 The office is east the kitchen.
+2 The office is north the school.
+3 The hallway is north the office.
+4 The garden is east the office.
+5 What is the path from garden to school?	e,n	2 4
+1 The kitchen is east the school.
+2 The restaurant is north the kitchen.
+3 The school is north the bedroom.
+4 The school is east the bathroom.
+5 What is the path from kitchen to bedroom?	e,n	1 3
+1 The bedroom is south the park.
+2 The restaurant is west the home.
+3 The restaurant is north the park.
+4 The home is west the garden.
+5 What is the path from bedroom to restaurant?	s,s	1 3
+1 The school is east the hallway.
+2 The school is south the bookstore.
+3 The bedroom is east the school.
+4 The home is north the bookstore.
+5 What is the path from hallway to bookstore?	w,s	1 2
+1 The home is north the library.
+2 The bedroom is west the park.
+3 The bedroom is south the hallway.
+4 The library is west the hallway.
+5 What is the path from hallway to home?	e,s	1 4
+1 The restaurant is west the bedroom.
+2 The bedroom is north the park.
+3 The bedroom is west the school.
+4 The garden is north the school.
+5 What is the path from park to restaurant?	s,e	1 2
+1 The library is north the hallway.
+2 The hallway is north the bathroom.
+3 The bathroom is east the office.
+4 The bathroom is north the kitchen.
+5 What is the path from hallway to office?	n,e	2 3
+1 The bathroom is west the home.
+2 The kitchen is south the bathroom.
+3 The school is north the bathroom.
+4 The office is west the bathroom.
+5 What is the path from office to kitchen?	w,n	2 4
+1 The school is east the park.
+2 The bookstore is east the school.
+3 The restaurant is south the bookstore.
+4 The library is south the restaurant.
+5 What is the path from park to bookstore?	w,w	1 2
+1 The bookstore is south the kitchen.
+2 The kitchen is west the home.
+3 The bookstore is north the hallway.
+4 The library is east the hallway.
+5 What is the path from hallway to kitchen?	s,s	1 3
+1 The bookstore is east the garden.
+2 The bookstore is north the bathroom.
+3 The garden is east the restaurant.
+4 The kitchen is west the restaurant.
+5 What is the path from bookstore to restaurant?	e,e	1 3
+1 The office is south the garden.
+2 The office is west the bathroom.
+3 The garden is east the restaurant.
+4 The bookstore is west the restaurant.
+5 What is the path from office to restaurant?	s,e	1 3
+1 The restaurant is east the garden.
+2 The library is south the bedroom.
+3 The school is east the library.
+4 The library is east the restaurant.
+5 What is the path from bedroom to school?	n,w	2 3
+1 The office is south the bathroom.
+2 The bookstore is north the library.
+3 The office is west the restaurant.
+4 The library is east the restaurant.
+5 What is the path from restaurant to bathroom?	e,s	1 3
+1 The hallway is west the bookstore.
+2 The bedroom is north the hallway.
+3 The office is north the bedroom.
+4 The office is south the school.
+5 What is the path from office to hallway?	n,n	2 3
+1 The home is south the bathroom.
+2 The home is north the hallway.
+3 The park is west the hallway.
+4 The park is north the school.
+5 What is the path from school to hallway?	s,w	3 4
+1 The library is east the home.
+2 The garden is west the bedroom.
+3 The park is north the library.
+4 The library is north the garden.
+5 What is the path from park to garden?	n,n	3 4
+1 The restaurant is north the office.
+2 The kitchen is east the bookstore.
+3 The park is east the office.
+4 The bookstore is east the park.
+5 What is the path from bookstore to office?	e,e	3 4
+1 The school is south the park.
+2 The park is east the home.
+3 The home is east the restaurant.
+4 The hallway is south the school.
+5 What is the path from school to home?	s,e	1 2
+1 The bedroom is east the office.
+2 The office is north the library.
+3 The school is south the park.
+4 The bedroom is south the school.
+5 What is the path from park to bedroom?	n,n	3 4
+1 The school is south the bedroom.
+2 The bedroom is west the hallway.
+3 The park is east the garden.
+4 The garden is east the hallway.
+5 What is the path from garden to bedroom?	e,e	2 4
+1 The hallway is north the school.
+2 The kitchen is east the school.
+3 The bookstore is north the hallway.
+4 The school is north the home.
+5 What is the path from hallway to home?	n,n	1 4
+1 The school is south the bookstore.
+2 The bookstore is west the garden.
+3 The bathroom is east the park.
+4 The park is south the school.
+5 What is the path from bookstore to park?	n,n	1 4
+1 The restaurant is north the park.
+2 The hallway is north the home.
+3 The bathroom is west the home.
+4 The restaurant is east the home.
+5 What is the path from restaurant to hallway?	e,s	2 4
+1 The garden is north the bookstore.
+2 The school is south the hallway.
+3 The bookstore is west the library.
+4 The garden is south the school.
+5 What is the path from bookstore to school?	s,s	1 4
+1 The hallway is east the bedroom.
+2 The office is north the school.
+3 The bedroom is east the office.
+4 The office is south the home.
+5 What is the path from bedroom to school?	e,n	2 3
+1 The office is west the library.
+2 The office is south the hallway.
+3 The school is north the kitchen.
+4 The library is north the school.
+5 What is the path from office to school?	w,n	1 4
+1 The hallway is north the bookstore.
+2 The bedroom is south the school.
+3 The home is east the bookstore.
+4 The bedroom is west the hallway.
+5 What is the path from hallway to school?	e,s	2 4
+1 The kitchen is west the bedroom.
+2 The kitchen is south the school.
+3 The bedroom is north the home.
+4 The school is east the bookstore.
+5 What is the path from bookstore to kitchen?	w,n	2 4
+1 The garden is south the home.
+2 The kitchen is west the restaurant.
+3 The home is west the hallway.
+4 The home is south the restaurant.
+5 What is the path from restaurant to garden?	n,n	1 4
+1 The park is north the library.
+2 The park is south the kitchen.
+3 The bedroom is east the garden.
+4 The park is east the bedroom.
+5 What is the path from bedroom to library?	w,n	1 4
+1 The home is west the bookstore.
+2 The school is south the bathroom.
+3 The school is north the kitchen.
+4 The bathroom is west the home.
+5 What is the path from school to home?	s,w	2 4
+1 The hallway is north the garden.
+2 The library is north the home.
+3 The hallway is south the office.
+4 The home is north the office.
+5 What is the path from hallway to home?	s,s	3 4
+1 The school is south the bedroom.
+2 The bedroom is east the office.
+3 The bedroom is west the restaurant.
+4 The school is north the park.
+5 What is the path from office to school?	w,n	1 2
+1 The hallway is south the bookstore.
+2 The school is north the bookstore.
+3 The school is west the office.
+4 The bedroom is north the school.
+5 What is the path from office to bedroom?	e,s	3 4
+1 The bookstore is west the home.
+2 The restaurant is east the bedroom.
+3 The bedroom is south the office.
+4 The home is south the bedroom.
+5 What is the path from home to office?	s,s	3 4
+1 The kitchen is south the park.
+2 The bookstore is south the garden.
+3 The restaurant is north the garden.
+4 The restaurant is west the kitchen.
+5 What is the path from garden to kitchen?	s,w	3 4
+1 The kitchen is west the garden.
+2 The garden is west the office.
+3 The bedroom is north the home.
+4 The garden is north the bedroom.
+5 What is the path from garden to home?	n,n	3 4
+1 The bookstore is west the school.
+2 The school is north the bathroom.
+3 The bookstore is east the restaurant.
+4 The hallway is south the bathroom.
+5 What is the path from restaurant to school?	w,w	1 3
+1 The bookstore is south the school.
+2 The park is west the school.
+3 The restaurant is west the library.
+4 The school is south the restaurant.
+5 What is the path from park to restaurant?	w,s	2 4
+1 The bedroom is west the park.
+2 The kitchen is east the park.
+3 The bathroom is south the kitchen.
+4 The garden is north the park.
+5 What is the path from garden to kitchen?	n,w	2 4
+1 The library is south the hallway.
+2 The library is east the park.
+3 The kitchen is east the hallway.
+4 The bookstore is south the library.
+5 What is the path from park to hallway?	w,s	1 2
+1 The hallway is north the park.
+2 The garden is west the school.
+3 The park is west the office.
+4 The office is north the garden.
+5 What is the path from garden to park?	s,e	3 4
+1 The hallway is east the library.
+2 The library is south the school.
+3 The home is south the library.
+4 The library is east the bedroom.
+5 What is the path from bedroom to home?	w,n	3 4
+1 The kitchen is south the library.
+2 The hallway is east the library.
+3 The library is south the bedroom.
+4 The kitchen is east the bookstore.
+5 What is the path from kitchen to hallway?	s,w	1 2
+1 The bedroom is west the home.
+2 The hallway is south the library.
+3 The home is west the park.
+4 The library is south the home.
+5 What is the path from park to bedroom?	e,e	1 3
+1 The bedroom is west the office.
+2 The bedroom is north the restaurant.
+3 The restaurant is east the park.
+4 The library is north the bedroom.
+5 What is the path from restaurant to library?	s,s	2 4
+1 The restaurant is north the office.
+2 The bookstore is east the garden.
+3 The office is west the home.
+4 The home is north the garden.
+5 What is the path from home to restaurant?	e,s	1 3
+1 The bathroom is west the office.
+2 The bookstore is east the park.
+3 The library is south the park.
+4 The office is west the library.
+5 What is the path from library to bookstore?	s,w	2 3
+1 The restaurant is west the hallway.
+2 The bookstore is east the school.
+3 The bookstore is south the restaurant.
+4 The bedroom is south the bookstore.
+5 What is the path from restaurant to bedroom?	n,n	3 4
+1 The bedroom is north the park.
+2 The home is south the restaurant.
+3 The garden is west the bedroom.
+4 The restaurant is east the park.
+5 What is the path from park to garden?	s,e	1 3
+1 The park is south the school.
+2 The office is north the hallway.
+3 The hallway is east the library.
+4 The hallway is north the school.
+5 What is the path from school to library?	s,e	3 4
+1 The garden is north the bookstore.
+2 The bedroom is west the bookstore.
+3 The park is west the bedroom.
+4 The garden is south the school.
+5 What is the path from garden to bedroom?	n,e	1 2
+1 The school is north the park.
+2 The school is south the office.
+3 The library is west the park.
+4 The park is west the kitchen.
+5 What is the path from library to kitchen?	w,w	3 4
+1 The home is west the library.
+2 The bedroom is east the library.
+3 The library is south the office.
+4 The garden is north the office.
+5 What is the path from garden to library?	n,n	3 4
+1 The home is south the garden.
+2 The bedroom is west the garden.
+3 The park is east the restaurant.
+4 The home is north the park.
+5 What is the path from home to restaurant?	n,e	3 4
+1 The bathroom is south the hallway.
+2 The kitchen is south the restaurant.
+3 The kitchen is west the school.
+4 The hallway is south the kitchen.
+5 What is the path from school to restaurant?	e,s	2 3
+1 The bookstore is south the school.
+2 The school is south the home.
+3 The bedroom is east the home.
+4 The office is east the bookstore.
+5 What is the path from school to bedroom?	s,w	2 3
+1 The school is west the office.
+2 The garden is south the restaurant.
+3 The school is east the garden.
+4 The office is south the kitchen.
+5 What is the path from restaurant to school?	n,w	2 3
+1 The restaurant is south the school.
+2 The bookstore is east the school.
+3 The bathroom is west the kitchen.
+4 The kitchen is west the school.
+5 What is the path from kitchen to bookstore?	w,w	2 4
+1 The office is south the library.
+2 The park is east the library.
+3 The office is north the restaurant.
+4 The school is north the library.
+5 What is the path from office to park?	s,w	1 2
+1 The school is north the garden.
+2 The kitchen is west the park.
+3 The park is west the school.
+4 The garden is west the bathroom.
+5 What is the path from garden to park?	s,e	1 3
+1 The hallway is east the restaurant.
+2 The bedroom is north the restaurant.
+3 The bedroom is east the library.
+4 The bookstore is south the restaurant.
+5 What is the path from bedroom to hallway?	n,w	1 2
+1 The park is south the garden.
+2 The hallway is south the kitchen.
+3 The park is north the kitchen.
+4 The library is east the kitchen.
+5 What is the path from park to hallway?	n,n	2 3
+1 The home is east the library.
+2 The restaurant is east the home.
+3 The library is north the garden.
+4 The office is west the garden.
+5 What is the path from office to library?	w,s	3 4
+1 The bathroom is north the school.
+2 The home is east the bedroom.
+3 The home is south the school.
+4 The bedroom is north the restaurant.
+5 What is the path from school to bedroom?	n,e	2 3
+1 The bathroom is west the office.
+2 The school is west the restaurant.
+3 The garden is west the school.
+4 The restaurant is south the bathroom.
+5 What is the path from garden to restaurant?	w,w	2 3
+1 The kitchen is south the garden.
+2 The school is west the kitchen.
+3 The restaurant is east the bathroom.
+4 The bathroom is east the garden.
+5 What is the path from bathroom to kitchen?	e,n	1 4
+1 The bathroom is north the home.
+2 The kitchen is south the hallway.
+3 The home is east the bedroom.
+4 The hallway is south the home.
+5 What is the path from bathroom to hallway?	n,n	1 4
+1 The library is west the bookstore.
+2 The kitchen is east the bookstore.
+3 The park is east the restaurant.
+4 The kitchen is south the restaurant.
+5 What is the path from bookstore to restaurant?	w,s	2 4
+1 The bedroom is south the bookstore.
+2 The bookstore is south the hallway.
+3 The park is south the bedroom.
+4 The garden is west the bookstore.
+5 What is the path from bedroom to hallway?	s,s	1 2
+1 The garden is north the restaurant.
+2 The bookstore is north the garden.
+3 The office is west the bookstore.
+4 The bathroom is east the bookstore.
+5 What is the path from office to garden?	w,n	2 3
+1 The office is east the home.
+2 The garden is west the school.
+3 The garden is south the park.
+4 The office is west the park.
+5 What is the path from school to park?	e,s	2 3
+1 The library is south the bathroom.
+2 The office is east the bathroom.
+3 The office is west the restaurant.
+4 The home is north the bathroom.
+5 What is the path from library to office?	s,w	1 2
+1 The office is east the library.
+2 The office is west the kitchen.
+3 The school is north the kitchen.
+4 The kitchen is north the restaurant.
+5 What is the path from office to restaurant?	w,n	2 4
+1 The hallway is north the home.
+2 The school is north the library.
+3 The home is east the bathroom.
+4 The bathroom is east the library.
+5 What is the path from home to library?	e,e	3 4
+1 The restaurant is south the office.
+2 The bookstore is north the office.
+3 The park is north the bookstore.
+4 The bathroom is west the bookstore.
+5 What is the path from park to bathroom?	n,e	3 4
+1 The school is north the kitchen.
+2 The bedroom is west the park.
+3 The bedroom is east the kitchen.
+4 The kitchen is east the restaurant.
+5 What is the path from school to restaurant?	n,e	1 4
+1 The office is south the school.
+2 The home is east the restaurant.
+3 The kitchen is east the office.
+4 The office is north the home.
+5 What is the path from kitchen to school?	e,s	1 3
+1 The library is east the bathroom.
+2 The library is north the school.
+3 The garden is east the library.
+4 The school is north the bedroom.
+5 What is the path from library to bedroom?	n,n	2 4
+1 The bathroom is west the kitchen.
+2 The kitchen is south the bookstore.
+3 The kitchen is north the park.
+4 The kitchen is west the restaurant.
+5 What is the path from bathroom to bookstore?	w,s	1 2
+1 The restaurant is south the home.
+2 The home is south the bookstore.
+3 The garden is west the restaurant.
+4 The bookstore is south the park.
+5 What is the path from bookstore to restaurant?	n,n	1 2
+1 The library is west the garden.
+2 The library is east the park.
+3 The garden is north the hallway.
+4 The home is east the garden.
+5 What is the path from library to hallway?	w,n	1 3
+1 The bathroom is west the office.
+2 The bookstore is south the bathroom.
+3 The bookstore is north the library.
+4 The bathroom is east the home.
+5 What is the path from bathroom to library?	n,n	2 3
+1 The office is west the garden.
+2 The school is north the library.
+3 The school is west the office.
+4 The office is south the home.
+5 What is the path from home to school?	n,e	3 4
+1 The kitchen is north the garden.
+2 The park is east the garden.
+3 The hallway is west the office.
+4 The garden is east the office.
+5 What is the path from garden to hallway?	e,e	3 4
+1 The kitchen is east the home.
+2 The hallway is east the kitchen.
+3 The library is south the kitchen.
+4 The garden is west the home.
+5 What is the path from hallway to library?	e,n	2 3
+1 The garden is west the school.
+2 The garden is north the home.
+3 The office is east the school.
+4 The home is north the library.
+5 What is the path from office to garden?	e,e	1 3
+1 The bedroom is north the park.
+2 The park is north the bookstore.
+3 The bathroom is south the bookstore.
+4 The bookstore is west the restaurant.
+5 What is the path from bathroom to park?	s,s	2 3
+1 The kitchen is north the bathroom.
+2 The bathroom is west the home.
+3 The home is north the school.
+4 The park is west the kitchen.
+5 What is the path from home to kitchen?	e,s	1 2
+1 The school is east the bookstore.
+2 The office is west the bookstore.
+3 The bookstore is south the park.
+4 The office is north the restaurant.
+5 What is the path from office to school?	w,w	1 2
+1 The office is east the kitchen.
+2 The kitchen is east the park.
+3 The home is south the office.
+4 The park is north the school.
+5 What is the path from kitchen to school?	e,n	2 4
+1 The library is west the home.
+2 The home is west the restaurant.
+3 The library is north the office.
+4 The hallway is east the restaurant.
+5 What is the path from home to office?	e,n	1 3
+1 The office is east the garden.
+2 The office is south the kitchen.
+3 The library is east the office.
+4 The garden is north the bedroom.
+5 What is the path from library to garden?	e,e	1 3
+1 The home is south the office.
+2 The bedroom is west the kitchen.
+3 The kitchen is west the office.
+4 The home is north the bookstore.
+5 What is the path from home to kitchen?	s,e	1 3
+1 The school is north the restaurant.
+2 The home is south the restaurant.
+3 The bookstore is east the home.
+4 The garden is west the school.
+5 What is the path from home to school?	s,s	1 2
+1 The hallway is south the library.
+2 The library is west the garden.
+3 The restaurant is west the library.
+4 The restaurant is south the school.
+5 What is the path from hallway to restaurant?	s,e	1 3
+1 The bedroom is south the kitchen.
+2 The office is north the garden.
+3 The garden is west the kitchen.
+4 The library is north the office.
+5 What is the path from bedroom to garden?	s,e	1 3
+1 The office is west the library.
+2 The home is west the bookstore.
+3 The bookstore is south the bathroom.
+4 The home is north the library.
+5 What is the path from library to bookstore?	s,w	2 4
+1 The restaurant is west the school.
+2 The garden is north the restaurant.
+3 The park is west the garden.
+4 The park is south the hallway.
+5 What is the path from park to restaurant?	w,n	2 3
+1 The school is east the bookstore.
+2 The office is west the bookstore.
+3 The bathroom is south the bookstore.
+4 The office is south the kitchen.
+5 What is the path from office to bathroom?	w,n	2 3
+1 The garden is north the kitchen.
+2 The kitchen is north the restaurant.
+3 The bookstore is east the kitchen.
+4 The school is north the garden.
+5 What is the path from kitchen to school?	s,s	1 4
+1 The bookstore is west the home.
+2 The home is north the park.
+3 The bedroom is east the home.
+4 The home is south the restaurant.
+5 What is the path from bedroom to bookstore?	e,e	1 3
+1 The hallway is west the park.
+2 The bookstore is east the restaurant.
+3 The hallway is north the bookstore.
+4 The hallway is south the bedroom.
+5 What is the path from bedroom to bookstore?	n,n	3 4
+1 The restaurant is west the office.
+2 The hallway is west the restaurant.
+3 The restaurant is north the bathroom.
+4 The bookstore is north the hallway.
+5 What is the path from bathroom to hallway?	s,e	2 3
+1 The office is north the restaurant.
+2 The garden is north the park.
+3 The home is south the park.
+4 The home is west the office.
+5 What is the path from home to garden?	s,s	2 3
+1 The home is south the office.
+2 The bookstore is east the bathroom.
+3 The home is north the bookstore.
+4 The kitchen is east the home.
+5 What is the path from kitchen to bookstore?	e,n	3 4
+1 The garden is east the school.
+2 The school is east the park.
+3 The school is north the home.
+4 The park is east the library.
+5 What is the path from garden to home?	e,n	1 3
+1 The restaurant is north the library.
+2 The bedroom is east the bookstore.
+3 The kitchen is east the restaurant.
+4 The bookstore is north the kitchen.
+5 What is the path from bedroom to kitchen?	e,n	2 4
+1 The bookstore is north the office.
+2 The office is east the park.
+3 The hallway is east the office.
+4 The restaurant is west the park.
+5 What is the path from park to bookstore?	w,s	1 2
+1 The bedroom is east the bookstore.
+2 The bedroom is north the garden.
+3 The restaurant is west the bookstore.
+4 The home is east the bedroom.
+5 What is the path from restaurant to bedroom?	w,w	1 3
+1 The school is north the bedroom.
+2 The park is west the office.
+3 The restaurant is north the school.
+4 The school is east the office.
+5 What is the path from bedroom to office?	s,e	1 4
+1 The library is east the restaurant.
+2 The bookstore is north the bedroom.
+3 The library is west the bedroom.
+4 The home is east the bookstore.
+5 What is the path from bedroom to home?	s,w	2 4
+1 The home is east the bathroom.
+2 The bathroom is east the bedroom.
+3 The bedroom is north the park.
+4 The bookstore is west the bedroom.
+5 What is the path from bedroom to home?	w,w	1 2
+1 The restaurant is north the school.
+2 The office is west the kitchen.
+3 The school is east the hallway.
+4 The school is north the office.
+5 What is the path from hallway to restaurant?	w,s	1 3
+1 The bedroom is south the garden.
+2 The garden is east the school.
+3 The kitchen is east the garden.
+4 The school is south the home.
+5 What is the path from garden to home?	e,s	2 4
+1 The home is east the bedroom.
+2 The library is south the home.
+3 The home is south the bathroom.
+4 The library is west the restaurant.
+5 What is the path from bathroom to library?	n,n	2 3
+1 The library is south the office.
+2 The bathroom is south the garden.
+3 The garden is east the library.
+4 The garden is west the park.
+5 What is the path from library to bathroom?	w,n	2 3
+1 The bookstore is west the restaurant.
+2 The bedroom is north the bookstore.
+3 The garden is east the school.
+4 The bookstore is north the garden.
+5 What is the path from restaurant to garden?	e,n	1 4
+1 The school is east the library.
+2 The bathroom is south the school.
+3 The restaurant is west the office.
+4 The office is south the bathroom.
+5 What is the path from school to office?	n,n	2 4
+1 The kitchen is south the restaurant.
+2 The library is south the kitchen.
+3 The school is south the office.
+4 The library is east the office.
+5 What is the path from library to restaurant?	s,s	1 2
+1 The garden is east the bathroom.
+2 The office is north the home.
+3 The garden is west the home.
+4 The office is south the school.
+5 What is the path from office to garden?	n,e	2 3
+1 The library is west the office.
+2 The garden is east the office.
+3 The library is east the school.
+4 The bookstore is south the garden.
+5 What is the path from school to office?	w,w	1 3
+1 The bookstore is east the library.
+2 The school is west the library.
+3 The bookstore is south the garden.
+4 The bedroom is south the library.
+5 What is the path from bookstore to bedroom?	e,n	1 4
+1 The bedroom is east the hallway.
+2 The home is west the hallway.
+3 The park is north the bedroom.
+4 The bedroom is north the office.
+5 What is the path from bedroom to home?	e,e	1 2
+1 The hallway is north the bathroom.
+2 The hallway is east the office.
+3 The bathroom is north the kitchen.
+4 The kitchen is north the bookstore.
+5 What is the path from bathroom to bookstore?	n,n	3 4
+1 The home is north the park.
+2 The kitchen is west the park.
+3 The restaurant is west the office.
+4 The home is west the restaurant.
+5 What is the path from home to kitchen?	n,e	1 2
+1 The office is south the hallway.
+2 The office is east the school.
+3 The restaurant is west the school.
+4 The park is south the school.
+5 What is the path from park to office?	s,w	2 4
+1 The restaurant is east the park.
+2 The home is south the bathroom.
+3 The home is north the park.
+4 The park is north the school.
+5 What is the path from restaurant to home?	e,s	1 3
+1 The home is east the bookstore.
+2 The school is north the bookstore.
+3 The school is east the bedroom.
+4 The park is south the bookstore.
+5 What is the path from bedroom to bookstore?	w,n	2 3
+1 The kitchen is west the bathroom.
+2 The hallway is west the kitchen.
+3 The park is south the kitchen.
+4 The garden is north the hallway.
+5 What is the path from park to hallway?	s,e	2 3
+1 The bedroom is north the bathroom.
+2 The bedroom is south the bookstore.
+3 The bathroom is east the office.
+4 The park is east the bathroom.
+5 What is the path from office to bedroom?	w,s	1 3
+1 The school is east the restaurant.
+2 The restaurant is east the bathroom.
+3 The office is north the school.
+4 The home is west the bathroom.
+5 What is the path from restaurant to office?	w,s	1 3
+1 The hallway is east the bedroom.
+2 The school is east the home.
+3 The hallway is north the library.
+4 The bedroom is south the school.
+5 What is the path from library to bedroom?	s,e	1 3
+1 The park is east the bathroom.
+2 The restaurant is north the park.
+3 The home is south the bathroom.
+4 The office is west the home.
+5 What is the path from office to bathroom?	w,s	3 4
+1 The bookstore is west the home.
+2 The home is north the library.
+3 The home is west the hallway.
+4 The bedroom is north the home.
+5 What is the path from bedroom to bookstore?	n,e	1 4
+1 The home is south the office.
+2 The home is north the park.
+3 The home is east the hallway.
+4 The bookstore is east the home.
+5 What is the path from bookstore to park?	e,n	2 4
+1 The kitchen is south the bedroom.
+2 The hallway is north the library.
+3 The bedroom is south the school.
+4 The kitchen is east the hallway.
+5 What is the path from hallway to bedroom?	w,s	1 4
+1 The school is south the kitchen.
+2 The kitchen is west the park.
+3 The kitchen is east the home.
+4 The home is east the library.
+5 What is the path from home to school?	w,n	1 3
+1 The bookstore is east the home.
+2 The home is south the school.
+3 The bedroom is south the home.
+4 The restaurant is west the school.
+5 What is the path from bedroom to bookstore?	s,w	1 3
+1 The library is east the park.
+2 The park is north the school.
+3 The library is south the hallway.
+4 The home is north the hallway.
+5 What is the path from library to home?	s,s	3 4
+1 The garden is west the office.
+2 The bedroom is west the garden.
+3 The office is north the restaurant.
+4 The kitchen is north the garden.
+5 What is the path from office to kitchen?	e,s	1 4
+1 The library is south the restaurant.
+2 The garden is north the office.
+3 The home is east the restaurant.
+4 The home is west the garden.
+5 What is the path from home to office?	w,n	2 4
+1 The restaurant is east the garden.
+2 The garden is south the library.
+3 The restaurant is north the school.
+4 The garden is east the office.
+5 What is the path from school to garden?	s,e	1 3
+1 The park is south the office.
+2 The office is east the bedroom.
+3 The home is south the park.
+4 The bookstore is north the office.
+5 What is the path from office to home?	n,n	1 3
+1 The restaurant is south the school.
+2 The school is south the home.
+3 The home is east the park.
+4 The home is south the office.
+5 What is the path from school to park?	s,e	2 3
+1 The park is west the bookstore.
+2 The library is west the park.
+3 The office is north the library.
+4 The library is east the hallway.
+5 What is the path from library to bookstore?	w,w	1 2
+1 The school is west the park.
+2 The park is north the bathroom.
+3 The library is south the bathroom.
+4 The office is north the school.
+5 What is the path from library to park?	s,s	2 3
+1 The restaurant is north the kitchen.
+2 The garden is south the bathroom.
+3 The kitchen is west the bathroom.
+4 The garden is north the hallway.
+5 What is the path from garden to kitchen?	s,e	2 3
+1 The bedroom is south the park.
+2 The bedroom is north the garden.
+3 The bedroom is west the library.
+4 The park is east the home.
+5 What is the path from park to library?	n,w	1 3
+1 The hallway is east the park.
+2 The school is south the bookstore.
+3 The park is north the bookstore.
+4 The school is north the bathroom.
+5 What is the path from park to school?	n,n	2 3
+1 The bathroom is south the home.
+2 The office is west the library.
+3 The home is south the office.
+4 The bedroom is east the library.
+5 What is the path from home to library?	s,w	2 3
+1 The bookstore is north the office.
+2 The bookstore is west the bathroom.
+3 The restaurant is east the bathroom.
+4 The school is north the bathroom.
+5 What is the path from office to bathroom?	s,w	1 2
+1 The garden is west the library.
+2 The library is north the restaurant.
+3 The library is west the park.
+4 The library is south the bedroom.
+5 What is the path from park to bedroom?	e,s	3 4
+1 The library is south the home.
+2 The bookstore is west the kitchen.
+3 The home is east the kitchen.
+4 The office is north the home.
+5 What is the path from office to library?	n,n	1 4
+1 The restaurant is east the bedroom.
+2 The garden is north the hallway.
+3 The restaurant is west the garden.
+4 The bedroom is south the kitchen.
+5 What is the path from restaurant to kitchen?	e,s	1 4
+1 The garden is south the home.
+2 The bookstore is east the home.
+3 The kitchen is north the home.
+4 The kitchen is east the hallway.
+5 What is the path from kitchen to garden?	n,n	1 3
+1 The bedroom is north the kitchen.
+2 The hallway is south the kitchen.
+3 The kitchen is west the park.
+4 The bookstore is west the kitchen.
+5 What is the path from bedroom to hallway?	n,n	1 2
+1 The park is east the restaurant.
+2 The hallway is east the park.
+3 The bathroom is north the school.
+4 The restaurant is east the school.
+5 What is the path from school to park?	w,w	1 4
+1 The library is south the kitchen.
+2 The bookstore is east the kitchen.
+3 The library is east the school.
+4 The bookstore is west the hallway.
+5 What is the path from library to bookstore?	s,w	1 2
+1 The school is west the kitchen.
+2 The kitchen is south the bookstore.
+3 The kitchen is west the park.
+4 The kitchen is north the garden.
+5 What is the path from school to bookstore?	w,s	1 2
+1 The park is north the bookstore.
+2 The kitchen is east the bedroom.
+3 The bookstore is west the garden.
+4 The park is east the kitchen.
+5 What is the path from park to bedroom?	e,e	2 4
+1 The home is south the school.
+2 The home is west the bathroom.
+3 The hallway is south the garden.
+4 The garden is east the bathroom.
+5 What is the path from garden to home?	e,e	2 4
+1 The office is east the garden.
+2 The bookstore is north the garden.
+3 The restaurant is west the bookstore.
+4 The kitchen is west the restaurant.
+5 What is the path from office to bookstore?	e,s	1 2
+1 The library is north the restaurant.
+2 The restaurant is east the park.
+3 The park is north the office.
+4 The school is east the restaurant.
+5 What is the path from restaurant to office?	e,n	2 3
+1 The school is south the office.
+2 The hallway is east the office.
+3 The park is north the bedroom.
+4 The office is south the bedroom.
+5 What is the path from school to hallway?	s,w	1 2
+1 The office is west the bedroom.
+2 The bedroom is south the hallway.
+3 The library is south the school.
+4 The office is east the school.
+5 What is the path from office to hallway?	w,s	1 2
+1 The restaurant is south the home.
+2 The home is south the kitchen.
+3 The park is north the bookstore.
+4 The restaurant is north the park.
+5 What is the path from restaurant to bookstore?	n,n	3 4
+1 The school is west the home.
+2 The bedroom is south the office.
+3 The park is north the school.
+4 The school is east the office.
+5 What is the path from park to office?	n,e	3 4
+1 The library is south the bedroom.
+2 The garden is north the bedroom.
+3 The bathroom is west the library.
+4 The park is east the library.
+5 What is the path from garden to library?	n,n	1 2
+1 The restaurant is east the school.
+2 The hallway is south the school.
+3 The school is east the bathroom.
+4 The hallway is north the office.
+5 What is the path from hallway to restaurant?	s,w	1 2
+1 The park is north the hallway.
+2 The office is south the school.
+3 The garden is east the school.
+4 The school is south the hallway.
+5 What is the path from garden to office?	e,n	2 3
+1 The kitchen is south the restaurant.
+2 The bathroom is east the school.
+3 The hallway is north the bathroom.
+4 The restaurant is east the bathroom.
+5 What is the path from hallway to school?	n,e	2 3
+1 The bookstore is south the garden.
+2 The restaurant is west the bedroom.
+3 The library is north the restaurant.
+4 The garden is west the restaurant.
+5 What is the path from library to garden?	n,e	3 4
+1 The school is south the kitchen.
+2 The hallway is west the bathroom.
+3 The school is north the bathroom.
+4 The bathroom is west the restaurant.
+5 What is the path from school to restaurant?	n,w	3 4
+1 The restaurant is north the home.
+2 The kitchen is east the home.
+3 The bookstore is west the home.
+4 The bedroom is south the home.
+5 What is the path from restaurant to kitchen?	n,w	1 2
+1 The bookstore is south the kitchen.
+2 The office is north the kitchen.
+3 The library is north the hallway.
+4 The bookstore is east the library.
+5 What is the path from office to bookstore?	n,n	1 2
+1 The home is west the restaurant.
+2 The restaurant is north the library.
+3 The garden is north the home.
+4 The restaurant is west the school.
+5 What is the path from home to school?	w,w	1 4
+1 The library is north the bedroom.
+2 The bathroom is east the hallway.
+3 The kitchen is west the library.
+4 The bedroom is north the bathroom.
+5 What is the path from bathroom to library?	s,s	1 4
+1 The hallway is east the restaurant.
+2 The kitchen is south the restaurant.
+3 The school is east the garden.
+4 The hallway is south the garden.
+5 What is the path from garden to restaurant?	n,e	1 4
+1 The restaurant is west the hallway.
+2 The park is north the hallway.
+3 The park is south the bedroom.
+4 The garden is south the restaurant.
+5 What is the path from hallway to garden?	e,n	1 4
+1 The bookstore is north the hallway.
+2 The bathroom is north the bookstore.
+3 The hallway is north the office.
+4 The garden is east the bookstore.
+5 What is the path from garden to hallway?	e,n	1 4
+1 The bathroom is north the bookstore.
+2 The home is west the library.
+3 The bathroom is south the library.
+4 The library is west the park.
+5 What is the path from home to bathroom?	w,n	2 3
+1 The restaurant is west the office.
+2 The library is east the office.
+3 The bedroom is south the restaurant.
+4 The bathroom is east the library.
+5 What is the path from restaurant to library?	w,w	1 2
+1 The bathroom is east the office.
+2 The office is north the home.
+3 The school is west the office.
+4 The bathroom is west the garden.
+5 What is the path from bathroom to school?	e,e	1 3
+1 The park is south the bathroom.
+2 The park is north the garden.
+3 The kitchen is west the bedroom.
+4 The bedroom is west the park.
+5 What is the path from garden to bedroom?	s,e	2 4
+1 The garden is south the bedroom.
+2 The park is east the garden.
+3 The bedroom is south the restaurant.
+4 The home is north the restaurant.
+5 What is the path from bedroom to home?	s,s	3 4
+1 The office is west the bathroom.
+2 The bathroom is south the kitchen.
+3 The home is north the garden.
+4 The home is south the office.
+5 What is the path from kitchen to office?	n,e	1 2
+1 The school is west the garden.
+2 The garden is south the hallway.
+3 The bedroom is east the kitchen.
+4 The garden is north the kitchen.
+5 What is the path from bedroom to garden?	e,s	3 4
+1 The kitchen is east the park.
+2 The bedroom is north the library.
+3 The library is north the bathroom.
+4 The bathroom is north the kitchen.
+5 What is the path from park to bathroom?	w,s	1 4
+1 The kitchen is north the home.
+2 The home is west the bathroom.
+3 The school is west the home.
+4 The home is north the bookstore.
+5 What is the path from school to kitchen?	w,s	1 3
+1 The home is east the park.
+2 The hallway is north the garden.
+3 The home is south the garden.
+4 The home is north the library.
+5 What is the path from park to garden?	w,s	1 3
+1 The bookstore is east the school.
+2 The bookstore is north the kitchen.
+3 The office is north the school.
+4 The hallway is west the office.
+5 What is the path from office to bookstore?	n,w	1 3
+1 The home is east the library.
+2 The park is east the kitchen.
+3 The garden is south the park.
+4 The home is south the garden.
+5 What is the path from kitchen to garden?	w,n	2 3
+1 The restaurant is north the garden.
+2 The garden is north the bedroom.
+3 The bookstore is east the restaurant.
+4 The school is east the bedroom.
+5 What is the path from school to garden?	e,s	2 4
+1 The school is south the library.
+2 The bedroom is east the office.
+3 The school is west the home.
+4 The school is north the bedroom.
+5 What is the path from bedroom to home?	s,w	3 4
+1 The bookstore is north the bedroom.
+2 The kitchen is north the library.
+3 The school is west the kitchen.
+4 The school is east the bedroom.
+5 What is the path from school to library?	w,n	2 3
+1 The park is west the restaurant.
+2 The office is east the restaurant.
+3 The park is east the home.
+4 The restaurant is south the hallway.
+5 What is the path from park to hallway?	w,s	1 4
+1 The school is west the bedroom.
+2 The office is north the restaurant.
+3 The bathroom is west the school.
+4 The restaurant is north the school.
+5 What is the path from bathroom to restaurant?	w,s	3 4
+1 The bookstore is east the kitchen.
+2 The library is west the kitchen.
+3 The kitchen is south the bedroom.
+4 The bookstore is west the hallway.
+5 What is the path from bookstore to bedroom?	e,s	1 3
+1 The kitchen is south the garden.
+2 The bookstore is east the library.
+3 The garden is south the school.
+4 The library is north the school.
+5 What is the path from school to bookstore?	s,w	2 4
+1 The library is west the bathroom.
+2 The bathroom is south the park.
+3 The library is north the bedroom.
+4 The office is west the library.
+5 What is the path from office to bathroom?	w,w	1 4
+1 The kitchen is north the office.
+2 The office is west the restaurant.
+3 The restaurant is north the library.
+4 The kitchen is south the home.
+5 What is the path from kitchen to restaurant?	n,w	1 2
+1 The hallway is south the library.
+2 The library is south the bedroom.
+3 The office is east the library.
+4 The bedroom is south the restaurant.
+5 What is the path from hallway to office?	s,w	1 3
+1 The restaurant is south the office.
+2 The office is west the hallway.
+3 The library is north the hallway.
+4 The library is south the bookstore.
+5 What is the path from library to office?	n,e	2 3
+1 The library is north the school.
+2 The bathroom is east the library.
+3 The garden is south the home.
+4 The garden is west the library.
+5 What is the path from home to library?	n,w	3 4
+1 The library is west the park.
+2 The park is north the kitchen.
+3 The office is east the hallway.
+4 The park is south the hallway.
+5 What is the path from office to park?	e,n	3 4
+1 The kitchen is south the restaurant.
+2 The home is north the school.
+3 The bathroom is west the school.
+4 The restaurant is south the school.
+5 What is the path from home to restaurant?	n,n	2 4
+1 The home is west the school.
+2 The home is east the kitchen.
+3 The library is east the hallway.
+4 The hallway is east the school.
+5 What is the path from hallway to home?	e,e	1 4
+1 The school is north the bookstore.
+2 The bedroom is north the office.
+3 The home is west the office.
+4 The home is east the bookstore.
+5 What is the path from bookstore to office?	w,w	3 4
+1 The bathroom is north the office.
+2 The park is west the library.
+3 The park is east the bathroom.
+4 The bookstore is east the library.
+5 What is the path from library to bathroom?	e,e	2 3
+1 The garden is east the library.
+2 The home is west the park.
+3 The library is east the office.
+4 The park is south the office.
+5 What is the path from library to park?	e,n	3 4
+1 The library is west the park.
+2 The park is north the kitchen.
+3 The kitchen is north the bedroom.
+4 The kitchen is west the office.
+5 What is the path from park to office?	n,w	2 4
+1 The park is north the bathroom.
+2 The bedroom is south the home.
+3 The hallway is north the home.
+4 The hallway is south the bathroom.
+5 What is the path from bathroom to home?	n,n	3 4
+1 The kitchen is west the garden.
+2 The garden is north the school.
+3 The hallway is east the school.
+4 The home is north the kitchen.
+5 What is the path from school to kitchen?	s,e	1 2
+1 The kitchen is east the restaurant.
+2 The restaurant is north the bathroom.
+3 The office is south the bathroom.
+4 The park is east the kitchen.
+5 What is the path from restaurant to office?	n,n	2 3
+1 The office is west the kitchen.
+2 The library is west the bedroom.
+3 The library is south the kitchen.
+4 The office is east the bookstore.
+5 What is the path from library to office?	s,e	1 3
+1 The garden is east the restaurant.
+2 The garden is north the hallway.
+3 The kitchen is south the bathroom.
+4 The restaurant is south the kitchen.
+5 What is the path from restaurant to hallway?	w,n	1 2
+1 The garden is east the school.
+2 The bookstore is north the school.
+3 The park is west the school.
+4 The park is north the library.
+5 What is the path from school to library?	e,n	3 4
+1 The restaurant is west the kitchen.
+2 The restaurant is south the library.
+3 The library is south the park.
+4 The restaurant is east the office.
+5 What is the path from library to office?	n,e	2 4
+1 The bookstore is south the park.
+2 The garden is west the library.
+3 The bathroom is south the garden.
+4 The park is west the bathroom.
+5 What is the path from bookstore to bathroom?	s,w	1 4
+1 The garden is west the park.
+2 The restaurant is west the garden.
+3 The restaurant is south the home.
+4 The park is north the bedroom.
+5 What is the path from restaurant to park?	w,w	1 2
+1 The bookstore is east the restaurant.
+2 The garden is west the office.
+3 The home is west the garden.
+4 The bookstore is north the home.
+5 What is the path from bookstore to garden?	n,w	3 4
+1 The garden is west the library.
+2 The restaurant is west the bathroom.
+3 The bathroom is west the garden.
+4 The bathroom is south the bedroom.
+5 What is the path from restaurant to bedroom?	w,s	2 4
+1 The kitchen is east the park.
+2 The park is south the office.
+3 The park is north the school.
+4 The bathroom is south the school.
+5 What is the path from school to kitchen?	s,w	1 3
+1 The office is north the bathroom.
+2 The garden is west the office.
+3 The park is south the bedroom.
+4 The bedroom is west the garden.
+5 What is the path from bathroom to garden?	s,e	1 2
+1 The office is south the garden.
+2 The bathroom is north the kitchen.
+3 The bathroom is east the bedroom.
+4 The bedroom is south the office.
+5 What is the path from garden to bedroom?	n,n	1 4
+1 The bedroom is south the park.
+2 The bookstore is east the park.
+3 The kitchen is south the bedroom.
+4 The restaurant is north the park.
+5 What is the path from restaurant to bookstore?	n,w	2 4
+1 The bathroom is west the library.
+2 The garden is west the bathroom.
+3 The school is west the garden.
+4 The garden is north the kitchen.
+5 What is the path from school to bathroom?	w,w	2 3
+1 The school is west the bookstore.
+2 The garden is south the school.
+3 The kitchen is west the school.
+4 The school is south the library.
+5 What is the path from bookstore to kitchen?	e,e	1 3
+1 The office is west the bathroom.
+2 The bedroom is east the park.
+3 The bathroom is west the park.
+4 The kitchen is north the bathroom.
+5 What is the path from office to park?	w,w	1 3
+1 The bookstore is east the park.
+2 The bookstore is south the kitchen.
+3 The restaurant is west the bedroom.
+4 The restaurant is east the bookstore.
+5 What is the path from restaurant to kitchen?	e,s	2 4
+1 The restaurant is south the library.
+2 The home is south the kitchen.
+3 The home is north the library.
+4 The home is east the bathroom.
+5 What is the path from home to restaurant?	n,n	1 3
+1 The office is east the bathroom.
+2 The hallway is east the restaurant.
+3 The home is north the restaurant.
+4 The bathroom is east the hallway.
+5 What is the path from office to hallway?	e,e	1 4
+1 The bookstore is north the home.
+2 The kitchen is south the home.
+3 The park is west the hallway.
+4 The home is east the hallway.
+5 What is the path from hallway to kitchen?	w,n	2 4
+1 The hallway is south the office.
+2 The office is east the bookstore.
+3 The park is north the kitchen.
+4 The bookstore is east the kitchen.
+5 What is the path from bookstore to hallway?	w,n	1 2
+1 The kitchen is east the bookstore.
+2 The bookstore is south the restaurant.
+3 The restaurant is east the office.
+4 The hallway is south the bookstore.
+5 What is the path from kitchen to restaurant?	e,s	1 2
+1 The park is north the library.
+2 The school is east the home.
+3 The school is north the kitchen.
+4 The library is north the home.
+5 What is the path from library to school?	n,w	2 4
+1 The school is east the kitchen.
+2 The hallway is north the restaurant.
+3 The kitchen is south the office.
+4 The hallway is west the kitchen.
+5 What is the path from school to hallway?	e,e	1 4
+1 The restaurant is north the kitchen.
+2 The bookstore is north the restaurant.
+3 The kitchen is north the garden.
+4 The home is east the kitchen.
+5 What is the path from kitchen to bookstore?	s,s	1 2
+1 The school is west the kitchen.
+2 The bookstore is north the kitchen.
+3 The bedroom is south the school.
+4 The kitchen is west the office.
+5 What is the path from office to school?	e,e	1 4
+1 The park is south the bedroom.
+2 The garden is east the bedroom.
+3 The bedroom is east the home.
+4 The home is east the library.
+5 What is the path from bedroom to library?	e,e	3 4
+1 The hallway is east the office.
+2 The bathroom is south the office.
+3 The bedroom is north the hallway.
+4 The kitchen is south the bathroom.
+5 What is the path from bedroom to office?	n,e	1 3
+1 The school is south the bookstore.
+2 The hallway is west the home.
+3 The bedroom is west the hallway.
+4 The home is north the bookstore.
+5 What is the path from bedroom to home?	w,w	2 3
+1 The bookstore is north the kitchen.
+2 The park is east the kitchen.
+3 The park is west the school.
+4 The office is west the kitchen.
+5 What is the path from bookstore to park?	n,w	1 2
+1 The home is east the office.
+2 The library is west the kitchen.
+3 The office is south the park.
+4 The library is south the home.
+5 What is the path from kitchen to home?	e,s	2 4
+1 The bedroom is east the school.
+2 The garden is north the library.
+3 The kitchen is south the library.
+4 The school is east the library.
+5 What is the path from garden to school?	n,w	2 4
+1 The hallway is east the park.
+2 The school is north the bookstore.
+3 The bedroom is west the bookstore.
+4 The bookstore is north the park.
+5 What is the path from bookstore to hallway?	n,w	1 4
+1 The restaurant is south the bathroom.
+2 The bedroom is west the library.
+3 The office is east the library.
+4 The office is west the restaurant.
+5 What is the path from bathroom to office?	n,e	1 4
+1 The bedroom is west the restaurant.
+2 The restaurant is west the bookstore.
+3 The park is north the restaurant.
+4 The kitchen is west the bedroom.
+5 What is the path from bedroom to park?	w,s	1 3
+1 The office is east the restaurant.
+2 The library is south the office.
+3 The bookstore is east the school.
+4 The school is north the office.
+5 What is the path from restaurant to school?	w,s	1 4
+1 The restaurant is west the hallway.
+2 The bedroom is east the bookstore.
+3 The bathroom is north the restaurant.
+4 The bedroom is west the restaurant.
+5 What is the path from hallway to bathroom?	e,s	1 3
+1 The restaurant is north the kitchen.
+2 The restaurant is east the hallway.
+3 The restaurant is west the library.
+4 The bookstore is north the restaurant.
+5 What is the path from library to kitchen?	e,n	1 3
+1 The office is east the school.
+2 The kitchen is north the library.
+3 The park is east the office.
+4 The kitchen is south the office.
+5 What is the path from park to kitchen?	e,n	3 4
+1 The hallway is south the park.
+2 The garden is south the kitchen.
+3 The garden is east the office.
+4 The hallway is east the kitchen.
+5 What is the path from hallway to garden?	e,n	2 4
+1 The home is east the bathroom.
+2 The bathroom is east the kitchen.
+3 The kitchen is north the bedroom.
+4 The bookstore is south the home.
+5 What is the path from bookstore to bathroom?	s,e	1 4
+1 The park is east the bathroom.
+2 The park is west the hallway.
+3 The kitchen is south the bathroom.
+4 The park is south the library.
+5 What is the path from library to bathroom?	n,e	1 4
+1 The bathroom is north the bookstore.
+2 The bathroom is south the school.
+3 The school is east the office.
+4 The school is west the home.
+5 What is the path from office to bathroom?	w,n	2 3
+1 The library is north the bedroom.
+2 The restaurant is east the home.
+3 The library is west the bookstore.
+4 The library is south the restaurant.
+5 What is the path from restaurant to bedroom?	n,n	1 4
+1 The bookstore is east the library.
+2 The restaurant is north the bathroom.
+3 The bathroom is north the bookstore.
+4 The garden is south the bookstore.
+5 What is the path from restaurant to bookstore?	n,n	2 3
+1 The library is west the school.
+2 The garden is east the bedroom.
+3 The school is south the restaurant.
+4 The bedroom is east the restaurant.
+5 What is the path from library to restaurant?	w,s	1 3
+1 The school is north the park.
+2 The home is east the bathroom.
+3 The school is south the bathroom.
+4 The home is west the hallway.
+5 What is the path from home to school?	e,n	2 3
+1 The bookstore is south the bedroom.
+2 The bookstore is west the restaurant.
+3 The bookstore is east the office.
+4 The office is east the home.
+5 What is the path from office to restaurant?	w,w	2 3
+1 The park is west the bathroom.
+2 The library is east the garden.
+3 The restaurant is south the garden.
+4 The restaurant is north the bathroom.
+5 What is the path from restaurant to park?	n,e	1 4
+1 The home is west the bookstore.
+2 The garden is east the hallway.
+3 The bathroom is east the garden.
+4 The home is south the bathroom.
+5 What is the path from bathroom to bookstore?	n,w	1 4
+1 The hallway is east the bathroom.
+2 The bathroom is south the school.
+3 The bedroom is south the office.
+4 The hallway is west the office.
+5 What is the path from school to hallway?	n,w	1 2
+1 The library is north the school.
+2 The library is east the bathroom.
+3 The restaurant is west the bathroom.
+4 The school is north the bookstore.
+5 What is the path from school to bathroom?	s,e	1 2
+1 The garden is south the bedroom.
+2 The garden is west the school.
+3 The park is west the garden.
+4 The bathroom is west the park.
+5 What is the path from bedroom to park?	n,e	1 3
+1 The garden is south the bathroom.
+2 The bathroom is west the park.
+3 The garden is east the bedroom.
+4 The park is south the library.
+5 What is the path from library to bathroom?	n,e	2 4
+1 The bathroom is west the hallway.
+2 The garden is north the bathroom.
+3 The library is north the kitchen.
+4 The library is south the hallway.
+5 What is the path from garden to hallway?	n,w	1 2
+1 The bedroom is west the office.
+2 The park is south the bookstore.
+3 The garden is south the park.
+4 The bedroom is east the bookstore.
+5 What is the path from bookstore to garden?	n,n	2 3
+1 The garden is west the hallway.
+2 The restaurant is north the garden.
+3 The hallway is north the office.
+4 The office is north the bathroom.
+5 What is the path from garden to office?	w,n	1 3
+1 The school is east the kitchen.
+2 The park is north the office.
+3 The kitchen is east the park.
+4 The school is west the restaurant.
+5 What is the path from kitchen to office?	e,n	2 3
+1 The bathroom is north the office.
+2 The kitchen is south the school.
+3 The bathroom is east the library.
+4 The library is south the kitchen.
+5 What is the path from office to library?	s,e	1 3
+1 The bookstore is east the hallway.
+2 The office is east the bookstore.
+3 The bedroom is north the bookstore.
+4 The park is south the bookstore.
+5 What is the path from office to park?	e,n	2 4
+1 The garden is south the bookstore.
+2 The office is east the bookstore.
+3 The garden is east the hallway.
+4 The office is south the kitchen.
+5 What is the path from bookstore to hallway?	n,e	1 3
+1 The bedroom is south the bookstore.
+2 The garden is west the school.
+3 The bookstore is east the school.
+4 The garden is north the office.
+5 What is the path from office to school?	s,w	2 4
+1 The school is east the bedroom.
+2 The hallway is west the park.
+3 The bedroom is east the park.
+4 The park is south the restaurant.
+5 What is the path from bedroom to restaurant?	e,s	3 4
+1 The kitchen is south the bathroom.
+2 The bedroom is south the kitchen.
+3 The bathroom is east the bookstore.
+4 The restaurant is east the kitchen.
+5 What is the path from bookstore to kitchen?	w,n	1 3
+1 The park is north the bathroom.
+2 The home is west the bathroom.
+3 The bedroom is south the bathroom.
+4 The park is south the garden.
+5 What is the path from bedroom to home?	s,e	2 3
+1 The restaurant is east the bathroom.
+2 The hallway is north the bedroom.
+3 The bedroom is east the park.
+4 The bedroom is north the bathroom.
+5 What is the path from bathroom to hallway?	s,s	2 4
+1 The bedroom is west the park.
+2 The home is north the hallway.
+3 The office is north the park.
+4 The home is south the bedroom.
+5 What is the path from park to home?	e,n	1 4
+1 The hallway is west the park.
+2 The park is west the school.
+3 The bookstore is north the restaurant.
+4 The bookstore is south the park.
+5 What is the path from school to hallway?	e,e	1 2
+1 The restaurant is east the office.
+2 The home is south the restaurant.
+3 The bathroom is east the school.
+4 The school is north the restaurant.
+5 What is the path from office to school?	w,s	1 4
+1 The office is south the home.
+2 The bookstore is west the office.
+3 The park is south the office.
+4 The garden is south the park.
+5 What is the path from park to bookstore?	s,e	2 3
+1 The park is south the home.
+2 The library is west the park.
+3 The bookstore is south the park.
+4 The bookstore is north the hallway.
+5 What is the path from bookstore to library?	s,e	2 3
+1 The garden is north the bedroom.
+2 The home is west the bathroom.
+3 The office is north the garden.
+4 The garden is west the home.
+5 What is the path from home to bedroom?	e,n	1 4
+1 The home is west the park.
+2 The office is south the park.
+3 The bathroom is east the park.
+4 The kitchen is north the bathroom.
+5 What is the path from home to bathroom?	w,w	1 3
+1 The bedroom is south the school.
+2 The kitchen is north the office.
+3 The school is west the garden.
+4 The bedroom is north the kitchen.
+5 What is the path from school to kitchen?	n,n	1 4
+1 The hallway is south the garden.
+2 The hallway is west the kitchen.
+3 The kitchen is west the library.
+4 The bathroom is south the kitchen.
+5 What is the path from bathroom to hallway?	s,e	2 4
+1 The bathroom is south the bookstore.
+2 The library is north the park.
+3 The bedroom is east the bathroom.
+4 The park is north the bookstore.
+5 What is the path from bathroom to park?	s,s	1 4
+1 The school is north the office.
+2 The bookstore is south the office.
+3 The garden is north the school.
+4 The bedroom is west the office.
+5 What is the path from school to bookstore?	n,n	1 2
+1 The hallway is south the park.
+2 The restaurant is east the park.
+3 The library is west the park.
+4 The park is south the bathroom.
+5 What is the path from library to restaurant?	w,w	2 3
+1 The bathroom is east the office.
+2 The hallway is south the restaurant.
+3 The home is west the hallway.
+4 The hallway is west the office.
+5 What is the path from restaurant to office?	n,w	2 4
+1 The bookstore is east the park.
+2 The park is east the school.
+3 The library is south the park.
+4 The bathroom is west the school.
+5 What is the path from school to library?	w,n	2 3
+1 The bookstore is north the bedroom.
+2 The hallway is east the bedroom.
+3 The home is east the hallway.
+4 The home is north the library.
+5 What is the path from home to bedroom?	e,e	2 3
+1 The office is south the garden.
+2 The garden is south the kitchen.
+3 The office is east the park.
+4 The school is east the garden.
+5 What is the path from school to office?	e,n	1 4
+1 The kitchen is west the bathroom.
+2 The park is south the bathroom.
+3 The hallway is north the bathroom.
+4 The kitchen is east the school.
+5 What is the path from kitchen to hallway?	w,s	1 3
+1 The bedroom is north the bathroom.
+2 The garden is west the bedroom.
+3 The home is north the garden.
+4 The restaurant is west the home.
+5 What is the path from bedroom to home?	e,s	2 3
+1 The bathroom is east the home.
+2 The garden is south the office.
+3 The library is north the office.
+4 The home is east the office.
+5 What is the path from home to garden?	e,n	2 4
+1 The kitchen is south the bedroom.
+2 The library is south the park.
+3 The library is north the restaurant.
+4 The park is west the kitchen.
+5 What is the path from restaurant to park?	s,s	2 3
+1 The bedroom is west the library.
+2 The school is south the restaurant.
+3 The bookstore is west the restaurant.
+4 The bookstore is east the library.
+5 What is the path from bookstore to bedroom?	e,e	1 4
+1 The office is east the library.
+2 The office is north the bookstore.
+3 The hallway is north the library.
+4 The kitchen is west the library.
+5 What is the path from hallway to office?	n,w	1 3
+1 The bookstore is south the park.
+2 The restaurant is south the bookstore.
+3 The garden is south the restaurant.
+4 The park is east the library.
+5 What is the path from restaurant to park?	s,s	1 2
+1 The hallway is west the school.
+2 The park is south the bookstore.
+3 The school is south the park.
+4 The park is west the bedroom.
+5 What is the path from hallway to park?	w,s	1 3
+1 The garden is north the park.
+2 The bedroom is north the home.
+3 The home is north the garden.
+4 The hallway is east the home.
+5 What is the path from garden to hallway?	s,w	3 4
+1 The bedroom is east the kitchen.
+2 The library is north the bedroom.
+3 The kitchen is north the office.
+4 The kitchen is east the garden.
+5 What is the path from kitchen to library?	w,s	1 2
+1 The school is west the park.
+2 The bathroom is south the bedroom.
+3 The bedroom is east the park.
+4 The bedroom is west the library.
+5 What is the path from park to library?	w,w	3 4
+1 The park is east the office.
+2 The hallway is north the home.
+3 The hallway is west the garden.
+4 The home is east the park.
+5 What is the path from park to hallway?	w,s	2 4
+1 The bedroom is west the bathroom.
+2 The hallway is east the kitchen.
+3 The bathroom is north the school.
+4 The hallway is north the bedroom.
+5 What is the path from bathroom to hallway?	e,s	1 4
+1 The home is south the school.
+2 The kitchen is north the hallway.
+3 The kitchen is south the bookstore.
+4 The bookstore is east the home.
+5 What is the path from home to kitchen?	w,n	3 4
+1 The restaurant is north the kitchen.
+2 The restaurant is west the school.
+3 The home is east the bedroom.
+4 The school is west the bedroom.
+5 What is the path from kitchen to school?	s,w	1 2
+1 The bedroom is south the restaurant.
+2 The restaurant is south the hallway.
+3 The restaurant is east the park.
+4 The hallway is south the garden.
+5 What is the path from park to hallway?	w,s	2 3
+1 The home is east the bookstore.
+2 The school is east the home.
+3 The bookstore is north the restaurant.
+4 The bathroom is north the bookstore.
+5 What is the path from bathroom to restaurant?	n,n	3 4
+1 The kitchen is west the home.
+2 The library is east the home.
+3 The home is south the bedroom.
+4 The bedroom is south the bathroom.
+5 What is the path from library to bedroom?	e,s	2 3
+1 The restaurant is north the bookstore.
+2 The office is west the hallway.
+3 The bathroom is south the bookstore.
+4 The hallway is west the bookstore.
+5 What is the path from bathroom to hallway?	s,e	3 4
+1 The bedroom is west the library.
+2 The bookstore is north the library.
+3 The hallway is south the home.
+4 The library is west the home.
+5 What is the path from hallway to library?	s,e	3 4
+1 The kitchen is west the park.
+2 The park is north the bookstore.
+3 The kitchen is south the bathroom.
+4 The hallway is north the bathroom.
+5 What is the path from park to bathroom?	e,s	1 3
+1 The bedroom is south the hallway.
+2 The school is south the home.
+3 The hallway is west the school.
+4 The garden is west the hallway.
+5 What is the path from hallway to home?	w,s	2 3
+1 The bookstore is south the park.
+2 The park is east the office.
+3 The park is west the library.
+4 The kitchen is west the office.
+5 What is the path from office to bookstore?	w,n	1 2
+1 The library is east the garden.
+2 The kitchen is north the garden.
+3 The bathroom is west the garden.
+4 The office is east the library.
+5 What is the path from library to bathroom?	e,e	1 3
+1 The bookstore is north the bedroom.
+2 The library is east the bookstore.
+3 The library is south the kitchen.
+4 The hallway is east the kitchen.
+5 What is the path from bookstore to kitchen?	w,s	2 3
+1 The office is north the bookstore.
+2 The bookstore is north the hallway.
+3 The garden is north the office.
+4 The library is west the garden.
+5 What is the path from library to office?	w,n	3 4
+1 The hallway is south the kitchen.
+2 The kitchen is south the school.
+3 The restaurant is east the bathroom.
+4 The kitchen is east the restaurant.
+5 What is the path from restaurant to hallway?	w,n	1 4
+1 The library is north the bookstore.
+2 The school is south the park.
+3 The park is south the bookstore.
+4 The hallway is west the bookstore.
+5 What is the path from park to hallway?	s,e	3 4
+1 The bedroom is west the kitchen.
+2 The kitchen is west the bookstore.
+3 The bathroom is south the kitchen.
+4 The garden is north the bedroom.
+5 What is the path from garden to kitchen?	n,w	1 4
+1 The library is east the kitchen.
+2 The library is west the garden.
+3 The office is south the kitchen.
+4 The garden is south the restaurant.
+5 What is the path from kitchen to garden?	w,w	1 2
+1 The restaurant is east the bookstore.
+2 The bookstore is east the kitchen.
+3 The restaurant is west the school.
+4 The home is south the restaurant.
+5 What is the path from home to school?	s,w	3 4
+1 The garden is north the kitchen.
+2 The kitchen is west the library.
+3 The bookstore is south the kitchen.
+4 The garden is south the home.
+5 What is the path from library to garden?	e,s	1 2
+1 The library is east the restaurant.
+2 The bathroom is north the restaurant.
+3 The hallway is south the restaurant.
+4 The bathroom is east the school.
+5 What is the path from bathroom to hallway?	n,n	2 3
+1 The bedroom is south the hallway.
+2 The school is north the bookstore.
+3 The hallway is west the bookstore.
+4 The park is west the hallway.
+5 What is the path from bookstore to bedroom?	e,n	1 3
+1 The hallway is north the school.
+2 The school is north the bookstore.
+3 The bookstore is north the bathroom.
+4 The home is west the hallway.
+5 What is the path from bathroom to school?	s,s	2 3
+1 The kitchen is west the restaurant.
+2 The library is north the hallway.
+3 The park is north the kitchen.
+4 The hallway is west the park.
+5 What is the path from park to restaurant?	n,w	1 3
+1 The bathroom is north the school.
+2 The school is north the kitchen.
+3 The bathroom is west the library.
+4 The park is west the school.
+5 What is the path from bathroom to park?	n,e	1 4
+1 The restaurant is west the library.
+2 The bathroom is east the bookstore.
+3 The bathroom is west the restaurant.
+4 The garden is north the bathroom.
+5 What is the path from restaurant to garden?	e,s	3 4
+1 The hallway is east the school.
+2 The garden is south the hallway.
+3 The bookstore is east the hallway.
+4 The restaurant is north the bookstore.
+5 What is the path from school to garden?	w,n	1 2
+1 The library is west the home.
+2 The library is east the bookstore.
+3 The hallway is south the home.
+4 The library is south the garden.
+5 What is the path from library to hallway?	w,n	1 3
+1 The park is east the hallway.
+2 The bedroom is south the kitchen.
+3 The kitchen is east the park.
+4 The hallway is north the restaurant.
+5 What is the path from park to bedroom?	w,n	2 3
+1 The office is east the home.
+2 The office is north the garden.
+3 The office is south the hallway.
+4 The garden is west the bathroom.
+5 What is the path from garden to home?	s,e	1 2
+1 The bedroom is south the library.
+2 The kitchen is north the library.
+3 The restaurant is west the bedroom.
+4 The restaurant is north the hallway.
+5 What is the path from library to restaurant?	n,e	1 3
+1 The park is south the home.
+2 The bathroom is east the home.
+3 The park is north the bookstore.
+4 The bookstore is north the school.
+5 What is the path from school to park?	s,s	3 4
+1 The kitchen is north the bedroom.
+2 The office is west the hallway.
+3 The bathroom is east the hallway.
+4 The kitchen is south the hallway.
+5 What is the path from bathroom to kitchen?	e,n	3 4
+1 The hallway is west the office.
+2 The hallway is east the bathroom.
+3 The home is north the office.
+4 The bathroom is north the garden.
+5 What is the path from home to hallway?	n,e	1 3
+1 The school is west the restaurant.
+2 The home is north the bedroom.
+3 The office is west the bedroom.
+4 The office is north the restaurant.
+5 What is the path from school to office?	w,s	1 4
+1 The library is west the home.
+2 The bookstore is west the garden.
+3 The restaurant is west the bookstore.
+4 The garden is west the library.
+5 What is the path from garden to home?	w,w	1 4
+1 The bookstore is west the hallway.
+2 The home is east the hallway.
+3 The restaurant is west the bookstore.
+4 The garden is north the bookstore.
+5 What is the path from bookstore to home?	w,w	1 2
+1 The bedroom is south the bookstore.
+2 The bedroom is west the bathroom.
+3 The bedroom is north the library.
+4 The home is west the bedroom.
+5 What is the path from library to home?	s,e	3 4
+1 The hallway is east the bedroom.
+2 The office is south the kitchen.
+3 The bedroom is east the kitchen.
+4 The restaurant is east the hallway.
+5 What is the path from office to bedroom?	s,w	2 3
+1 The restaurant is north the school.
+2 The bathroom is east the school.
+3 The school is north the kitchen.
+4 The park is east the bathroom.
+5 What is the path from kitchen to bathroom?	s,w	2 3
+1 The garden is south the office.
+2 The home is east the school.
+3 The home is south the garden.
+4 The library is east the garden.
+5 What is the path from home to library?	s,w	3 4
+1 The garden is north the library.
+2 The library is north the bathroom.
+3 The home is west the bathroom.
+4 The bathroom is north the restaurant.
+5 What is the path from garden to bathroom?	n,n	1 2
+1 The restaurant is east the garden.
+2 The bedroom is north the garden.
+3 The bedroom is east the office.
+4 The bathroom is south the garden.
+5 What is the path from bedroom to restaurant?	n,w	1 2
+1 The bathroom is north the garden.
+2 The hallway is south the park.
+3 The home is south the hallway.
+4 The park is west the garden.
+5 What is the path from park to bathroom?	w,s	1 4
+1 The kitchen is west the bookstore.
+2 The office is east the bathroom.
+3 The garden is east the office.
+4 The garden is west the kitchen.
+5 What is the path from garden to bathroom?	e,e	2 3
+1 The home is north the bookstore.
+2 The home is south the park.
+3 The park is south the kitchen.
+4 The school is west the home.
+5 What is the path from school to park?	w,s	2 4
+1 The school is west the library.
+2 The library is south the bathroom.
+3 The bathroom is west the bookstore.
+4 The bathroom is south the park.
+5 What is the path from park to library?	n,n	2 4
+1 The garden is east the restaurant.
+2 The office is north the restaurant.
+3 The park is west the restaurant.
+4 The bedroom is west the park.
+5 What is the path from office to park?	n,e	2 3
+1 The bedroom is north the home.
+2 The home is north the garden.
+3 The garden is north the library.
+4 The library is north the park.
+5 What is the path from library to home?	s,s	2 3
+1 The library is south the bedroom.
+2 The garden is north the bedroom.
+3 The hallway is west the bedroom.
+4 The school is west the hallway.
+5 What is the path from hallway to garden?	w,s	2 3
+1 The bedroom is north the bookstore.
+2 The kitchen is south the bookstore.
+3 The park is north the bedroom.
+4 The bathroom is west the bedroom.
+5 What is the path from bookstore to park?	s,s	1 3
+1 The park is north the office.
+2 The kitchen is east the office.
+3 The school is west the park.
+4 The garden is south the kitchen.
+5 What is the path from school to office?	w,n	1 3
+1 The park is south the library.
+2 The home is west the hallway.
+3 The park is west the school.
+4 The hallway is south the park.
+5 What is the path from library to hallway?	n,n	1 4
+1 The home is south the school.
+2 The kitchen is east the library.
+3 The bathroom is east the kitchen.
+4 The home is north the library.
+5 What is the path from kitchen to home?	e,s	2 4
+1 The bathroom is east the hallway.
+2 The bathroom is west the park.
+3 The kitchen is south the bathroom.
+4 The office is north the bathroom.
+5 What is the path from office to kitchen?	n,n	3 4
+1 The home is west the bathroom.
+2 The office is east the restaurant.
+3 The restaurant is north the bathroom.
+4 The office is west the garden.
+5 What is the path from garden to restaurant?	e,e	2 4
+1 The park is east the hallway.
+2 The bookstore is east the park.
+3 The hallway is east the kitchen.
+4 The kitchen is south the home.
+5 What is the path from home to hallway?	n,w	3 4
+1 The hallway is east the restaurant.
+2 The library is west the office.
+3 The garden is north the hallway.
+4 The office is north the garden.
+5 What is the path from office to hallway?	n,n	3 4
+1 The bookstore is east the school.
+2 The school is east the bathroom.
+3 The garden is south the bathroom.
+4 The garden is east the bedroom.
+5 What is the path from school to garden?	e,n	2 3
+1 The bookstore is north the kitchen.
+2 The kitchen is east the bathroom.
+3 The hallway is north the bookstore.
+4 The hallway is west the park.
+5 What is the path from bathroom to bookstore?	w,s	1 2

@@ -1,0 +1,3000 @@
+1 Mary artık salonda değil.
+2 Daniel koridora gitti.
+3 Mary salonda mı? 	hayır	1
+4 Sandra salona gitti.
+5 Sandra banyoda.
+6 Daniel banyoda mı? 	hayır	2
+7 Daniel koridorda değil.
+8 Daniel ofiste.
+9 Sandra ofiste mi? 	hayır	5
+10 Sandra salona gitti.
+11 John mutfağa gitti.
+12 Sandra ofiste mi? 	hayır	10
+13 Sandra salonda değil.
+14 Mary artık banyoda değil.
+15 Sandra salonda mı? 	hayır	13
+1 John mutfağa gitti.
+2 Mary koridorda.
+3 John koridorda mı? 	hayır	1
+4 Mary ofise geri döndü.
+5 Daniel artık bahçede değil.
+6 Daniel bahçede mi? 	hayır	5
+7 Daniel koridora gitti.
+8 Mary mutfakta.
+9 Daniel koridorda mı? 	evet	7
+10 Daniel salona gitti.
+11 Sandra salonda değil.
+12 Daniel salonda mı? 	evet	10
+13 John salona gitti.
+14 Sandra bahçede.
+15 Sandra bahçede mi? 	evet	14
+1 Sandra mutfağa gitti.
+2 John koridora gitti.
+3 John banyoda mı? 	hayır	2
+4 John salonda.
+5 Mary bahçede değil.
+6 John salonda mı? 	evet	4
+7 Sandra koridora geri döndü.
+8 John banyoya gitti.
+9 John mutfakta mı? 	hayır	8
+10 John bahçeye gitti.
+11 Sandra mutfağa geri döndü.
+12 John koridorda mı? 	hayır	10
+13 Daniel ofise gitti.
+14 Daniel bahçeye gitti.
+15 Sandra mutfakta mı? 	evet	11
+1 Sandra ofiste değil.
+2 Mary koridorda.
+3 Sandra ofiste mi? 	hayır	1
+4 Sandra banyoya gitti.
+5 John mutfağa geri döndü.
+6 Sandra banyoda mı? 	evet	4
+7 John bahçeye gitti.
+8 Daniel salonda değil.
+9 Mary ofiste mi? 	hayır	2
+10 Daniel ofiste değil.
+11 Daniel artık banyoda değil.
+12 Daniel banyoda mı? 	hayır	11
+13 Sandra banyoda değil.
+14 Mary ofiste.
+15 Daniel banyoda mı? 	hayır	11
+1 Mary koridorda.
+2 John banyoda.
+3 John bahçede mi? 	hayır	2
+4 Mary mutfağa gitti.
+5 John bahçede.
+6 Mary  banyoda mı? 	hayır	4
+7 Mary koridora gitti.
+8 John banyoya gitti.
+9 John banyoda mı? 	evet	8
+10 Daniel banyoya gitti.
+11 Mary artık koridorda değil.
+12 Daniel salonda mı? 	hayır	10
+13 Mary koridorda.
+14 John bahçede.
+15 Mary koridorda mı? 	evet	13
+1 Mary artık mutfakta değil.
+2 John mutfağa gitti.
+3 Mary mutfakta mı? 	hayır	1
+4 Daniel mutfağa gitti.
+5 Mary ofise gitti.
+6 Daniel mutfakta mı? 	evet	4
+7 John salona gitti.
+8 Mary artık ofiste değil.
+9 Daniel koridorda mı? 	hayır	4
+10 Mary artık bahçede değil.
+11 Mary bahçeye gitti.
+12 Mary bahçede mı? 	evet	11
+13 John artık salonda değil.
+14 Daniel ofise gitti.
+15 Daniel ofiste mi? 	evet	14
+1 Sandra bahçeye gitti.
+2 Sandra artık bahçede değil.
+3 Sandra bahçede mi? 	hayır	2
+4 Sandra bahçede.
+5 Sandra koridora gitti.
+6 Sandra koridorda mı? 	evet	5
+7 John artık bahçede değil.
+8 John bahçeye gitti.
+9 John koridorda mı? 	hayır	8
+10 John mutfakta.
+11 John mutfakta değil.
+12 John mutfakta mı? 	hayır	11
+13 John mutfağa gitti.
+14 Mary artık koridorda değil.
+15 John mutfakta mı? 	evet	13
+1 Daniel salonda.
+2 Sandra koridorda değil.
+3 Sandra koridorda mı? 	hayır	2
+4 Daniel koridora gitti.
+5 Mary salona gitti.
+6 Mary koridorda mı? 	hayır	5
+7 Sandra bahçeye gitti.
+8 Daniel mutfağa gitti.
+9 Mary mutfakta mı? 	hayır	5
+10 Daniel mutfakta değil.
+11 Daniel salona geri döndü.
+12 Mary mutfakta mı? 	hayır	5
+13 John ofiste.
+14 Sandra koridora gitti.
+15 John banyoda mı? 	hayır	13
+1 Mary mutfağa gitti.
+2 Mary salona geri döndü.
+3 Mary ofiste mi? 	hayır	2
+4 Sandra artık salonda değil.
+5 Daniel mutfağa gitti.
+6 Daniel mutfakta mı? 	evet	5
+7 Sandra ofiste değil.
+8 Daniel banyoya gitti.
+9 Mary bahçede mı? 	evet	2
+10 Sandra ofise gitti.
+11 John koridora gitti.
+12 Daniel banyoda mı? 	evet	8
+13 Sandra koridora gitti.
+14 John salona gitti.
+15 John salonda mı? 	evet	14
+1 John mutfağa gitti.
+2 Sandra salona geri döndü.
+3 John mutfakta mı? 	evet	1
+4 Daniel bahçeye gitti.
+5 Sandra mutfağa gitti.
+6 Sandra mutfakta mı? 	evet	5
+7 Sandra artık mutfakta değil.
+8 Daniel banyoda.
+9 Daniel ofiste mi? 	hayır	8
+10 Daniel mutfağa gitti.
+11 Sandra banyoda değil.
+12 Daniel bahçede mi? 	hayır	10
+13 Daniel banyoya gitti.
+14 Sandra koridora gitti.
+15 Sandra banyoda mı? 	hayır	14
+1 John mutfağa gitti.
+2 John artık mutfakta değil.
+3 John mutfakta mı? 	hayır	2
+4 Mary ofise gitti.
+5 Sandra koridorda değil.
+6 Sandra koridorda mı? 	hayır	5
+7 Daniel koridora gitti.
+8 Mary bahçeye gitti.
+9 Mary bahçede mı? 	evet	8
+10 John ofiste değil.
+11 Sandra salona gitti.
+12 Daniel koridorda mı? 	evet	7
+13 John artık salonda değil.
+14 Mary ofiste.
+15 Sandra salonda mı? 	evet	11
+1 John koridorda değil.
+2 John banyoda.
+3 John banyoda mı? 	evet	2
+4 John ofiste.
+5 Mary ofise gitti.
+6 John ofiste mi? 	evet	4
+7 Daniel banyoda.
+8 Daniel salona gitti.
+9 Daniel koridorda mı? 	hayır	8
+10 Sandra bahçede.
+11 Sandra ofise gitti.
+12 Sandra ofiste mi? 	evet	11
+13 Sandra artık ofiste değil.
+14 Mary bahçeye gitti.
+15 Sandra ofiste mi? 	hayır	13
+1 Sandra koridora gitti.
+2 Daniel mutfakta.
+3 Sandra koridorda mı? 	evet	1
+4 John banyoya gitti.
+5 John mutfağa gitti.
+6 Sandra koridorda mı? 	evet	1
+7 Daniel bahçeye gitti.
+8 Daniel koridora gitti.
+9 Daniel koridorda mı? 	evet	8
+10 Mary salonda.
+11 Sandra mutfağa gitti.
+12 Sandra bahçede mi? 	hayır	11
+13 John bahçede.
+14 Daniel artık koridorda değil.
+15 Daniel koridorda mı? 	hayır	14
+1 Daniel salonda.
+2 Daniel koridora gitti.
+3 Daniel koridorda mı? 	evet	2
+4 Daniel salona geri döndü.
+5 John salona gitti.
+6 Daniel salonda mı? 	evet	4
+7 John koridora gitti.
+8 Daniel banyoda.
+9 Daniel banyoda mı? 	evet	8
+10 Sandra ofise geri döndü.
+11 Daniel bahçeye gitti.
+12 Sandra mutfakta mı? 	hayır	10
+13 Mary salona gitti.
+14 Mary bahçeye gitti.
+15 Sandra ofiste mi? 	evet	10
+1 Sandra ofise gitti.
+2 John banyoda değil.
+3 Sandra ofiste mi? 	evet	1
+4 Sandra banyoya gitti.
+5 Mary salona geri döndü.
+6 John banyoda mı? 	hayır	2
+7 Sandra bahçeye gitti.
+8 Sandra ofise gitti.
+9 Sandra ofiste mi? 	evet	8
+10 Sandra mutfakta.
+11 Sandra banyoya gitti.
+12 Sandra bahçede mi? 	hayır	11
+13 Daniel mutfakta değil.
+14 Mary salonda değil.
+15 Mary salonda mı? 	hayır	14
+1 Daniel salona geri döndü.
+2 Daniel mutfağa geri döndü.
+3 Daniel mutfakta mı? 	evet	2
+4 Mary ofise geri döndü.
+5 Sandra artık banyoda değil.
+6 Sandra banyoda mı? 	hayır	5
+7 Mary koridorda.
+8 John mutfağa gitti.
+9 Sandra banyoda mı? 	hayır	5
+10 Mary mutfakta.
+11 John ofiste.
+12 Sandra banyoda mı? 	hayır	5
+13 Sandra mutfakta.
+14 John koridora geri döndü.
+15 Mary mutfakta mı? 	evet	10
+1 Mary banyoda.
+2 Sandra koridora gitti.
+3 Mary mutfakta mı? 	hayır	1
+4 John ofise gitti.
+5 Mary mutfakta.
+6 Mary  banyoda mı? 	hayır	5
+7 John artık ofiste değil.
+8 Daniel salonda.
+9 John ofiste mi? 	hayır	7
+10 Sandra salona gitti.
+11 Daniel bahçeye gitti.
+12 Mary bahçede mı? 	hayır	5
+13 Sandra ofiste.
+14 Daniel mutfağa gitti.
+15 Sandra bahçede mi? 	hayır	13
+1 Sandra koridora gitti.
+2 John artık salonda değil.
+3 John salonda mı? 	hayır	2
+4 Mary salona gitti.
+5 John artık banyoda değil.
+6 John banyoda mı? 	hayır	5
+7 Sandra salonda.
+8 Daniel banyoya gitti.
+9 Mary bahçede mı? 	hayır	4
+10 Mary mutfağa gitti.
+11 John salona gitti.
+12 Sandra salonda mı? 	evet	7
+13 John ofise geri döndü.
+14 Daniel banyoda değil.
+15 Daniel banyoda mı? 	hayır	14
+1 Sandra bahçeye gitti.
+2 John mutfağa gitti.
+3 John salonda mı? 	hayır	2
+4 Sandra banyoya gitti.
+5 John ofise gitti.
+6 John ofiste mi? 	evet	5
+7 John koridora gitti.
+8 John ofiste.
+9 John ofiste mi? 	evet	8
+10 Mary koridora gitti.
+11 Mary salona gitti.
+12 Mary salonda mı? 	evet	11
+13 Daniel banyoda.
+14 Daniel koridora gitti.
+15 Mary ofiste mi? 	hayır	11
+1 Mary ofiste.
+2 John ofise gitti.
+3 John ofiste mi? 	evet	2
+4 John artık ofiste değil.
+5 Sandra salona geri döndü.
+6 Mary koridorda mı? 	hayır	1
+7 Mary mutfakta.
+8 Sandra ofiste.
+9 John ofiste mi? 	hayır	4
+10 Mary banyoya gitti.
+11 Daniel ofise gitti.
+12 Sandra ofiste mi? 	evet	8
+13 John salona gitti.
+14 John salonda değil.
+15 Daniel ofiste mi? 	evet	11
+1 Mary salona geri döndü.
+2 Sandra bahçeye gitti.
+3 Sandra bahçede mi? 	evet	2
+4 John koridorda değil.
+5 Daniel artık salonda değil.
+6 Sandra bahçede mi? 	evet	2
+7 Sandra mutfağa gitti.
+8 John ofise gitti.
+9 Sandra mutfakta mı? 	evet	7
+10 John salona geri döndü.
+11 John mutfağa geri döndü.
+12 Sandra salonda mı? 	hayır	7
+13 Mary ofise gitti.
+14 Sandra artık mutfakta değil.
+15 John koridorda mı? 	hayır	11
+1 Mary banyoya gitti.
+2 Mary mutfağa gitti.
+3 Mary ofiste mi? 	hayır	2
+4 John koridora gitti.
+5 Mary banyoya geri döndü.
+6 Mary  banyoda mı? 	evet	5
+7 Daniel ofiste.
+8 Mary bahçede.
+9 Mary bahçede mı? 	evet	8
+10 John mutfağa geri döndü.
+11 Sandra koridorda değil.
+12 John salonda mı? 	hayır	10
+13 Mary salona gitti.
+14 Sandra banyoya gitti.
+15 Mary mutfakta mı? 	hayır	13
+1 Mary mutfağa gitti.
+2 John banyoda değil.
+3 John banyoda mı? 	hayır	2
+4 Sandra banyoda değil.
+5 Sandra banyoda.
+6 Sandra banyoda mı? 	evet	5
+7 John banyoya gitti.
+8 John koridora gitti.
+9 John koridorda mı? 	evet	8
+10 Sandra banyoda değil.
+11 Mary banyoda.
+12 Sandra banyoda mı? 	hayır	10
+13 John koridorda değil.
+14 Daniel banyoda değil.
+15 John koridorda mı? 	hayır	13
+1 Mary artık mutfakta değil.
+2 Mary bahçede değil.
+3 Mary bahçede mı? 	hayır	2
+4 Daniel ofiste.
+5 John salonda değil.
+6 John salonda mı? 	hayır	5
+7 Sandra mutfağa gitti.
+8 Mary artık salonda değil.
+9 Mary salonda mı? 	hayır	8
+10 Sandra koridora gitti.
+11 Daniel banyoya geri döndü.
+12 Mary salonda mı? 	hayır	8
+13 Daniel salona geri döndü.
+14 John bahçede.
+15 John mutfakta mı? 	hayır	14
+1 John bahçede.
+2 Mary mutfakta.
+3 John bahçede mi? 	evet	1
+4 Daniel artık salonda değil.
+5 John ofiste.
+6 John ofiste mi? 	evet	5
+7 Sandra koridorda.
+8 John artık ofiste değil.
+9 John ofiste mi? 	hayır	8
+10 John artık bahçede değil.
+11 Sandra mutfağa gitti.
+12 Sandra banyoda mı? 	hayır	11
+13 Mary banyoya gitti.
+14 Sandra koridorda.
+15 John bahçede mi? 	hayır	10
+1 John banyoya gitti.
+2 Mary mutfağa gitti.
+3 Mary  banyoda mı? 	hayır	2
+4 Mary mutfakta değil.
+5 Mary koridora gitti.
+6 Mary koridorda mı? 	evet	5
+7 Daniel salonda değil.
+8 Mary mutfağa gitti.
+9 Mary koridorda mı? 	hayır	8
+10 Sandra ofise gitti.
+11 Daniel mutfağa geri döndü.
+12 Mary koridorda mı? 	hayır	8
+13 Mary salona gitti.
+14 Daniel bahçeye gitti.
+15 Sandra ofiste mi? 	evet	10
+1 John koridora gitti.
+2 Sandra mutfağa gitti.
+3 Sandra mutfakta mı? 	evet	2
+4 Mary mutfağa gitti.
+5 Mary salona gitti.
+6 John salonda mı? 	hayır	1
+7 John bahçeye gitti.
+8 Daniel bahçede.
+9 John salonda mı? 	hayır	7
+10 Sandra banyoya gitti.
+11 John bahçede değil.
+12 Mary mutfakta mı? 	hayır	5
+13 John koridorda.
+14 Daniel koridorda.
+15 Daniel banyoda mı? 	hayır	14
+1 Mary artık salonda değil.
+2 Sandra koridora gitti.
+3 Mary salonda mı? 	hayır	1
+4 Mary mutfağa gitti.
+5 Mary ofise gitti.
+6 Mary ofiste mi? 	evet	5
+7 John salona gitti.
+8 Sandra ofiste.
+9 Sandra ofiste mi? 	evet	8
+10 Mary banyoya gitti.
+11 John salonda değil.
+12 Mary mutfakta mı? 	hayır	10
+13 Sandra bahçeye gitti.
+14 Mary mutfakta.
+15 Mary salonda mı? 	hayır	14
+1 Mary salona gitti.
+2 Mary bahçede.
+3 Mary koridorda mı? 	hayır	2
+4 John banyoda.
+5 Daniel salonda.
+6 Mary salonda mı? 	hayır	2
+7 Mary banyoya gitti.
+8 Mary koridora gitti.
+9 John banyoda mı? 	evet	4
+10 Sandra salonda.
+11 Daniel koridorda.
+12 Mary koridorda mı? 	evet	8
+13 John salonda.
+14 Mary koridorda değil.
+15 Mary koridorda mı? 	hayır	14
+1 Mary bahçeye gitti.
+2 John mutfakta değil.
+3 John mutfakta mı? 	hayır	2
+4 Sandra salona gitti.
+5 John mutfağa gitti.
+6 John ofiste mi? 	hayır	5
+7 John salona geri döndü.
+8 Mary salona geri döndü.
+9 John koridorda mı? 	hayır	7
+10 John ofiste.
+11 Sandra bahçeye gitti.
+12 John ofiste mi? 	evet	10
+13 Mary banyoda.
+14 Daniel banyoya gitti.
+15 Daniel koridorda mı? 	hayır	14
+1 Daniel bahçede değil.
+2 Sandra koridorda.
+3 Daniel bahçede mi? 	hayır	1
+4 Sandra artık koridorda değil.
+5 Mary salonda.
+6 Sandra koridorda mı? 	hayır	4
+7 Mary ofise gitti.
+8 John artık ofiste değil.
+9 Sandra koridorda mı? 	hayır	4
+10 John mutfağa gitti.
+11 Daniel ofise gitti.
+12 Daniel salonda mı? 	hayır	11
+13 Daniel mutfağa gitti.
+14 Sandra salonda değil.
+15 John salonda mı? 	hayır	10
+1 Mary salona gitti.
+2 Mary koridora gitti.
+3 Mary  banyoda mı? 	hayır	2
+4 John banyoda.
+5 Sandra ofise gitti.
+6 John salonda mı? 	hayır	4
+7 John koridorda.
+8 John banyoya geri döndü.
+9 John salonda mı? 	hayır	8
+10 Daniel salona geri döndü.
+11 Daniel mutfağa gitti.
+12 John banyoda mı? 	evet	8
+13 Sandra banyoda.
+14 Mary bahçede.
+15 Mary bahçede mı? 	evet	14
+1 John banyoda.
+2 Mary salona gitti.
+3 Mary salonda mı? 	evet	2
+4 Daniel ofiste değil.
+5 John banyoda değil.
+6 Daniel ofiste mi? 	hayır	4
+7 Daniel ofise gitti.
+8 Mary artık salonda değil.
+9 Mary salonda mı? 	hayır	8
+10 Mary ofise geri döndü.
+11 John mutfakta değil.
+12 John mutfakta mı? 	hayır	11
+13 Mary salona gitti.
+14 Daniel artık ofiste değil.
+15 Daniel ofiste mi? 	hayır	14
+1 Sandra banyoya gitti.
+2 Sandra banyoda değil.
+3 Sandra banyoda mı? 	hayır	2
+4 Sandra banyoya geri döndü.
+5 John bahçede.
+6 Sandra banyoda mı? 	evet	4
+7 Daniel artık mutfakta değil.
+8 Daniel mutfağa gitti.
+9 John ofiste mi? 	hayır	5
+10 Sandra bahçeye gitti.
+11 Sandra bahçede değil.
+12 Daniel mutfakta mı? 	evet	8
+13 Mary koridorda.
+14 Daniel mutfakta değil.
+15 Mary koridorda mı? 	evet	13
+1 Daniel koridorda.
+2 Mary banyoya gitti.
+3 Daniel koridorda mı? 	evet	1
+4 John artık ofiste değil.
+5 Sandra banyoda.
+6 John ofiste mi? 	hayır	4
+7 Mary ofise gitti.
+8 Sandra banyoda değil.
+9 Mary ofiste mi? 	evet	7
+10 Sandra banyoya gitti.
+11 Daniel koridorda değil.
+12 Sandra mutfakta mı? 	hayır	10
+13 Mary banyoya gitti.
+14 Mary artık banyoda değil.
+15 Daniel koridorda mı? 	hayır	11
+1 John salona gitti.
+2 Sandra koridora geri döndü.
+3 Sandra koridorda mı? 	evet	2
+4 Sandra banyoda.
+5 Mary mutfağa gitti.
+6 John ofiste mi? 	hayır	1
+7 John bahçeye gitti.
+8 Mary mutfakta değil.
+9 Sandra mutfakta mı? 	hayır	4
+10 John mutfakta.
+11 Sandra koridora gitti.
+12 Sandra koridorda mı? 	evet	11
+13 John salona gitti.
+14 Mary ofise gitti.
+15 Sandra koridorda mı? 	evet	11
+1 Daniel ofise geri döndü.
+2 Mary bahçede.
+3 Daniel mutfakta mı? 	hayır	1
+4 Sandra artık banyoda değil.
+5 John koridora gitti.
+6 Daniel ofiste mi? 	evet	1
+7 Daniel ofiste değil.
+8 John banyoya gitti.
+9 Daniel ofiste mi? 	hayır	7
+10 John banyoda değil.
+11 John bahçeye gitti.
+12 John bahçede mi? 	evet	11
+13 Sandra mutfağa gitti.
+14 Daniel banyoya geri döndü.
+15 John bahçede mi? 	evet	11
+1 Daniel ofiste.
+2 Sandra ofise gitti.
+3 Sandra mutfakta mı? 	hayır	2
+4 John koridora gitti.
+5 Mary ofise geri döndü.
+6 Mary salonda mı? 	hayır	5
+7 John mutfağa gitti.
+8 Mary bahçeye gitti.
+9 John mutfakta mı? 	evet	7
+10 Sandra artık ofiste değil.
+11 Sandra bahçede değil.
+12 Sandra bahçede mi? 	hayır	11
+13 John banyoya gitti.
+14 Mary koridorda.
+15 Mary koridorda mı? 	evet	14
+1 Mary artık koridorda değil.
+2 John salona geri döndü.
+3 John mutfakta mı? 	hayır	2
+4 John banyoya gitti.
+5 Daniel artık koridorda değil.
+6 John salonda mı? 	hayır	4
+7 Daniel artık mutfakta değil.
+8 Sandra banyoda.
+9 Daniel mutfakta mı? 	hayır	7
+10 Sandra banyoda değil.
+11 Mary bahçede.
+12 Mary ofiste mi? 	hayır	11
+13 John salonda.
+14 John bahçede.
+15 Sandra banyoda mı? 	hayır	10
+1 Mary banyoda.
+2 Daniel koridora gitti.
+3 Mary ofiste mi? 	hayır	1
+4 John artık bahçede değil.
+5 Mary ofise gitti.
+6 Mary ofiste mi? 	evet	5
+7 John salonda değil.
+8 Daniel mutfağa geri döndü.
+9 Mary ofiste mi? 	evet	5
+10 Daniel artık mutfakta değil.
+11 Sandra mutfakta.
+12 John salonda mı? 	hayır	7
+13 Mary ofiste değil.
+14 Sandra koridorda.
+15 Daniel mutfakta mı? 	hayır	10
+1 Sandra salona geri döndü.
+2 Sandra koridorda.
+3 Sandra koridorda mı? 	evet	2
+4 Sandra ofiste.
+5 John koridorda değil.
+6 Sandra ofiste mi? 	evet	4
+7 Sandra bahçeye gitti.
+8 Sandra mutfakta.
+9 Sandra salonda mı? 	hayır	8
+10 John koridora gitti.
+11 Mary ofise gitti.
+12 John koridorda mı? 	evet	10
+13 Sandra bahçeye gitti.
+14 Mary bahçede.
+15 Mary bahçede mı? 	evet	14
+1 Mary bahçede değil.
+2 Sandra koridorda.
+3 Mary bahçede mı? 	hayır	1
+4 Daniel banyoda değil.
+5 Mary koridora gitti.
+6 Sandra koridorda mı? 	evet	2
+7 Sandra artık koridorda değil.
+8 Daniel koridorda.
+9 Daniel mutfakta mı? 	hayır	8
+10 John salona geri döndü.
+11 Mary bahçeye gitti.
+12 Mary bahçede mı? 	evet	11
+13 Sandra mutfağa gitti.
+14 Daniel bahçede.
+15 Sandra salonda mı? 	hayır	13
+1 Mary koridora geri döndü.
+2 Sandra banyoda.
+3 Sandra banyoda mı? 	evet	2
+4 John mutfağa gitti.
+5 Daniel koridora geri döndü.
+6 Sandra koridorda mı? 	hayır	2
+7 Mary mutfağa gitti.
+8 John banyoya gitti.
+9 Mary salonda mı? 	hayır	7
+10 Daniel ofiste.
+11 Daniel salonda.
+12 John koridorda mı? 	hayır	8
+13 Mary ofise geri döndü.
+14 Mary bahçede.
+15 Daniel bahçede mi? 	hayır	11
+1 Daniel koridorda.
+2 John salona gitti.
+3 Daniel bahçede mi? 	hayır	1
+4 Daniel mutfakta.
+5 John banyoya gitti.
+6 Daniel ofiste mi? 	hayır	4
+7 Mary banyoda değil.
+8 Mary artık salonda değil.
+9 Daniel mutfakta mı? 	evet	4
+10 Mary banyoya geri döndü.
+11 Daniel bahçede.
+12 John banyoda mı? 	evet	5
+13 Mary mutfakta.
+14 Sandra banyoda değil.
+15 Mary bahçede mı? 	hayır	13
+1 Mary banyoya gitti.
+2 Sandra koridora geri döndü.
+3 Sandra mutfakta mı? 	hayır	2
+4 Sandra artık koridorda değil.
+5 Mary salonda.
+6 Sandra koridorda mı? 	hayır	4
+7 John salonda.
+8 Mary bahçeye gitti.
+9 John banyoda mı? 	hayır	7
+10 John artık salonda değil.
+11 John bahçede değil.
+12 John bahçede mi? 	hayır	11
+13 Daniel bahçede değil.
+14 John ofiste.
+15 John koridorda mı? 	hayır	14
+1 Mary salona gitti.
+2 John bahçede.
+3 Mary koridorda mı? 	hayır	1
+4 Daniel ofiste.
+5 John salona gitti.
+6 Mary bahçede mı? 	hayır	1
+7 Daniel bahçede.
+8 Mary artık salonda değil.
+9 John salonda mı? 	evet	5
+10 Daniel ofise gitti.
+11 John artık salonda değil.
+12 Daniel salonda mı? 	hayır	10
+13 John artık mutfakta değil.
+14 John artık ofiste değil.
+15 John ofiste mi? 	hayır	14
+1 Mary bahçeye gitti.
+2 Mary salona gitti.
+3 Mary salonda mı? 	evet	2
+4 Daniel mutfakta.
+5 Sandra salona geri döndü.
+6 Mary ofiste mi? 	hayır	2
+7 Sandra banyoda.
+8 John koridorda.
+9 Sandra banyoda mı? 	evet	7
+10 John mutfağa gitti.
+11 Daniel artık mutfakta değil.
+12 Sandra banyoda mı? 	evet	7
+13 Mary koridora gitti.
+14 John artık mutfakta değil.
+15 John mutfakta mı? 	hayır	14
+1 Mary artık bahçede değil.
+2 Mary bahçede.
+3 Mary bahçede mı? 	evet	2
+4 John bahçeye gitti.
+5 Sandra salona geri döndü.
+6 Mary ofiste mi? 	hayır	2
+7 Sandra ofiste.
+8 John artık bahçede değil.
+9 Sandra ofiste mi? 	evet	7
+10 John ofise gitti.
+11 Mary salona gitti.
+12 John ofiste mi? 	evet	10
+13 Daniel banyoda.
+14 Mary mutfakta.
+15 Daniel banyoda mı? 	evet	13
+1 Sandra mutfağa gitti.
+2 Daniel salonda.
+3 Sandra mutfakta mı? 	evet	1
+4 Sandra banyoda.
+5 Mary bahçede.
+6 Mary mutfakta mı? 	hayır	5
+7 Sandra salona gitti.
+8 Sandra bahçeye gitti.
+9 Sandra koridorda mı? 	hayır	8
+10 Mary koridorda.
+11 John mutfağa gitti.
+12 John mutfakta mı? 	evet	11
+13 John salona gitti.
+14 Daniel artık salonda değil.
+15 Sandra bahçede mi? 	evet	8
+1 Sandra salona gitti.
+2 Mary banyoda.
+3 Sandra banyoda mı? 	hayır	1
+4 Sandra mutfağa gitti.
+5 Sandra koridorda.
+6 Sandra koridorda mı? 	evet	5
+7 John artık ofiste değil.
+8 Sandra artık koridorda değil.
+9 John ofiste mi? 	hayır	7
+10 John koridorda değil.
+11 Daniel artık banyoda değil.
+12 Sandra koridorda mı? 	hayır	8
+13 Mary artık banyoda değil.
+14 Daniel salona gitti.
+15 Sandra koridorda mı? 	hayır	8
+1 Mary salonda.
+2 Daniel mutfakta.
+3 Mary koridorda mı? 	hayır	1
+4 John bahçeye gitti.
+5 John salona gitti.
+6 John bahçede mi? 	hayır	5
+7 Sandra ofise gitti.
+8 John koridora gitti.
+9 John koridorda mı? 	evet	8
+10 Daniel artık mutfakta değil.
+11 Daniel salonda değil.
+12 Daniel salonda mı? 	hayır	11
+13 John koridorda değil.
+14 Mary salonda değil.
+15 Daniel salonda mı? 	hayır	11
+1 Daniel mutfakta.
+2 Mary salona gitti.
+3 Daniel mutfakta mı? 	evet	1
+4 Sandra banyoya geri döndü.
+5 John ofise gitti.
+6 John koridorda mı? 	hayır	5
+7 Daniel mutfakta değil.
+8 Mary koridorda.
+9 John ofiste mi? 	evet	5
+10 Sandra artık banyoda değil.
+11 Sandra koridorda.
+12 Sandra mutfakta mı? 	hayır	11
+13 Mary artık koridorda değil.
+14 Daniel salonda değil.
+15 Daniel salonda mı? 	hayır	14
+1 Mary koridora geri döndü.
+2 Sandra salonda.
+3 Mary koridorda mı? 	evet	1
+4 Sandra artık salonda değil.
+5 Mary bahçeye gitti.
+6 Sandra salonda mı? 	hayır	4
+7 John mutfağa gitti.
+8 John mutfakta değil.
+9 John mutfakta mı? 	hayır	8
+10 Daniel artık banyoda değil.
+11 Daniel koridora gitti.
+12 Daniel koridorda mı? 	evet	11
+13 John artık bahçede değil.
+14 Daniel ofise gitti.
+15 Daniel banyoda mı? 	hayır	14
+1 Sandra koridora gitti.
+2 Daniel banyoya gitti.
+3 Sandra koridorda mı? 	evet	1
+4 John ofise gitti.
+5 Mary ofise gitti.
+6 John ofiste mi? 	evet	4
+7 Mary salona gitti.
+8 Mary koridora gitti.
+9 Mary koridorda mı? 	evet	8
+10 Sandra salona gitti.
+11 Daniel mutfakta.
+12 Mary  banyoda mı? 	hayır	8
+13 Sandra bahçeye gitti.
+14 Daniel artık mutfakta değil.
+15 Sandra bahçede mi? 	evet	13
+1 John koridora gitti.
+2 Sandra banyoda.
+3 John koridorda mı? 	evet	1
+4 Daniel artık koridorda değil.
+5 Sandra ofise gitti.
+6 John salonda mı? 	hayır	1
+7 Daniel salona geri döndü.
+8 John artık koridorda değil.
+9 John koridorda mı? 	hayır	8
+10 Daniel mutfakta.
+11 Mary banyoda.
+12 Mary  banyoda mı? 	evet	11
+13 Mary koridora gitti.
+14 Mary koridorda değil.
+15 Mary koridorda mı? 	hayır	14
+1 John bahçede değil.
+2 Mary ofise gitti.
+3 Mary ofiste mi? 	evet	2
+4 Daniel salona gitti.
+5 John koridora gitti.
+6 John koridorda mı? 	evet	5
+7 Mary ofiste değil.
+8 Sandra koridorda değil.
+9 Sandra koridorda mı? 	hayır	8
+10 Mary bahçeye gitti.
+11 John salona gitti.
+12 Mary ofiste mi? 	hayır	10
+13 Sandra artık salonda değil.
+14 Sandra banyoda değil.
+15 Mary bahçede mı? 	evet	10
+1 John banyoya gitti.
+2 Daniel mutfağa geri döndü.
+3 John banyoda mı? 	evet	1
+4 Daniel salona gitti.
+5 Mary koridora gitti.
+6 Mary koridorda mı? 	evet	5
+7 John bahçeye gitti.
+8 Daniel artık salonda değil.
+9 John banyoda mı? 	hayır	7
+10 Sandra bahçeye gitti.
+11 Sandra banyoda.
+12 Daniel salonda mı? 	hayır	8
+13 Mary artık koridorda değil.
+14 Mary koridora geri döndü.
+15 Sandra mutfakta mı? 	hayır	11
+1 Daniel artık banyoda değil.
+2 Sandra ofise gitti.
+3 Sandra bahçede mi? 	hayır	2
+4 Mary mutfağa geri döndü.
+5 Sandra salona gitti.
+6 Mary mutfakta mı? 	evet	4
+7 Daniel salonda değil.
+8 John artık ofiste değil.
+9 Sandra salonda mı? 	evet	5
+10 John bahçeye gitti.
+11 Mary koridora geri döndü.
+12 John ofiste mi? 	hayır	10
+13 Mary mutfakta.
+14 John bahçede değil.
+15 Mary mutfakta mı? 	evet	13
+1 Mary salona gitti.
+2 Mary ofise geri döndü.
+3 Mary ofiste mi? 	evet	2
+4 John bahçede.
+5 Sandra bahçeye gitti.
+6 Sandra koridorda mı? 	hayır	5
+7 John bahçede değil.
+8 Sandra ofiste.
+9 Mary ofiste mi? 	evet	2
+10 John ofise gitti.
+11 Sandra mutfakta.
+12 John ofiste mi? 	evet	10
+13 Daniel salona geri döndü.
+14 John banyoya gitti.
+15 Daniel mutfakta mı? 	hayır	13
+1 Mary ofiste.
+2 John bahçede.
+3 John salonda mı? 	hayır	2
+4 Mary mutfağa gitti.
+5 Sandra artık mutfakta değil.
+6 Mary mutfakta mı? 	evet	4
+7 Sandra koridora gitti.
+8 Daniel koridora gitti.
+9 Sandra banyoda mı? 	hayır	7
+10 John artık bahçede değil.
+11 Mary banyoya gitti.
+12 Daniel koridorda mı? 	evet	8
+13 John banyoda.
+14 Mary banyoda değil.
+15 Daniel koridorda mı? 	evet	8
+1 Daniel koridorda değil.
+2 Sandra ofise gitti.
+3 Sandra ofiste mi? 	evet	2
+4 Mary koridorda.
+5 Mary mutfağa gitti.
+6 Mary  banyoda mı? 	hayır	5
+7 Mary koridorda.
+8 Daniel ofise gitti.
+9 Mary ofiste mi? 	hayır	7
+10 John koridora geri döndü.
+11 Mary koridorda değil.
+12 Daniel ofiste mi? 	evet	8
+13 John ofise gitti.
+14 Daniel bahçede.
+15 Mary koridorda mı? 	hayır	11
+1 Sandra ofiste değil.
+2 Mary koridorda değil.
+3 Sandra ofiste mi? 	hayır	1
+4 Sandra salona geri döndü.
+5 Daniel koridora gitti.
+6 Sandra koridorda mı? 	hayır	4
+7 Mary bahçede.
+8 John salonda.
+9 Mary salonda mı? 	hayır	7
+10 John banyoya gitti.
+11 John salona gitti.
+12 Daniel koridorda mı? 	evet	5
+13 Mary artık bahçede değil.
+14 Mary bahçede.
+15 John salonda mı? 	evet	11
+1 Daniel mutfağa geri döndü.
+2 John mutfağa geri döndü.
+3 John ofiste mi? 	hayır	2
+4 Daniel banyoya gitti.
+5 Daniel ofise gitti.
+6 Daniel banyoda mı? 	hayır	5
+7 John artık mutfakta değil.
+8 Mary ofiste değil.
+9 John mutfakta mı? 	hayır	7
+10 John banyoda değil.
+11 Sandra ofiste.
+12 Sandra bahçede mi? 	hayır	11
+13 John banyoya geri döndü.
+14 Daniel banyoya geri döndü.
+15 John koridorda mı? 	hayır	13
+1 Daniel banyoda.
+2 Daniel mutfakta.
+3 Daniel banyoda mı? 	hayır	2
+4 Mary ofise geri döndü.
+5 Daniel mutfakta değil.
+6 Daniel mutfakta mı? 	hayır	5
+7 Daniel salona gitti.
+8 John ofise gitti.
+9 Daniel bahçede mi? 	hayır	7
+10 John artık ofiste değil.
+11 Mary bahçeye gitti.
+12 Daniel salonda mı? 	evet	7
+13 Sandra banyoya gitti.
+14 Sandra ofiste.
+15 Mary bahçede mı? 	evet	11
+1 Daniel mutfağa gitti.
+2 Sandra koridorda.
+3 Sandra salonda mı? 	hayır	2
+4 John bahçede değil.
+5 Mary mutfakta.
+6 John bahçede mi? 	hayır	4
+7 Daniel salona geri döndü.
+8 Mary artık mutfakta değil.
+9 Daniel salonda mı? 	hayır	7
+10 Sandra ofise gitti.
+11 John salonda değil.
+12 Mary mutfakta mı? 	hayır	8
+13 Daniel mutfağa geri döndü.
+14 John salonda.
+15 Mary mutfakta mı? 	hayır	8
+1 Daniel bahçeye gitti.
+2 John mutfakta değil.
+3 John mutfakta mı? 	hayır	2
+4 John artık bahçede değil.
+5 Sandra koridorda.
+6 John bahçede mi? 	hayır	4
+7 Sandra banyoya gitti.
+8 John artık salonda değil.
+9 Sandra banyoda mı? 	evet	7
+10 Daniel koridora gitti.
+11 John mutfağa gitti.
+12 John mutfakta mı? 	evet	11
+13 John banyoya gitti.
+14 John salonda.
+15 John mutfakta mı? 	hayır	14
+1 Mary banyoda değil.
+2 Mary koridora gitti.
+3 Mary bahçede mı? 	hayır	2
+4 John salona gitti.
+5 Mary artık koridorda değil.
+6 John koridorda mı? 	hayır	4
+7 Mary salonda.
+8 John salonda değil.
+9 Mary ofiste mi? 	hayır	7
+10 Daniel salonda.
+11 Daniel ofise gitti.
+12 Daniel koridorda mı? 	hayır	11
+13 Mary koridora gitti.
+14 Mary salona gitti.
+15 Mary koridorda mı? 	hayır	14
+1 Sandra koridora geri döndü.
+2 Mary koridorda değil.
+3 Sandra bahçede mi? 	hayır	1
+4 Mary mutfakta değil.
+5 Sandra artık koridorda değil.
+6 Sandra koridorda mı? 	hayır	5
+7 John ofiste değil.
+8 Daniel bahçeye gitti.
+9 Daniel bahçede mi? 	evet	8
+10 Daniel ofise gitti.
+11 Sandra banyoda.
+12 Daniel ofiste mi? 	evet	10
+13 Daniel bahçede.
+14 Mary artık salonda değil.
+15 Daniel salonda mı? 	hayır	13
+1 John mutfağa gitti.
+2 John koridorda.
+3 John koridorda mı? 	evet	2
+4 John bahçeye gitti.
+5 John koridora geri döndü.
+6 John koridorda mı? 	evet	5
+7 John bahçede.
+8 John artık bahçede değil.
+9 John bahçede mi? 	hayır	8
+10 John mutfağa gitti.
+11 Mary banyoya gitti.
+12 John mutfakta mı? 	evet	10
+13 Daniel bahçede.
+14 Mary ofise gitti.
+15 Mary mutfakta mı? 	hayır	14
+1 Daniel banyoya gitti.
+2 Mary koridorda değil.
+3 Mary koridorda mı? 	hayır	2
+4 Daniel mutfağa gitti.
+5 Daniel ofiste.
+6 Daniel mutfakta mı? 	hayır	5
+7 John bahçede.
+8 Sandra ofise geri döndü.
+9 Daniel banyoda mı? 	hayır	5
+10 Mary mutfağa gitti.
+11 Daniel koridora gitti.
+12 Mary koridorda mı? 	hayır	10
+13 Sandra mutfağa geri döndü.
+14 Daniel artık koridorda değil.
+15 Sandra bahçede mi? 	hayır	13
+1 John mutfakta.
+2 Sandra koridora gitti.
+3 John ofiste mi? 	hayır	1
+4 Sandra salona gitti.
+5 Mary artık mutfakta değil.
+6 Sandra salonda mı? 	evet	4
+7 Mary mutfakta.
+8 Mary banyoda.
+9 Mary  banyoda mı? 	evet	8
+10 Daniel bahçede değil.
+11 Mary mutfakta.
+12 Mary mutfakta mı? 	evet	11
+13 Daniel banyoya geri döndü.
+14 Sandra koridorda.
+15 Mary ofiste mi? 	hayır	11
+1 Sandra mutfağa gitti.
+2 John artık bahçede değil.
+3 Sandra salonda mı? 	hayır	1
+4 John mutfağa gitti.
+5 John banyoya gitti.
+6 John mutfakta mı? 	hayır	5
+7 Daniel mutfakta.
+8 Daniel salonda.
+9 Daniel salonda mı? 	evet	8
+10 Daniel artık salonda değil.
+11 John bahçede.
+12 John salonda mı? 	hayır	11
+13 John mutfağa gitti.
+14 Sandra artık mutfakta değil.
+15 John salonda mı? 	hayır	13
+1 John salona geri döndü.
+2 John bahçede.
+3 John bahçede mi? 	evet	2
+4 John koridora geri döndü.
+5 Sandra banyoya gitti.
+6 John koridorda mı? 	evet	4
+7 Mary banyoda değil.
+8 John salona gitti.
+9 John salonda mı? 	evet	8
+10 Mary ofiste.
+11 Sandra koridora geri döndü.
+12 Mary salonda mı? 	hayır	10
+13 Sandra salona gitti.
+14 Sandra banyoya gitti.
+15 Sandra banyoda mı? 	evet	14
+1 Sandra banyoda.
+2 Daniel artık koridorda değil.
+3 Sandra mutfakta mı? 	hayır	1
+4 Mary koridorda.
+5 Daniel mutfakta.
+6 Daniel mutfakta mı? 	evet	5
+7 Sandra koridorda.
+8 Daniel mutfakta değil.
+9 Daniel mutfakta mı? 	hayır	8
+10 Daniel mutfağa gitti.
+11 John ofiste değil.
+12 Daniel banyoda mı? 	hayır	10
+13 Sandra salona geri döndü.
+14 John bahçede değil.
+15 John bahçede mi? 	hayır	14
+1 Daniel banyoda.
+2 Daniel koridora geri döndü.
+3 Daniel ofiste mi? 	hayır	2
+4 Mary banyoya gitti.
+5 John mutfağa gitti.
+6 Daniel mutfakta mı? 	hayır	2
+7 Mary mutfakta.
+8 John koridora gitti.
+9 John koridorda mı? 	evet	8
+10 John artık koridorda değil.
+11 Sandra salonda.
+12 Mary ofiste mi? 	hayır	7
+13 Mary banyoya gitti.
+14 John artık bahçede değil.
+15 Mary koridorda mı? 	hayır	13
+1 Daniel ofiste.
+2 Mary salonda.
+3 Daniel banyoda mı? 	hayır	1
+4 Sandra artık banyoda değil.
+5 Sandra koridora gitti.
+6 Daniel mutfakta mı? 	hayır	1
+7 Sandra banyoya gitti.
+8 Sandra koridora geri döndü.
+9 Sandra mutfakta mı? 	hayır	8
+10 Mary artık salonda değil.
+11 John bahçede.
+12 Sandra koridorda mı? 	evet	8
+13 Mary salona gitti.
+14 John koridora gitti.
+15 John ofiste mi? 	hayır	14
+1 Daniel salonda değil.
+2 Sandra koridora gitti.
+3 Sandra banyoda mı? 	hayır	2
+4 Sandra salona gitti.
+5 Mary banyoda.
+6 Sandra salonda mı? 	evet	4
+7 Sandra salonda değil.
+8 Sandra mutfakta.
+9 Mary  banyoda mı? 	evet	5
+10 John bahçeye gitti.
+11 John bahçede değil.
+12 Sandra bahçede mi? 	hayır	8
+13 Daniel ofiste.
+14 Mary banyoda değil.
+15 Sandra bahçede mi? 	hayır	8
+1 Daniel koridora geri döndü.
+2 Daniel bahçeye gitti.
+3 Daniel bahçede mi? 	evet	2
+4 Sandra ofiste.
+5 John artık banyoda değil.
+6 Sandra koridorda mı? 	hayır	4
+7 Mary mutfağa gitti.
+8 Daniel salona gitti.
+9 Daniel koridorda mı? 	hayır	8
+10 Daniel ofise gitti.
+11 John artık bahçede değil.
+12 Mary mutfakta mı? 	evet	7
+13 John mutfakta.
+14 John koridora gitti.
+15 John banyoda mı? 	hayır	14
+1 Sandra bahçede değil.
+2 Daniel mutfağa geri döndü.
+3 Sandra bahçede mi? 	hayır	1
+4 Daniel mutfakta değil.
+5 John salona gitti.
+6 John koridorda mı? 	hayır	5
+7 Mary salona gitti.
+8 Sandra bahçede.
+9 Daniel mutfakta mı? 	hayır	4
+10 Mary artık salonda değil.
+11 Daniel koridora gitti.
+12 Mary salonda mı? 	hayır	10
+13 Mary ofiste.
+14 Sandra mutfakta.
+15 Sandra mutfakta mı? 	evet	14
+1 John salona gitti.
+2 Sandra bahçede.
+3 John salonda mı? 	evet	1
+4 Sandra salona gitti.
+5 Sandra mutfakta.
+6 Sandra mutfakta mı? 	evet	5
+7 Daniel artık mutfakta değil.
+8 Mary ofise geri döndü.
+9 Sandra koridorda mı? 	hayır	5
+10 Mary mutfağa gitti.
+11 Sandra salona gitti.
+12 Sandra koridorda mı? 	hayır	11
+13 Sandra artık salonda değil.
+14 Sandra ofise gitti.
+15 Sandra mutfakta mı? 	hayır	14
+1 John artık ofiste değil.
+2 Sandra mutfakta.
+3 John ofiste mi? 	hayır	1
+4 Sandra banyoya geri döndü.
+5 Mary bahçeye gitti.
+6 Sandra banyoda mı? 	evet	4
+7 Mary artık bahçede değil.
+8 Daniel mutfağa geri döndü.
+9 Sandra banyoda mı? 	evet	4
+10 Mary salona geri döndü.
+11 Sandra salona geri döndü.
+12 Mary bahçede mı? 	evet	10
+13 John mutfakta.
+14 Sandra banyoda.
+15 Sandra koridorda mı? 	hayır	14
+1 Sandra banyoya gitti.
+2 Mary bahçeye gitti.
+3 Sandra banyoda mı? 	evet	1
+4 Daniel koridora gitti.
+5 John ofiste.
+6 Sandra banyoda mı? 	evet	1
+7 Sandra salona gitti.
+8 Daniel koridorda değil.
+9 Mary bahçede mı? 	evet	2
+10 Mary salona gitti.
+11 Sandra ofiste.
+12 Daniel koridorda mı? 	hayır	8
+13 John ofiste değil.
+14 John ofise geri döndü.
+15 John salonda mı? 	hayır	14
+1 Daniel artık banyoda değil.
+2 Mary ofise geri döndü.
+3 Daniel banyoda mı? 	hayır	1
+4 Mary artık ofiste değil.
+5 Mary koridora gitti.
+6 Mary koridorda mı? 	evet	5
+7 Mary artık koridorda değil.
+8 Sandra koridora gitti.
+9 Mary koridorda mı? 	hayır	7
+10 Daniel banyoya gitti.
+11 Daniel bahçeye gitti.
+12 Daniel bahçede mi? 	evet	11
+13 Mary salonda.
+14 Sandra bahçede.
+15 Daniel ofiste mi? 	hayır	11
+1 John banyoya gitti.
+2 Daniel artık mutfakta değil.
+3 John banyoda mı? 	evet	1
+4 John artık banyoda değil.
+5 Sandra artık salonda değil.
+6 Sandra salonda mı? 	hayır	5
+7 Sandra salona geri döndü.
+8 John koridora gitti.
+9 Daniel mutfakta mı? 	hayır	2
+10 Sandra banyoya gitti.
+11 Daniel bahçeye gitti.
+12 Sandra banyoda mı? 	evet	10
+13 Mary ofiste değil.
+14 Mary banyoya geri döndü.
+15 John salonda mı? 	hayır	8
+1 Sandra ofise gitti.
+2 Sandra artık ofiste değil.
+3 Sandra ofiste mi? 	hayır	2
+4 Sandra bahçeye gitti.
+5 Sandra bahçede değil.
+6 Sandra bahçede mi? 	hayır	5
+7 Mary ofiste.
+8 Mary koridora gitti.
+9 Sandra bahçede mi? 	hayır	5
+10 Mary bahçeye gitti.
+11 Mary ofiste.
+12 Mary bahçede mı? 	hayır	11
+13 Daniel koridorda değil.
+14 Mary artık ofiste değil.
+15 Daniel koridorda mı? 	hayır	13
+1 Daniel ofise gitti.
+2 Daniel salona geri döndü.
+3 Daniel salonda mı? 	hayır	2
+4 Daniel salonda.
+5 Sandra banyoya geri döndü.
+6 Sandra koridorda mı? 	hayır	5
+7 Sandra banyoda değil.
+8 John banyoda.
+9 Sandra banyoda mı? 	hayır	7
+10 Sandra bahçeye gitti.
+11 Sandra artık bahçede değil.
+12 Sandra bahçede mi? 	hayır	11
+13 Sandra banyoda.
+14 Daniel banyoya gitti.
+15 Sandra bahçede mi? 	hayır	13
+1 Mary koridora geri döndü.
+2 John koridora gitti.
+3 John koridorda mı? 	evet	2
+4 John banyoda.
+5 Sandra salona gitti.
+6 John salonda mı? 	hayır	4
+7 John bahçeye gitti.
+8 John salonda.
+9 John bahçede mi? 	hayır	8
+10 Mary banyoya gitti.
+11 Mary bahçeye gitti.
+12 Mary bahçede mı? 	evet	11
+13 Sandra salonda değil.
+14 Mary artık bahçede değil.
+15 Mary bahçede mı? 	hayır	14
+1 John salonda.
+2 Mary bahçeye gitti.
+3 Mary bahçede mı? 	evet	2
+4 Sandra ofise geri döndü.
+5 Mary banyoya gitti.
+6 Sandra ofiste mi? 	evet	4
+7 John artık salonda değil.
+8 Sandra bahçeye gitti.
+9 Mary salonda mı? 	hayır	5
+10 John banyoda.
+11 Sandra koridora gitti.
+12 Sandra mutfakta mı? 	hayır	11
+13 Mary koridora gitti.
+14 Sandra artık koridorda değil.
+15 Sandra koridorda mı? 	hayır	14
+1 Mary bahçede.
+2 Mary banyoda.
+3 Mary  banyoda mı? 	evet	2
+4 John koridora gitti.
+5 Sandra artık ofiste değil.
+6 Mary salonda mı? 	hayır	2
+7 Mary mutfağa gitti.
+8 Mary koridora gitti.
+9 John koridorda mı? 	evet	4
+10 John banyoya geri döndü.
+11 Mary artık koridorda değil.
+12 Mary koridorda mı? 	hayır	11
+13 John salona gitti.
+14 Mary artık banyoda değil.
+15 John banyoda mı? 	hayır	13
+1 Sandra mutfakta.
+2 Daniel bahçede değil.
+3 Sandra banyoda mı? 	hayır	1
+4 John koridora geri döndü.
+5 Daniel salonda değil.
+6 John bahçede mi? 	hayır	4
+7 Sandra salona gitti.
+8 Sandra artık salonda değil.
+9 Sandra salonda mı? 	hayır	8
+10 John ofiste.
+11 John bahçeye gitti.
+12 Sandra salonda mı? 	hayır	8
+13 Daniel mutfağa gitti.
+14 John bahçede değil.
+15 John bahçede mi? 	hayır	14
+1 Daniel ofiste.
+2 Daniel bahçeye gitti.
+3 Daniel bahçede mi? 	evet	2
+4 John ofiste.
+5 Daniel salona geri döndü.
+6 Daniel salonda mı? 	evet	5
+7 Mary artık banyoda değil.
+8 Mary artık bahçede değil.
+9 Mary bahçede mı? 	hayır	8
+10 Mary artık koridorda değil.
+11 Sandra banyoya gitti.
+12 Mary koridorda mı? 	hayır	10
+13 Daniel artık salonda değil.
+14 Daniel ofise gitti.
+15 Sandra banyoda mı? 	evet	11
+1 Daniel banyoya gitti.
+2 Mary banyoda.
+3 Daniel bahçede mi? 	hayır	1
+4 Sandra artık koridorda değil.
+5 Sandra banyoya gitti.
+6 Sandra mutfakta mı? 	hayır	5
+7 Daniel salona gitti.
+8 Daniel mutfakta.
+9 Sandra mutfakta mı? 	hayır	5
+10 Mary bahçede.
+11 Mary salona gitti.
+12 Daniel ofiste mi? 	hayır	8
+13 Mary ofiste.
+14 Sandra mutfağa gitti.
+15 Sandra mutfakta mı? 	evet	14
+1 Mary koridora geri döndü.
+2 Daniel artık mutfakta değil.
+3 Mary koridorda mı? 	evet	1
+4 John artık bahçede değil.
+5 Daniel ofise gitti.
+6 John bahçede mi? 	hayır	4
+7 John koridora gitti.
+8 Sandra mutfağa gitti.
+9 John banyoda mı? 	hayır	7
+10 John mutfağa gitti.
+11 Sandra banyoda.
+12 John salonda mı? 	hayır	10
+13 Daniel artık ofiste değil.
+14 John banyoya gitti.
+15 Sandra banyoda mı? 	evet	11
+1 Sandra salona gitti.
+2 Sandra mutfağa gitti.
+3 Sandra mutfakta mı? 	evet	2
+4 John artık banyoda değil.
+5 John salonda.
+6 Sandra bahçede mi? 	hayır	2
+7 Daniel bahçeye gitti.
+8 John koridora gitti.
+9 Daniel ofiste mi? 	hayır	7
+10 Mary bahçede.
+11 Daniel artık bahçede değil.
+12 Daniel bahçede mi? 	hayır	11
+13 Mary bahçede değil.
+14 Daniel koridora gitti.
+15 Mary bahçede mı? 	hayır	13
+1 Sandra salonda değil.
+2 Sandra banyoda değil.
+3 Sandra banyoda mı? 	hayır	2
+4 Mary artık salonda değil.
+5 Sandra banyoya gitti.
+6 Sandra ofiste mi? 	hayır	5
+7 Mary bahçede.
+8 John mutfakta değil.
+9 Sandra mutfakta mı? 	hayır	5
+10 Daniel salonda.
+11 Sandra banyoda değil.
+12 Mary bahçede mı? 	evet	7
+13 John salona gitti.
+14 Mary mutfakta.
+15 Mary  banyoda mı? 	hayır	14
+1 Daniel mutfakta.
+2 Sandra salonda değil.
+3 Sandra salonda mı? 	hayır	2
+4 Daniel mutfakta değil.
+5 Mary mutfağa gitti.
+6 Daniel mutfakta mı? 	hayır	4
+7 Daniel bahçede.
+8 John koridora gitti.
+9 Sandra salonda mı? 	hayır	2
+10 John ofise gitti.
+11 Sandra koridora gitti.
+12 John koridorda mı? 	hayır	10
+13 Mary mutfakta değil.
+14 Mary banyoya gitti.
+15 Sandra koridorda mı? 	evet	11
+1 John salonda değil.
+2 Sandra salonda.
+3 John salonda mı? 	hayır	1
+4 Mary salona gitti.
+5 Sandra ofiste.
+6 John salonda mı? 	hayır	1
+7 Sandra koridora gitti.
+8 Sandra salona gitti.
+9 Mary salonda mı? 	evet	4
+10 John ofise gitti.
+11 John ofiste değil.
+12 Sandra mutfakta mı? 	hayır	8
+13 John banyoda.
+14 Daniel banyoda.
+15 Sandra ofiste mi? 	hayır	8
+1 Mary koridora geri döndü.
+2 Daniel salonda.
+3 Daniel salonda mı? 	evet	2
+4 Daniel salonda değil.
+5 John salonda.
+6 Mary bahçede mı? 	hayır	1
+7 John banyoda.
+8 Mary banyoya gitti.
+9 John banyoda mı? 	evet	7
+10 Mary bahçede.
+11 John koridora gitti.
+12 John koridorda mı? 	evet	11
+13 Sandra bahçeye gitti.
+14 John salona geri döndü.
+15 Mary koridorda mı? 	hayır	10
+1 Sandra bahçede.
+2 Sandra mutfağa geri döndü.
+3 Sandra mutfakta mı? 	evet	2
+4 Mary mutfağa gitti.
+5 Sandra banyoda.
+6 Sandra banyoda mı? 	evet	5
+7 Mary banyoda.
+8 Mary bahçeye gitti.
+9 Sandra bahçede mi? 	hayır	5
+10 Daniel banyoda değil.
+11 Mary ofise geri döndü.
+12 Mary mutfakta mı? 	hayır	11
+13 Mary artık ofiste değil.
+14 John artık ofiste değil.
+15 Mary ofiste mi? 	hayır	13
+1 Daniel bahçeye gitti.
+2 Mary salona gitti.
+3 Daniel salonda mı? 	hayır	1
+4 Mary bahçede.
+5 Daniel banyoya gitti.
+6 Mary bahçede mı? 	evet	4
+7 Sandra banyoya gitti.
+8 Sandra salona gitti.
+9 Mary bahçede mı? 	evet	4
+10 John banyoya geri döndü.
+11 Mary bahçede değil.
+12 Daniel salonda mı? 	hayır	5
+13 Sandra bahçede.
+14 Mary koridorda.
+15 Sandra banyoda mı? 	hayır	13
+1 Daniel banyoya gitti.
+2 Mary banyoya gitti.
+3 Mary  banyoda mı? 	evet	2
+4 Mary artık banyoda değil.
+5 Sandra mutfağa gitti.
+6 Mary  banyoda mı? 	hayır	4
+7 Mary mutfağa geri döndü.
+8 Mary mutfakta değil.
+9 Mary mutfakta mı? 	hayır	8
+10 Sandra salona gitti.
+11 John artık mutfakta değil.
+12 John mutfakta mı? 	hayır	11
+13 Sandra ofise geri döndü.
+14 John artık koridorda değil.
+15 Mary mutfakta mı? 	hayır	8
+1 Daniel bahçede değil.
+2 John banyoya gitti.
+3 John banyoda mı? 	evet	2
+4 Mary salona gitti.
+5 Sandra mutfakta değil.
+6 Daniel bahçede mi? 	hayır	1
+7 Sandra artık bahçede değil.
+8 Mary koridora geri döndü.
+9 John banyoda mı? 	evet	2
+10 Sandra banyoda değil.
+11 Sandra ofiste.
+12 Sandra ofiste mi? 	evet	11
+13 Daniel koridora gitti.
+14 Mary banyoya gitti.
+15 Mary koridorda mı? 	hayır	14
+1 Daniel salona geri döndü.
+2 Sandra ofiste.
+3 Sandra ofiste mi? 	evet	2
+4 Sandra salonda.
+5 Sandra mutfakta.
+6 Sandra bahçede mi? 	hayır	5
+7 John mutfağa gitti.
+8 Daniel mutfağa gitti.
+9 Daniel mutfakta mı? 	evet	8
+10 Daniel salona gitti.
+11 Sandra koridorda.
+12 Daniel salonda mı? 	evet	10
+13 John ofiste.
+14 Daniel artık salonda değil.
+15 Daniel salonda mı? 	hayır	14
+1 Daniel banyoda.
+2 Daniel bahçede.
+3 Daniel bahçede mi? 	evet	2
+4 John ofise gitti.
+5 Mary mutfağa gitti.
+6 John banyoda mı? 	hayır	4
+7 Daniel mutfağa geri döndü.
+8 Sandra koridora gitti.
+9 Daniel mutfakta mı? 	evet	7
+10 Sandra artık koridorda değil.
+11 John ofiste değil.
+12 Sandra koridorda mı? 	hayır	10
+13 Sandra mutfağa gitti.
+14 Sandra banyoya geri döndü.
+15 Sandra banyoda mı? 	evet	14
+1 Sandra banyoya geri döndü.
+2 Mary bahçeye gitti.
+3 Sandra bahçede mi? 	hayır	1
+4 Daniel koridora gitti.
+5 Mary ofiste.
+6 Sandra banyoda mı? 	evet	1
+7 Daniel bahçede.
+8 John ofise gitti.
+9 Daniel bahçede mi? 	evet	7
+10 Daniel ofise gitti.
+11 John banyoya gitti.
+12 Daniel ofiste mi? 	evet	10
+13 Daniel salona gitti.
+14 Mary koridora gitti.
+15 Daniel salonda mı? 	evet	13
+1 Daniel koridorda.
+2 Sandra artık salonda değil.
+3 Daniel koridorda mı? 	evet	1
+4 Sandra ofise gitti.
+5 Sandra koridorda.
+6 Sandra koridorda mı? 	evet	5
+7 Sandra banyoya gitti.
+8 Daniel artık koridorda değil.
+9 Sandra banyoda mı? 	evet	7
+10 John mutfağa gitti.
+11 Sandra ofise geri döndü.
+12 Sandra bahçede mi? 	hayır	11
+13 Sandra koridora gitti.
+14 John banyoya geri döndü.
+15 Sandra mutfakta mı? 	hayır	13
+1 John salonda.
+2 Mary ofise gitti.
+3 John koridorda mı? 	hayır	1
+4 John ofise gitti.
+5 Daniel mutfağa gitti.
+6 Mary ofiste mi? 	evet	2
+7 John mutfağa gitti.
+8 John artık mutfakta değil.
+9 John mutfakta mı? 	hayır	8
+10 Sandra mutfağa gitti.
+11 John mutfağa gitti.
+12 Sandra bahçede mi? 	hayır	10
+13 Daniel koridora gitti.
+14 Daniel mutfağa gitti.
+15 Sandra mutfakta mı? 	evet	10
+1 Daniel koridorda.
+2 Daniel banyoya geri döndü.
+3 Daniel ofiste mi? 	hayır	2
+4 Daniel koridora gitti.
+5 Daniel koridorda değil.
+6 Daniel koridorda mı? 	hayır	5
+7 Daniel bahçeye gitti.
+8 Mary mutfağa gitti.
+9 Daniel bahçede mi? 	evet	7
+10 Sandra bahçeye gitti.
+11 Daniel salonda.
+12 Daniel salonda mı? 	evet	11
+13 Sandra koridora gitti.
+14 Sandra salona gitti.
+15 Daniel banyoda mı? 	hayır	11
+1 Sandra salona geri döndü.
+2 Sandra salonda değil.
+3 Sandra salonda mı? 	hayır	2
+4 Sandra ofise gitti.
+5 Sandra banyoya gitti.
+6 Sandra banyoda mı? 	evet	5
+7 John mutfakta değil.
+8 Sandra ofise gitti.
+9 Sandra koridorda mı? 	hayır	8
+10 John ofise geri döndü.
+11 John koridora gitti.
+12 Sandra bahçede mi? 	hayır	8
+13 Daniel ofiste.
+14 Daniel artık ofiste değil.
+15 Daniel ofiste mi? 	hayır	14
+1 John mutfağa gitti.
+2 John mutfakta değil.
+3 John mutfakta mı? 	hayır	2
+4 John ofiste değil.
+5 John koridorda.
+6 John mutfakta mı? 	hayır	5
+7 John bahçeye gitti.
+8 Mary salonda.
+9 Mary koridorda mı? 	hayır	8
+10 Mary ofise gitti.
+11 Daniel bahçede.
+12 John koridorda mı? 	hayır	7
+13 Sandra banyoya gitti.
+14 Daniel bahçede değil.
+15 Daniel bahçede mi? 	hayır	14
+1 Daniel koridorda değil.
+2 Daniel koridora gitti.
+3 Daniel koridorda mı? 	evet	2
+4 Mary banyoda değil.
+5 Daniel ofiste.
+6 Daniel bahçede mi? 	hayır	5
+7 Sandra koridora geri döndü.
+8 Mary artık ofiste değil.
+9 Sandra koridorda mı? 	evet	7
+10 John salona gitti.
+11 Daniel bahçede.
+12 Daniel bahçede mi? 	evet	11
+13 Daniel ofise gitti.
+14 John banyoya gitti.
+15 John koridorda mı? 	hayır	14
+1 Mary ofise gitti.
+2 Mary banyoya geri döndü.
+3 Mary koridorda mı? 	hayır	2
+4 Daniel bahçede.
+5 John banyoya gitti.
+6 Mary bahçede mı? 	hayır	2
+7 Mary bahçede.
+8 Daniel salona gitti.
+9 Mary koridorda mı? 	hayır	7
+10 Daniel artık salonda değil.
+11 Mary ofise gitti.
+12 Daniel salonda mı? 	hayır	10
+13 Sandra bahçeye gitti.
+14 Mary ofiste değil.
+15 Mary ofiste mi? 	hayır	14
+1 John salona geri döndü.
+2 Mary salona gitti.
+3 Mary salonda mı? 	evet	2
+4 Sandra banyoda değil.
+5 Daniel banyoya gitti.
+6 Sandra banyoda mı? 	hayır	4
+7 Sandra koridora gitti.
+8 Sandra artık koridorda değil.
+9 Sandra koridorda mı? 	hayır	8
+10 John koridora geri döndü.
+11 Daniel koridorda.
+12 Daniel ofiste mi? 	hayır	11
+13 Sandra banyoya gitti.
+14 John banyoya gitti.
+15 Daniel koridorda mı? 	evet	11
+1 Mary salonda değil.
+2 Daniel mutfakta değil.
+3 Mary salonda mı? 	hayır	1
+4 Sandra ofise gitti.
+5 Daniel salonda değil.
+6 Mary salonda mı? 	hayır	1
+7 Sandra bahçeye gitti.
+8 Daniel bahçede değil.
+9 Daniel bahçede mi? 	hayır	8
+10 Daniel koridora gitti.
+11 Mary bahçede değil.
+12 Daniel banyoda mı? 	hayır	10
+13 Daniel artık koridorda değil.
+14 Sandra salona gitti.
+15 Sandra mutfakta mı? 	hayır	14
+1 Mary banyoya gitti.
+2 Sandra ofise geri döndü.
+3 Mary  banyoda mı? 	evet	1
+4 Mary banyoda değil.
+5 Daniel banyoya gitti.
+6 Mary  banyoda mı? 	hayır	4
+7 Mary koridorda değil.
+8 Sandra ofiste değil.
+9 Mary koridorda mı? 	hayır	7
+10 Daniel artık banyoda değil.
+11 Mary bahçede.
+12 Daniel banyoda mı? 	hayır	10
+13 John mutfakta.
+14 Daniel koridora gitti.
+15 Daniel koridorda mı? 	evet	14
+1 Sandra bahçede.
+2 Daniel bahçede değil.
+3 Daniel bahçede mi? 	hayır	2
+4 Daniel artık banyoda değil.
+5 Daniel koridorda.
+6 Daniel koridorda mı? 	evet	5
+7 John ofiste.
+8 John ofiste değil.
+9 John ofiste mi? 	hayır	8
+10 Sandra salona gitti.
+11 Mary salonda.
+12 Daniel koridorda mı? 	evet	5
+13 Mary bahçede.
+14 Sandra koridora geri döndü.
+15 Sandra bahçede mi? 	hayır	14
+1 Daniel mutfakta.
+2 Mary ofiste.
+3 Mary ofiste mi? 	evet	2
+4 John artık bahçede değil.
+5 Daniel bahçeye gitti.
+6 Mary ofiste mi? 	evet	2
+7 John banyoya gitti.
+8 Mary banyoda.
+9 Mary mutfakta mı? 	hayır	8
+10 John salonda.
+11 Sandra salona geri döndü.
+12 John salonda mı? 	evet	10
+13 John artık salonda değil.
+14 John artık mutfakta değil.
+15 John mutfakta mı? 	hayır	14
+1 Sandra banyoya gitti.
+2 Sandra bahçeye gitti.
+3 Sandra bahçede mi? 	evet	2
+4 Mary koridora geri döndü.
+5 Mary ofise geri döndü.
+6 Sandra bahçede mi? 	evet	2
+7 Mary salona geri döndü.
+8 John bahçeye gitti.
+9 Mary bahçede mı? 	evet	7
+10 Mary salonda.
+11 Sandra ofise gitti.
+12 Sandra banyoda mı? 	hayır	11
+13 Sandra koridorda.
+14 John artık bahçede değil.
+15 John bahçede mi? 	hayır	14
+1 John koridorda.
+2 John mutfağa gitti.
+3 John mutfakta mı? 	evet	2
+4 Daniel mutfakta.
+5 John koridorda.
+6 Daniel bahçede mi? 	hayır	4
+7 John banyoya gitti.
+8 Daniel salona geri döndü.
+9 John salonda mı? 	hayır	7
+10 Mary banyoya gitti.
+11 Daniel salonda değil.
+12 John koridorda mı? 	hayır	7
+13 Mary salona gitti.
+14 Daniel artık koridorda değil.
+15 Daniel koridorda mı? 	hayır	14
+1 Sandra ofiste.
+2 Sandra koridora gitti.
+3 Sandra banyoda mı? 	hayır	2
+4 Mary salona geri döndü.
+5 John salonda değil.
+6 Sandra koridorda mı? 	evet	2
+7 Daniel artık salonda değil.
+8 Daniel artık banyoda değil.
+9 John salonda mı? 	hayır	5
+10 John salonda.
+11 Mary salonda değil.
+12 John salonda mı? 	evet	10
+13 Daniel banyoya gitti.
+14 Sandra salona gitti.
+15 John salonda mı? 	evet	10
+1 Mary bahçede.
+2 Mary artık bahçede değil.
+3 Mary bahçede mı? 	hayır	2
+4 Daniel bahçeye gitti.
+5 Daniel koridora gitti.
+6 Mary bahçede mı? 	hayır	2
+7 John koridora gitti.
+8 Mary bahçede.
+9 John salonda mı? 	hayır	7
+10 John mutfağa gitti.
+11 Mary banyoya gitti.
+12 Mary mutfakta mı? 	hayır	11
+13 John banyoda.
+14 Mary ofise gitti.
+15 Mary ofiste mi? 	evet	14
+1 Daniel salona gitti.
+2 John banyoya gitti.
+3 John mutfakta mı? 	hayır	2
+4 Daniel salonda değil.
+5 John mutfakta.
+6 John bahçede mi? 	hayır	5
+7 John banyoda.
+8 John salonda.
+9 John banyoda mı? 	hayır	8
+10 John artık salonda değil.
+11 Mary ofise geri döndü.
+12 John salonda mı? 	hayır	10
+13 Mary mutfağa gitti.
+14 Sandra bahçeye gitti.
+15 Mary mutfakta mı? 	evet	13
+1 John ofiste.
+2 John ofiste değil.
+3 John ofiste mi? 	hayır	2
+4 Sandra salonda.
+5 Daniel salonda.
+6 John ofiste mi? 	hayır	2
+7 Mary bahçeye gitti.
+8 Mary bahçede değil.
+9 Daniel mutfakta mı? 	hayır	5
+10 Daniel mutfakta.
+11 Daniel artık mutfakta değil.
+12 Daniel mutfakta mı? 	hayır	11
+13 Sandra artık salonda değil.
+14 Daniel mutfağa gitti.
+15 Mary bahçede mı? 	hayır	8
+1 Sandra banyoda.
+2 John banyoda değil.
+3 Sandra koridorda mı? 	hayır	1
+4 John mutfağa geri döndü.
+5 John bahçede.
+6 Sandra banyoda mı? 	evet	1
+7 Sandra bahçeye gitti.
+8 John koridora gitti.
+9 John banyoda mı? 	hayır	8
+10 Sandra artık bahçede değil.
+11 Mary salonda değil.
+12 John koridorda mı? 	evet	8
+13 John koridorda değil.
+14 John ofise gitti.
+15 John ofiste mi? 	evet	14
+1 Mary ofiste değil.
+2 Daniel mutfağa gitti.
+3 Mary ofiste mi? 	hayır	1
+4 John bahçeye gitti.
+5 Sandra ofiste.
+6 John bahçede mi? 	evet	4
+7 John salonda.
+8 John artık salonda değil.
+9 John salonda mı? 	hayır	8
+10 Mary artık mutfakta değil.
+11 Sandra koridora gitti.
+12 John salonda mı? 	hayır	8
+13 John ofise gitti.
+14 John mutfakta.
+15 Mary mutfakta mı? 	hayır	10
+1 John mutfakta değil.
+2 John ofise gitti.
+3 John ofiste mi? 	evet	2
+4 Mary salona gitti.
+5 Daniel banyoya gitti.
+6 John banyoda mı? 	hayır	2
+7 Daniel salonda.
+8 Mary salonda değil.
+9 Mary salonda mı? 	hayır	8
+10 Daniel koridorda.
+11 Sandra artık mutfakta değil.
+12 Daniel banyoda mı? 	hayır	10
+13 Sandra koridora gitti.
+14 Sandra ofise geri döndü.
+15 Daniel bahçede mi? 	hayır	10
+1 Sandra salonda.
+2 Mary mutfağa gitti.
+3 Sandra salonda mı? 	evet	1
+4 Mary salona geri döndü.
+5 Mary artık salonda değil.
+6 Mary salonda mı? 	hayır	5
+7 Mary ofiste değil.
+8 Mary salona gitti.
+9 Mary  banyoda mı? 	hayır	8
+10 Daniel banyoya gitti.
+11 John mutfakta.
+12 Mary  banyoda mı? 	hayır	8
+13 Daniel salonda.
+14 Sandra ofise geri döndü.
+15 Daniel koridorda mı? 	hayır	13
+1 Mary artık koridorda değil.
+2 Daniel salonda.
+3 Mary koridorda mı? 	hayır	1
+4 John salona gitti.
+5 Mary koridora gitti.
+6 John mutfakta mı? 	hayır	4
+7 Daniel banyoya gitti.
+8 Mary koridorda değil.
+9 Daniel banyoda mı? 	evet	7
+10 Daniel koridorda.
+11 Daniel koridorda değil.
+12 Daniel koridorda mı? 	hayır	11
+13 Mary banyoya gitti.
+14 Sandra ofise gitti.
+15 Daniel koridorda mı? 	hayır	11
+1 Mary koridorda.
+2 Daniel artık salonda değil.
+3 Daniel salonda mı? 	hayır	2
+4 Sandra koridora gitti.
+5 Sandra salona gitti.
+6 Daniel salonda mı? 	hayır	2
+7 Daniel salona geri döndü.
+8 John ofise gitti.
+9 Sandra salonda mı? 	evet	5
+10 Sandra salonda değil.
+11 Mary artık koridorda değil.
+12 John ofiste mi? 	evet	8
+13 John bahçeye gitti.
+14 Daniel artık salonda değil.
+15 Mary koridorda mı? 	hayır	11
+1 Mary ofise gitti.
+2 Mary bahçede.
+3 Mary bahçede mı? 	evet	2
+4 Mary koridora gitti.
+5 John mutfakta.
+6 John banyoda mı? 	hayır	5
+7 Mary salonda.
+8 Sandra bahçeye gitti.
+9 Mary salonda mı? 	evet	7
+10 Sandra salonda.
+11 John ofiste.
+12 John ofiste mi? 	evet	11
+13 Mary ofise gitti.
+14 Sandra bahçeye gitti.
+15 Sandra salonda mı? 	hayır	14
+1 Mary bahçeye gitti.
+2 Daniel salona gitti.
+3 Mary mutfakta mı? 	hayır	1
+4 Sandra koridorda değil.
+5 Mary mutfakta.
+6 Sandra koridorda mı? 	hayır	4
+7 Mary bahçeye gitti.
+8 Sandra artık salonda değil.
+9 Sandra salonda mı? 	hayır	8
+10 Daniel koridorda.
+11 Daniel artık koridorda değil.
+12 Daniel koridorda mı? 	hayır	11
+13 Sandra ofise gitti.
+14 Daniel artık bahçede değil.
+15 Daniel bahçede mi? 	hayır	14
+1 Sandra artık banyoda değil.
+2 John salonda.
+3 John salonda mı? 	evet	2
+4 Mary banyoya gitti.
+5 Mary ofiste.
+6 Mary ofiste mi? 	evet	5
+7 Sandra salona gitti.
+8 John ofise gitti.
+9 Mary ofiste mi? 	evet	5
+10 Sandra ofiste.
+11 Sandra salona geri döndü.
+12 Sandra bahçede mi? 	hayır	11
+13 Daniel koridorda.
+14 Mary mutfağa gitti.
+15 Sandra salonda mı? 	evet	11
+1 Sandra mutfakta.
+2 John mutfağa gitti.
+3 John mutfakta mı? 	evet	2
+4 Sandra bahçeye gitti.
+5 Daniel salona geri döndü.
+6 Sandra bahçede mi? 	evet	4
+7 Mary koridora geri döndü.
+8 Daniel koridora gitti.
+9 Daniel bahçede mi? 	hayır	8
+10 Mary ofiste.
+11 Daniel bahçede.
+12 Mary ofiste mi? 	evet	10
+13 Mary salona gitti.
+14 Mary salonda değil.
+15 Mary salonda mı? 	hayır	14
+1 Daniel salona gitti.
+2 Daniel ofiste.
+3 Daniel koridorda mı? 	hayır	2
+4 Daniel koridorda.
+5 Mary koridora gitti.
+6 Mary ofiste mi? 	hayır	5
+7 Mary koridorda değil.
+8 Sandra bahçede.
+9 Daniel koridorda mı? 	evet	4
+10 Daniel salona geri döndü.
+11 John salonda.
+12 Sandra bahçede mi? 	evet	8
+13 Mary mutfakta.
+14 Mary banyoya gitti.
+15 Daniel salonda mı? 	evet	10
+1 Mary salona gitti.
+2 Mary banyoya gitti.
+3 Mary  banyoda mı? 	evet	2
+4 Mary salonda.
+5 Mary ofise geri döndü.
+6 Mary ofiste mi? 	evet	5
+7 Sandra ofise gitti.
+8 John salona gitti.
+9 Mary ofiste mi? 	evet	5
+10 John salonda değil.
+11 John mutfakta.
+12 John ofiste mi? 	hayır	11
+13 Sandra mutfakta.
+14 Mary salona gitti.
+15 John koridorda mı? 	hayır	11
+1 John salonda.
+2 John ofise gitti.
+3 John salonda mı? 	hayır	2
+4 Sandra banyoya gitti.
+5 John koridora gitti.
+6 Sandra banyoda mı? 	evet	4
+7 Sandra mutfağa gitti.
+8 John salona gitti.
+9 John bahçede mi? 	hayır	8
+10 Mary bahçeye gitti.
+11 Sandra ofiste.
+12 John salonda mı? 	evet	8
+13 John koridora gitti.
+14 Sandra ofiste değil.
+15 Sandra ofiste mi? 	hayır	14
+1 Mary artık bahçede değil.
+2 John bahçede.
+3 John bahçede mi? 	evet	2
+4 John ofise gitti.
+5 Daniel artık mutfakta değil.
+6 Daniel mutfakta mı? 	hayır	5
+7 Mary koridorda.
+8 Sandra artık banyoda değil.
+9 John mutfakta mı? 	hayır	4
+10 John ofiste değil.
+11 John artık bahçede değil.
+12 Mary bahçede mı? 	hayır	7
+13 Daniel banyoya gitti.
+14 Mary mutfakta.
+15 Mary  banyoda mı? 	hayır	14
+1 Sandra artık koridorda değil.
+2 Sandra salona geri döndü.
+3 Sandra salonda mı? 	evet	2
+4 Sandra mutfağa gitti.
+5 John ofise gitti.
+6 Sandra mutfakta mı? 	evet	4
+7 Daniel bahçeye gitti.
+8 Mary salona geri döndü.
+9 Sandra koridorda mı? 	hayır	4
+10 Daniel banyoda.
+11 Daniel bahçeye gitti.
+12 Daniel salonda mı? 	hayır	11
+13 Mary mutfağa gitti.
+14 Sandra artık mutfakta değil.
+15 Mary mutfakta mı? 	evet	13
+1 Sandra salona geri döndü.
+2 Mary artık salonda değil.
+3 Sandra salonda mı? 	hayır	1
+4 Daniel ofise gitti.
+5 Sandra mutfağa gitti.
+6 Sandra koridorda mı? 	hayır	5
+7 Sandra bahçeye gitti.
+8 Daniel koridora gitti.
+9 Daniel ofiste mi? 	hayır	8
+10 Daniel koridorda değil.
+11 Daniel artık banyoda değil.
+12 Daniel banyoda mı? 	hayır	11
+13 Mary mutfağa geri döndü.
+14 John salonda.
+15 John salonda mı? 	evet	14
+1 Daniel salona gitti.
+2 Daniel mutfağa gitti.
+3 Daniel mutfakta mı? 	evet	2
+4 Daniel ofise gitti.
+5 Mary bahçeye gitti.
+6 Mary  banyoda mı? 	hayır	5
+7 Daniel artık ofiste değil.
+8 Sandra mutfağa gitti.
+9 Daniel ofiste mi? 	hayır	7
+10 Sandra koridorda.
+11 Mary koridora gitti.
+12 Mary ofiste mi? 	hayır	11
+13 Sandra bahçeye gitti.
+14 Mary banyoya geri döndü.
+15 Sandra bahçede mi? 	evet	13
+1 John salona geri döndü.
+2 Daniel bahçede.
+3 John mutfakta mı? 	hayır	1
+4 John mutfağa geri döndü.
+5 Sandra koridorda değil.
+6 Sandra koridorda mı? 	hayır	5
+7 John bahçeye gitti.
+8 John ofiste.
+9 John ofiste mi? 	evet	8
+10 Sandra banyoya gitti.
+11 Mary mutfağa gitti.
+12 Mary koridorda mı? 	hayır	11
+13 Daniel artık bahçede değil.
+14 Sandra ofise gitti.
+15 Daniel bahçede mi? 	hayır	13
+1 John bahçeye gitti.
+2 Mary ofise gitti.
+3 John koridorda mı? 	hayır	1
+4 John bahçede değil.
+5 Mary bahçeye gitti.
+6 Mary bahçede mı? 	evet	5
+7 Sandra artık bahçede değil.
+8 John artık koridorda değil.
+9 Sandra bahçede mi? 	hayır	7
+10 Mary salonda.
+11 Daniel salonda.
+12 Mary  banyoda mı? 	hayır	10
+13 Sandra artık ofiste değil.
+14 Mary mutfağa gitti.
+15 Mary ofiste mi? 	hayır	14
+1 Mary salona gitti.
+2 Daniel ofiste değil.
+3 Mary salonda mı? 	evet	1
+4 John artık ofiste değil.
+5 Sandra salona geri döndü.
+6 Sandra salonda mı? 	hayır	5
+7 John bahçeye gitti.
+8 Sandra koridorda.
+9 Sandra koridorda mı? 	evet	8
+10 Mary mutfakta.
+11 Sandra banyoya geri döndü.
+12 Sandra banyoda mı? 	evet	11
+13 Mary koridora gitti.
+14 Mary banyoya geri döndü.
+15 Sandra bahçede mi? 	hayır	11
+1 Daniel ofise gitti.
+2 Mary koridorda.
+3 Daniel salonda mı? 	hayır	1
+4 Mary ofise gitti.
+5 John salonda.
+6 Mary ofiste mi? 	evet	4
+7 Mary koridora gitti.
+8 John koridorda.
+9 Mary koridorda mı? 	evet	7
+10 John ofise gitti.
+11 Mary salona gitti.
+12 John ofiste mi? 	evet	10
+13 Mary mutfağa geri döndü.
+14 Mary mutfakta değil.
+15 Mary mutfakta mı? 	hayır	14
+1 Sandra salona geri döndü.
+2 John banyoya geri döndü.
+3 John salonda mı? 	hayır	2
+4 Mary mutfakta.
+5 John mutfağa gitti.
+6 Sandra salonda mı? 	evet	1
+7 John mutfakta değil.
+8 Mary koridora geri döndü.
+9 John mutfakta mı? 	hayır	7
+10 Daniel artık banyoda değil.
+11 John banyoda değil.
+12 John banyoda mı? 	hayır	11
+13 Daniel koridora gitti.
+14 Sandra artık salonda değil.
+15 Mary koridorda mı? 	evet	8
+1 John ofiste.
+2 John salona geri döndü.
+3 John ofiste mi? 	hayır	2
+4 Daniel ofise geri döndü.
+5 Sandra ofiste.
+6 Daniel ofiste mi? 	evet	4
+7 Mary banyoda değil.
+8 Sandra salona geri döndü.
+9 Sandra koridorda mı? 	hayır	8
+10 Mary banyoda.
+11 Daniel salonda.
+12 Mary ofiste mi? 	hayır	10
+13 Daniel bahçeye gitti.
+14 Sandra koridora geri döndü.
+15 Sandra ofiste mi? 	hayır	14
+1 Mary mutfağa gitti.
+2 Mary banyoya gitti.
+3 Mary  banyoda mı? 	evet	2
+4 John banyoda.
+5 John banyoda değil.
+6 Mary  banyoda mı? 	evet	2
+7 Sandra banyoya gitti.
+8 Sandra mutfağa geri döndü.
+9 John banyoda mı? 	hayır	5
+10 Mary artık banyoda değil.
+11 Sandra salona gitti.
+12 John banyoda mı? 	hayır	5
+13 Daniel artık mutfakta değil.
+14 Sandra artık salonda değil.
+15 Daniel mutfakta mı? 	hayır	13
+1 Mary mutfağa geri döndü.
+2 Sandra bahçede değil.
+3 Mary  banyoda mı? 	hayır	1
+4 John ofise geri döndü.
+5 Sandra artık salonda değil.
+6 Sandra salonda mı? 	hayır	5
+7 Mary salona geri döndü.
+8 Sandra bahçede değil.
+9 Sandra bahçede mi? 	hayır	8
+10 Mary bahçede değil.
+11 Mary koridora gitti.
+12 Sandra bahçede mi? 	hayır	8
+13 Mary salona geri döndü.
+14 Daniel salona gitti.
+15 Mary salonda mı? 	evet	13
+1 Daniel mutfağa gitti.
+2 Sandra mutfağa gitti.
+3 Sandra mutfakta mı? 	evet	2
+4 Mary ofise gitti.
+5 Mary banyoya gitti.
+6 Mary  banyoda mı? 	evet	5
+7 Daniel salona gitti.
+8 Sandra salona gitti.
+9 Mary ofiste mi? 	hayır	5
+10 Sandra salonda değil.
+11 Mary banyoda değil.
+12 Mary  banyoda mı? 	hayır	11
+13 Mary artık ofiste değil.
+14 Sandra artık mutfakta değil.
+15 Mary ofiste mi? 	hayır	13
+1 John mutfağa gitti.
+2 Sandra banyoda değil.
+3 John salonda mı? 	hayır	1
+4 Mary salonda.
+5 Mary salonda değil.
+6 Mary salonda mı? 	hayır	5
+7 Mary artık bahçede değil.
+8 John koridora gitti.
+9 Mary bahçede mı? 	hayır	7
+10 Sandra salonda.
+11 Mary mutfakta.
+12 Sandra salonda mı? 	evet	10
+13 Sandra mutfağa geri döndü.
+14 Daniel bahçeye gitti.
+15 Sandra mutfakta mı? 	evet	13
+1 Sandra bahçeye gitti.
+2 Sandra ofiste.
+3 Sandra banyoda mı? 	hayır	2
+4 Daniel koridora geri döndü.
+5 John artık banyoda değil.
+6 Sandra mutfakta mı? 	hayır	2
+7 Daniel mutfağa gitti.
+8 Sandra salona geri döndü.
+9 Daniel mutfakta mı? 	evet	7
+10 Mary banyoda değil.
+11 Sandra banyoya gitti.
+12 John banyoda mı? 	hayır	5
+13 Mary mutfağa gitti.
+14 John koridorda.
+15 Sandra mutfakta mı? 	hayır	11
+1 Sandra ofise gitti.
+2 Mary banyoda.
+3 Sandra banyoda mı? 	hayır	1
+4 Sandra banyoda.
+5 Mary ofiste.
+6 Mary ofiste mi? 	evet	5
+7 Daniel banyoda.
+8 John koridorda.
+9 Sandra banyoda mı? 	evet	4
+10 Daniel banyoda değil.
+11 Sandra salonda.
+12 John koridorda mı? 	evet	8
+13 Mary artık ofiste değil.
+14 John salona gitti.
+15 John salonda mı? 	evet	14
+1 Sandra mutfağa gitti.
+2 John salonda.
+3 John banyoda mı? 	hayır	2
+4 Mary koridorda değil.
+5 Mary banyoda.
+6 John bahçede mi? 	hayır	2
+7 Mary salona geri döndü.
+8 Mary ofiste.
+9 Mary mutfakta mı? 	hayır	8
+10 Mary artık ofiste değil.
+11 Sandra koridora gitti.
+12 Mary ofiste mi? 	hayır	10
+13 Daniel banyoya geri döndü.
+14 Mary mutfakta değil.
+15 Daniel banyoda mı? 	evet	13
+1 Sandra ofise gitti.
+2 Sandra banyoya gitti.
+3 Sandra banyoda mı? 	evet	2
+4 John salonda değil.
+5 Mary bahçeye gitti.
+6 Sandra salonda mı? 	hayır	2
+7 Sandra salona gitti.
+8 Mary koridora gitti.
+9 Sandra ofiste mi? 	hayır	7
+10 Sandra salonda değil.
+11 Daniel artık ofiste değil.
+12 Mary koridorda mı? 	evet	8
+13 Mary ofiste.
+14 Mary bahçeye gitti.
+15 Sandra salonda mı? 	hayır	10
+1 Mary artık banyoda değil.
+2 Daniel salonda.
+3 Daniel salonda mı? 	evet	2
+4 Sandra mutfağa geri döndü.
+5 Daniel mutfağa gitti.
+6 Sandra mutfakta mı? 	evet	4
+7 Mary artık mutfakta değil.
+8 Sandra salona gitti.
+9 Daniel salonda mı? 	hayır	5
+10 Sandra banyoya geri döndü.
+11 Sandra bahçede.
+12 Mary mutfakta mı? 	hayır	7
+13 Sandra salonda.
+14 Mary artık bahçede değil.
+15 Sandra koridorda mı? 	hayır	13
+1 Mary salona gitti.
+2 Daniel koridora gitti.
+3 Daniel salonda mı? 	hayır	2
+4 Daniel bahçeye gitti.
+5 Daniel salona gitti.
+6 Daniel salonda mı? 	evet	5
+7 Mary banyoya gitti.
+8 Mary bahçeye gitti.
+9 Daniel salonda mı? 	evet	5
+10 Sandra koridorda.
+11 Daniel mutfakta.
+12 Mary koridorda mı? 	hayır	8
+13 John salona gitti.
+14 John koridora gitti.
+15 John mutfakta mı? 	hayır	14
+1 Sandra artık koridorda değil.
+2 Mary mutfağa gitti.
+3 Sandra koridorda mı? 	hayır	1
+4 John mutfağa geri döndü.
+5 Daniel salona gitti.
+6 Sandra koridorda mı? 	hayır	1
+7 Sandra banyoda.
+8 Daniel bahçede.
+9 John mutfakta mı? 	evet	4
+10 Mary salona gitti.
+11 Daniel ofiste.
+12 Daniel ofiste mi? 	evet	11
+13 John salona geri döndü.
+14 Mary banyoya geri döndü.
+15 Daniel ofiste mi? 	evet	11
+1 John bahçede.
+2 Sandra bahçede.
+3 Sandra bahçede mi? 	evet	2
+4 Sandra koridorda.
+5 John salona gitti.
+6 Sandra banyoda mı? 	hayır	4
+7 Sandra koridorda değil.
+8 Sandra salona geri döndü.
+9 Sandra ofiste mi? 	hayır	8
+10 Daniel mutfağa gitti.
+11 John salonda değil.
+12 Sandra salonda mı? 	hayır	8
+13 Sandra mutfağa gitti.
+14 Sandra banyoya gitti.
+15 John salonda mı? 	hayır	11
+1 Sandra bahçede değil.
+2 Mary salona gitti.
+3 Sandra bahçede mi? 	hayır	1
+4 Mary banyoya gitti.
+5 John ofiste değil.
+6 Sandra bahçede mi? 	hayır	1
+7 John bahçede.
+8 John mutfağa gitti.
+9 Mary  banyoda mı? 	evet	4
+10 Daniel koridora geri döndü.
+11 Daniel banyoya gitti.
+12 John mutfakta mı? 	evet	8
+13 Daniel mutfağa geri döndü.
+14 Mary artık banyoda değil.
+15 Daniel mutfakta mı? 	evet	13
+1 Sandra artık ofiste değil.
+2 Sandra koridorda.
+3 Sandra koridorda mı? 	evet	2
+4 Sandra mutfağa gitti.
+5 Sandra mutfakta değil.
+6 Sandra mutfakta mı? 	hayır	5
+7 Sandra artık salonda değil.
+8 Mary koridorda değil.
+9 Sandra salonda mı? 	hayır	7
+10 John artık mutfakta değil.
+11 Daniel banyoya gitti.
+12 Sandra salonda mı? 	hayır	7
+13 Sandra koridorda değil.
+14 Daniel koridora geri döndü.
+15 John mutfakta mı? 	hayır	10
+1 Sandra artık ofiste değil.
+2 Daniel artık koridorda değil.
+3 Sandra ofiste mi? 	hayır	1
+4 Daniel ofise gitti.
+5 Mary artık mutfakta değil.
+6 Daniel ofiste mi? 	evet	4
+7 Daniel artık ofiste değil.
+8 Daniel bahçeye gitti.
+9 Daniel bahçede mi? 	evet	8
+10 Mary mutfağa geri döndü.
+11 Sandra ofise geri döndü.
+12 Daniel salonda mı? 	hayır	8
+13 Daniel artık bahçede değil.
+14 John artık mutfakta değil.
+15 Sandra ofiste mi? 	evet	11
+1 Daniel banyoda.
+2 Sandra bahçede.
+3 Sandra banyoda mı? 	hayır	2
+4 John banyoda.
+5 Sandra mutfakta.
+6 Sandra salonda mı? 	hayır	5
+7 Mary ofise gitti.
+8 Sandra bahçeye gitti.
+9 John banyoda mı? 	evet	4
+10 Daniel salonda.
+11 Mary koridorda.
+12 Daniel salonda mı? 	evet	10
+13 Sandra bahçede değil.
+14 John ofise gitti.
+15 Mary koridorda mı? 	evet	11
+1 Sandra ofiste.
+2 Sandra salona geri döndü.
+3 Sandra bahçede mi? 	evet	2
+4 Mary koridorda.
+5 John bahçeye gitti.
+6 Sandra banyoda mı? 	hayır	2
+7 Sandra banyoya gitti.
+8 John banyoda.
+9 Sandra banyoda mı? 	evet	7
+10 Daniel bahçeye gitti.
+11 Daniel artık bahçede değil.
+12 Sandra koridorda mı? 	hayır	7
+13 Daniel mutfağa gitti.
+14 John koridora gitti.
+15 Daniel mutfakta mı? 	evet	13
+1 Sandra bahçede değil.
+2 Daniel mutfağa gitti.
+3 Daniel salonda mı? 	hayır	2
+4 Daniel salona geri döndü.
+5 Mary koridora gitti.
+6 Mary  banyoda mı? 	hayır	5
+7 John bahçeye gitti.
+8 John salona gitti.
+9 Daniel ofiste mi? 	hayır	4
+10 Daniel banyoya gitti.
+11 Daniel salona geri döndü.
+12 Mary mutfakta mı? 	hayır	5
+13 Daniel artık salonda değil.
+14 Mary koridorda değil.
+15 John bahçede mi? 	hayır	8
+1 Sandra ofiste.
+2 Daniel koridorda değil.
+3 Sandra ofiste mi? 	evet	1
+4 Sandra salona geri döndü.
+5 Sandra ofise gitti.
+6 Sandra mutfakta mı? 	hayır	5
+7 John banyoya gitti.
+8 Daniel mutfağa gitti.
+9 John banyoda mı? 	evet	7
+10 Mary artık mutfakta değil.
+11 John artık banyoda değil.
+12 Sandra ofiste mi? 	evet	5
+13 Mary mutfağa gitti.
+14 John artık koridorda değil.
+15 Mary  banyoda mı? 	hayır	13
+1 Mary ofise gitti.
+2 Mary ofiste değil.
+3 Mary ofiste mi? 	hayır	2
+4 Sandra mutfakta değil.
+5 Sandra banyoda değil.
+6 Mary ofiste mi? 	hayır	2
+7 Sandra salonda.
+8 Daniel ofiste.
+9 Sandra salonda mı? 	evet	7
+10 John ofiste değil.
+11 Mary mutfağa geri döndü.
+12 Mary mutfakta mı? 	evet	11
+13 John mutfağa geri döndü.
+14 John bahçeye gitti.
+15 John salonda mı? 	hayır	14
+1 Mary mutfağa gitti.
+2 Sandra artık banyoda değil.
+3 Sandra banyoda mı? 	hayır	2
+4 Mary artık mutfakta değil.
+5 Sandra salona gitti.
+6 Mary mutfakta mı? 	hayır	4
+7 Sandra bahçeye gitti.
+8 Daniel salona geri döndü.
+9 Mary mutfakta mı? 	hayır	4
+10 Daniel artık salonda değil.
+11 Daniel salonda.
+12 Daniel bahçede mi? 	hayır	11
+13 John artık ofiste değil.
+14 Mary ofiste değil.
+15 John ofiste mi? 	hayır	13
+1 John mutfağa gitti.
+2 Mary artık bahçede değil.
+3 John koridorda mı? 	hayır	1
+4 John artık mutfakta değil.
+5 Mary ofiste değil.
+6 John mutfakta mı? 	hayır	4
+7 John mutfağa gitti.
+8 John salonda.
+9 John salonda mı? 	evet	8
+10 Sandra koridorda değil.
+11 John koridora gitti.
+12 John koridorda mı? 	evet	11
+13 John mutfakta.
+14 Sandra ofiste değil.
+15 Sandra ofiste mi? 	hayır	14
+1 John salona gitti.
+2 John artık salonda değil.
+3 John salonda mı? 	hayır	2
+4 Daniel ofise gitti.
+5 Sandra bahçeye gitti.
+6 Sandra salonda mı? 	hayır	5
+7 Mary bahçeye gitti.
+8 Daniel banyoya gitti.
+9 Daniel banyoda mı? 	evet	8
+10 Sandra koridorda.
+11 John bahçeye gitti.
+12 Mary bahçede mı? 	evet	7
+13 Mary salona gitti.
+14 Mary salona geri döndü.
+15 Sandra koridorda mı? 	evet	10
+1 Mary koridora gitti.
+2 Mary artık koridorda değil.
+3 Mary koridorda mı? 	hayır	2
+4 Daniel bahçeye gitti.
+5 Mary koridorda.
+6 Mary koridorda mı? 	evet	5
+7 Sandra artık salonda değil.
+8 Mary salonda.
+9 Mary salonda mı? 	evet	8
+10 John bahçede.
+11 Sandra mutfağa gitti.
+12 Sandra bahçede mi? 	hayır	11
+13 Daniel artık bahçede değil.
+14 Daniel bahçede.
+15 John bahçede mi? 	evet	10
+1 Daniel koridora gitti.
+2 Daniel bahçede.
+3 Daniel bahçede mi? 	evet	2
+4 Mary artık bahçede değil.
+5 Mary koridora gitti.
+6 Daniel bahçede mi? 	evet	2
+7 John salona gitti.
+8 Sandra mutfağa gitti.
+9 Mary koridorda mı? 	evet	5
+10 Daniel mutfağa gitti.
+11 John mutfağa geri döndü.
+12 John bahçede mi? 	hayır	11
+13 Daniel mutfakta değil.
+14 Mary bahçede.
+15 Sandra ofiste mi? 	hayır	8
+1 Daniel artık ofiste değil.
+2 John bahçeye gitti.
+3 John bahçede mi? 	evet	2
+4 Mary mutfakta.
+5 Mary salona geri döndü.
+6 Mary koridorda mı? 	hayır	5
+7 Sandra mutfağa gitti.
+8 Mary koridorda.
+9 John bahçede mi? 	evet	2
+10 John koridora gitti.
+11 John artık koridorda değil.
+12 John koridorda mı? 	hayır	11
+13 Daniel banyoda değil.
+14 Daniel mutfakta.
+15 Daniel koridorda mı? 	hayır	14
+1 Sandra bahçede.
+2 Daniel mutfağa geri döndü.
+3 Daniel banyoda mı? 	hayır	2
+4 Daniel salona gitti.
+5 Daniel ofise gitti.
+6 Sandra banyoda mı? 	hayır	1
+7 Daniel koridora gitti.
+8 Daniel artık koridorda değil.
+9 Daniel koridorda mı? 	hayır	8
+10 Daniel koridora geri döndü.
+11 John koridorda değil.
+12 Daniel koridorda mı? 	evet	10
+13 John ofise gitti.
+14 Mary banyoya geri döndü.
+15 John salonda mı? 	hayır	13
+1 Sandra salona gitti.
+2 Daniel banyoda.
+3 Daniel salonda mı? 	hayır	2
+4 John koridorda.
+5 John banyoda.
+6 Sandra salonda mı? 	evet	1
+7 Mary koridora gitti.
+8 Daniel salona geri döndü.
+9 Daniel bahçede mi? 	evet	8
+10 Daniel koridorda.
+11 Daniel artık koridorda değil.
+12 Daniel koridorda mı? 	hayır	11
+13 John salona gitti.
+14 John banyoya gitti.
+15 Daniel koridorda mı? 	hayır	11
+1 John koridora geri döndü.
+2 John ofise gitti.
+3 John ofiste mi? 	evet	2
+4 Mary banyoda.
+5 Daniel bahçede.
+6 Daniel mutfakta mı? 	hayır	5
+7 Daniel bahçede değil.
+8 Mary banyoda değil.
+9 Daniel bahçede mi? 	hayır	7
+10 John banyoda.
+11 Mary bahçeye gitti.
+12 Daniel bahçede mi? 	hayır	7
+13 Sandra ofise gitti.
+14 Sandra bahçede.
+15 Sandra bahçede mi? 	evet	14
+1 John banyoya gitti.
+2 Sandra salonda.
+3 Sandra salonda mı? 	evet	2
+4 Mary koridorda değil.
+5 Daniel artık ofiste değil.
+6 Daniel ofiste mi? 	hayır	5
+7 Daniel koridorda.
+8 Mary mutfağa gitti.
+9 Daniel bahçede mi? 	hayır	7
+10 Sandra koridora gitti.
+11 Mary artık mutfakta değil.
+12 Daniel salonda mı? 	hayır	7
+13 Sandra bahçeye gitti.
+14 Daniel artık koridorda değil.
+15 Daniel koridorda mı? 	hayır	14
+1 Mary banyoda değil.
+2 John bahçede değil.
+3 John bahçede mi? 	hayır	2
+4 Sandra artık koridorda değil.
+5 Mary koridorda değil.
+6 Mary koridorda mı? 	hayır	5
+7 John bahçeye gitti.
+8 Mary artık bahçede değil.
+9 Mary bahçede mı? 	hayır	8
+10 Mary salonda değil.
+11 Mary salonda.
+12 Mary bahçede mı? 	hayır	11
+13 Daniel mutfağa gitti.
+14 Daniel banyoya geri döndü.
+15 Mary bahçede mı? 	hayır	11
+1 John banyoya gitti.
+2 Mary banyoda.
+3 John banyoda mı? 	evet	1
+4 Daniel koridorda değil.
+5 John koridora gitti.
+6 Mary bahçede mı? 	hayır	2
+7 Sandra artık mutfakta değil.
+8 Sandra banyoya gitti.
+9 Mary koridorda mı? 	hayır	2
+10 Daniel mutfakta değil.
+11 Daniel mutfakta.
+12 Daniel salonda mı? 	hayır	11
+13 Mary ofise geri döndü.
+14 Daniel koridora gitti.
+15 Daniel ofiste mi? 	hayır	14
+1 Mary koridorda değil.
+2 Mary artık bahçede değil.
+3 Mary bahçede mı? 	hayır	2
+4 John koridorda.
+5 Mary salonda.
+6 Mary  banyoda mı? 	hayır	5
+7 Daniel banyoda.
+8 Sandra mutfakta değil.
+9 John koridorda mı? 	evet	4
+10 Mary koridorda.
+11 Daniel koridora geri döndü.
+12 Mary ofiste mi? 	hayır	10
+13 Mary salonda.
+14 Mary salonda değil.
+15 Mary salonda mı? 	hayır	14
+1 Mary salonda değil.
+2 Mary artık koridorda değil.
+3 Mary koridorda mı? 	hayır	2
+4 Daniel mutfağa gitti.
+5 Daniel bahçeye gitti.
+6 Daniel mutfakta mı? 	hayır	5
+7 Daniel banyoda.
+8 Sandra mutfağa gitti.
+9 Daniel mutfakta mı? 	hayır	7
+10 John bahçede.
+11 Mary bahçeye gitti.
+12 Mary bahçede mı? 	evet	11
+13 Sandra bahçeye gitti.
+14 John mutfağa gitti.
+15 John koridorda mı? 	hayır	14
+1 Daniel banyoda.
+2 Sandra artık bahçede değil.
+3 Sandra bahçede mi? 	hayır	2
+4 John salonda.
+5 John salonda değil.
+6 Sandra bahçede mi? 	hayır	2
+7 Daniel artık banyoda değil.
+8 Sandra mutfağa gitti.
+9 John salonda mı? 	hayır	5
+10 John bahçede.
+11 Sandra ofise gitti.
+12 Sandra salonda mı? 	hayır	11
+13 Daniel artık salonda değil.
+14 John artık bahçede değil.
+15 Sandra ofiste mi? 	evet	11
+1 John bahçeye gitti.
+2 Sandra koridora gitti.
+3 John bahçede mi? 	evet	1
+4 John bahçede değil.
+5 Daniel banyoya gitti.
+6 John bahçede mi? 	hayır	4
+7 Sandra artık koridorda değil.
+8 Mary mutfağa geri döndü.
+9 Mary bahçede mı? 	hayır	8
+10 Sandra bahçeye gitti.
+11 Daniel koridora gitti.
+12 Mary koridorda mı? 	hayır	8
+13 John artık koridorda değil.
+14 Daniel koridorda değil.
+15 Sandra mutfakta mı? 	hayır	10
+1 John bahçeye gitti.
+2 Daniel banyoya geri döndü.
+3 Daniel banyoda mı? 	evet	2
+4 Mary ofiste değil.
+5 Sandra artık koridorda değil.
+6 Sandra koridorda mı? 	hayır	5
+7 John koridorda.
+8 Daniel mutfağa gitti.
+9 Daniel koridorda mı? 	hayır	8
+10 John koridorda değil.
+11 John artık salonda değil.
+12 John salonda mı? 	hayır	11
+13 John mutfakta.
+14 Mary bahçede.
+15 John bahçede mi? 	hayır	13
+1 Daniel ofise gitti.
+2 Mary banyoya gitti.
+3 Mary  banyoda mı? 	evet	2
+4 Sandra bahçeye gitti.
+5 Daniel bahçeye gitti.
+6 Daniel salonda mı? 	hayır	5
+7 Mary artık banyoda değil.
+8 Mary ofise gitti.
+9 Mary ofiste mi? 	evet	8
+10 Daniel artık bahçede değil.
+11 John banyoya gitti.
+12 Daniel bahçede mi? 	hayır	10
+13 Sandra artık bahçede değil.
+14 Sandra mutfağa gitti.
+15 Daniel bahçede mi? 	hayır	10
+1 Daniel salonda.
+2 Daniel koridora gitti.
+3 Daniel bahçede mi? 	hayır	2
+4 Sandra salona gitti.
+5 Mary bahçede.
+6 Mary bahçede mı? 	evet	5
+7 John koridora geri döndü.
+8 Daniel bahçede.
+9 John salonda mı? 	hayır	7
+10 John koridorda değil.
+11 Mary ofiste.
+12 Daniel koridorda mı? 	hayır	8
+13 Mary banyoya gitti.
+14 Mary salona gitti.
+15 Daniel mutfakta mı? 	hayır	8
+1 John artık banyoda değil.
+2 Daniel ofiste.
+3 Daniel koridorda mı? 	hayır	2
+4 John bahçeye gitti.
+5 John salona gitti.
+6 Daniel banyoda mı? 	hayır	2
+7 Mary salonda.
+8 Sandra mutfakta.
+9 Daniel salonda mı? 	hayır	2
+10 Daniel banyoya gitti.
+11 Mary ofise gitti.
+12 Daniel mutfakta mı? 	hayır	10
+13 Mary koridorda.
+14 John artık salonda değil.
+15 Sandra banyoda mı? 	hayır	8
+1 Daniel koridora geri döndü.
+2 Sandra salona gitti.
+3 Daniel banyoda mı? 	hayır	1
+4 Sandra artık salonda değil.
+5 Sandra bahçeye gitti.
+6 Sandra koridorda mı? 	hayır	5
+7 Daniel ofise gitti.
+8 John koridora geri döndü.
+9 Sandra ofiste mi? 	hayır	5
+10 Sandra artık bahçede değil.
+11 Sandra bahçede.
+12 Sandra bahçede mi? 	evet	11
+13 Mary ofiste.
+14 Daniel ofiste değil.
+15 Mary ofiste mi? 	evet	13
+1 Sandra artık salonda değil.
+2 Daniel banyoya gitti.
+3 Daniel ofiste mi? 	hayır	2
+4 Sandra koridora gitti.
+5 Sandra koridorda değil.
+6 Sandra koridorda mı? 	hayır	5
+7 Sandra artık bahçede değil.
+8 Daniel koridora gitti.
+9 Sandra bahçede mi? 	hayır	7
+10 Mary ofise geri döndü.
+11 Daniel salona gitti.
+12 Daniel bahçede mi? 	hayır	11
+13 Sandra banyoda.
+14 Daniel bahçeye gitti.
+15 Daniel koridorda mı? 	hayır	14
+1 Daniel banyoda.
+2 Daniel artık banyoda değil.
+3 Daniel banyoda mı? 	hayır	2
+4 Daniel koridorda değil.
+5 Daniel banyoda.
+6 Daniel bahçede mi? 	hayır	5
+7 Mary salona gitti.
+8 Daniel banyoda değil.
+9 Mary ofiste mi? 	hayır	7
+10 John bahçeye gitti.
+11 Mary salonda değil.
+12 John koridorda mı? 	hayır	10
+13 Sandra bahçeye gitti.
+14 Sandra banyoda.
+15 John salonda mı? 	hayır	10
+1 Sandra mutfağa geri döndü.
+2 Sandra artık mutfakta değil.
+3 Sandra mutfakta mı? 	hayır	2
+4 Daniel mutfakta.
+5 Mary bahçeye gitti.
+6 Mary koridorda mı? 	hayır	5
+7 Sandra ofiste.
+8 John koridorda.
+9 Sandra mutfakta mı? 	hayır	7
+10 Mary banyoda.
+11 Mary banyoda değil.
+12 Mary  banyoda mı? 	hayır	11
+13 Mary salona gitti.
+14 John ofiste.
+15 Mary mutfakta mı? 	hayır	13
+1 Mary bahçede.
+2 Daniel ofise gitti.
+3 Daniel ofiste mi? 	evet	2
+4 Daniel ofiste değil.
+5 Sandra artık koridorda değil.
+6 Daniel ofiste mi? 	hayır	4
+7 Daniel ofiste.
+8 John artık bahçede değil.
+9 Daniel ofiste mi? 	evet	7
+10 Daniel koridorda.
+11 Mary mutfağa gitti.
+12 Sandra koridorda mı? 	hayır	5
+13 Sandra banyoya gitti.
+14 Sandra ofiste.
+15 Sandra mutfakta mı? 	hayır	14
+1 Mary salonda.
+2 Daniel banyoya gitti.
+3 Daniel banyoda mı? 	evet	2
+4 John ofise geri döndü.
+5 Daniel salonda.
+6 John ofiste mi? 	evet	4
+7 Mary banyoya gitti.
+8 Mary salona geri döndü.
+9 Mary ofiste mi? 	hayır	8
+10 Sandra banyoda değil.
+11 Mary artık bahçede değil.
+12 Mary bahçede mı? 	hayır	11
+13 Sandra artık bahçede değil.
+14 Daniel ofise gitti.
+15 Daniel bahçede mi? 	hayır	14
+1 Sandra salona gitti.
+2 Sandra ofiste.
+3 Sandra ofiste mi? 	evet	2
+4 John bahçede değil.
+5 Daniel artık banyoda değil.
+6 Sandra ofiste mi? 	evet	2
+7 John mutfakta.
+8 Sandra bahçeye gitti.
+9 Sandra bahçede mi? 	evet	8
+10 Sandra banyoya gitti.
+11 John koridora gitti.
+12 John salonda mı? 	hayır	11
+13 Mary banyoda değil.
+14 John banyoya gitti.
+15 Mary  banyoda mı? 	hayır	13
+1 Sandra banyoya gitti.
+2 Daniel koridorda.
+3 Daniel koridorda mı? 	evet	2
+4 Sandra mutfağa gitti.
+5 John ofiste.
+6 Sandra salonda mı? 	hayır	4
+7 Mary ofiste değil.
+8 John bahçeye gitti.
+9 John mutfakta mı? 	hayır	8
+10 Mary banyoya gitti.
+11 Daniel ofise gitti.
+12 John bahçede mi? 	evet	8
+13 John banyoya geri döndü.
+14 John koridorda.
+15 Daniel koridorda mı? 	hayır	11
+1 Daniel artık ofiste değil.
+2 Daniel mutfakta.
+3 Daniel mutfakta mı? 	evet	2
+4 Mary banyoya geri döndü.
+5 Daniel artık mutfakta değil.
+6 Daniel mutfakta mı? 	hayır	5
+7 Daniel koridora gitti.
+8 John mutfakta.
+9 Mary  banyoda mı? 	evet	4
+10 Mary salonda.
+11 Daniel banyoda.
+12 Daniel banyoda mı? 	evet	11
+13 Sandra ofise gitti.
+14 Daniel banyoda değil.
+15 John ofiste mi? 	hayır	8
+1 Sandra koridorda.
+2 Daniel artık salonda değil.
+3 Sandra mutfakta mı? 	hayır	1
+4 Daniel banyoya gitti.
+5 John koridorda.
+6 Sandra bahçede mi? 	hayır	1
+7 Daniel artık banyoda değil.
+8 John salona geri döndü.
+9 Daniel banyoda mı? 	hayır	7
+10 Mary artık ofiste değil.
+11 John salonda.
+12 Mary ofiste mi? 	hayır	10
+13 Sandra salona geri döndü.
+14 Daniel mutfağa gitti.
+15 Daniel ofiste mi? 	hayır	14
+1 Sandra bahçeye gitti.
+2 Mary koridorda.
+3 Mary koridorda mı? 	evet	2
+4 Daniel bahçede.
+5 Daniel artık bahçede değil.
+6 Mary koridorda mı? 	evet	2
+7 Mary salona gitti.
+8 John artık bahçede değil.
+9 Daniel bahçede mi? 	hayır	5
+10 Mary salona geri döndü.
+11 John koridora gitti.
+12 Daniel bahçede mi? 	hayır	5
+13 Sandra salona gitti.
+14 Mary koridorda.
+15 John ofiste mi? 	hayır	11
+1 Sandra ofise gitti.
+2 Sandra ofiste değil.
+3 Sandra ofiste mi? 	hayır	2
+4 Daniel artık banyoda değil.
+5 Sandra salonda değil.
+6 Daniel banyoda mı? 	hayır	4
+7 Mary mutfağa gitti.
+8 Mary koridora gitti.
+9 Mary koridorda mı? 	evet	8
+10 Mary artık koridorda değil.
+11 Daniel banyoya geri döndü.
+12 Mary koridorda mı? 	hayır	10
+13 John salona geri döndü.
+14 John banyoya geri döndü.
+15 Mary koridorda mı? 	hayır	10
+1 John koridora gitti.
+2 Sandra mutfakta değil.
+3 John ofiste mi? 	hayır	1
+4 Daniel salonda.
+5 Sandra ofiste değil.
+6 Daniel salonda mı? 	evet	4
+7 John koridorda değil.
+8 Sandra artık salonda değil.
+9 Sandra salonda mı? 	hayır	8
+10 Sandra koridorda değil.
+11 Sandra ofise gitti.
+12 Sandra bahçede mi? 	hayır	11
+13 John banyoda.
+14 Daniel banyoya gitti.
+15 Sandra ofiste mi? 	evet	11
+1 Sandra artık mutfakta değil.
+2 Mary ofise gitti.
+3 Mary ofiste mi? 	evet	2
+4 Mary bahçede.
+5 Daniel bahçeye gitti.
+6 Sandra mutfakta mı? 	hayır	1
+7 Mary artık bahçede değil.
+8 John koridora gitti.
+9 Mary bahçede mı? 	hayır	7
+10 Daniel mutfağa gitti.
+11 Mary salona gitti.
+12 Daniel mutfakta mı? 	evet	10
+13 John ofiste.
+14 Mary banyoda.
+15 Mary  banyoda mı? 	evet	14

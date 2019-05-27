@@ -1,0 +1,2008 @@
+1 Sumit yoruldu.
+2 Sumit nereye gidecek?	salon	1
+3 Sumit salona geri döndü.
+4 Sumit neden salona gitti?	yorgun	1
+5 Sumit orada pijamaları aldı.
+6 Sumit neden pijamayı aldı?	yorgun	1
+7 Yann sıkıldı.
+8 Yann nereye gidecek?	bahçe	7
+9 Jason susadı.
+10 Jason nereye gidecek?	mutfak	9
+11 Yann bahçeye gitti.
+12 Neden yann bahçeye gitti?	bıkkın	7
+13 Yann futbolu orada aldı.
+14 Neden yann futbolu aldı?	bıkkın	7
+15 Jason mutfağa geri döndü.
+16 Jason neden mutfağa gitti?	susuz	9
+17 Antoin susadı.
+18 Antoin nereye gidecek?	mutfak	17
+19 Jason oradaki sütü aldı.
+20 Jason neden sütü aldı?	susuz	9
+21 Antoin mutfağa gitti.
+22 Antoin neden mutfağa gitti?	susuz	17
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Yann mutfağa gitti.
+4 Neden yann mutfağa gitti?	aç	1
+5 Yann elmayı oraya aldı.
+6 Neden yann elmayı aldı?	aç	1
+7 Sumit yoruldu.
+8 Sumit nereye gidecek?	salon	7
+9 Jason yoruldu.
+10 Jason nereye gidecek?	salon	9
+11 Jason salona gitti.
+12 Jason neden salona gitti?	yorgun	9
+13 Sumit salona gitti.
+14 Sumit neden salona gitti?	yorgun	7
+15 Jason orada pijamaları aldı.
+16 Jason neden pijamaları aldı?	yorgun	9
+17 Antoin acıktı.
+18 Antoin nereye gidecek?	mutfak	17
+19 Antoin mutfağa gitti.
+20 Antoin neden mutfağa gitti?	aç	17
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Yann yorgun.
+4 Yann nereye gidecek?	salon	3
+5 Yann salona geri döndü.
+6 Neden yann salona gitti?	yorgun	3
+7 Yann orada pijamaları aldı.
+8 Neden pijamaları yann?	yorgun	3
+9 Jason susadı.
+10 Jason nereye gidecek?	mutfak	9
+11 Antoin mutfağa geri döndü.
+12 Antoin neden mutfağa gitti?	susuz	1
+13 Sumit açtır.
+14 Sumit nereye gidecek?	mutfak	13
+15 Jason mutfağa gitti.
+16 Jason neden mutfağa gitti?	susuz	9
+17 Jason oradaki sütü aldı.
+18 Jason sütü neden aldı?	susuz	9
+19 Sumit mutfağa geri döndü.
+20 Sumit neden mutfağa gitti?	aç	13
+21 Sumit oradaki elmayı aldı.
+22 Neden elma elmayı aldı?	aç	13
+1 Jason acıktı.
+2 Jason nereye gidecek?	mutfak	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Jason mutfağa geri döndü.
+6 Jason neden mutfağa gitti?	aç	1
+7 Yann yorgun.
+8 Yann nereye gidecek?	salon	7
+9 Yann salona gitti.
+10 Neden yann salona gitti?	yorgun	7
+11 Yann, orada pijam var.
+12 Yann pijamaları neden aldılar?	yorgun	7
+13 Sumit salona gitti.
+14 Sumit neden salona gitti?	yorgun	3
+15 Jason elmayı oraya aldı.
+16 Jason elmayı neden aldı?	aç	1
+17 Antoin yoruldu.
+18 Antoin nereye gidecek?	salon	17
+19 Antoin salona gitti.
+20 Antoin neden salona gitti?	yorgun	17
+1 Antoin sıkıldı.
+2 Antoin nereye gidecek?	bahçe	1
+3 Sumit sıkıldı.
+4 Sumit nereye gidecek?	bahçe	3
+5 Antoin bahçeye gitti.
+6 Antoin niçin bahçeye gitti?	sıkılmış	1
+7 Jason sıkıldı.
+8 Jason nereye gidecek?	bahçe	7
+9 Jason bahçeye geri döndü.
+10 Jason neden bahçeye gitti?	bıkkın	7
+11 Yann yoruldu.
+12 Yann nereye gidecek?	salon	11
+13 Jason futbolu oradan yakaladı.
+14 Jason futbolu neden elde etti?	bıkkın	7
+15 Yann salona gitti.
+16 Neden yann salona gitti?	yorgun	11
+17 Sumit bahçeye gitti.
+18 Sumit neden bahçeye gitti?	bıkkın	3
+19 Yann orada pijamaları aldı.
+20 Yann pijamaları neden aldılar?	yorgun	11
+1 Sumit sıkıldı.
+2 Sumit nereye gidecek?	bahçe	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Yann mutfağa geri döndü.
+6 Neden yann mutfağa gitti?	aç	3
+7 Sumit bahçeye gitti.
+8 Sumit neden bahçeye gitti?	sıkılmış	1
+9 Yann elmayı oraya aldı.
+10 Neden yann elmayı aldı?	aç	3
+11 Sumit futbolu orada yakaladı.
+12 Sumit futbolu neden elde etti?	sıkılmış	1
+13 Antoin yoruldu.
+14 Antoin nereye gidecek?	salon	13
+15 Antoin salona gitti.
+16 Antoin neden salona gitti?	yorgun	13
+17 Jason sıkıldı.
+18 Jason nereye gidecek?	bahçe	17
+19 Antoin orada pijamaları aldı.
+20 Antoin neden pijamayı aldı?	yorgun	13
+21 Jason bahçeye gitti.
+22 Jason neden bahçeye gitti?	bıkkın	17
+1 Antoin yoruldu.
+2 Antoin nereye gidecek?	salon	1
+3 Yann yorgun.
+4 Yann nereye gidecek?	salon	3
+5 Antoin, salona gitti.
+6 Antoin neden salona gitti?	yorgun	1
+7 Sumit sıkıldı.
+8 Sumit nereye gidecek?	bahçe	7
+9 Jason susadı.
+10 Jason nereye gidecek?	mutfak	9
+11 Yann salona gitti.
+12 Neden yann salona gitti?	yorgun	3
+13 Antoin oradaki pijamaları aldı.
+14 Antoin neden pijamayı aldı?	yorgun	1
+15 Sumit bahçeye geri döndü.
+16 Sumit neden bahçeye gitti?	bıkkın	7
+17 Sumit futbolu oraya aldı.
+18 Neden sumit futbolu elde etti?	bıkkın	7
+19 Jason mutfağa geri döndü.
+20 Jason neden mutfağa gitti?	susuz	9
+21 Jason oradaki sütü aldı.
+22 Jason sütü neden aldı?	susuz	9
+1 Sumit yoruldu.
+2 Sumit nereye gidecek?	salon	1
+3 Antoin susadı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Antoin mutfağa gitti.
+6 Antoin neden mutfağa gitti?	susuz	3
+7 Antoin orda süt var.
+8 Antoin sütü neden aldı?	susuz	3
+9 Yann acıkmış.
+10 Yann nereye gidecek?	mutfak	9
+11 Jason acıktı.
+12 Jason nereye gidecek?	mutfak	11
+13 Yann mutfağa gitti.
+14 Neden yann mutfağa gitti?	aç	9
+15 Jason mutfağa geri döndü.
+16 Jason neden mutfağa gitti?	aç	11
+17 Jason oradaki elmayı aldı.
+18 Jason elmayı neden aldı?	aç	11
+19 Sumit salona gitti.
+20 Sumit neden salona gitti?	yorgun	1
+21 Sumit orada pijamaları aldı.
+22 Neden pijama pijama aldı?	yorgun	1
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Yann susadı.
+6 Yann nereye gidecek?	mutfak	5
+7 Antoin mutfağa geri döndü.
+8 Antoin neden mutfağa gitti?	susuz	1
+9 Antoin oradaki sütü aldı.
+10 Antoin sütü neden aldı?	susuz	1
+11 Jason sıkıldı.
+12 Jason nereye gidecek?	bahçe	11
+13 Yann mutfağa gitti.
+14 Neden yann mutfağa gitti?	susuz	5
+15 Sumit salona gitti.
+16 Sumit neden salona gitti?	yorgun	3
+17 Sumit orada pijamaları aldı.
+18 Sumit neden pijama aldı?	yorgun	3
+19 Jason bahçeye gitti.
+20 Jason neden bahçeye gitti?	sıkılmış	11
+21 Jason futbolu oradan aldı.
+22 Jason futbolu neden elde etti?	sıkılmış	11
+1 Antoin acıktı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Jason susadı.
+4 Jason nereye gidecek?	mutfak	3
+5 Yann sıkıldı.
+6 Yann nereye gidecek?	bahçe	5
+7 Sumit açtır.
+8 Sumit nereye gidecek?	mutfak	7
+9 Yann bahçeye gitti.
+10 Neden yann bahçeye gitti?	sıkılmış	5
+11 Jason mutfağa gitti.
+12 Jason neden mutfağa gitti?	susuz	3
+13 Yann futbolu orada aldı.
+14 Neden yann futbolu aldı?	sıkılmış	5
+15 Antoin mutfağa gitti.
+16 Antoin neden mutfağa gitti?	aç	1
+17 Sumit mutfağa gitti.
+18 Sumit neden mutfağa gitti?	aç	7
+19 Jason oradaki sütü aldı.
+20 Jason neden sütü aldı?	susuz	3
+21 Antoin oradaki elmayı aldı.
+22 Antoin elmaları neden aldı?	aç	1
+1 Jason sıkıldı.
+2 Jason nereye gidecek?	bahçe	1
+3 Sumit susamış.
+4 Sumit nereye gidecek?	mutfak	3
+5 Antoin sıkıldı.
+6 Antoin nereye gidecek?	bahçe	5
+7 Antoin bahçeye gitti.
+8 Antoin neden bahçeye gitti?	sıkılmış	5
+9 Antoin futbolu oraya aldı.
+10 Antoin futbolu neden aldı?	sıkılmış	5
+11 Jason bahçeye gitti.
+12 Jason neden bahçeye gitti?	sıkılmış	1
+13 Sumit mutfağa gitti.
+14 Sumit neden mutfağa gitti?	susuz	3
+15 Sumit sütü oradan aldı.
+16 Neden sumit sütü aldı?	susuz	3
+17 Yann susadı.
+18 Yann nereye gidecek?	mutfak	17
+19 Yann mutfağa gitti.
+20 Neden yann mutfağa gitti?	susuz	17
+1 Yann susadı.
+2 Yann nereye gidecek?	mutfak	1
+3 Antoin susadı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Antoin mutfağa gitti.
+6 Antoin neden mutfağa gitti?	susuz	3
+7 Yann mutfağa gitti.
+8 Neden yann mutfağa gitti?	susuz	1
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Antoin sütü oradan aldı.
+12 Antoin sütü neden aldı?	susuz	3
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	aç	9
+15 Sumit acıktı.
+16 Sumit nereye gidecek?	mutfak	15
+17 Jason oradaki elmayı aldı.
+18 Jason elmayı neden aldı?	aç	9
+19 Sumit mutfağa geri döndü.
+20 Sumit neden mutfağa gitti?	aç	15
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Sumit susamış.
+4 Sumit nereye gidecek?	mutfak	3
+5 Jason susadı.
+6 Jason nereye gidecek?	mutfak	5
+7 Sumit mutfağa gitti.
+8 Sumit neden mutfağa gitti?	susuz	3
+9 Jason mutfağa gitti.
+10 Jason neden mutfağa gitti?	susuz	5
+11 Yann sıkıldı.
+12 Yann nereye gidecek?	bahçe	11
+13 Sumit sütü oradan aldı.
+14 Neden sumit sütü aldı?	susuz	3
+15 Antoin mutfağa gitti.
+16 Antoin neden mutfağa gitti?	susuz	1
+17 Yann bahçeye gitti.
+18 Neden yann bahçeye gitti?	sıkılmış	11
+19 Yann futbolu oraya aldı.
+20 Neden yann futbolu aldı?	sıkılmış	11
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Sumit mutfağa gitti.
+4 Sumit neden mutfağa gitti?	susuz	1
+5 Antoin yoruldu.
+6 Antoin nereye gidecek?	salon	5
+7 Yann susadı.
+8 Yann nereye gidecek?	mutfak	7
+9 Yann mutfağa gitti.
+10 Neden yann mutfağa gitti?	susuz	7
+11 Yann orada süt var.
+12 Neden süt süt alır?	susuz	7
+13 Jason acıktı.
+14 Jason nereye gidecek?	mutfak	13
+15 Antoin salona gitti.
+16 Antoin neden salona gitti?	yorgun	5
+17 Jason mutfağa gitti.
+18 Jason neden mutfağa gitti?	aç	13
+19 Antoin oradaki pijamayı aldı.
+20 Antoin neden pijamayı aldı?	yorgun	5
+21 Jason elmayı oraya aldı.
+22 Jason elmayı neden aldı?	aç	13
+1 Yann susadı.
+2 Yann nereye gidecek?	mutfak	1
+3 Yann mutfağa geri döndü.
+4 Neden yann mutfağa gitti?	susuz	1
+5 Yann orada süt var.
+6 Neden süt süt alır?	susuz	1
+7 Jason acıktı.
+8 Jason nereye gidecek?	mutfak	7
+9 Sumit susadı.
+10 Sumit nereye gidecek?	mutfak	9
+11 Sumit mutfağa gitti.
+12 Sumit neden mutfağa gitti?	susuz	9
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	aç	7
+15 Jason elmayı oraya aldı.
+16 Jason elmayı neden aldı?	aç	7
+17 Antoin sıkıldı.
+18 Antoin nereye gidecek?	bahçe	17
+19 Antoin bahçeye gitti.
+20 Antoin niçin bahçeye gitti?	bıkkın	17
+21 Antoin futbolu orada yakaladı.
+22 Antoin futbolu neden elde etti?	bıkkın	17
+1 Sumit yoruldu.
+2 Sumit nereye gidecek?	salon	1
+3 Sumit salona gitti.
+4 Sumit neden salona gitti?	yorgun	1
+5 Sumit orada pijamaları aldı.
+6 Sumit neden pijamayı aldı?	yorgun	1
+7 Antoin sıkıldı.
+8 Antoin nereye gidecek?	bahçe	7
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Yann yoruldu.
+12 Yann nereye gidecek?	salon	11
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	aç	9
+15 Jason elmayı oraya aldı.
+16 Jason elmayı neden aldı?	aç	9
+17 Yann salona gitti.
+18 Neden yann salona gitti?	yorgun	11
+19 Antoin bahçeye geri döndü.
+20 Antoin niçin bahçeye gitti?	bıkkın	7
+21 Antoin futbolu oraya aldı.
+22 Antoin futbolu neden elde etti?	bıkkın	7
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Sumit yoruldu.
+6 Sumit nereye gidecek?	salon	5
+7 Jason bahçeye gitti.
+8 Jason neden bahçeye gitti?	bıkkın	3
+9 Sumit salona gitti.
+10 Sumit neden salona gitti?	yorgun	5
+11 Yann bahçeye gitti.
+12 Neden yann bahçeye gitti?	sıkılmış	1
+13 Antoin sıkıldı.
+14 Antoin nereye gidecek?	bahçe	13
+15 Sumit orada pijama var.
+16 Sumit neden pijamayı aldı?	yorgun	5
+17 Yann futbolu oradan aldı.
+18 Neden yann futbolu aldı?	sıkılmış	1
+19 Antoin bahçeye gitti.
+20 Antoin niçin bahçeye gitti?	bıkkın	13
+1 Antoin acıktı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Antoin mutfağa geri döndü.
+4 Antoin neden mutfağa gitti?	aç	1
+5 Antoin oradaki elmayı aldı.
+6 Antoin elmaları neden aldı?	aç	1
+7 Jason yoruldu.
+8 Jason nereye gidecek?	salon	7
+9 Yann susadı.
+10 Yann nereye gidecek?	mutfak	9
+11 Sumit sıkıldı.
+12 Sumit nereye gidecek?	bahçe	11
+13 Yann mutfağa geri döndü.
+14 Neden yann mutfağa gitti?	susuz	9
+15 Yann, oradaki sütü aldı.
+16 Neden süt süt alır?	susuz	9
+17 Jason salona gitti.
+18 Jason neden salona gitti?	yorgun	7
+19 Jason orada pijamaları aldı.
+20 Jason neden pijamaları aldı?	yorgun	7
+21 Sumit bahçeye gitti.
+22 Neden sumit bahçeye gitti?	sıkılmış	11
+23 Sumit futbolu orada aldı.
+24 Sumit futbolu neden elde etti?	sıkılmış	11
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Antoin susadı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Sumit mutfağa gitti.
+6 Sumit neden mutfağa gitti?	susuz	1
+7 Sumit orada süt var.
+8 Sumit sütü neden aldı?	susuz	1
+9 Yann sıkıldı.
+10 Yann nereye gidecek?	bahçe	9
+11 Antoin mutfağa geri döndü.
+12 Antoin neden mutfağa gitti?	susuz	3
+13 Yann bahçeye gitti.
+14 Neden yann bahçeye gitti?	bıkkın	9
+15 Yann futbolu orada yakaladı.
+16 Neden futbol taraftarı oldu?	bıkkın	9
+17 Jason yoruldu.
+18 Jason nereye gidecek?	salon	17
+19 Jason salona gitti.
+20 Jason neden salona gitti?	yorgun	17
+21 Jason orada pijamaları aldı.
+22 Jason neden pijamaları aldı?	yorgun	17
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Yann bahçeye gitti.
+4 Neden yann bahçeye gitti?	sıkılmış	1
+5 Jason acıktı.
+6 Jason nereye gidecek?	mutfak	5
+7 Antoin susadı.
+8 Antoin nereye gidecek?	mutfak	7
+9 Antoin mutfağa gitti.
+10 Antoin neden mutfağa gitti?	susuz	7
+11 Jason mutfağa geri döndü.
+12 Jason neden mutfağa gitti?	aç	5
+13 Yann futbolu orada yakaladı.
+14 Neden yann futbolu aldı?	sıkılmış	1
+15 Sumit sıkıldı.
+16 Sumit nereye gidecek?	bahçe	15
+17 Jason oradaki elmayı aldı.
+18 Jason elmayı neden aldı?	aç	5
+19 Antoin oradaki sütü aldı.
+20 Antoin sütü neden aldı?	susuz	7
+21 Sumit bahçeye gitti.
+22 Neden sumit bahçeye gitti?	sıkılmış	15
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Antoin acıktı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Jason yoruldu.
+6 Jason nereye gidecek?	salon	5
+7 Yann susadı.
+8 Yann nereye gidecek?	mutfak	7
+9 Yann mutfağa gitti.
+10 Neden yann mutfağa gitti?	susuz	7
+11 Yann, oradaki sütü aldı.
+12 Neden süt süt alır?	susuz	7
+13 Sumit mutfağa gitti.
+14 Sumit neden mutfağa gitti?	susuz	1
+15 Antoin mutfağa gitti.
+16 Antoin neden mutfağa gitti?	aç	3
+17 Antoin elmayı oraya aldı.
+18 Anason neden elmayı aldı?	aç	3
+19 Jason salona gitti.
+20 Jason neden salona gitti?	yorgun	5
+21 Jason orada pijamaları aldı.
+22 Jason neden pijamaları aldı?	yorgun	5
+1 Sumit sıkıldı.
+2 Sumit nereye gidecek?	bahçe	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Antoin yoruldu.
+6 Antoin nereye gidecek?	salon	5
+7 Antoin salona gitti.
+8 Antoin neden salona gitti?	yorgun	5
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Jason mutfağa gitti.
+12 Jason neden mutfağa gitti?	aç	9
+13 Jason oradaki elmayı aldı.
+14 Neden jason elmayı aldı?	aç	9
+15 Sumit bahçeye gitti.
+16 Sumit neden bahçeye gitti?	sıkılmış	1
+17 Sumit futbolu oradan aldı.
+18 Neden sumit futbolu elde etti?	sıkılmış	1
+19 Antoin oradaki pijamaları aldı.
+20 Antoin neden pijamayı aldı?	yorgun	5
+21 Yann mutfağa gitti.
+22 Neden yann mutfağa gitti?	aç	3
+1 Yann susadı.
+2 Yann nereye gidecek?	mutfak	1
+3 Yann mutfağa gitti.
+4 Neden yann mutfağa gitti?	susuz	1
+5 Yann, oradaki sütü aldı.
+6 Neden süt süt alır?	susuz	1
+7 Sumit açtır.
+8 Sumit nereye gidecek?	mutfak	7
+9 Sumit mutfağa gitti.
+10 Sumit neden mutfağa gitti?	aç	7
+11 Antoin susadı.
+12 Antoin nereye gidecek?	mutfak	11
+13 Antoin mutfağa gitti.
+14 Antoin neden mutfağa gitti?	susuz	11
+15 Jason sıkıldı.
+16 Jason nereye gidecek?	bahçe	15
+17 Sumit oradaki elmayı aldı.
+18 Neden elma elmayı aldı?	aç	7
+19 Jason bahçeye gitti.
+20 Jason neden bahçeye gitti?	sıkılmış	15
+21 Jason futbolu oradan yakaladı.
+22 Jason futbolu neden elde etti?	sıkılmış	15
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Yann mutfağa gitti.
+4 Neden yann mutfağa gitti?	aç	1
+5 Sumit yoruldu.
+6 Sumit nereye gidecek?	salon	5
+7 Antoin sıkıldı.
+8 Antoin nereye gidecek?	bahçe	7
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Antoin bahçeye gitti.
+12 Antoin niçin bahçeye gitti?	bıkkın	7
+13 Antoin futbolu orada yakaladı.
+14 Antoin futbolu neden elde etti?	bıkkın	7
+15 Jason mutfağa geri döndü.
+16 Jason neden mutfağa gitti?	aç	9
+17 Jason oradaki elmayı aldı.
+18 Jason elmayı neden aldı?	aç	9
+19 Sumit salona gitti.
+20 Sumit neden salona gitti?	yorgun	5
+21 Sumit orada pijamaları aldı.
+22 Neden pijama pijama aldı?	yorgun	5
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Antoin sıkıldı.
+6 Antoin nereye gidecek?	bahçe	5
+7 Jason bahçeye gitti.
+8 Jason neden bahçeye gitti?	bıkkın	3
+9 Antoin bahçeye gitti.
+10 Antoin neden bahçeye gitti?	sıkılmış	5
+11 Jason futbolu oradan aldı.
+12 Jason futbolu neden aldı?	bıkkın	3
+13 Yann salona gitti.
+14 Neden yann salona gitti?	yorgun	1
+15 Yann orada pijamaları aldı.
+16 Neden pijamalar aldılar?	yorgun	1
+17 Sumit açtır.
+18 Sumit nereye gidecek?	mutfak	17
+19 Sumit mutfağa gitti.
+20 Sumit neden mutfağa gitti?	aç	17
+21 Sumit oradaki elmayı aldı.
+22 Neden elma elmayı aldı?	aç	17
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Yann salona gitti.
+4 Neden yann salona gitti?	yorgun	1
+5 Antoin sıkıldı.
+6 Antoin nereye gidecek?	bahçe	5
+7 Antoin bahçeye gitti.
+8 Antoin neden bahçeye gitti?	sıkılmış	5
+9 Yann orada pijamaları aldı.
+10 Neden pijamaları yann?	yorgun	1
+11 Sumit acıktı.
+12 Sumit nereye gidecek?	mutfak	11
+13 Antoin futbolu orada yakaladı.
+14 Antoin futbolu neden elde etti?	sıkılmış	5
+15 Sumit mutfağa gitti.
+16 Sumit neden mutfağa gitti?	aç	11
+17 Jason susadı.
+18 Jason nereye gidecek?	mutfak	17
+19 Sumit oradaki elmayı aldı.
+20 Neden elma elmayı aldı?	aç	11
+21 Jason mutfağa gitti.
+22 Jason neden mutfağa gitti?	susuz	17
+23 Jason oradaki sütü aldı.
+24 Jason neden sütü aldı?	susuz	17
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Sumit açtır.
+6 Sumit nereye gidecek?	mutfak	5
+7 Antoin mutfağa gitti.
+8 Antoin neden mutfağa gitti?	susuz	1
+9 Sumit mutfağa geri döndü.
+10 Sumit neden mutfağa gitti?	aç	5
+11 Jason susadı.
+12 Jason nereye gidecek?	mutfak	11
+13 Antoin oradaki sütü aldı.
+14 Antoin sütü neden aldı?	susuz	1
+15 Yann mutfağa gitti.
+16 Neden yann mutfağa gitti?	susuz	3
+17 Jason mutfağa gitti.
+18 Jason neden mutfağa gitti?	susuz	11
+19 Sumit oradaki elmayı aldı.
+20 Neden elma elmayı aldı?	aç	5
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Jason acıktı.
+4 Jason nereye gidecek?	mutfak	3
+5 Jason mutfağa gitti.
+6 Jason neden mutfağa gitti?	aç	3
+7 Sumit yoruldu.
+8 Sumit nereye gidecek?	salon	7
+9 Jason oradaki elmayı aldı.
+10 Jason elmayı neden aldı?	aç	3
+11 Sumit salona gitti.
+12 Sumit neden salona gitti?	yorgun	7
+13 Sumit orada pijama var.
+14 Sumit neden pijamayı aldı?	yorgun	7
+15 Antoin acıktı.
+16 Antoin nereye gidecek?	mutfak	15
+17 Yann salona gitti.
+18 Neden yann salona gitti?	yorgun	1
+19 Antoin mutfağa gitti.
+20 Antoin neden mutfağa gitti?	aç	15
+1 Jason yoruldu.
+2 Jason nereye gidecek?	salon	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Yann yoruldu.
+6 Yann nereye gidecek?	salon	5
+7 Jason salona gitti.
+8 Jason neden salona gitti?	yorgun	1
+9 Antoin sıkıldı.
+10 Antoin nereye gidecek?	bahçe	9
+11 Sumit salona gitti.
+12 Sumit neden salona gitti?	yorgun	3
+13 Yann salona gitti.
+14 Neden yann salona gitti?	yorgun	5
+15 Jason orada pijamaları aldı.
+16 Jason neden pijamaları aldı?	yorgun	1
+17 Antoin bahçeye gitti.
+18 Antoin niçin bahçeye gitti?	bıkkın	9
+19 Antoin futbolu oradan aldı.
+20 Antoin futbolu neden aldı?	bıkkın	9
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Antoin sıkıldı.
+6 Antoin nereye gidecek?	bahçe	5
+7 Antoin bahçeye gitti.
+8 Antoin neden bahçeye gitti?	sıkılmış	5
+9 Antoin futbolu oradan aldı.
+10 Antoin futbolu neden aldı?	sıkılmış	5
+11 Yann mutfağa gitti.
+12 Neden yann mutfağa gitti?	aç	3
+13 Jason yoruldu.
+14 Jason nereye gidecek?	salon	13
+15 Yann, oradaki elmayı aldı.
+16 Neden yann elmayı aldı?	aç	3
+17 Sumit mutfağa gitti.
+18 Sumit neden mutfağa gitti?	susuz	1
+19 Sumit sütünü orada aldı.
+20 Sumit sütü neden aldı?	susuz	1
+21 Jason salona gitti.
+22 Jason neden salona gitti?	yorgun	13
+23 Jason ordaki pijamaları aldı.
+24 Jason neden pijamaları aldı?	yorgun	13
+1 Jason susadı.
+2 Jason nereye gidecek?	mutfak	1
+3 Jason mutfağa gitti.
+4 Jason neden mutfağa gitti?	susuz	1
+5 Yann susadı.
+6 Yann nereye gidecek?	mutfak	5
+7 Yann mutfağa gitti.
+8 Neden yann mutfağa gitti?	susuz	5
+9 Antoin yoruldu.
+10 Antoin nereye gidecek?	salon	9
+11 Jason sütü oraya aldı.
+12 Jason sütü neden aldı?	susuz	1
+13 Antoin salona gitti.
+14 Antoin neden salona gitti?	yorgun	9
+15 Antoin oradaki pijamayı aldı.
+16 Antoin neden pijamayı aldı?	yorgun	9
+17 Sumit yoruldu.
+18 Sumit nereye gidecek?	salon	17
+19 Sumit salona gitti.
+20 Sumit neden salona gitti?	yorgun	17
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Yann mutfağa gitti.
+4 Neden yann mutfağa gitti?	aç	1
+5 Jason sıkıldı.
+6 Jason nereye gidecek?	bahçe	5
+7 Jason bahçeye gitti.
+8 Jason neden bahçeye gitti?	sıkılmış	5
+9 Sumit açtır.
+10 Sumit nereye gidecek?	mutfak	9
+11 Antoin sıkıldı.
+12 Antoin nereye gidecek?	bahçe	11
+13 Antoin bahçeye geri döndü.
+14 Antoin niçin bahçeye gitti?	sıkılmış	11
+15 Yann elmayı oraya aldı.
+16 Neden yann elmayı aldı?	aç	1
+17 Jason futbolu orada aldı.
+18 Jason futbolu neden elde etti?	sıkılmış	5
+19 Sumit mutfağa geri döndü.
+20 Sumit neden mutfağa gitti?	aç	9
+1 Sumit sıkıldı.
+2 Sumit nereye gidecek?	bahçe	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Jason susadı.
+6 Jason nereye gidecek?	mutfak	5
+7 Yann mutfağa gitti.
+8 Neden yann mutfağa gitti?	aç	3
+9 Yann elmayı oraya aldı.
+10 Neden yann elmayı aldı?	aç	3
+11 Jason mutfağa gitti.
+12 Jason neden mutfağa gitti?	susuz	5
+13 Antoin susadı.
+14 Antoin nereye gidecek?	mutfak	13
+15 Sumit bahçeye gitti.
+16 Sumit neden bahçeye gitti?	sıkılmış	1
+17 Antoin mutfağa gitti.
+18 Antoin neden mutfağa gitti?	susuz	13
+19 Sumit futbolu oraya aldı.
+20 Sumit futbolu neden elde etti?	sıkılmış	1
+21 Jason oradaki sütü aldı.
+22 Jason sütü neden aldı?	susuz	5
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Sumit mutfağa gitti.
+4 Sumit neden mutfağa gitti?	susuz	1
+5 Jason yoruldu.
+6 Jason nereye gidecek?	salon	5
+7 Sumit orada süt var.
+8 Sumit sütü neden aldı?	susuz	1
+9 Jason salona gitti.
+10 Jason neden salona gitti?	yorgun	5
+11 Yann susadı.
+12 Yann nereye gidecek?	mutfak	11
+13 Yann mutfağa gitti.
+14 Neden yann mutfağa gitti?	susuz	11
+15 Antoin susadı.
+16 Antoin nereye gidecek?	mutfak	15
+17 Jason orada pijamaları aldı.
+18 Jason neden pijamaları aldı?	yorgun	5
+19 Antoin mutfağa gitti.
+20 Antoin neden mutfağa gitti?	susuz	15
+1 Antoin sıkıldı.
+2 Antoin nereye gidecek?	bahçe	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Sumit açtır.
+6 Sumit nereye gidecek?	mutfak	5
+7 Sumit mutfağa gitti.
+8 Sumit neden mutfağa gitti?	aç	5
+9 Yann yoruldu.
+10 Yann nereye gidecek?	salon	9
+11 Sumit oradaki elmayı aldı.
+12 Neden elma elmayı aldı?	aç	5
+13 Yann salona gitti.
+14 Neden yann salona gitti?	yorgun	9
+15 Yann orada pijama aldı.
+16 Neden pijamalar aldılar?	yorgun	9
+17 Jason bahçeye geri döndü.
+18 Jason neden bahçeye gitti?	bıkkın	3
+19 Jason futbolu oraya aldı.
+20 Jason futbolu neden elde etti?	bıkkın	3
+21 Antoin bahçeye geri döndü.
+22 Antoin niçin bahçeye gitti?	sıkılmış	1
+1 Antoin yoruldu.
+2 Antoin nereye gidecek?	salon	1
+3 Sumit açtır.
+4 Sumit nereye gidecek?	mutfak	3
+5 Yann susadı.
+6 Yann nereye gidecek?	mutfak	5
+7 Yann mutfağa gitti.
+8 Neden yann mutfağa gitti?	susuz	5
+9 Sumit mutfağa gitti.
+10 Sumit neden mutfağa gitti?	aç	3
+11 Jason sıkıldı.
+12 Jason nereye gidecek?	bahçe	11
+13 Jason bahçeye gitti.
+14 Jason neden bahçeye gitti?	sıkılmış	11
+15 Sumit oradaki elmayı aldı.
+16 Neden elma elmayı aldı?	aç	3
+17 Antoin salona gitti.
+18 Antoin neden salona gitti?	yorgun	1
+19 Antoin orada pijamaları aldı.
+20 Antoin neden pijamayı aldı?	yorgun	1
+21 Yann, sütü oradan aldı.
+22 Neden süt süt alıyor?	susuz	5
+23 Jason futbolu orada aldı.
+24 Jason neden futbolu aldı?	sıkılmış	11
+1 Sumit açtır.
+2 Sumit nereye gidecek?	mutfak	1
+3 Sumit mutfağa gitti.
+4 Sumit neden mutfağa gitti?	aç	1
+5 Sumit oradaki elmayı aldı.
+6 Neden elma elmayı aldı?	aç	1
+7 Yann sıkıldı.
+8 Yann nereye gidecek?	bahçe	7
+9 Yann bahçeye geri döndü.
+10 Neden yann bahçeye gitti?	bıkkın	7
+11 Antoin acıktı.
+12 Antoin nereye gidecek?	mutfak	11
+13 Jason yoruldu.
+14 Jason nereye gidecek?	salon	13
+15 Antoin mutfağa gitti.
+16 Antoin neden mutfağa gitti?	aç	11
+17 Yann futbolu orada aldı.
+18 Neden yann futbolu aldı?	bıkkın	7
+19 Jason salona gitti.
+20 Jason neden salona gitti?	yorgun	13
+21 Jason orada pijamaları aldı.
+22 Jason neden pijamaları aldı?	yorgun	13
+1 Sumit sıkıldı.
+2 Sumit nereye gidecek?	bahçe	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Yann susadı.
+6 Yann nereye gidecek?	mutfak	5
+7 Jason bahçeye gitti.
+8 Jason neden bahçeye gitti?	bıkkın	3
+9 Jason futbolu oradan yakaladı.
+10 Jason futbolu neden aldı?	bıkkın	3
+11 Yann mutfağa gitti.
+12 Neden yann mutfağa gitti?	susuz	5
+13 Yann orada süt var.
+14 Neden süt süt alıyor?	susuz	5
+15 Sumit bahçeye gitti.
+16 Sumit neden bahçeye gitti?	sıkılmış	1
+17 Antoin sıkıldı.
+18 Antoin nereye gidecek?	bahçe	17
+19 Antoin bahçeye gitti.
+20 Antoin niçin bahçeye gitti?	bıkkın	17
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Yann salona geri döndü.
+4 Neden yann salona gitti?	yorgun	1
+5 Yann orada pijamaları aldı.
+6 Neden yann pijamayı aldı?	yorgun	1
+7 Antoin sıkıldı.
+8 Antoin nereye gidecek?	bahçe	7
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Antoin bahçeye gitti.
+12 Antoin niçin bahçeye gitti?	bıkkın	7
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	aç	9
+15 Antoin orada futbol oynadı.
+16 Antoin futbolu neden elde etti?	bıkkın	7
+17 Jason oradaki elmayı aldı.
+18 Jason elmayı neden aldı?	aç	9
+19 Sumit susadı.
+20 Sumit nereye gidecek?	mutfak	19
+21 Sumit mutfağa gitti.
+22 Sumit neden mutfağa gitti?	susuz	19
+23 Sumit sütü oradan aldı.
+24 Sumit sütü neden aldı?	susuz	19
+1 Yann susadı.
+2 Yann nereye gidecek?	mutfak	1
+3 Antoin acıktı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Sumit sıkıldı.
+6 Sumit nereye gidecek?	bahçe	5
+7 Antoin mutfağa geri döndü.
+8 Antoin neden mutfağa gitti?	aç	3
+9 Jason sıkıldı.
+10 Jason nereye gidecek?	bahçe	9
+11 Jason bahçeye gitti.
+12 Jason neden bahçeye gitti?	bıkkın	9
+13 Jason futbolu oraya aldı.
+14 Jason futbolu neden elde etti?	bıkkın	9
+15 Antoin oradaki elmayı aldı.
+16 Antoin neden elma aldınız?	aç	3
+17 Yann mutfağa gitti.
+18 Neden yann mutfağa gitti?	susuz	1
+19 Yann, oradaki sütü aldı.
+20 Neden süt süt alıyor?	susuz	1
+21 Sumit bahçeye gitti.
+22 Neden sumit bahçeye gitti?	sıkılmış	5
+1 Jason sıkıldı.
+2 Jason nereye gidecek?	bahçe	1
+3 Yann sıkıldı.
+4 Yann nereye gidecek?	bahçe	3
+5 Yann bahçeye gitti.
+6 Neden yann bahçeye gitti?	bıkkın	3
+7 Antoin acıktı.
+8 Antoin nereye gidecek?	mutfak	7
+9 Jason bahçeye gitti.
+10 Jason neden bahçeye gitti?	sıkılmış	1
+11 Yann futbolu oradan aldı.
+12 Neden yann futbolu aldı?	bıkkın	3
+13 Sumit sıkıldı.
+14 Sumit nereye gidecek?	bahçe	13
+15 Sumit bahçeye geri döndü.
+16 Sumit neden bahçeye gitti?	bıkkın	13
+17 Antoin mutfağa gitti.
+18 Antoin neden mutfağa gitti?	aç	7
+19 Antoin oradaki elmayı aldı.
+20 Antoin neden elmaları aldı?	aç	7
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Antoin sıkıldı.
+4 Antoin nereye gidecek?	bahçe	3
+5 Sumit susadı.
+6 Sumit nereye gidecek?	mutfak	5
+7 Sumit mutfağa gitti.
+8 Sumit neden mutfağa gitti?	susuz	5
+9 Yann bahçeye gitti.
+10 Neden yann bahçeye gitti?	sıkılmış	1
+11 Jason acıktı.
+12 Jason nereye gidecek?	mutfak	11
+13 Antoin bahçeye gitti.
+14 Antoin niçin bahçeye gitti?	bıkkın	3
+15 Sumit sütü oradan aldı.
+16 Neden sumit sütü aldı?	susuz	5
+17 Jason mutfağa gitti.
+18 Jason neden mutfağa gitti?	aç	11
+19 Antoin futbolu oradan aldı.
+20 Antoin futbolu neden aldı?	bıkkın	3
+21 Jason elmayı oraya aldı.
+22 Jason elmayı neden aldı?	aç	11
+1 Yann susadı.
+2 Yann nereye gidecek?	mutfak	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Sumit sıkıldı.
+6 Sumit nereye gidecek?	bahçe	5
+7 Jason bahçeye gitti.
+8 Jason neden bahçeye gitti?	bıkkın	3
+9 Sumit bahçeye gitti.
+10 Sumit neden bahçeye gitti?	sıkılmış	5
+11 Antoin yoruldu.
+12 Antoin nereye gidecek?	salon	11
+13 Sumit futbolu orada yakaladı.
+14 Sumit futbolu neden elde etti?	sıkılmış	5
+15 Antoin salona gitti.
+16 Antoin neden salona gitti?	yorgun	11
+17 Antoin orada pijamaları aldı.
+18 Antoin neden pijamayı aldı?	yorgun	11
+19 Yann mutfağa gitti.
+20 Neden yann mutfağa gitti?	susuz	1
+21 Yann orada süt var.
+22 Neden süt süt alıyor?	susuz	1
+1 Jason acıktı.
+2 Jason nereye gidecek?	mutfak	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Antoin sıkıldı.
+6 Antoin nereye gidecek?	bahçe	5
+7 Sumit açtır.
+8 Sumit nereye gidecek?	mutfak	7
+9 Jason mutfağa gitti.
+10 Jason neden mutfağa gitti?	aç	1
+11 Yann mutfağa gitti.
+12 Neden yann mutfağa gitti?	aç	3
+13 Sumit mutfağa gitti.
+14 Sumit neden mutfağa gitti?	aç	7
+15 Jason elmayı oraya aldı.
+16 Jason elmayı neden aldı?	aç	1
+17 Antoin bahçeye gitti.
+18 Antoin niçin bahçeye gitti?	sıkılmış	5
+19 Antoin orada futbolu aldı.
+20 Antoin futbolu neden aldı?	sıkılmış	5
+1 Jason acıktı.
+2 Jason nereye gidecek?	mutfak	1
+3 Yann sıkıldı.
+4 Yann nereye gidecek?	bahçe	3
+5 Jason mutfağa gitti.
+6 Jason neden mutfağa gitti?	aç	1
+7 Sumit sıkıldı.
+8 Sumit nereye gidecek?	bahçe	7
+9 Sumit bahçeye gitti.
+10 Sumit neden bahçeye gitti?	bıkkın	7
+11 Antoin sıkıldı.
+12 Antoin nereye gidecek?	bahçe	11
+13 Sumit futbolu orada yakaladı.
+14 Sumit futbolu neden elde etti?	bıkkın	7
+15 Jason elmayı oraya aldı.
+16 Jason elmayı neden aldı?	aç	1
+17 Antoin bahçeye gitti.
+18 Antoin niçin bahçeye gitti?	sıkılmış	11
+19 Yann bahçeye geri döndü.
+20 Neden yann bahçeye gitti?	bıkkın	3
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Yann sıkıldı.
+4 Yann nereye gidecek?	bahçe	3
+5 Antoin mutfağa geri döndü.
+6 Antoin neden mutfağa gitti?	susuz	1
+7 Sumit susadı.
+8 Sumit nereye gidecek?	mutfak	7
+9 Antoin oradaki sütü aldı.
+10 Antoin sütü neden aldı?	susuz	1
+11 Jason sıkıldı.
+12 Jason nereye gidecek?	bahçe	11
+13 Sumit mutfağa gitti.
+14 Sumit neden mutfağa gitti?	susuz	7
+15 Jason bahçeye geri döndü.
+16 Jason neden bahçeye gitti?	sıkılmış	11
+17 Yann bahçeye gitti.
+18 Neden yann bahçeye gitti?	bıkkın	3
+19 Yann futbolu orada yakaladı.
+20 Neden yann futbolu aldı?	bıkkın	3
+1 Antoin yoruldu.
+2 Antoin nereye gidecek?	salon	1
+3 Yann yorgun.
+4 Yann nereye gidecek?	salon	3
+5 Jason acıktı.
+6 Jason nereye gidecek?	mutfak	5
+7 Sumit açtır.
+8 Sumit nereye gidecek?	mutfak	7
+9 Yann salona geri döndü.
+10 Neden yann salona gitti?	yorgun	3
+11 Sumit mutfağa gitti.
+12 Sumit neden mutfağa gitti?	aç	7
+13 Yann orada pijamaları aldı.
+14 Yann pijamaları neden aldılar?	yorgun	3
+15 Sumit oradaki elmayı aldı.
+16 Neden elma elmayı aldı?	aç	7
+17 Antoin salona gitti.
+18 Antoin neden salona gitti?	yorgun	1
+19 Jason mutfağa gitti.
+20 Jason neden mutfağa gitti?	aç	5
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Antoin mutfağa gitti.
+4 Antoin neden mutfağa gitti?	susuz	1
+5 Sumit yoruldu.
+6 Sumit nereye gidecek?	salon	5
+7 Antoin oradaki sütü aldı.
+8 Antoin sütü neden aldı?	susuz	1
+9 Sumit salona geri döndü.
+10 Sumit neden salona gitti?	yorgun	5
+11 Sumit orada pijamaları aldı.
+12 Sumit neden pijama aldı?	yorgun	5
+13 Jason susadı.
+14 Jason nereye gidecek?	mutfak	13
+15 Jason mutfağa gitti.
+16 Jason neden mutfağa gitti?	susuz	13
+17 Yann sıkıldı.
+18 Yann nereye gidecek?	bahçe	17
+19 Yann bahçeye geri döndü.
+20 Neden yann bahçeye gitti?	bıkkın	17
+21 Yann futbolu orada aldı.
+22 Neden futbol taraftarı oldu?	bıkkın	17
+1 Jason acıktı.
+2 Jason nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Antoin yoruldu.
+6 Antoin nereye gidecek?	salon	5
+7 Jason mutfağa gitti.
+8 Jason neden mutfağa gitti?	aç	1
+9 Sumit susadı.
+10 Sumit nereye gidecek?	mutfak	9
+11 Jason elmayı oraya götürdü.
+12 Jason elmayı neden aldı?	aç	1
+13 Antoin salona gitti.
+14 Antoin neden salona gitti?	yorgun	5
+15 Sumit mutfağa gitti.
+16 Sumit neden mutfağa gitti?	susuz	9
+17 Yann mutfağa gitti.
+18 Neden yann mutfağa gitti?	susuz	3
+19 Antoin oradaki pijamaları aldı.
+20 Antoin neden pijamayı aldı?	yorgun	5
+21 Yann oradaki sütü aldı.
+22 Neden süt süt alıyor?	susuz	3
+1 Sumit açtır.
+2 Sumit nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Yann mutfağa gitti.
+6 Neden yann mutfağa gitti?	susuz	3
+7 Sumit mutfağa gitti.
+8 Sumit neden mutfağa gitti?	aç	1
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Sumit elmayı oraya aldı.
+12 Neden elma elmayı aldı?	aç	1
+13 Antoin yoruldu.
+14 Antoin nereye gidecek?	salon	13
+15 Yann, oradaki sütü aldı.
+16 Neden süt süt alır?	susuz	3
+17 Jason mutfağa gitti.
+18 Jason neden mutfağa gitti?	aç	9
+19 Antoin salona gitti.
+20 Antoin neden salona gitti?	yorgun	13
+21 Antoin orada pijamaları aldı.
+22 Antoin neden pijamayı aldı?	yorgun	13
+1 Antoin acıktı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Yann sıkıldı.
+4 Yann nereye gidecek?	bahçe	3
+5 Sumit sıkıldı.
+6 Sumit nereye gidecek?	bahçe	5
+7 Jason sıkıldı.
+8 Jason nereye gidecek?	bahçe	7
+9 Jason bahçeye gitti.
+10 Jason neden bahçeye gitti?	bıkkın	7
+11 Antoin mutfağa gitti.
+12 Antoin neden mutfağa gitti?	aç	1
+13 Yann bahçeye gitti.
+14 Neden yann bahçeye gitti?	bıkkın	3
+15 Sumit bahçeye gitti.
+16 Sumit neden bahçeye gitti?	sıkılmış	5
+17 Yann futbolu orada yakaladı.
+18 Neden yann futbolu aldı?	bıkkın	3
+19 Antoin oradaki elmayı aldı.
+20 Antoin neden elmaları aldı?	aç	1
+1 Sumit sıkıldı.
+2 Sumit nereye gidecek?	bahçe	1
+3 Antoin yoruldu.
+4 Antoin nereye gidecek?	salon	3
+5 Yann sıkıldı.
+6 Yann nereye gidecek?	bahçe	5
+7 Yann bahçeye geri döndü.
+8 Neden yann bahçeye gitti?	sıkılmış	5
+9 Sumit bahçeye gitti.
+10 Sumit neden bahçeye gitti?	sıkılmış	1
+11 Yann futbolu orada aldı.
+12 Neden yann futbolu aldı?	sıkılmış	5
+13 Antoin salona gitti.
+14 Antoin neden salona gitti?	yorgun	3
+15 Jason sıkıldı.
+16 Jason nereye gidecek?	bahçe	15
+17 Jason bahçeye gitti.
+18 Jason neden bahçeye gitti?	sıkılmış	15
+19 Antoin orada pijamaları aldı.
+20 Antoin neden pijamayı aldı?	yorgun	3
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Sumit sıkıldı.
+4 Sumit nereye gidecek?	bahçe	3
+5 Antoin yoruldu.
+6 Antoin nereye gidecek?	salon	5
+7 Jason sıkıldı.
+8 Jason nereye gidecek?	bahçe	7
+9 Antoin salona gitti.
+10 Antoin neden salona gitti?	yorgun	5
+11 Sumit bahçeye geri döndü.
+12 Sumit neden bahçeye gitti?	bıkkın	3
+13 Sumit futbolu orada yakaladı.
+14 Sumit futbolu neden elde etti?	bıkkın	3
+15 Yann salona gitti.
+16 Neden yann salona gitti?	yorgun	1
+17 Antoin orada pijamaları aldı.
+18 Antoin neden pijamayı aldı?	yorgun	5
+19 Jason bahçeye gitti.
+20 Jason neden bahçeye gitti?	bıkkın	7
+1 Jason yoruldu.
+2 Jason nereye gidecek?	salon	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Jason salona gitti.
+6 Jason neden salona gitti?	yorgun	1
+7 Yann mutfağa gitti.
+8 Neden yann mutfağa gitti?	aç	3
+9 Yann elmayı oraya aldı.
+10 Neden yann elmayı aldı?	aç	3
+11 Sumit yoruldu.
+12 Sumit nereye gidecek?	salon	11
+13 Jason oradaki pijamaları aldı.
+14 Jason neden pijamaları aldı?	yorgun	1
+15 Sumit salona gitti.
+16 Sumit neden salona gitti?	yorgun	11
+17 Antoin yoruldu.
+18 Antoin nereye gidecek?	salon	17
+19 Antoin salona gitti.
+20 Antoin neden salona gitti?	yorgun	17
+1 Jason sıkıldı.
+2 Jason nereye gidecek?	bahçe	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Sumit salona gitti.
+6 Sumit neden salona gitti?	yorgun	3
+7 Antoin yoruldu.
+8 Antoin nereye gidecek?	salon	7
+9 Antoin salona gitti.
+10 Antoin neden salona gitti?	yorgun	7
+11 Antoin oradaki pijamayı aldı.
+12 Antoin neden pijamayı aldı?	yorgun	7
+13 Yann susadı.
+14 Yann nereye gidecek?	mutfak	13
+15 Jason bahçeye gitti.
+16 Jason neden bahçeye gitti?	sıkılmış	1
+17 Jason futbolu orada aldı.
+18 Jason futbolu neden elde etti?	sıkılmış	1
+19 Yann mutfağa geri döndü.
+20 Neden yann mutfağa gitti?	susuz	13
+21 Yann oradaki sütü aldı.
+22 Neden süt süt alıyor?	susuz	13
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Sumit mutfağa gitti.
+4 Sumit neden mutfağa gitti?	susuz	1
+5 Antoin yoruldu.
+6 Antoin nereye gidecek?	salon	5
+7 Sumit sütü oraya aldı.
+8 Sumit sütü neden aldı?	susuz	1
+9 Antoin salona gitti.
+10 Antoin neden salona gitti?	yorgun	5
+11 Antoin oradaki pijamayı aldı.
+12 Antoin neden pijamayı aldı?	yorgun	5
+13 Jason acıktı.
+14 Jason nereye gidecek?	mutfak	13
+15 Jason mutfağa gitti.
+16 Jason neden mutfağa gitti?	aç	13
+17 Jason oradaki elmayı aldı.
+18 Jason elmayı neden aldı?	aç	13
+19 Yann susadı.
+20 Yann nereye gidecek?	mutfak	19
+21 Yann mutfağa gitti.
+22 Neden yann mutfağa gitti?	susuz	19
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Sumit susamış.
+4 Sumit nereye gidecek?	mutfak	3
+5 Yann salona gitti.
+6 Neden yann salona gitti?	yorgun	1
+7 Jason acıktı.
+8 Jason nereye gidecek?	mutfak	7
+9 Jason, mutfağa geri döndü.
+10 Jason neden mutfağa gitti?	aç	7
+11 Jason elmayı oraya aldı.
+12 Jason elmayı neden aldı?	aç	7
+13 Yann orada pijama var.
+14 Yann pijamaları neden aldılar?	yorgun	1
+15 Sumit mutfağa gitti.
+16 Sumit neden mutfağa gitti?	susuz	3
+17 Antoin sıkıldı.
+18 Antoin nereye gidecek?	bahçe	17
+19 Sumit sütünü orada aldı.
+20 Sumit sütü neden aldı?	susuz	3
+21 Antoin bahçeye gitti.
+22 Antoin niçin bahçeye gitti?	bıkkın	17
+23 Antoin futbolu oradan aldı.
+24 Antoin futbolu neden elde etti?	bıkkın	17
+1 Jason susadı.
+2 Jason nereye gidecek?	mutfak	1
+3 Sumit açtır.
+4 Sumit nereye gidecek?	mutfak	3
+5 Antoin acıktı.
+6 Antoin nereye gidecek?	mutfak	5
+7 Yann acıkmış.
+8 Yann nereye gidecek?	mutfak	7
+9 Sumit mutfağa gitti.
+10 Sumit neden mutfağa gitti?	aç	3
+11 Sumit oradaki elmayı aldı.
+12 Neden elma elmayı aldı?	aç	3
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	susuz	1
+15 Yann mutfağa gitti.
+16 Neden yann mutfağa gitti?	aç	7
+17 Jason oradaki sütü aldı.
+18 Jason sütü neden aldı?	susuz	1
+19 Antoin mutfağa gitti.
+20 Antoin neden mutfağa gitti?	aç	5
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Antoin mutfağa gitti.
+4 Antoin neden mutfağa gitti?	susuz	1
+5 Antoin oradaki sütü aldı.
+6 Antoin sütü neden aldı?	susuz	1
+7 Yann yorgun.
+8 Yann nereye gidecek?	salon	7
+9 Sumit yoruldu.
+10 Sumit nereye gidecek?	salon	9
+11 Jason sıkıldı.
+12 Jason nereye gidecek?	bahçe	11
+13 Jason bahçeye geri döndü.
+14 Jason neden bahçeye gitti?	sıkılmış	11
+15 Yann salona gitti.
+16 Neden yann salona gitti?	yorgun	7
+17 Sumit salona geri döndü.
+18 Sumit neden salona gitti?	yorgun	9
+19 Jason futbolu oradan aldı.
+20 Jason futbolu neden elde etti?	sıkılmış	11
+21 Yann orada pijamaları aldı.
+22 Neden pijamalar yann?	yorgun	7
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Sumit açtır.
+4 Sumit nereye gidecek?	mutfak	3
+5 Antoin susadı.
+6 Antoin nereye gidecek?	mutfak	5
+7 Sumit mutfağa gitti.
+8 Sumit neden mutfağa gitti?	aç	3
+9 Sumit oradaki elmayı aldı.
+10 Neden elma elmayı aldı?	aç	3
+11 Jason yoruldu.
+12 Jason nereye gidecek?	salon	11
+13 Jason salona gitti.
+14 Jason neden salona gitti?	yorgun	11
+15 Antoin mutfağa geri döndü.
+16 Antoin neden mutfağa gitti?	susuz	5
+17 Antoin oradaki sütü aldı.
+18 Antoin sütü neden aldı?	susuz	5
+19 Jason orada pijamaları aldı.
+20 Jason neden pijamaları aldı?	yorgun	11
+21 Yann mutfağa gitti.
+22 Neden yann mutfağa gitti?	aç	1
+1 Yann yoruldu.
+2 Yann nereye gidecek?	salon	1
+3 Antoin sıkıldı.
+4 Antoin nereye gidecek?	bahçe	3
+5 Yann salona geri döndü.
+6 Neden yann salona gitti?	yorgun	1
+7 Sumit yoruldu.
+8 Sumit nereye gidecek?	salon	7
+9 Antoin bahçeye gitti.
+10 Antoin neden bahçeye gitti?	bıkkın	3
+11 Jason yoruldu.
+12 Jason nereye gidecek?	salon	11
+13 Jason salona gitti.
+14 Jason neden salona gitti?	yorgun	11
+15 Sumit salona gitti.
+16 Sumit neden salona gitti?	yorgun	7
+17 Sumit orada pijamaları aldı.
+18 Sumit neden pijama aldı?	yorgun	7
+19 Antoin futbolu oradan aldı.
+20 Antoin futbolu neden aldı?	bıkkın	3
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Jason acıktı.
+4 Jason nereye gidecek?	mutfak	3
+5 Jason mutfağa gitti.
+6 Jason neden mutfağa gitti?	aç	3
+7 Antoin mutfağa gitti.
+8 Antoin neden mutfağa gitti?	susuz	1
+9 Yann susadı.
+10 Yann nereye gidecek?	mutfak	9
+11 Antoin sütü oradan aldı.
+12 Antoin sütü neden aldı?	susuz	1
+13 Sumit susadı.
+14 Sumit nereye gidecek?	mutfak	13
+15 Sumit mutfağa gitti.
+16 Sumit neden mutfağa gitti?	susuz	13
+17 Yann mutfağa gitti.
+18 Neden yann mutfağa gitti?	susuz	9
+19 Jason oradaki elmayı aldı.
+20 Neden jason elmayı aldı?	aç	3
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Yann bahçeye geri döndü.
+4 Neden yann bahçeye gitti?	sıkılmış	1
+5 Yann futbolu oraya aldı.
+6 Neden yann futbolu aldı?	sıkılmış	1
+7 Sumit sıkıldı.
+8 Sumit nereye gidecek?	bahçe	7
+9 Jason susadı.
+10 Jason nereye gidecek?	mutfak	9
+11 Sumit bahçeye geri döndü.
+12 Sumit neden bahçeye gitti?	bıkkın	7
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	susuz	9
+15 Jason oradaki sütü aldı.
+16 Jason sütü neden aldı?	susuz	9
+17 Antoin acıktı.
+18 Antoin nereye gidecek?	mutfak	17
+19 Antoin mutfağa geri döndü.
+20 Antoin neden mutfağa gitti?	aç	17
+21 Antoin oradaki elmayı aldı.
+22 Antoin elmaları neden aldı?	aç	17
+1 Antoin acıktı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Jason yoruldu.
+6 Jason nereye gidecek?	salon	5
+7 Sumit salona gitti.
+8 Sumit neden salona gitti?	yorgun	3
+9 Sumit orada pijamaları aldı.
+10 Sumit neden pijamayı aldı?	yorgun	3
+11 Antoin mutfağa geri döndü.
+12 Antoin neden mutfağa gitti?	aç	1
+13 Yann susadı.
+14 Yann nereye gidecek?	mutfak	13
+15 Jason salona gitti.
+16 Jason neden salona gitti?	yorgun	5
+17 Antoin elmayı oraya aldı.
+18 Anason neden elmayı aldı?	aç	1
+19 Yann mutfağa gitti.
+20 Neden yann mutfağa gitti?	susuz	13
+21 Yann oradaki sütü aldı.
+22 Neden süt süt alıyor?	susuz	13
+1 Sumit yoruldu.
+2 Sumit nereye gidecek?	salon	1
+3 Yann yorgun.
+4 Yann nereye gidecek?	salon	3
+5 Sumit salona geri döndü.
+6 Sumit neden salona gitti?	yorgun	1
+7 Sumit orada pijamaları aldı.
+8 Neden pijama pijama aldı?	yorgun	1
+9 Antoin acıktı.
+10 Antoin nereye gidecek?	mutfak	9
+11 Jason sıkıldı.
+12 Jason nereye gidecek?	bahçe	11
+13 Antoin mutfağa gitti.
+14 Antoin neden mutfağa gitti?	aç	9
+15 Yann salona gitti.
+16 Neden yann salona gitti?	yorgun	3
+17 Antoin oradaki elmayı aldı.
+18 Anason neden elmayı aldı?	aç	9
+19 Jason bahçeye gitti.
+20 Jason neden bahçeye gitti?	sıkılmış	11
+21 Jason futbolu oraya aldı.
+22 Jason futbolu neden elde etti?	sıkılmış	11
+1 Antoin yoruldu.
+2 Antoin nereye gidecek?	salon	1
+3 Antoin salona gitti.
+4 Antoin neden salona gitti?	yorgun	1
+5 Antoin oradaki pijamayı aldı.
+6 Antoin neden pijamayı aldı?	yorgun	1
+7 Jason sıkıldı.
+8 Jason nereye gidecek?	bahçe	7
+9 Yann acıkmış.
+10 Yann nereye gidecek?	mutfak	9
+11 Yann mutfağa gitti.
+12 Neden yann mutfağa gitti?	aç	9
+13 Jason bahçeye geri döndü.
+14 Jason neden bahçeye gitti?	bıkkın	7
+15 Jason futbolu oradan aldı.
+16 Jason futbolu neden elde etti?	bıkkın	7
+17 Yann elmayı oraya aldı.
+18 Neden yann elmayı aldı?	aç	9
+19 Sumit yoruldu.
+20 Sumit nereye gidecek?	salon	19
+21 Sumit salona gitti.
+22 Sumit neden salona gitti?	yorgun	19
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Yann acıkmış.
+4 Yann nereye gidecek?	mutfak	3
+5 Antoin mutfağa gitti.
+6 Antoin neden mutfağa gitti?	susuz	1
+7 Yann mutfağa geri döndü.
+8 Neden yann mutfağa gitti?	aç	3
+9 Jason susadı.
+10 Jason nereye gidecek?	mutfak	9
+11 Yann elmayı oraya aldı.
+12 Neden yann elmayı aldı?	aç	3
+13 Antoin oradaki sütü aldı.
+14 Antoin sütü neden aldı?	susuz	1
+15 Sumit yoruldu.
+16 Sumit nereye gidecek?	salon	15
+17 Sumit salona gitti.
+18 Sumit neden salona gitti?	yorgun	15
+19 Sumit orada pijamaları aldı.
+20 Sumit neden pijamayı aldı?	yorgun	15
+21 Jason mutfağa gitti.
+22 Jason neden mutfağa gitti?	susuz	9
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Antoin acıktı.
+6 Antoin nereye gidecek?	mutfak	5
+7 Yann mutfağa geri döndü.
+8 Neden yann mutfağa gitti?	aç	1
+9 Yann elmayı oraya aldı.
+10 Neden yann elmayı aldı?	aç	1
+11 Sumit yoruldu.
+12 Sumit nereye gidecek?	salon	11
+13 Jason bahçeye gitti.
+14 Jason neden bahçeye gitti?	bıkkın	3
+15 Jason futbolu orada aldı.
+16 Jason futbolu neden elde etti?	bıkkın	3
+17 Sumit salona gitti.
+18 Sumit neden salona gitti?	yorgun	11
+19 Antoin mutfağa gitti.
+20 Antoin neden mutfağa gitti?	aç	5
+21 Sumit orada pijamaları aldı.
+22 Neden pijama pijama aldı?	yorgun	11
+1 Sumit açtır.
+2 Sumit nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Yann mutfağa gitti.
+6 Neden yann mutfağa gitti?	susuz	3
+7 Jason sıkıldı.
+8 Jason nereye gidecek?	bahçe	7
+9 Jason bahçeye geri döndü.
+10 Jason neden bahçeye gitti?	bıkkın	7
+11 Sumit mutfağa gitti.
+12 Sumit neden mutfağa gitti?	aç	1
+13 Sumit oradaki elmayı aldı.
+14 Neden elma elmayı aldı?	aç	1
+15 Yann, oradaki sütü aldı.
+16 Neden süt süt alır?	susuz	3
+17 Jason futbolu oradan aldı.
+18 Jason futbolu neden elde etti?	bıkkın	7
+19 Antoin yoruldu.
+20 Antoin nereye gidecek?	salon	19
+21 Antoin salona gitti.
+22 Antoin neden salona gitti?	yorgun	19
+23 Antoin orada pijamaları aldı.
+24 Antoin neden pijamayı aldı?	yorgun	19
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Yann bahçeye geri döndü.
+4 Neden yann bahçeye gitti?	sıkılmış	1
+5 Jason susadı.
+6 Jason nereye gidecek?	mutfak	5
+7 Antoin acıktı.
+8 Antoin nereye gidecek?	mutfak	7
+9 Antoin mutfağa gitti.
+10 Antoin neden mutfağa gitti?	aç	7
+11 Jason mutfağa gitti.
+12 Jason neden mutfağa gitti?	susuz	5
+13 Antoin elmayı oraya aldı.
+14 Antoin neden elmaları aldı?	aç	7
+15 Yann futbolu oradan aldı.
+16 Neden futbol taraftarı oldu?	sıkılmış	1
+17 Jason oradaki sütü aldı.
+18 Jason sütü neden aldı?	susuz	5
+19 Sumit acıktı.
+20 Sumit nereye gidecek?	mutfak	19
+21 Sumit mutfağa gitti.
+22 Sumit neden mutfağa gitti?	aç	19
+1 Jason yoruldu.
+2 Jason nereye gidecek?	salon	1
+3 Jason salona gitti.
+4 Jason neden salona gitti?	yorgun	1
+5 Sumit açtır.
+6 Sumit nereye gidecek?	mutfak	5
+7 Yann acıkmış.
+8 Yann nereye gidecek?	mutfak	7
+9 Antoin susadı.
+10 Antoin nereye gidecek?	mutfak	9
+11 Jason oradaki pijamaları aldı.
+12 Jason neden pijamaları aldı?	yorgun	1
+13 Antoin mutfağa gitti.
+14 Antoin neden mutfağa gitti?	susuz	9
+15 Antoin oradaki sütü aldı.
+16 Antoin sütü neden aldı?	susuz	9
+17 Sumit mutfağa gitti.
+18 Sumit neden mutfağa gitti?	aç	5
+19 Sumit oradaki elmayı aldı.
+20 Neden elma elmayı aldı?	aç	5
+21 Yann mutfağa gitti.
+22 Neden yann mutfağa gitti?	aç	7
+1 Antoin sıkıldı.
+2 Antoin nereye gidecek?	bahçe	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Jason sıkıldı.
+6 Jason nereye gidecek?	bahçe	5
+7 Yann mutfağa gitti.
+8 Neden yann mutfağa gitti?	susuz	3
+9 Jason bahçeye gitti.
+10 Jason neden bahçeye gitti?	sıkılmış	5
+11 Antoin bahçeye gitti.
+12 Antoin niçin bahçeye gitti?	sıkılmış	1
+13 Yann orada süt var.
+14 Neden süt süt alıyor?	susuz	3
+15 Jason futbolu orada aldı.
+16 Jason futbolu neden elde etti?	sıkılmış	5
+17 Sumit sıkıldı.
+18 Sumit nereye gidecek?	bahçe	17
+19 Sumit bahçeye gitti.
+20 Sumit neden bahçeye gitti?	bıkkın	17
+1 Antoin susadı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Sumit açtır.
+4 Sumit nereye gidecek?	mutfak	3
+5 Antoin mutfağa geri döndü.
+6 Antoin neden mutfağa gitti?	susuz	1
+7 Sumit mutfağa gitti.
+8 Sumit neden mutfağa gitti?	aç	3
+9 Antoin oradaki sütü aldı.
+10 Antoin sütü neden aldı?	susuz	1
+11 Jason yoruldu.
+12 Jason nereye gidecek?	salon	11
+13 Sumit oradaki elmayı aldı.
+14 Neden elma elmayı aldı?	aç	3
+15 Jason salona gitti.
+16 Jason neden salona gitti?	yorgun	11
+17 Yann yoruldu.
+18 Yann nereye gidecek?	salon	17
+19 Jason orada pijamaları aldı.
+20 Jason neden pijamaları aldı?	yorgun	11
+21 Yann salona gitti.
+22 Neden yann salona gitti?	yorgun	17
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Antoin susadı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Yann susadı.
+6 Yann nereye gidecek?	mutfak	5
+7 Antoin mutfağa gitti.
+8 Antoin neden mutfağa gitti?	susuz	3
+9 Antoin oradaki sütü aldı.
+10 Antoin sütü neden aldı?	susuz	3
+11 Jason sıkıldı.
+12 Jason nereye gidecek?	bahçe	11
+13 Yann mutfağa gitti.
+14 Neden yann mutfağa gitti?	susuz	5
+15 Sumit mutfağa gitti.
+16 Sumit neden mutfağa gitti?	susuz	1
+17 Jason bahçeye geri döndü.
+18 Jason neden bahçeye gitti?	sıkılmış	11
+19 Jason futbolu orada aldı.
+20 Jason futbolu neden elde etti?	sıkılmış	11
+1 Jason acıktı.
+2 Jason nereye gidecek?	mutfak	1
+3 Sumit susamış.
+4 Sumit nereye gidecek?	mutfak	3
+5 Sumit mutfağa gitti.
+6 Sumit neden mutfağa gitti?	susuz	3
+7 Antoin sıkıldı.
+8 Antoin nereye gidecek?	bahçe	7
+9 Sumit sütünü oraya aldı.
+10 Sumit sütü neden aldı?	susuz	3
+11 Jason mutfağa geri döndü.
+12 Jason neden mutfağa gitti?	aç	1
+13 Antoin bahçeye gitti.
+14 Antoin niçin bahçeye gitti?	bıkkın	7
+15 Yann acıktı.
+16 Yann nereye gidecek?	mutfak	15
+17 Yann mutfağa gitti.
+18 Neden yann mutfağa gitti?	aç	15
+19 Jason oradaki elmayı aldı.
+20 Neden jason elmayı aldı?	aç	1
+21 Antoin futbolu oradan aldı.
+22 Antoin futbolu neden elde etti?	bıkkın	7
+1 Sumit yoruldu.
+2 Sumit nereye gidecek?	salon	1
+3 Jason yoruldu.
+4 Jason nereye gidecek?	salon	3
+5 Yann acıkmış.
+6 Yann nereye gidecek?	mutfak	5
+7 Antoin yoruldu.
+8 Antoin nereye gidecek?	salon	7
+9 Jason, salona geri döndü.
+10 Jason neden salona gitti?	yorgun	3
+11 Jason oradaki pijamaları aldı.
+12 Jason neden pijamaları aldı?	yorgun	3
+13 Yann mutfağa gitti.
+14 Neden yann mutfağa gitti?	aç	5
+15 Antoin salona gitti.
+16 Antoin neden salona gitti?	yorgun	7
+17 Sumit salona geri döndü.
+18 Sumit neden salona gitti?	yorgun	1
+19 Yann elmayı oraya aldı.
+20 Neden yann elmayı aldı?	aç	5
+1 Jason susadı.
+2 Jason nereye gidecek?	mutfak	1
+3 Jason mutfağa gitti.
+4 Jason neden mutfağa gitti?	susuz	1
+5 Sumit susadı.
+6 Sumit nereye gidecek?	mutfak	5
+7 Jason oradaki sütü aldı.
+8 Jason sütü neden aldı?	susuz	1
+9 Yann susadı.
+10 Yann nereye gidecek?	mutfak	9
+11 Yann mutfağa gitti.
+12 Neden yann mutfağa gitti?	susuz	9
+13 Sumit mutfağa gitti.
+14 Sumit neden mutfağa gitti?	susuz	5
+15 Antoin sıkıldı.
+16 Antoin nereye gidecek?	bahçe	15
+17 Antoin bahçeye gitti.
+18 Antoin niçin bahçeye gitti?	sıkılmış	15
+19 Antoin futbolu oradan aldı.
+20 Antoin futbolu neden aldı?	sıkılmış	15
+1 Jason acıktı.
+2 Jason nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Antoin yoruldu.
+6 Antoin nereye gidecek?	salon	5
+7 Jason mutfağa gitti.
+8 Jason neden mutfağa gitti?	aç	1
+9 Yann mutfağa gitti.
+10 Neden yann mutfağa gitti?	susuz	3
+11 Sumit yoruldu.
+12 Sumit nereye gidecek?	salon	11
+13 Jason elmayı oraya aldı.
+14 Neden jason elmayı aldı?	aç	1
+15 Antoin salona gitti.
+16 Antoin neden salona gitti?	yorgun	5
+17 Antoin orada pijamaları aldı.
+18 Antoin neden pijamayı aldı?	yorgun	5
+19 Sumit salona gitti.
+20 Sumit neden salona gitti?	yorgun	11
+21 Yann, sütü oradan aldı.
+22 Neden süt süt alıyor?	susuz	3
+1 Jason yoruldu.
+2 Jason nereye gidecek?	salon	1
+3 Yann sıkıldı.
+4 Yann nereye gidecek?	bahçe	3
+5 Sumit sıkıldı.
+6 Sumit nereye gidecek?	bahçe	5
+7 Sumit bahçeye gitti.
+8 Sumit neden bahçeye gitti?	sıkılmış	5
+9 Antoin acıktı.
+10 Antoin nereye gidecek?	mutfak	9
+11 Jason salona geri döndü.
+12 Jason neden salona gitti?	yorgun	1
+13 Antoin mutfağa gitti.
+14 Antoin neden mutfağa gitti?	aç	9
+15 Sumit futbolu oradan aldı.
+16 Neden sumit futbolu elde etti?	sıkılmış	5
+17 Jason orada pijamaları aldı.
+18 Jason neden pijamaları aldı?	yorgun	1
+19 Antoin oradaki elmayı aldı.
+20 Antoin neden elmaları aldı?	aç	9
+21 Yann bahçeye gitti.
+22 Neden yann bahçeye gitti?	bıkkın	3
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Antoin acıktı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Antoin mutfağa gitti.
+6 Antoin neden mutfağa gitti?	aç	3
+7 Antoin oradaki elmayı aldı.
+8 Antoin elmaları neden aldı?	aç	3
+9 Jason acıktı.
+10 Jason nereye gidecek?	mutfak	9
+11 Jason mutfağa gitti.
+12 Jason neden mutfağa gitti?	aç	9
+13 Sumit sıkıldı.
+14 Sumit nereye gidecek?	bahçe	13
+15 Yann mutfağa gitti.
+16 Neden yann mutfağa gitti?	aç	1
+17 Sumit bahçeye geri döndü.
+18 Sumit neden bahçeye gitti?	bıkkın	13
+19 Sumit futbolu oraya aldı.
+20 Sumit futbolu neden elde etti?	bıkkın	13
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Yann bahçeye gitti.
+4 Neden yann bahçeye gitti?	sıkılmış	1
+5 Antoin sıkıldı.
+6 Antoin nereye gidecek?	bahçe	5
+7 Jason acıktı.
+8 Jason nereye gidecek?	mutfak	7
+9 Antoin bahçeye gitti.
+10 Antoin neden bahçeye gitti?	sıkılmış	5
+11 Sumit yoruldu.
+12 Sumit nereye gidecek?	salon	11
+13 Yann futbolu oraya aldı.
+14 Neden yann futbolu aldı?	sıkılmış	1
+15 Sumit salona gitti.
+16 Sumit neden salona gitti?	yorgun	11
+17 Sumit orada pijama var.
+18 Sumit neden pijama aldı?	yorgun	11
+19 Jason mutfağa geri döndü.
+20 Jason neden mutfağa gitti?	aç	7
+21 Jason elmayı oraya aldı.
+22 Jason elmayı neden aldı?	aç	7
+1 Jason yoruldu.
+2 Jason nereye gidecek?	salon	1
+3 Jason salona geri döndü.
+4 Jason neden salona gitti?	yorgun	1
+5 Jason oradaki pijamayı aldı.
+6 Jason neden pijamaları aldı?	yorgun	1
+7 Yann yorgun.
+8 Yann nereye gidecek?	salon	7
+9 Yann salona gitti.
+10 Neden yann salona gitti?	yorgun	7
+11 Sumit yoruldu.
+12 Sumit nereye gidecek?	salon	11
+13 Antoin sıkıldı.
+14 Antoin nereye gidecek?	bahçe	13
+15 Antoin bahçeye gitti.
+16 Antoin niçin bahçeye gitti?	bıkkın	13
+17 Antoin futbolu oradan aldı.
+18 Antoin futbolu neden elde etti?	bıkkın	13
+19 Sumit salona gitti.
+20 Sumit neden salona gitti?	yorgun	11
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Jason susadı.
+4 Jason nereye gidecek?	mutfak	3
+5 Jason mutfağa gitti.
+6 Jason neden mutfağa gitti?	susuz	3
+7 Sumit açtır.
+8 Sumit nereye gidecek?	mutfak	7
+9 Sumit mutfağa gitti.
+10 Sumit neden mutfağa gitti?	aç	7
+11 Sumit oradaki elmayı aldı.
+12 Neden elma elmayı aldı?	aç	7
+13 Jason oradaki sütü aldı.
+14 Jason sütü neden aldı?	susuz	3
+15 Yann mutfağa gitti.
+16 Neden yann mutfağa gitti?	aç	1
+17 Antoin sıkıldı.
+18 Antoin nereye gidecek?	bahçe	17
+19 Antoin bahçeye gitti.
+20 Antoin niçin bahçeye gitti?	bıkkın	17
+21 Antoin futbolu oradan aldı.
+22 Antoin futbolu neden elde etti?	bıkkın	17
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Sumit salona gitti.
+6 Sumit neden salona gitti?	yorgun	3
+7 Jason yoruldu.
+8 Jason nereye gidecek?	salon	7
+9 Antoin susadı.
+10 Antoin nereye gidecek?	mutfak	9
+11 Yann bahçeye geri döndü.
+12 Neden yann bahçeye gitti?	sıkılmış	1
+13 Antoin mutfağa geri döndü.
+14 Antoin neden mutfağa gitti?	susuz	9
+15 Jason salona gitti.
+16 Jason neden salona gitti?	yorgun	7
+17 Sumit orada pijama var.
+18 Sumit neden pijama aldı?	yorgun	3
+19 Antoin oradaki sütü aldı.
+20 Antoin sütü neden aldı?	susuz	9
+21 Yann futbolu oradan aldı.
+22 Neden futbol taraftarı oldu?	sıkılmış	1
+1 Sumat susamış.
+2 Sumit nereye gidecek?	mutfak	1
+3 Antoin susadı.
+4 Antoin nereye gidecek?	mutfak	3
+5 Jason susadı.
+6 Jason nereye gidecek?	mutfak	5
+7 Yann yorgun.
+8 Yann nereye gidecek?	salon	7
+9 Yann salona gitti.
+10 Neden yann salona gitti?	yorgun	7
+11 Antoin mutfağa gitti.
+12 Antoin neden mutfağa gitti?	susuz	3
+13 Sumit mutfağa gitti.
+14 Sumit neden mutfağa gitti?	susuz	1
+15 Antoin oradaki sütü aldı.
+16 Antoin sütü neden aldı?	susuz	3
+17 Yann orada pijamaları aldı.
+18 Neden pijamalar yann?	yorgun	7
+19 Jason mutfağa geri döndü.
+20 Jason neden mutfağa gitti?	susuz	5
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Jason susadı.
+4 Jason nereye gidecek?	mutfak	3
+5 Sumit yoruldu.
+6 Sumit nereye gidecek?	salon	5
+7 Antoin yoruldu.
+8 Antoin nereye gidecek?	salon	7
+9 Sumit salona gitti.
+10 Sumit neden salona gitti?	yorgun	5
+11 Yann bahçeye gitti.
+12 Neden yann bahçeye gitti?	sıkılmış	1
+13 Jason mutfağa gitti.
+14 Jason neden mutfağa gitti?	susuz	3
+15 Sumit orada pijamaları aldı.
+16 Sumit neden pijamayı aldı?	yorgun	5
+17 Antoin salona gitti.
+18 Antoin neden salona gitti?	yorgun	7
+19 Jason oradaki sütü aldı.
+20 Jason neden sütü aldı?	susuz	3
+21 Yann futbolu orada yakaladı.
+22 Neden futbol taraftarı oldu?	sıkılmış	1
+1 Yann acıkmış.
+2 Yann nereye gidecek?	mutfak	1
+3 Jason susadı.
+4 Jason nereye gidecek?	mutfak	3
+5 Sumit açtır.
+6 Sumit nereye gidecek?	mutfak	5
+7 Antoin acıktı.
+8 Antoin nereye gidecek?	mutfak	7
+9 Jason mutfağa gitti.
+10 Jason neden mutfağa gitti?	susuz	3
+11 Jason sütü oraya aldı.
+12 Jason sütü neden aldı?	susuz	3
+13 Antoin mutfağa gitti.
+14 Antoin neden mutfağa gitti?	aç	7
+15 Antoin oradaki elmayı aldı.
+16 Antoin neden elma aldınız?	aç	7
+17 Yann mutfağa geri döndü.
+18 Neden yann mutfağa gitti?	aç	1
+19 Sumit mutfağa geri döndü.
+20 Sumit neden mutfağa gitti?	aç	5
+1 Sumit açtır.
+2 Sumit nereye gidecek?	mutfak	1
+3 Sumit mutfağa gitti.
+4 Sumit neden mutfağa gitti?	aç	1
+5 Sumit oradaki elmayı aldı.
+6 Neden elma elmayı aldı?	aç	1
+7 Antoin susadı.
+8 Antoin nereye gidecek?	mutfak	7
+9 Jason susadı.
+10 Jason nereye gidecek?	mutfak	9
+11 Yann sıkıldı.
+12 Yann nereye gidecek?	bahçe	11
+13 Yann bahçeye gitti.
+14 Neden yann bahçeye gitti?	sıkılmış	11
+15 Yann futbolu orada aldı.
+16 Neden futbol taraftarı oldu?	sıkılmış	11
+17 Antoin mutfağa gitti.
+18 Antoin neden mutfağa gitti?	susuz	7
+19 Jason mutfağa gitti.
+20 Jason neden mutfağa gitti?	susuz	9
+21 Antoin oradaki sütü aldı.
+22 Antoin sütü neden aldı?	susuz	7
+1 Sumit sıkıldı.
+2 Sumit nereye gidecek?	bahçe	1
+3 Jason yoruldu.
+4 Jason nereye gidecek?	salon	3
+5 Daniel salona gitti.
+6 Jason neden salona gitti?	yorgun	3
+7 Jason orada pijamaları aldı.
+8 Jason neden pijamaları aldı?	yorgun	3
+9 Sumit bahçeye gitti.
+10 Sumit neden bahçeye gitti?	sıkılmış	1
+11 Antoin susadı.
+12 Antoin nereye gidecek?	mutfak	11
+13 Sumit futbolu oradan aldı.
+14 Sumit futbolu neden elde etti?	sıkılmış	1
+15 Yann yoruldu.
+16 Yann nereye gidecek?	salon	15
+17 Antoin mutfağa gitti.
+18 Antoin neden mutfağa gitti?	susuz	11
+19 Yann salona gitti.
+20 Neden yann salona gitti?	yorgun	15
+21 Antoin orda süt aldı.
+22 Antoin sütü neden aldı?	susuz	11
+1 Antoin acıktı.
+2 Antoin nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Jason susadı.
+6 Jason nereye gidecek?	mutfak	5
+7 Antoin mutfağa geri döndü.
+8 Antoin neden mutfağa gitti?	aç	1
+9 Antoin oradaki elmayı aldı.
+10 Antoin neden elma aldınız?	aç	1
+11 Jason mutfağa gitti.
+12 Jason neden mutfağa gitti?	susuz	5
+13 Sumit susadı.
+14 Sumit nereye gidecek?	mutfak	13
+15 Yann mutfağa geri döndü.
+16 Neden yann mutfağa gitti?	susuz	3
+17 Yann oradaki sütü aldı.
+18 Neden süt süt alır?	susuz	3
+19 Sumit mutfağa gitti.
+20 Sumit neden mutfağa gitti?	susuz	13
+1 Yann sıkıldı.
+2 Yann nereye gidecek?	bahçe	1
+3 Jason sıkıldı.
+4 Jason nereye gidecek?	bahçe	3
+5 Antoin acıktı.
+6 Antoin nereye gidecek?	mutfak	5
+7 Jason bahçeye geri döndü.
+8 Jason neden bahçeye gitti?	bıkkın	3
+9 Sumit susadı.
+10 Sumit nereye gidecek?	mutfak	9
+11 Antoin mutfağa gitti.
+12 Antoin neden mutfağa gitti?	aç	5
+13 Antoin oradaki elmayı aldı.
+14 Antoin neden elmaları aldı?	aç	5
+15 Yann bahçeye gitti.
+16 Neden yann bahçeye gitti?	sıkılmış	1
+17 Yann futbolu orada aldı.
+18 Neden yann futbolu aldı?	sıkılmış	1
+19 Sumit mutfağa geri döndü.
+20 Sumit neden mutfağa gitti?	susuz	9
+21 Sumit sütü oradan aldı.
+22 Neden sumit sütü aldı?	susuz	9
+1 Jason susadı.
+2 Jason nereye gidecek?	mutfak	1
+3 Yann susadı.
+4 Yann nereye gidecek?	mutfak	3
+5 Sumit sıkıldı.
+6 Sumit nereye gidecek?	bahçe	5
+7 Jason mutfağa gitti.
+8 Jason neden mutfağa gitti?	susuz	1
+9 Sumit bahçeye gitti.
+10 Sumit neden bahçeye gitti?	sıkılmış	5
+11 Yann mutfağa gitti.
+12 Neden yann mutfağa gitti?	susuz	3
+13 Jason oradaki sütü yakaladı.
+14 Jason sütü neden aldı?	susuz	1
+15 Antoin susadı.
+16 Antoin nereye gidecek?	mutfak	15
+17 Sumit futbolu orada yakaladı.
+18 Neden sumit futbolu elde etti?	sıkılmış	5
+19 Antoin mutfağa gitti.
+20 Antoin neden mutfağa gitti?	susuz	15
+1 Jason yoruldu.
+2 Jason nereye gidecek?	salon	1
+3 Sumit sıkıldı.
+4 Sumit nereye gidecek?	bahçe	3
+5 Jason salona gitti.
+6 Jason neden salona gitti?	yorgun	1
+7 Sumit bahçeye gitti.
+8 Sumit neden bahçeye gitti?	bıkkın	3
+9 Antoin sıkıldı.
+10 Antoin nereye gidecek?	bahçe	9
+11 Jason oradaki pijamaları aldı.
+12 Jason neden pijamaları aldı?	yorgun	1
+13 Yann yoruldu.
+14 Yann nereye gidecek?	salon	13
+15 Yann salona gitti.
+16 Neden yann salona gitti?	yorgun	13
+17 Sumit futbolu orada yakaladı.
+18 Neden sumit futbolu elde etti?	bıkkın	3
+19 Antoin bahçeye geri döndü.
+20 Antoin niçin bahçeye gitti?	bıkkın	9
+1 Antoin sıkıldı.
+2 Antoin nereye gidecek?	bahçe	1
+3 Sumit yoruldu.
+4 Sumit nereye gidecek?	salon	3
+5 Sumit salona gitti.
+6 Sumit neden salona gitti?	yorgun	3
+7 Antoin bahçeye gitti.
+8 Antoin neden bahçeye gitti?	sıkılmış	1
+9 Sumit orada pijama var.
+10 Sumit neden pijamayı aldı?	yorgun	3
+11 Yann acıkmış.
+12 Yann nereye gidecek?	mutfak	11
+13 Antoin futbolu orada yakaladı.
+14 Antoin futbolu neden elde etti?	sıkılmış	1
+15 Jason acıktı.
+16 Jason nereye gidecek?	mutfak	15
+17 Jason mutfağa gitti.
+18 Jason neden mutfağa gitti?	aç	15
+19 Jason oradaki elmayı aldı.
+20 Neden jason elmayı aldı?	aç	15
+21 Yann mutfağa gitti.
+22 Neden yann mutfağa gitti?	aç	11
